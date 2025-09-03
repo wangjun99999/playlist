@@ -142,7 +142,15 @@ def fun_beesport_direct(self, pid):
         return cache_play_url
     
     # 原fun_beesport中的授权逻辑（复制过来，直接返回地址而非重定向）
-    headers = {'User-Agent': '...', 'origin': 'https://beesport.net', ...}
+    headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+            'Accept': 'application/json, text/plain, */*',
+            'Content-Type': 'application/json',
+            'accept-language': 'zh-CN,zh;q=0.9',
+            'cache-control': 'no-cache',
+            'origin': 'https://beesport.net',
+            'referer': 'https://beesport.net/live-tv',
+        }
     json_data = {'channel': f'https://live_tv.starcdnup.com/{pid}/index.m3u8'}
     try:
         response = requests.post('https://beesport.net/authorize-channel', headers=headers, json=json_data)
