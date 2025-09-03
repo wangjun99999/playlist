@@ -31,6 +31,6 @@ jobs:
       run: |
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
-        git add litv_live.m3u
+        git add yoozb.m3u
         git commit -m "自动更新M3U文件: $(date +'%Y-%m-%d %H:%M:%S')" || echo "没有更新需要提交"
         git push
