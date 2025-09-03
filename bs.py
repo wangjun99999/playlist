@@ -140,4 +140,8 @@ class Spider(Spider):
         return self.cache_path + '/' + key + '.txt'
 
 if __name__ == '__main__':
-    pass
+    spider = Spider()
+    m3u_content = spider.liveContent("")
+    with open('beesport.m3u', 'w', encoding='utf-8') as f:
+        f.write(m3u_content)
+    print("M3U文件生成成功：beesport.m3u")
