@@ -33,7 +33,7 @@ class Spider(Spider):
 
 
     def liveContent(self, url):
-    data_list = [
+        data_list = [
         {'tvg-id': '', 'tvg-name': '', 'tvg-logo': 'https://logo.doube.eu.org/beesport/TNT_SPORTS_1.png', 'group-title': 'BeeSport', 'name': 'TNT SPORTS 1', 'fun': 'beesport', 'pid': 'TNT_Sports_1'}, 
         {'tvg-id': '', 'tvg-name': '', 'tvg-logo': 'https://logo.doube.eu.org/beesport/TNT_SPORTS_2.png', 'group-title': 'BeeSport', 'name': 'TNT SPORTS 2', 'fun': 'beesport', 'pid': 'TNT_Sports_2'}, 
         {'tvg-id': '', 'tvg-name': '', 'tvg-logo': 'https://logo.doube.eu.org/beesport/TNT_SPORTS_3.png', 'group-title': 'BeeSport', 'name': 'TNT SPORTS 3', 'fun': 'beesport', 'pid': 'TNT_Sports_3'}, 
