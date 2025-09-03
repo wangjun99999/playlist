@@ -132,8 +132,9 @@ class Spider(Spider):
         # 拼接完整的M3U条目
         tv_list.append(f'#EXTINF:-1 tvg-id="{i["tvg-id"]}" tvg-logo="{i["tvg-logo"]}" group-title="BeeSport",{i["name"]}')
         tv_list.append(real_url)  # 直接使用真实地址
-    
-    return '\n'.join(tv_list)
+
+    def generate_playlist():
+        return '\n'.join(tv_list)
 
 # 新增：直接获取真实直播流地址的方法
 def fun_beesport_direct(self, pid):
