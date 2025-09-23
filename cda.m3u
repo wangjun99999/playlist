@@ -1,0 +1,1208 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/epgs/daddylive-channels-epg.xml,https://epg.pw/xmltv/epg.xml,https://github.com/stregolo/eventi/raw/refs/heads/main/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/sky-sports-main-event-hd-uk.png" group-title="United Kingdom", Sky Sports Main Event
+http://192.168.2.98:5004/DaddyLive/watch/38
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky sports Premier League" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" group-title="United Kingdom", Sky Sports Premier League
+http://192.168.2.98:5004/DaddyLive/watch/130
+#EXTINF:-1 tvg-id="SkySp.Fball.uk" tvg-name="Sky Sports Football UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png" group-title="United Kingdom", Sky Sports Football
+http://192.168.2.98:5004/DaddyLive/watch/35
+#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action UK" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-action-uk.png" group-title="United Kingdom", Sky Sports Action
+http://192.168.2.98:5004/DaddyLive/watch/37
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="United Kingdom", Sky Sports F1
+http://192.168.2.98:5004/DaddyLive/watch/60
+#EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" group-title="United Kingdom", Sky Sports Cricket
+http://192.168.2.98:5004/DaddyLive/watch/65
+#EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-name="Sky Sports Golf UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="United Kingdom", Sky Sports Golf
+http://192.168.2.98:5004/DaddyLive/watch/70
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-tennis-uk.png?raw=true" group-title="United Kingdom", Sky Sports Tennis
+http://192.168.2.98:5004/DaddyLive/watch/46
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="United Kingdom", Sky Sports News
+http://192.168.2.98:5004/DaddyLive/watch/366
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports MIX UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png" group-title="United Kingdom", Sky Sports MIX
+http://192.168.2.98:5004/DaddyLive/watch/449
+#EXTINF:-1 tvg-id="SkySp.Racing.uk" tvg-name="Sky Sports Racing UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-racing-uk.png" group-title="United Kingdom", Sky Sports Racing
+http://192.168.2.98:5004/DaddyLive/watch/554
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports+ Plus" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-arena-uk.png" group-title="United Kingdom", Sky Sports+ Plus
+http://192.168.2.98:5004/DaddyLive/watch/36
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="United Kingdom", TNT Sports 1
+http://192.168.2.98:5004/DaddyLive/watch/31
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2 UK" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tnt-sports-2-uk.png" group-title="United Kingdom", TNT Sports 2
+http://192.168.2.98:5004/DaddyLive/watch/32
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3 UK" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tnt-sports-3-uk.png" group-title="United Kingdom", TNT Sports 3
+http://192.168.2.98:5004/DaddyLive/watch/33
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4 UK" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tnt-sports-4-uk.png" group-title="United Kingdom", TNT Sports 4
+http://192.168.2.98:5004/DaddyLive/watch/34
+#EXTINF:-1 tvg-id="unknown" tvg-name="DAZN 1 UK" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/dazn-1.png" group-title="United Kingdom", DAZN 1
+http://192.168.2.98:5004/DaddyLive/watch/230
+#EXTINF:-1 tvg-id="unknown" tvg-name="LaLigaTV UK" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/dazn-laliga.png" group-title="United Kingdom", LaLigaTV
+http://192.168.2.98:5004/DaddyLive/watch/276
+#EXTINF:-1 tvg-id="Viaplay1(src01).uk" tvg-name="Viaplay Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-1-uk.png" group-title="United Kingdom", Viaplay Sports 1
+http://192.168.2.98:5004/DaddyLive/watch/451
+#EXTINF:-1 tvg-id="Viaplay2(src01).uk" tvg-name="Viaplay Sports 2 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-2-uk.png" group-title="United Kingdom", Viaplay Sports 2
+http://192.168.2.98:5004/DaddyLive/watch/550
+#EXTINF:-1 tvg-id="ViaplayXtra.uk" tvg-name="Viaplay Xtra UK" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/viaplay-xtra-uk.png" group-title="United Kingdom", Viaplay Xtra
+http://192.168.2.98:5004/DaddyLive/watch/597
+#EXTINF:-1 tvg-id="Racing.TV.uk" tvg-name="Racing Tv UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/racing-tv-uk.png" group-title="United Kingdom", Racing TV
+http://192.168.2.98:5004/DaddyLive/watch/555
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="EuroSport 1 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" group-title="United Kingdom", EuroSport 1
+http://192.168.2.98:5004/DaddyLive/watch/41
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="EuroSport 2 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" group-title="United Kingdom", EuroSport 2
+http://192.168.2.98:5004/DaddyLive/watch/42
+#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="Liverpool TV (LFC TV)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/lfctv-uk.png" group-title="United Kingdom", Liverpool TV (LFC TV)
+http://192.168.2.98:5004/DaddyLive/watch/826
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mutv-uk.png" group-title="United Kingdom", MUTV
+http://192.168.2.98:5004/DaddyLive/watch/377
+#EXTINF:-1 tvg-id="Sky.Premiere.uk" tvg-name="Sky Cinema Premiere UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-premiere-uk.png" group-title="United Kingdom", Sky Cinema Premiere
+http://192.168.2.98:5004/DaddyLive/watch/671
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-name="Sky Cinema Select UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-select-uk.png" group-title="United Kingdom", Sky Cinema Select
+http://192.168.2.98:5004/DaddyLive/watch/672
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-name="Sky Cinema Hits UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-hits-uk.png" group-title="United Kingdom", Sky Cinema Hits
+http://192.168.2.98:5004/DaddyLive/watch/673
+#EXTINF:-1 tvg-id="Sky.Greats.uk" tvg-name="Sky Cinema Greats UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-greats-uk.png" group-title="United Kingdom", Sky Cinema Greats
+http://192.168.2.98:5004/DaddyLive/watch/674
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-name="Sky Cinema Animation UK" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-cinema-animation-uk.png" group-title="United Kingdom", Sky Cinema Animation
+http://192.168.2.98:5004/DaddyLive/watch/675
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-name="Sky Cinema Family UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-family-uk.png" group-title="United Kingdom", Sky Cinema Family
+http://192.168.2.98:5004/DaddyLive/watch/676
+#EXTINF:-1 tvg-id="Sky.Action.uk" tvg-name="Sky Cinema Action UK" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-cinema-action-uk.png" group-title="United Kingdom", Sky Cinema Action
+http://192.168.2.98:5004/DaddyLive/watch/677
+#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-name="Sky Cinema Comedy UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-comedy-uk.png" group-title="United Kingdom", Sky Cinema Comedy
+http://192.168.2.98:5004/DaddyLive/watch/678
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-name="Sky Cinema Thriller UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-thriller-uk.png" group-title="United Kingdom", Sky Cinema Thriller
+http://192.168.2.98:5004/DaddyLive/watch/679
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-name="Sky Cinema Drama UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-uk.png?raw=true" group-title="United Kingdom", Sky Cinema Drama
+http://192.168.2.98:5004/DaddyLive/watch/680
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-name="Sky Cinema Sci-Fi Horror UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png" group-title="United Kingdom", Sky Cinema Sci-Fi Horror
+http://192.168.2.98:5004/DaddyLive/watch/681
+#EXTINF:-1 tvg-id="Sky.Showcase.uk" tvg-name="Sky Showcase UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-showcase-uk.png" group-title="United Kingdom", Sky Showcase
+http://192.168.2.98:5004/DaddyLive/watch/682
+#EXTINF:-1 tvg-id="Sky.Arts.HD.uk" tvg-name="Sky Arts UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-arts-uk.png" group-title="United Kingdom", Sky Arts
+http://192.168.2.98:5004/DaddyLive/watch/683
+#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-name="Sky Comedy UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-comedy-uk.png" group-title="United Kingdom", Sky Comedy
+http://192.168.2.98:5004/DaddyLive/watch/684
+#EXTINF:-1 tvg-id="Sky.HistoryHD.uk" tvg-name="Sky History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-history-uk.png" group-title="United Kingdom", Sky History
+http://192.168.2.98:5004/DaddyLive/watch/686
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-name="Sky Witness HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-witness-uk.png" group-title="United Kingdom", Sky Witness
+http://192.168.2.98:5004/DaddyLive/watch/361
+#EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-atlantic-uk.png" group-title="United Kingdom", Sky Atlantic
+http://192.168.2.98:5004/DaddyLive/watch/362
+#EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-name="BBC News Channel HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="United Kingdom", BBC News Channel
+http://192.168.2.98:5004/DaddyLive/watch/349
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="United Kingdom", BBC One
+http://192.168.2.98:5004/DaddyLive/watch/356
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" group-title="United Kingdom", BBC Two
+http://192.168.2.98:5004/DaddyLive/watch/357
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-name="BBC Three UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png" group-title="United Kingdom", BBC Three
+http://192.168.2.98:5004/DaddyLive/watch/358
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-name="BBC Four UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" group-title="United Kingdom", BBC Four
+http://192.168.2.98:5004/DaddyLive/watch/359
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png" group-title="United Kingdom", Channel 4
+http://192.168.2.98:5004/DaddyLive/watch/354
+#EXTINF:-1 tvg-id="Channel.5.uk" tvg-name="Channel 5 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" group-title="United Kingdom", Channel 5
+http://192.168.2.98:5004/DaddyLive/watch/355
+#EXTINF:-1 tvg-id="Dave(src01).uk" tvg-name="Dave" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-uk.png" group-title="United Kingdom", Dave
+http://192.168.2.98:5004/DaddyLive/watch/348
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-name="E4 Channel" tvg-logo="hhttps://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/E4.png" group-title="United Kingdom", E4 Channel
+http://192.168.2.98:5004/DaddyLive/watch/363
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="Film4 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png" group-title="United Kingdom", Film4
+http://192.168.2.98:5004/DaddyLive/watch/688
+#EXTINF:-1 tvg-id="GOLD(src01).uk" tvg-name="Gold UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gold-uk.png" group-title="United Kingdom", Gold
+http://192.168.2.98:5004/DaddyLive/watch/687
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV 1 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" group-title="United Kingdom", ITV 1
+http://192.168.2.98:5004/DaddyLive/watch/350
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-name="ITV 2 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png" group-title="United Kingdom", ITV 2
+http://192.168.2.98:5004/DaddyLive/watch/351
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-name="ITV 3 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-uk.png" group-title="United Kingdom", ITV 3
+http://192.168.2.98:5004/DaddyLive/watch/352
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="ITV 4 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png" group-title="United Kingdom", ITV 4
+http://192.168.2.98:5004/DaddyLive/watch/353
+#EXTINF:-1 tvg-id="MTV.HD.uk" tvg-name="MTV UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-uk.png" group-title="United Kingdom", MTV
+http://192.168.2.98:5004/DaddyLive/watch/367
+#EXTINF:-1 tvg-id="RTE1Network.uk" tvg-name="RTE 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-uk.png" group-title="United Kingdom", RTE 1
+http://192.168.2.98:5004/DaddyLive/watch/364
+#EXTINF:-1 tvg-id="RTE2.uk" tvg-name="RTE 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-uk.png" group-title="United Kingdom", RTE 2
+http://192.168.2.98:5004/DaddyLive/watch/365
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png" group-title="United Kingdom", S4C
+http://192.168.2.98:5004/DaddyLive/watch/670
+
+
+#EXTINF:-1 tvg-id="397403" tvg-name="Astro Grandstand" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Grandstand.png" group-title="Malaysia", Astro Grandstand
+http://192.168.2.98:5004/DaddyLive/watch/123
+#EXTINF:-1 tvg-id="397399" tvg-name="Astro Football" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Football.png" group-title="Malaysia", Astro Football
+http://192.168.2.98:5004/DaddyLive/watch/124
+#EXTINF:-1 tvg-id="397396" tvg-name="Astro Premier League" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Premier%20League%201.png" group-title="Malaysia", Astro Premier League
+http://192.168.2.98:5004/DaddyLive/watch/125
+#EXTINF:-1 tvg-id="397397" tvg-name="Astro Premier League 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Premier%20League%202.png" group-title="Malaysia", Astro Premier League 2
+http://192.168.2.98:5004/DaddyLive/watch/126
+#EXTINF:-1 tvg-id="2442" tvg-name="Astro Cricket HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Cricket.png" group-title="Malaysia", Astro Cricket
+http://192.168.2.98:5004/DaddyLive/watch/370
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 1 UAE" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/Abu%20Dhabi%20Sports%201.png" group-title="United Arab Emirates", Abu Dhabi Sports 1
+http://192.168.2.98:5004/DaddyLive/watch/600
+#EXTINF:-1 tvg-id="None" tvg-name="Abu Dhabi Sports 2 UAE" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/Abu%20Dhabi%20Sports%202.png" group-title="United Arab Emirates", Abu Dhabi Sports 2
+http://192.168.2.98:5004/DaddyLive/watch/601
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 2 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png" group-title="United Arab Emirates", Abu Dhabi Sports 2 Premium
+http://192.168.2.98:5004/DaddyLive/watch/610
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Sports 1 UAE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/dubai-sports-tv-ae.png" group-title="United Arab Emirates", Dubai Sports 1
+http://192.168.2.98:5004/DaddyLive/watch/604
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Sports 2 UAE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/dubai-sports-tv-ae.png" group-title="United Arab Emirates", Dubai Sports 2
+http://192.168.2.98:5004/DaddyLive/watch/605
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Sports 3 UAE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/dubai-sports-tv-ae.png" group-title="United Arab Emirates", Dubai Sports 3
+http://192.168.2.98:5004/DaddyLive/watch/606
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Racing 2 UAE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/dubai-racing-tv-ae.png" group-title="United Arab Emirates", Dubai Racing 2
+http://192.168.2.98:5004/DaddyLive/watch/608
+#EXTINF:-1 tvg-id="unknown" tvg-name="Yas TV UAE" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/yas-tv-uae.png" group-title="United Arab Emirates", Yas TV
+http://192.168.2.98:5004/DaddyLive/watch/609
+
+
+#EXTINF:-1 tvg-id="RMC.Sport.1.fr" tvg-name="RMC Sport 1 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-sport-1-fr.png" group-title="France", RMC Sport 1
+http://192.168.2.98:5004/DaddyLive/watch/119
+#EXTINF:-1 tvg-id="RMC.Sport.2.fr" tvg-name="RMC Sport 2 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-sport-2-fr.png" group-title="France", RMC Sport 2
+http://192.168.2.98:5004/DaddyLive/watch/120
+#EXTINF:-1 tvg-id="CANAL+.fr" tvg-name="Canal+ France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-fr.png" group-title="France", Canal+
+http://192.168.2.98:5004/DaddyLive/watch/121
+#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="Canal+ Sport France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-sport-fr.png" group-title="France", Canal+ Sport
+http://192.168.2.98:5004/DaddyLive/watch/122
+#EXTINF:-1 tvg-id="Canal+.Foot.fr" tvg-name="Canal+ Foot France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-foot-fr.png" group-title="France", Canal+ Foo
+http://192.168.2.98:5004/DaddyLive/watch/463
+#EXTINF:-1 tvg-id="Canal+.Sport.360.fr" tvg-name="Canal+ Sport360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-360-fr.png" group-title="France", Canal+ Sport360
+http://192.168.2.98:5004/DaddyLive/watch/464
+#EXTINF:-1 tvg-id="CANAL+.MOTOGP.fr" tvg-name="CANAL+ MotoGP France" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/Canal%2B%20Moto%20GP.png" group-title="France", Canal+ MotoGP
+http://192.168.2.98:5004/DaddyLive/watch/271
+#EXTINF:-1 tvg-id="CANAL+.FORMULA1.fr" tvg-name="Canal+ Formula 1" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/canal-plus-formula1.png" group-title="France", Canal+ Formula 1
+http://192.168.2.98:5004/DaddyLive/watch/273
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" group-title="France", Eurosport 1
+http://192.168.2.98:5004/DaddyLive/watch/772
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-2-fr.png" group-title="France", Eurosport 2
+http://192.168.2.98:5004/DaddyLive/watch/773
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-name="beIN SPORTS 1 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="France", beIN SPORTS 1
+http://192.168.2.98:5004/DaddyLive/watch/116
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" tvg-name="beIN SPORTS 2 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="France", beIN SPORTS 2
+http://192.168.2.98:5004/DaddyLive/watch/117
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.fr" tvg-name="beIN SPORTS 3 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png" group-title="France", beIN SPORTS 3
+http://192.168.2.98:5004/DaddyLive/watch/118
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.fr" tvg-name="beIN Sports MAX 4 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-4-max-hz-int.png" group-title="France", beIN Sports MAX 4
+http://192.168.2.98:5004/DaddyLive/watch/494
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-name="beIN Sports MAX 5 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-5-max-hz-int.png" group-title="France", beIN Sports MAX 5
+http://192.168.2.98:5004/DaddyLive/watch/495
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-6-max-hz-int.png" group-title="France", beIN Sports MAX 6
+http://192.168.2.98:5004/DaddyLive/watch/496
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-name="beIN Sports MAX 7 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-7-max-hz-int.png" group-title="France", beIN Sports MAX 7
+http://192.168.2.98:5004/DaddyLive/watch/497
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" tvg-name="beIN Sports MAX 8 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-8-max-hz-int.png" group-title="France", beIN Sports MAX 8
+http://192.168.2.98:5004/DaddyLive/watch/498
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.9.fr" tvg-name="beIN Sports MAX 9 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-9-max-hz-int.png" group-title="France", beIN Sports MAX 9
+http://192.168.2.98:5004/DaddyLive/watch/499
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.10.fr" tvg-name="beIN Sports MAX 10 France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-10-max-hz-int.png" group-title="France", beIN Sports MAX 10
+http://192.168.2.98:5004/DaddyLive/watch/500
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 France" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tf1-fr.png" group-title="France", TF1
+http://192.168.2.98:5004/DaddyLive/watch/469
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 France" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/m6-france.png" group-title="France", M6
+http://192.168.2.98:5004/DaddyLive/watch/470
+#EXTINF:-1 tvg-id="FashionTV(src01).uk" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/fashion-tv-int.png" group-title="France", Fashion TV
+http://192.168.2.98:5004/DaddyLive/watch/744
+#EXTINF:-1 tvg-id="La.chaine.l’Équipe.fr" tvg-name="L'Equipe France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/lequipe-fr.png" group-title="France", L'Equipe
+http://192.168.2.98:5004/DaddyLive/watch/645
+
+
+
+#EXTINF:-1 tvg-id="Antena.3.es" tvg-name="Antena 3 Spain" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/antena-3.png" group-title="Spain", Antena 3
+http://192.168.2.98:5004/DaddyLive/watch/531
+#EXTINF:-1 tvg-id="BarcaTV(Catalan).es" tvg-name="Barca TV Spain" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/barca-tv.png" group-title="Spain", Barca TV
+http://192.168.2.98:5004/DaddyLive/watch/522
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro Spain" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cuatro-spain.png" group-title="Spain", Cuatro
+http://192.168.2.98:5004/DaddyLive/watch/535
+#EXTINF:-1 tvg-id="DAZN.1.es" tvg-name="DAZN 1 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-1-es.png" group-title="Spain", DAZN 1
+http://192.168.2.98:5004/DaddyLive/watch/445
+#EXTINF:-1 tvg-id="DAZN.2.es" tvg-name="DAZN 2 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-2-es.png" group-title="Spain", DAZN 2
+http://192.168.2.98:5004/DaddyLive/watch/446
+#EXTINF:-1 tvg-id="DAZN.3.es" tvg-name="DAZN 3 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-3-es.png" group-title="Spain", DAZN 3
+http://192.168.2.98:5004/DaddyLive/watch/447
+#EXTINF:-1 tvg-id="DAZN.4.es" tvg-name="DAZN 4 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-4-es.png" group-title="Spain", DAZN 4
+http://192.168.2.98:5004/DaddyLive/watch/448
+#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-name="DAZN F1 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png" group-title="Spain", DAZN F1
+http://192.168.2.98:5004/DaddyLive/watch/537
+#EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-name="DAZN LaLiga Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="Spain", DAZN LaLiga
+http://192.168.2.98:5004/DaddyLive/watch/538
+#EXTINF:-1 tvg-id="Eurosport.1.es" tvg-name="EuroSport 1 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-1-es.png" group-title="Spain", EuroSport 1
+http://192.168.2.98:5004/DaddyLive/watch/524
+#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="EuroSport 2 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-2-es.png" group-title="Spain", EuroSport 2
+http://192.168.2.98:5004/DaddyLive/watch/525
+#EXTINF:-1 tvg-id="RealMadridTV(Spanish).es" tvg-name="Real Madrid TV Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/real-madrid-tv-es.png" group-title="Spain", Real Madrid TV
+http://192.168.2.98:5004/DaddyLive/watch/523
+#EXTINF:-1 tvg-id="GOL.PLAY.es" tvg-name="GOL PLAY Spain" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/gol-play-spain.png" group-title="Spain", GOL PLAY
+http://192.168.2.98:5004/DaddyLive/watch/530
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.es" tvg-name="LALIGA TV Hypermotion" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/laliga-tv-hypermotion.png" group-title="Spain", LALIGA TV Hypermotion
+http://192.168.2.98:5004/DaddyLive/watch/539
+#EXTINF:-1 tvg-id="La.Sexta.es" tvg-name="La Sexta Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/lasexta-es.png" group-title="Spain", La Sexta
+http://192.168.2.98:5004/DaddyLive/watch/534
+#EXTINF:-1 tvg-id="MovistarLaLiga(Spanish).es" tvg-name="Movistar Laliga" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/movie-star-bg.png" group-title="Spain", Movistar Laliga
+http://192.168.2.98:5004/DaddyLive/watch/84
+#EXTINF:-1 tvg-id="MovistarLigadeCampeones(Spanish).es" tvg-name="Movistar Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/movie-star-bg.png" group-title="Spain", Movistar Liga de Campeones
+http://192.168.2.98:5004/DaddyLive/watch/435
+#EXTINF:-1 tvg-id="MplusDEPORTES(src01).es" tvg-name="Movistar Deportes Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/movie-star-bg.png" group-title="Spain", Movistar Deportes
+http://192.168.2.98:5004/DaddyLive/watch/436
+#EXTINF:-1 tvg-id="MplusDEPORTES2(src01).es" tvg-name="Movistar Deportes 2 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/movie-star-bg.png" group-title="Spain", Movistar Deportes 2
+http://192.168.2.98:5004/DaddyLive/watch/438
+#EXTINF:-1 tvg-id="MplusDEPORTES3(src01).es" tvg-name="Movistar Deportes 3 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/movie-star-bg.png" group-title="Spain", Movistar Deportes 3
+http://192.168.2.98:5004/DaddyLive/watch/526
+#EXTINF:-1 tvg-id="MplusDEPORTES4(src01).es" tvg-name="Movistar Deportes 4 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/movie-star-bg.png" group-title="Spain", Movistar Deportes 4
+http://192.168.2.98:5004/DaddyLive/watch/527
+#EXTINF:-1 tvg-id="MovistarGolf(Spanish).es" tvg-name="Movistar Golf Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/movie-star-bg.png" group-title="Spain", Movistar Golf
+http://192.168.2.98:5004/DaddyLive/watch/528
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mundotoro TV Spain" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/mundotoro-tv.png" group-title="Spain", Mundotoro TV
+http://192.168.2.98:5004/DaddyLive/watch/749
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/telecinco-es.png" group-title="Spain", Telecinco
+http://192.168.2.98:5004/DaddyLive/watch/532
+#EXTINF:-1 tvg-id="LA.1.es" tvg-name="TVE La 1 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tve-1-es.png" group-title="Spain", TVE La 1
+http://192.168.2.98:5004/DaddyLive/watch/533
+#EXTINF:-1 tvg-id="LA.2.es" tvg-name="TVE La 2 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tve-2-es.png" group-title="Spain", TVE La 2
+http://192.168.2.98:5004/DaddyLive/watch/536
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte Spain (TDP)" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Spain", Teledeporte (TDP)
+http://192.168.2.98:5004/DaddyLive/watch/529
+#EXTINF:-1 tvg-id="M+.Vamos.es" tvg-name="#Vamos Spain" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/vamos.png" group-title="Spain", Vamos
+http://192.168.2.98:5004/DaddyLive/watch/521
+#EXTINF:-1 tvg-id="MovistarPlusplus(src01).es" tvg-name="#0 Spain" tvg-logo="https://i.imgur.com/UIbD8xb.png" group-title="Spain", Movistar Plus+ (#0)
+http://192.168.2.98:5004/DaddyLive/watch/437
+
+
+
+#EXTINF:-1 tvg-id="AXN.Movies.HD.pt" tvg-name="AXN Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-hd-pt.png" group-title="Portugal", AXN Movies
+http://192.168.2.98:5004/DaddyLive/watch/717
+#EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="Benfica TV" tvg-logo="https://i.imgur.com/RqPUALn.png" group-title="Portugal", Benfica TV
+http://192.168.2.98:5004/DaddyLive/watch/380
+#EXTINF:-1 tvg-id="Canal.11.HD.pt" tvg-name="Canal 11" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/canal11-pt.png" group-title="Portugal", Canal 11
+http://192.168.2.98:5004/DaddyLive/watch/540
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-int.png" group-title="Portugal", Eleven Sports 1
+http://192.168.2.98:5004/DaddyLive/watch/455
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="Eleven Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-int.png" group-title="Portugal", Eleven Sports 2
+http://192.168.2.98:5004/DaddyLive/watch/456
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="Eleven Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-int.png" group-title="Portugal", Eleven Sports 3
+http://192.168.2.98:5004/DaddyLive/watch/457
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="Eleven Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-int.png" group-title="Portugal", Eleven Sports 4
+http://192.168.2.98:5004/DaddyLive/watch/458
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="Eleven Sports 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-int.png" group-title="Portugal", Eleven Sports 5
+http://192.168.2.98:5004/DaddyLive/watch/459
+#EXTINF:-1 tvg-id="Porto.Canal.HD.pt" tvg-name="Porto Canal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/porto-canal-pt.png" group-title="Portugal", Porto Canal
+http://192.168.2.98:5004/DaddyLive/watch/718
+#EXTINF:-1 tvg-id="RTP.1.HD.pt" tvg-name="RTP 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-1-pt.png" group-title="Portugal", RTP 1
+http://192.168.2.98:5004/DaddyLive/watch/719
+#EXTINF:-1 tvg-id="RTP.2.HD.pt" tvg-name="RTP 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-2-pt.png" group-title="Portugal", RTP 2
+http://192.168.2.98:5004/DaddyLive/watch/720
+#EXTINF:-1 tvg-id="RTP.3.HD.pt" tvg-name="RTP 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-3-pt.png" group-title="Portugal", RTP 3
+http://192.168.2.98:5004/DaddyLive/watch/721
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="Sport TV1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-1-pt.png" group-title="Portugal", Sport TV1
+http://192.168.2.98:5004/DaddyLive/watch/49
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="Sport TV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-2-pt.png" group-title="Portugal", Sport TV2
+http://192.168.2.98:5004/DaddyLive/watch/74
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="Sport TV3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-3-pt.png" group-title="Portugal", Sport TV3
+http://192.168.2.98:5004/DaddyLive/watch/454
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-name="Sport TV4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-4-pt.png" group-title="Portugal", Sport TV4
+http://192.168.2.98:5004/DaddyLive/watch/289
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-name="Sport TV5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-5-pt.png" group-title="Portugal", Sport TV5
+http://192.168.2.98:5004/DaddyLive/watch/290
+#EXTINF:-1 tvg-id="SPORT.TV6.HD.pt" tvg-name="Sport TV6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-6-pt.png" group-title="Portugal", Sport TV6
+http://192.168.2.98:5004/DaddyLive/watch/291
+#EXTINF:-1 tvg-id="SIC.HD.pt" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-pt.png" group-title="Portugal", SIC Portugal
+http://192.168.2.98:5004/DaddyLive/watch/722
+#EXTINF:-1 tvg-id="Sporting.TV.HD.pt" tvg-name="Sporting TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sporting-tv-pt.png" group-title="Portugal", Sporting TV
+http://192.168.2.98:5004/DaddyLive/watch/716
+#EXTINF:-1 tvg-id="TVI.HD.pt" tvg-name="TVI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvi-pt.png" group-title="Portugal", TVI
+http://192.168.2.98:5004/DaddyLive/watch/723
+#EXTINF:-1 tvg-id="TVI.Reality.HD.pt" tvg-name="TVI Reality" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvi-pt.png" group-title="Portugal", TVI Reality
+http://192.168.2.98:5004/DaddyLive/watch/724
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky Sport Top Event DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-de.png" group-title="Germany", Sky Sport Top Event
+http://192.168.2.98:5004/DaddyLive/watch/556
+#EXTINF:-1 tvg-id="Sky.Sport.Mix.de" tvg-name="Sky Sport Mix DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-mix-de.png" group-title="Germany", Sky Sport Mix
+http://192.168.2.98:5004/DaddyLive/watch/557
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.1.de" tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/hd/sky-sport-bundesliga-1-hd-de.png" group-title="Germany", Sky Sport Bundesliga 1
+http://192.168.2.98:5004/DaddyLive/watch/558
+#EXTINF:-1 tvg-id="Sky.Sport.Austria.1.HD.de" tvg-name="Sky Sport Austria 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/sky-sport-austria-1-hd-at.png" group-title="Germany", Sky Sport Austria 1
+http://192.168.2.98:5004/DaddyLive/watch/559
+#EXTINF:-1 tvg-id="SKY.Sport.F1.de" tvg-name="Sky Sports F1 DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="Germany", Sky Sports F1
+http://192.168.2.98:5004/DaddyLive/watch/274
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.de" tvg-name="Sky Sports Tennis DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-tennis-de.png" group-title="Germany", Sky Sports Tennis
+http://192.168.2.98:5004/DaddyLive/watch/884
+#EXTINF:-1 tvg-id="SPORT1+.de" tvg-name="Sport1+ DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/sport1-plus-hd-de.png" group-title="Germany", Sport1+
+http://192.168.2.98:5004/DaddyLive/watch/640
+#EXTINF:-1 tvg-id="SPORT1.de" tvg-name="Sport1 DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/sport1-hd-de.png" group-title="Germany", Sport1
+http://192.168.2.98:5004/DaddyLive/watch/641
+#EXTINF:-1 tvg-id="SAT.1.de" tvg-name="SAT.1 DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sat-1-de.png" group-title="Germany", SAT.1
+http://192.168.2.98:5004/DaddyLive/watch/729
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/arte-hd-de.png" group-title="Germany", Arte
+http://192.168.2.98:5004/DaddyLive/watch/725
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/br-fernsehen-hd-de.png" group-title="Germany", BR Fernsehen
+https://top1.newkso.ru/top1/cdn/737
+#EXTINF:-1 tvg-id="DAZN.1.de" tvg-name="DAZN 1 Bar DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn1-de.png" group-title="Germany", DAZN 1 Bar
+http://192.168.2.98:5004/DaddyLive/watch/426
+#EXTINF:-1 tvg-id="DAZN.2.de" tvg-name="DAZN 2 Bar DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn2-de.png" group-title="Germany", DAZN 2 Bar
+http://192.168.2.98:5004/DaddyLive/watch/427
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL DE" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Germany", RTL
+http://192.168.2.98:5004/DaddyLive/watch/740
+#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="Kabel Eins (Kabel 1) DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/kabel-eins-hd-de.png" group-title="Germany", Kabel Eins (Kabel 1)
+http://192.168.2.98:5004/DaddyLive/watch/731
+#EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/mdr-hd-de.png" group-title="Germany", MDR
+http://192.168.2.98:5004/DaddyLive/watch/733
+#EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/ndr-hd-de.png" group-title="Germany", NDR
+http://192.168.2.98:5004/DaddyLive/watch/736
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben (PRO7) DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/pro-sieben-hd-de.png" group-title="Germany", ProSieben (PRO7)
+http://192.168.2.98:5004/DaddyLive/watch/730
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sixx-de.png" group-title="Germany", Sixx
+http://192.168.2.98:5004/DaddyLive/watch/732
+#EXTINF:-1 tvg-id="SWR/SR.de" tvg-name="SWR DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/swr-hd-de.png" group-title="Germany", SWR
+http://192.168.2.98:5004/DaddyLive/watch/735
+#EXTINF:-1 tvg-id="SUPER.RTL.de" tvg-name="SUPER RTL DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/super-rtl-hd-de.png" group-title="Germany", SUPER RTL
+http://192.168.2.98:5004/DaddyLive/watch/738
+#EXTINF:-1 tvg-id="SRFernsehen(src01).de" tvg-name="SR Fernsehen DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/sr-fernsehen-hd-de.png" group-title="Germany", SR Fernsehen
+http://192.168.2.98:5004/DaddyLive/watch/739
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/wdr-hd-de.png" group-title="Germany", WDR
+http://192.168.2.98:5004/DaddyLive/watch/734
+#EXTINF:-1 tvg-id="BBC.One.de" tvg-name="BBC 1 DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="Germany", BBC 1
+http://192.168.2.98:5004/DaddyLive/watch/727
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDF Info DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/zdf-info-hd-de.png" group-title="Germany", ZDF Info
+http://192.168.2.98:5004/DaddyLive/watch/728
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/3sat-hd-de.png" group-title="Germany", 3sat
+http://192.168.2.98:5004/DaddyLive/watch/726
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="SportDigital Fussball" tvg-logo="https://i.imgur.com/DTdXnCD.png" group-title="Germany", SportDigital Fussball
+http://192.168.2.98:5004/DaddyLive/watch/571
+
+
+
+#EXTINF:-1 tvg-id="Sky.Sport.Max.it" tvg-name="Sky Sport Football Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-max-it.png" group-title="Italy", Sky Sport Football
+http://192.168.2.98:5004/DaddyLive/watch/460
+#EXTINF:-1 tvg-id="Sky.Sport.Uno.it" tvg-name="Sky Sport UNO Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-uno-it.png" group-title="Italy", Sky Sport UNO
+http://192.168.2.98:5004/DaddyLive/watch/461
+#EXTINF:-1 tvg-id="Sky.Sport.Arena.it" tvg-name="Sky Sport Arena Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-arena-it.png" group-title="Italy", Sky Sport Arena
+http://192.168.2.98:5004/DaddyLive/watch/462
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.it" tvg-name="Sky Sports Golf Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-golf-it.png" group-title="Italy", Sky Sports Golf
+http://192.168.2.98:5004/DaddyLive/watch/574
+#EXTINF:-1 tvg-id="Sky.Sport.MotoGP.it" tvg-name="Sky Sport MotoGP Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-motogp-it.png" group-title="Italy", Sky Sport MotoGP
+https://nfsnew.newkso.ru/nfs/premium575
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" tvg-name="Sky Sport Tennis Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-tennis-it.png" group-title="Italy", Sky Sport Tennis
+http://192.168.2.98:5004/DaddyLive/watch/576
+#EXTINF:-1 tvg-id="Sky.Sport.F1.it" tvg-name="Sky Sport F1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-f1-it.png" group-title="Italy", Sky Sport F1
+https://nfsnew.newkso.ru/nfs/premium577
+#EXTINF:-1 tvg-id="Sky.Sport24.it" tvg-name="Sky Sport 24 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-24-it.png" group-title="Italy", Sky Sport 24
+http://192.168.2.98:5004/DaddyLive/watch/869
+#EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-name="Sky Sport Calcio Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy", Sky Sport Calcio
+http://192.168.2.98:5004/DaddyLive/watch/870
+#EXTINF:-1 tvg-id="Sky.Sport..251.it" tvg-name="Sky Calcio 1 (251) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy", Sky Calcio 1 (251)
+http://192.168.2.98:5004/DaddyLive/watch/871
+#EXTINF:-1 tvg-id="Sky.Sport..252.it" tvg-name="Sky Calcio 2 (252) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy", Sky Calcio 2 (252)
+http://192.168.2.98:5004/DaddyLive/watch/872
+#EXTINF:-1 tvg-id="Sky.Sport..253.it" tvg-name="Sky Calcio 3 (253) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy", Sky Calcio 3 (253)
+http://192.168.2.98:5004/DaddyLive/watch/873
+#EXTINF:-1 tvg-id="Sky.Sport..254.it" tvg-name="Sky Calcio 4 (254) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy", Sky Calcio 4 (254)
+http://192.168.2.98:5004/DaddyLive/watch/874
+#EXTINF:-1 tvg-id="Sky.Sport..255.it" tvg-name="Sky Calcio 5 (255) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy", Sky Calcio 5 (255)
+http://192.168.2.98:5004/DaddyLive/watch/875
+#EXTINF:-1 tvg-id="Sky.Sport..256.it" tvg-name="Sky Calcio 6 (256) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy", Sky Calcio 6 (256)
+http://192.168.2.98:5004/DaddyLive/watch/876
+#EXTINF:-1 tvg-id="Sky.Sport..257.it" tvg-name="Sky Calcio 7 (257) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy", Sky Calcio 7 (257)
+https://nfsnew.newkso.ru/nfs/premium877
+#EXTINF:-1 tvg-id="Eurosport.1.it" tvg-name="EuroSport 1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/eurosport-1-hd-nl.png" group-title="Italy", EuroSport 1
+http://192.168.2.98:5004/DaddyLive/watch/878
+#EXTINF:-1 tvg-id="Eurosport.2.it" tvg-name="EuroSport 2 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/eurosport-2-hd-nl.png" group-title="Italy", EuroSport 2
+http://192.168.2.98:5004/DaddyLive/watch/879
+#EXTINF:-1 tvg-id="Sky.Cinema.Collection.it" tvg-name="Sky Cinema Collection Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-collection-it.png" group-title="Italy", Sky Cinema Collection
+http://192.168.2.98:5004/DaddyLive/watch/859
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-uno-it.png" group-title="Italy", Sky Cinema Uno
+http://192.168.2.98:5004/DaddyLive/watch/860
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.it" tvg-name="Sky Cinema Action Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-action-it.png" group-title="Italy", Sky Cinema Action
+http://192.168.2.98:5004/DaddyLive/watch/861
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.it" tvg-name="8Sky Cinema Comedy Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-comedy-it.png" group-title="Italy", Sky Cinema Comedy
+http://192.168.2.98:5004/DaddyLive/watch/862
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.+24.it" tvg-name="Sky Cinema Uno +24 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Italy", Sky Cinema Uno +24
+http://192.168.2.98:5004/DaddyLive/watch/863
+#EXTINF:-1 tvg-id="Sky.Cinema.Romance.it" tvg-name="Sky Cinema Romance Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-romance-it.png" group-title="Italy", Sky Cinema Romance
+http://192.168.2.98:5004/DaddyLive/watch/864
+#EXTINF:-1 tvg-id="Sky.Cinema.Family.it" tvg-name="Sky Cinema Family Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-family-it.png" group-title="Italy", Sky Cinema Family
+http://192.168.2.98:5004/DaddyLive/watch/865
+#EXTINF:-1 tvg-id="Sky.Cinema.Due.+24.it" tvg-name="Sky Cinema Due +24 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Italy", Sky Cinema Due +24
+http://192.168.2.98:5004/DaddyLive/watch/866
+#EXTINF:-1 tvg-id="Sky.Cinema.Drama.it" tvg-name="Sky Cinema Drama Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-drama-it.png" group-title="Italy", Sky Cinema Drama
+http://192.168.2.98:5004/DaddyLive/watch/867
+#EXTINF:-1 tvg-id="Sky.Cinema.Suspense.it" tvg-name="Sky Cinema Suspense Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-suspense-it.png" group-title="Italy", Sky Cinema Suspense
+http://192.168.2.98:5004/DaddyLive/watch/868
+#EXTINF:-1 tvg-id="Italia.1.it" tvg-name="Italia 1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia1-it.png" group-title="Italy", Italia 1
+http://192.168.2.98:5004/DaddyLive/watch/854
+#EXTINF:-1 tvg-id="LA7.HD.it" tvg-name="La7 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7-it.png" group-title="Italy", La7
+http://192.168.2.98:5004/DaddyLive/watch/855
+#EXTINF:-1 tvg-id="LA7D.it" tvg-name="LA7d HD+ Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7d-it.png" group-title="Italy", LA7d HD+
+http://192.168.2.98:5004/DaddyLive/watch/856
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" group-title="Italy", Rai 1
+http://192.168.2.98:5004/DaddyLive/watch/850
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png" group-title="Italy", Rai 2
+http://192.168.2.98:5004/DaddyLive/watch/851
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png" group-title="Italy", Rai 3
+http://192.168.2.98:5004/DaddyLive/watch/852
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png" group-title="Italy", Rai 3
+http://192.168.2.98:5004/DaddyLive/watch/853
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png" group-title="Italy", Rai Sport
+http://192.168.2.98:5004/DaddyLive/watch/882
+#EXTINF:-1 tvg-id="Rai.Premium..5025.it" tvg-name="Rai Premium Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-premium-it.png" group-title="Italy", Rai Premium
+https://top1.newkso.ru/top1/cdn/858
+#EXTINF:-1 tvg-id="Sky.Uno.it" tvg-name="Sky UNO Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-uno-it.png" group-title="Italy", Sky UNO
+http://192.168.2.98:5004/DaddyLive/watch/881
+#EXTINF:-1 tvg-id="Sky.Serie.it" tvg-name="Sky Serie Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-serie-it.png" group-title="Italy", Sky Serie
+http://192.168.2.98:5004/DaddyLive/watch/880
+#EXTINF:-1 tvg-id="20(Italian).it" tvg-name="20 Mediaset Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/20-it.png" group-title="Italy", 20 Mediaset
+http://192.168.2.98:5004/DaddyLive/watch/857
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="BNT.bg" tvg-name="BNT 1 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-1-bg.png" group-title="Bulgaria", BNT 1
+http://192.168.2.98:5004/DaddyLive/watch/476
+#EXTINF:-1 tvg-id="BNT2(src01).bg" tvg-name="BNT 2 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-2-bg.png" group-title="Bulgaria", BNT 2
+http://192.168.2.98:5004/DaddyLive/watch/477
+#EXTINF:-1 tvg-id="BNT.3.bg" tvg-name="BNT 3 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-3-bg.png" group-title="Bulgaria", BNT 3
+http://192.168.2.98:5004/DaddyLive/watch/478
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/btv-bg.png" group-title="Bulgaria", bTV
+http://192.168.2.98:5004/DaddyLive/watch/479
+#EXTINF:-1 tvg-id="bTVAction(src01).bg" tvg-name="bTV Action Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/btv-action-bg.png" group-title="Bulgaria", bTV Action
+http://192.168.2.98:5004/DaddyLive/watch/481
+#EXTINF:-1 tvg-id="BTV.Lady.bg" tvg-name="bTV Lady Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/btv-lady-bg.png" group-title="Bulgaria", bTV Lady
+http://192.168.2.98:5004/DaddyLive/watch/484
+#EXTINF:-1 tvg-id="DIEMA.SPORT.bg" tvg-name="Diema Sport Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport-hd-bg.png" group-title="Bulgaria", Diema Sport
+http://192.168.2.98:5004/DaddyLive/watch/465
+#EXTINF:-1 tvg-id="DIEMA.SPORT.2.bg" tvg-name="Diema Sport 2 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport2-hd-bg.png" group-title="Bulgaria", Diema Sport 2
+http://192.168.2.98:5004/DaddyLive/watch/466
+#EXTINF:-1 tvg-id="DIEMA.SPORT.3.bg" tvg-name="Diema Sport 3 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport3-hd-bg.png" group-title="Bulgaria", Diema Sport 3
+http://192.168.2.98:5004/DaddyLive/watch/467
+#EXTINF:-1 tvg-id="Diema.bg" tvg-name="Diema Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-bg.png" group-title="Bulgaria", Diema
+http://192.168.2.98:5004/DaddyLive/watch/482
+#EXTINF:-1 tvg-id="Diema.Family.bg" tvg-name="Diema Family Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-family-bg.png" group-title="Bulgaria", Diema Family
+http://192.168.2.98:5004/DaddyLive/watch/485
+#EXTINF:-1 tvg-id="FOX.Channel.bg" tvg-name="FOX HD Bulgaria" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Bulgaria", FOX
+http://192.168.2.98:5004/DaddyLive/watch/483
+#EXTINF:-1 tvg-id="MAXSport1(src01).bg" tvg-name="Max Sport 1 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-1-bg.png" group-title="Bulgaria", Max Sport 1
+http://192.168.2.98:5004/DaddyLive/watch/472
+#EXTINF:-1 tvg-id="MAXSport2(src01).bg" tvg-name="Max Sport 2 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-2-bg.png" group-title="Bulgaria", Max Sport 2
+http://192.168.2.98:5004/DaddyLive/watch/473
+#EXTINF:-1 tvg-id="MAXSport3(src01).bg" tvg-name="Max Sport 3 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-3-bg.png" group-title="Bulgaria", Max Sport 3
+http://192.168.2.98:5004/DaddyLive/watch/474
+#EXTINF:-1 tvg-id="MAXSport4(src01).bg" tvg-name="Max Sport 4 Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-4-bg.png" group-title="Bulgaria", Max Sport 4
+http://192.168.2.98:5004/DaddyLive/watch/475
+#EXTINF:-1 tvg-id="Nova.Sport.bg" tvg-name="Nova Sport Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/nova-sport-bg.png" group-title="Bulgaria", Nova Sport
+http://192.168.2.98:5004/DaddyLive/watch/468
+#EXTINF:-1 tvg-id="Nova.TV.bg" tvg-name="Nova TV Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/nova-bg.png" group-title="Bulgaria", Nova TV
+http://192.168.2.98:5004/DaddyLive/watch/480
+#EXTINF:-1 tvg-id="Ring.BG.bg" tvg-name="Ring Bulgaria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ring-bg.png" group-title="Bulgaria", Ring
+http://192.168.2.98:5004/DaddyLive/watch/471
+
+
+
+#EXTINF:-1 tvg-id="Eleven.Sports.1.pl" tvg-name="Eleven Sports 1 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-1-int.png" group-title="Poland", Eleven Sports 1
+http://192.168.2.98:5004/DaddyLive/watch/71
+#EXTINF:-1 tvg-id="Eleven.Sports.2.pl" tvg-name="Eleven Sports 2 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-2-int.png" group-title="Poland", Eleven Sports 2
+http://192.168.2.98:5004/DaddyLive/watch/72
+#EXTINF:-1 tvg-id="Eleven.Sports.3.pl" tvg-name="Eleven Sports 3 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-3-int.png" group-title="Poland", Eleven Sports 3
+http://192.168.2.98:5004/DaddyLive/watch/428
+#EXTINF:-1 tvg-id="CANAL+.Sport.HD.pl" tvg-name="Canal+ Sport Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-pl.png" group-title="Poland", Canal+ Sport
+http://192.168.2.98:5004/DaddyLive/watch/48
+#EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" tvg-name="Canal+ Sport 2 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-2-pl.png" group-title="Poland", Canal+ Sport 2
+http://192.168.2.98:5004/DaddyLive/watch/73
+#EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" tvg-name="Canal+ Sport 3 Poland" tvg-logo="https://raw.githubusercontent.com/stregolo/eventi/refs/heads/main/bg/ddy-logo.jpg" group-title="Poland", Canal+ Sport 3
+https://Nonenew.newkso.ru/None/premium259
+#EXTINF:-1 tvg-id="CANAL+.Sport.5.HD.pl" tvg-name="CANAL+ SPORT 5 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-5-pl.png" group-title="Poland", Canal+ Sport 5
+http://192.168.2.98:5004/DaddyLive/watch/75
+#EXTINF:-1 tvg-id="CANAL+.PREMIUM.pl" tvg-name="Canal+ Premium Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-premium-pl.png" group-title="Poland", Canal+ Premium
+http://192.168.2.98:5004/DaddyLive/watch/566
+#EXTINF:-1 tvg-id="CANAL+.Family.pl" tvg-name="Canal+ Family Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/hd/canal-plus-family-hd-fr.png" group-title="Poland", Canal+ Family
+http://192.168.2.98:5004/DaddyLive/watch/567
+#EXTINF:-1 tvg-id="CANAL+.Seriale.pl" tvg-name="Canal+ Seriale Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-seriale-pl.png" group-title="Poland", Canal+ Seriale
+http://192.168.2.98:5004/DaddyLive/watch/570
+#EXTINF:-1 tvg-id="Eurosport.1.pl" tvg-name="EuroSport 1 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/eurosport-1-hd-nl.png" group-title="Poland", EuroSport 1
+http://192.168.2.98:5004/DaddyLive/watch/57
+#EXTINF:-1 tvg-id="Eurosport.2.pl" tvg-name="EuroSport 2 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/eurosport-2-hd-nl.png" group-title="Poland", EuroSport 2
+http://192.168.2.98:5004/DaddyLive/watch/58
+#EXTINF:-1 tvg-id="TVP.Sport.pl" tvg-name="TVP Sport Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-sport-pl.png" group-title="Poland", TVP Sport
+http://192.168.2.98:5004/DaddyLive/watch/128
+#EXTINF:-1 tvg-id="TVP.Info.pl" tvg-name="TVP INFO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-info-pl.png" group-title="Poland", TVP INFO
+http://192.168.2.98:5004/DaddyLive/watch/452
+#EXTINF:-1 tvg-id="FilmBox.Premium.HD.pl" tvg-name="FilmBox Premium Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/filmbox-premium-pl.png" group-title="Poland", FilmBox Premium
+http://192.168.2.98:5004/DaddyLive/watch/568
+#EXTINF:-1 tvg-id="HBO.pl" tvg-name="HBO Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/hbo-pl.png" group-title="Poland", HBO
+http://192.168.2.98:5004/DaddyLive/watch/569
+#EXTINF:-1 tvg-id="Motowizja.pl" tvg-name="Motowizja Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/motowizja-pl.png" group-title="Poland", Motowizja
+http://192.168.2.98:5004/DaddyLive/watch/563
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-pl.png" group-title="Poland", Polsat
+http://192.168.2.98:5004/DaddyLive/watch/562
+#EXTINF:-1 tvg-id="Polsat.Sport.pl" tvg-name="Polsat Sport Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-pl.png" group-title="Poland", Polsat Sport
+http://192.168.2.98:5004/DaddyLive/watch/47
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" tvg-name="Polsat Sport Extra Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-extra-pl.png" group-title="Poland", Polsat Sport Extra
+http://192.168.2.98:5004/DaddyLive/watch/50
+#EXTINF:-1 tvg-id="Polsat.Sport.News.HD.pl" tvg-name="Polsat Sport News Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-news-pl.png" group-title="Poland", Polsat Sport News
+http://192.168.2.98:5004/DaddyLive/watch/129
+#EXTINF:-1 tvg-id="Polsat.News.pl" tvg-name="Polsat News Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-news-pl.png" group-title="Poland", Polsat News
+https://top1.newkso.ru/top1/cdn/443
+#EXTINF:-1 tvg-id="Polsat.Film.pl" tvg-name="Polsat Film Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-film-pl.png" group-title="Poland", Polsat Film
+http://192.168.2.98:5004/DaddyLive/watch/564
+#EXTINF:-1 tvg-id="TVN.HD.pl" tvg-name="TVN HD Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/tvn-hk.png" group-title="Poland", TVN
+http://192.168.2.98:5004/DaddyLive/watch/565
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN24 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvn24-pl.png" group-title="Poland", TVN24
+http://192.168.2.98:5004/DaddyLive/watch/444
+#EXTINF:-1 tvg-id="TVP.1.pl" tvg-name="TVP1 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp1-pl.png" group-title="Poland", TVP1
+http://192.168.2.98:5004/DaddyLive/watch/560
+#EXTINF:-1 tvg-id="TVP.2.pl" tvg-name="TVP2 Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp2-pl.png" group-title="Poland", TVP2
+http://192.168.2.98:5004/DaddyLive/watch/561
+
+
+
+
+#EXTINF:-1 tvg-id="C.More.Fotboll.se" tvg-name="C More Football Sweden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-fotboll-se.png" group-title="Sweden", C More Football
+http://192.168.2.98:5004/DaddyLive/watch/747
+#EXTINF:-1 tvg-id="C.More.Stars.se" tvg-name="C More Stars Sweden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/c-more-stars-dk.png" group-title="Sweden", C More Stars
+https://top1.newkso.ru/top1/cdn/8111
+#EXTINF:-1 tvg-id="C.More.First.se" tvg-name="C More First Sweden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/c-more-first-dk.png" group-title="Sweden", C More First
+http://192.168.2.98:5004/DaddyLive/watch/812
+#EXTINF:-1 tvg-id="C.More.Hits.se" tvg-name="C More Hits Sweden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/c-more-hits-dk.png" group-title="Sweden", C More Hits
+http://192.168.2.98:5004/DaddyLive/watch/813
+#EXTINF:-1 tvg-id="C.More.Series.se" tvg-name="C More Series Sweden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/c-more-series-dk.png" group-title="Sweden", C More Series
+http://192.168.2.98:5004/DaddyLive/watch/814
+#EXTINF:-1 tvg-id="V.Film.Premiere.se" tvg-name="V Film Premiere" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/v-film-premiere-dk.png" group-title="Sweden", V Film Premiere
+http://192.168.2.98:5004/DaddyLive/watch/815
+#EXTINF:-1 tvg-id="V.Film.Family.se" tvg-name="V Film Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/v-film-family-dk.png" group-title="Sweden", V Film Family
+http://192.168.2.98:5004/DaddyLive/watch/816
+#EXTINF:-1 tvg-id="V.Sport.Motor.se" tvg-name="V Sport Motor Sweden" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Sweden", V Sport Motor
+http://192.168.2.98:5004/DaddyLive/watch/272
+
+
+
+#EXTINF:-1 tvg-id="Canal9.dk" tvg-name="CANAL9 Denmark" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/canal-9-dk.png" group-title="Denmark", CANAL9
+http://192.168.2.98:5004/DaddyLive/watch/805
+#EXTINF:-1 tvg-id="DR1.dk" tvg-name="DR1 Denmark" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/dr1-dk.png" group-title="Denmark", DR1
+http://192.168.2.98:5004/DaddyLive/watch/801
+#EXTINF:-1 tvg-id="DR2.dk" tvg-name="DR2 Denmark" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/dr2-dk.png" group-title="Denmark", DR2
+http://192.168.2.98:5004/DaddyLive/watch/802
+#EXTINF:-1 tvg-id="Kanal4.dk" tvg-name="Kanal 4 Denmark" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/kanal-4-dk.png" group-title="Denmark", Kanal 4
+http://192.168.2.98:5004/DaddyLive/watch/803
+#EXTINF:-1 tvg-id="Kanal5.dk" tvg-name="Kanal 5 Denmark" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/kanal-5-dk.png" group-title="Denmark", Kanal 5
+http://192.168.2.98:5004/DaddyLive/watch/804
+#EXTINF:-1 tvg-id="MTV.dk" tvg-name="MTV Denmark" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/mtv-dk.png" group-title="Denmark", MTV
+http://192.168.2.98:5004/DaddyLive/watch/806
+#EXTINF:-1 tvg-id="TV2(src01).dk" tvg-name="TV2 Denmark" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-dk.png" group-title="Denmark", TV2
+http://192.168.2.98:5004/DaddyLive/watch/817
+#EXTINF:-1 tvg-id="TV2Zulu(src01).dk" tvg-name="TV2 Zulu" tvg-logo="https://i.imgur.com/52snpw5.png" group-title="Denmark", TV2 Zulu
+http://192.168.2.98:5004/DaddyLive/watch/818
+#EXTINF:-1 tvg-id="TV2bornholm(src01).dk" tvg-name="TV2 Bornholm Denmark" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-bornholm-dk.png" group-title="Denmark", TV2 Bornholm
+http://192.168.2.98:5004/DaddyLive/watch/807
+#EXTINF:-1 tvg-id="TV2Sport(src01).dk" tvg-name="TV2 Sport Denmark" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-sport-dk.png" group-title="Denmark", TV2 Sport
+http://192.168.2.98:5004/DaddyLive/watch/810
+#EXTINF:-1 tvg-id="TV2SPORTX(src01).dk" tvg-name="TV2 Sport X Denmark" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-sport-x-dk.png" group-title="Denmark", TV2 Sport X
+http://192.168.2.98:5004/DaddyLive/watch/808
+#EXTINF:-1 tvg-id="TV3Sport1(src01).dk" tvg-name="TV3 Sport Denmark" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-sport-dk.png" group-title="Denmark", TV3 Sport
+http://192.168.2.98:5004/DaddyLive/watch/809
+#EXTINF:-1 tvg-id="TV3plus(src01).dk" tvg-name="TV3+ Denmark" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-plus-dk.png" group-title="Denmark", TV3+
+http://192.168.2.98:5004/DaddyLive/watch/819
+#EXTINF:-1 tvg-id="TV3Max(src01).dk" tvg-name="TV3 Max Denmark" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Denmark", TV3 Max
+http://192.168.2.98:5004/DaddyLive/watch/223
+#EXTINF:-1 tvg-id="6eren.dk" tvg-name="6'eren Denmark" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/6eren-dk.png" group-title="Denmark", 6'eren
+http://192.168.2.98:5004/DaddyLive/watch/800
+#EXTINF:-1 tvg-id="unknown" tvg-name="SEE Denmark" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Denmark", SEE
+http://192.168.2.98:5004/DaddyLive/watch/811
+
+
+
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" tvg-name="Arena Sport 1 Croatia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-1-hr.png" group-title="Croatia", Arena Sport 1
+http://192.168.2.98:5004/DaddyLive/watch/432
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.hr" tvg-name="Arena Sport 2 Croatia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-2-hr.png" group-title="Croatia", Arena Sport 2
+http://192.168.2.98:5004/DaddyLive/watch/433
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.hr" tvg-name="Arena Sport 3 Croatia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-3-hr.png" group-title="Croatia", Arena Sport 3
+http://192.168.2.98:5004/DaddyLive/watch/434
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-name="Arena Sport 4 Croatia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-4-hr.png" group-title="Croatia", Arena Sport 4
+http://192.168.2.98:5004/DaddyLive/watch/580
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Sport 1 Croatia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/maxsport1-hr.png" group-title="Croatia", Max Sport 1
+http://192.168.2.98:5004/DaddyLive/watch/779
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Sport 2 Croatia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/maxsport2-hr.png" group-title="Croatia", Max Sport 2
+http://192.168.2.98:5004/DaddyLive/watch/780
+
+
+
+
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" tvg-name="Cosmote Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png" group-title="Greece", Cosmote Sport 1
+http://192.168.2.98:5004/DaddyLive/watch/622
+#EXTINF:-1 tvg-id="COSMOTE.Sport.2.HD.gr" tvg-name="Cosmote Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-2-gr.png" group-title="Greece", Cosmote Sport 2
+http://192.168.2.98:5004/DaddyLive/watch/623
+#EXTINF:-1 tvg-id="COSMOTE.Sport.3.HD.gr" tvg-name="Cosmote Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-3-gr.png" group-title="Greece", Cosmote Sport 3
+http://192.168.2.98:5004/DaddyLive/watch/624
+#EXTINF:-1 tvg-id="COSMOTE.Sport.4.HD.gr" tvg-name="Cosmote Sport 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-4-gr.png" group-title="Greece", Cosmote Sport 4
+http://192.168.2.98:5004/DaddyLive/watch/625
+#EXTINF:-1 tvg-id="COSMOTE.Sport.5.HD.gr" tvg-name="Cosmote Sport 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-5-gr.png" group-title="Greece", Cosmote Sport 5
+http://192.168.2.98:5004/DaddyLive/watch/626
+#EXTINF:-1 tvg-id="COSMOTE.Sport.6.HD.gr" tvg-name="Cosmote Sport 6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-6-gr.png" group-title="Greece", Cosmote Sport 6
+http://192.168.2.98:5004/DaddyLive/watch/627
+#EXTINF:-1 tvg-id="COSMOTE.Sport.7.HD.gr" tvg-name="Cosmote Sport 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-7-gr.png" group-title="Greece", Cosmote Sport 7
+http://192.168.2.98:5004/DaddyLive/watch/628
+#EXTINF:-1 tvg-id="COSMOTE.Sport.8.HD.gr" tvg-name="Cosmote Sport 8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-8-gr.png" group-title="Greece", Cosmote Sport 8
+http://192.168.2.98:5004/DaddyLive/watch/629
+#EXTINF:-1 tvg-id="COSMOTE.Sport.9.HD.gr" tvg-name="Cosmote Sport 9 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-9-gr.png" group-title="Greece", Cosmote Sport 9
+http://192.168.2.98:5004/DaddyLive/watch/630
+#EXTINF:-1 tvg-id="Novasports1.gr" tvg-name="Nova Sports 1 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-1-gr.png" group-title="Greece", Nova Sports 1
+http://192.168.2.98:5004/DaddyLive/watch/631
+#EXTINF:-1 tvg-id="Novasports2.gr" tvg-name="Nova Sports 2 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-2-gr.png" group-title="Greece", Nova Sports 2
+http://192.168.2.98:5004/DaddyLive/watch/632
+#EXTINF:-1 tvg-id="Novasports3.gr" tvg-name="Nova Sports 3 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-3-gr.png" group-title="Greece", Nova Sports 3
+http://192.168.2.98:5004/DaddyLive/watch/633
+#EXTINF:-1 tvg-id="Novasports4.gr" tvg-name="Nova Sports 4 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-4-gr.png" group-title="Greece", Nova Sports 4
+http://192.168.2.98:5004/DaddyLive/watch/634
+#EXTINF:-1 tvg-id="Novasports5.gr" tvg-name="Nova Sports 5 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-5-gr.png" group-title="Greece", Nova Sports 5
+http://192.168.2.98:5004/DaddyLive/watch/635
+#EXTINF:-1 tvg-id="Novasports6.gr" tvg-name="Nova Sports 6 Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-6-gr.png" group-title="Greece", Nova Sports 6
+http://192.168.2.98:5004/DaddyLive/watch/636
+#EXTINF:-1 tvg-id="Novasports.Premier.League.gr" tvg-name="Nova Sports Premier League Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-prime-gr.png" group-title="Greece", Nova Sports Premier League
+http://192.168.2.98:5004/DaddyLive/watch/599
+#EXTINF:-1 tvg-id="Novasports.Start.gr" tvg-name="Nova Sports Start Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-start-gr.png" group-title="Greece", Nova Sports Start
+http://192.168.2.98:5004/DaddyLive/watch/637
+#EXTINF:-1 tvg-id="Novasports.Prime.gr" tvg-name="Nova Sports Prime Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-prime-gr.png" group-title="Greece", Nova Sports Prime
+http://192.168.2.98:5004/DaddyLive/watch/638
+#EXTINF:-1 tvg-id="Novasports.News.gr" tvg-name="Nova Sports News Greece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-news-gr.png" group-title="Greece", Nova Sports News
+http://192.168.2.98:5004/DaddyLive/watch/639
+#EXTINF:-1 tvg-id="ERT1.DTT-1.gr" tvg-name="ERT 1 Greece" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Greece", ERT 1
+http://192.168.2.98:5004/DaddyLive/watch/774
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Arena.sport.1.cz" tvg-name="Arena Sport 1 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-1-premium-rs.png" group-title="Serbia", Arena Sport 1 Premium
+http://192.168.2.98:5004/DaddyLive/watch/134
+#EXTINF:-1 tvg-id="Arena.sport.2.cz" tvg-name="Arena Sport 2 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-2-premium-rs.png" group-title="Serbia", Arena Sport 2 Premium
+http://192.168.2.98:5004/DaddyLive/watch/135
+#EXTINF:-1 tvg-id="Arena.sport.3.cz" tvg-name="Arena Sport 3 Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-3-premium-rs.png" group-title="Serbia", Arena Sport 3 Premium
+http://192.168.2.98:5004/DaddyLive/watch/139
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-1-rs.png" group-title="Serbia", Arena Sport 1
+http://192.168.2.98:5004/DaddyLive/watch/429
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-2-rs.png" group-title="Serbia", Arena Sport 2
+http://192.168.2.98:5004/DaddyLive/watch/430
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-3-rs.png" group-title="Serbia", Arena Sport 3
+http://192.168.2.98:5004/DaddyLive/watch/431
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-4-rs.png" group-title="Serbia", Arena Sport 4
+http://192.168.2.98:5004/DaddyLive/watch/581
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova Sport Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/nova-tv-rs.png" group-title="Serbia", Nova Sport
+http://192.168.2.98:5004/DaddyLive/watch/582
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 1 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-1-hr.png" group-title="Serbia", Sport Klub 1
+http://192.168.2.98:5004/DaddyLive/watch/101
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 2 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-2-hr.png" group-title="Serbia", Sport Klub 2
+http://192.168.2.98:5004/DaddyLive/watch/102
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-3-hr.png" group-title="Serbia", Sport Klub 3
+http://192.168.2.98:5004/DaddyLive/watch/103
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 4 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-4-hr.png" group-title="Serbia", Sport Klub 4
+http://192.168.2.98:5004/DaddyLive/watch/104
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub HD Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/hd/sportklub-hd-hr.png" group-title="Serbia", Sport Klub
+http://192.168.2.98:5004/DaddyLive/watch/453
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports HD Qatar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="Qatar", BeIN Sports
+http://192.168.2.98:5004/DaddyLive/watch/578
+#EXTINF:-1 tvg-id="Al-Kass-1-1_AR.bein" tvg-name="Alkass One" tvg-logo="https://i.imgur.com/gv048uN.png" group-title="Qatar", Alkass One
+http://192.168.2.98:5004/DaddyLive/watch/781
+#EXTINF:-1 tvg-id="Al-Kass-2-1_AR.bein" tvg-name="Alkass Two" tvg-logo="https://i.imgur.com/ztLGACr.png" group-title="Qatar", Alkass Two
+http://192.168.2.98:5004/DaddyLive/watch/782
+#EXTINF:-1 tvg-id="Al-Kass-3-1_AR.bein" tvg-name="Alkass Three" tvg-logo="https://i.imgur.com/KHKtyiB.png" group-title="Qatar", Alkass Three
+http://192.168.2.98:5004/DaddyLive/watch/783
+#EXTINF:-1 tvg-id="Al-Kass-4-1_AR.bein" tvg-name="Alkass Four" tvg-logo="https://i.imgur.com/1vkaePj.png" group-title="Qatar", Alkass Four
+http://192.168.2.98:5004/DaddyLive/watch/784
+
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 1" tvg-logo="https://i.imgur.com/xwjQGj4.png" group-title="Saudi Arabia", SSC Sport 1
+http://192.168.2.98:5004/DaddyLive/watch/614
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 2" tvg-logo="https://i.imgur.com/Jj4UvTX.png" group-title="Saudi Arabia", SSC Sport 2
+http://192.168.2.98:5004/DaddyLive/watch/615
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 3" tvg-logo="https://i.imgur.com/uzsmfNh.png" group-title="Saudi Arabia", SSC Sport 3
+http://192.168.2.98:5004/DaddyLive/watch/616
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 4" tvg-logo="https://i.imgur.com/oJ4adLP.png" group-title="Saudi Arabia", SSC Sport 4
+http://192.168.2.98:5004/DaddyLive/watch/617
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 5" tvg-logo="https://i.imgur.com/eoICEWN.png" group-title="Saudi Arabia", SSC Sport 5
+http://192.168.2.98:5004/DaddyLive/watch/618
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 1" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-title="Saudi Arabia", SSC Sport Extra 1
+http://192.168.2.98:5004/DaddyLive/watch/619
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 2" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-title="Saudi Arabia", SSC Sport Extra 2
+http://192.168.2.98:5004/DaddyLive/watch/620
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 3" tvg-logo="https://i.imgur.com/eNx8jk9.png" group-title="Saudi Arabia", SSC Sport Extra 3
+http://192.168.2.98:5004/DaddyLive/watch/621
+
+
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="beIN Sports MENA English 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-english-mea.png" group-title="Middle East", beIN Sports MENA English 1
+http://192.168.2.98:5004/DaddyLive/watch/61
+#EXTINF:-1 tvg-id="unknown" tvg-name="beIN Sports MENA English 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-english-mea.png" group-title="Middle East", beIN Sports MENA English 2
+http://192.168.2.98:5004/DaddyLive/watch/90
+#EXTINF:-1 tvg-id="unknown" tvg-name="beIN Sports MENA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" group-title="Middle East", beIN Sports MENA 1
+http://192.168.2.98:5004/DaddyLive/watch/91
+#EXTINF:-1 tvg-id="unknown" tvg-name="beIN Sports MENA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-mea.png" group-title="Middle East", beIN Sports MENA 2
+http://192.168.2.98:5004/DaddyLive/watch/92
+#EXTINF:-1 tvg-id="unknown" tvg-name="beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" group-title="Middle East", beIN Sports MENA 3
+http://192.168.2.98:5004/DaddyLive/watch/93
+#EXTINF:-1 tvg-id="unknown" tvg-name="beIN Sports MENA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" group-title="Middle East", beIN Sports MENA 4
+http://192.168.2.98:5004/DaddyLive/watch/94
+#EXTINF:-1 tvg-id="unknown" tvg-name="beIN Sports MENA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" group-title="Middle East", beIN Sports MENA 5
+http://192.168.2.98:5004/DaddyLive/watch/95
+#EXTINF:-1 tvg-id="unknown" tvg-name="beIN Sports MENA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" group-title="Middle East", beIN Sports MENA 6
+http://192.168.2.98:5004/DaddyLive/watch/96
+#EXTINF:-1 tvg-id="unknown" tvg-name="beIN Sports MENA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png" group-title="Middle East", beIN Sports MENA 7
+http://192.168.2.98:5004/DaddyLive/watch/97
+#EXTINF:-1 tvg-id="unknown" tvg-name="beIN Sports MENA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" group-title="Middle East", beIN Sports MENA 8
+http://192.168.2.98:5004/DaddyLive/watch/98
+#EXTINF:-1 tvg-id="unknown" tvg-name="beIN Sports MENA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" group-title="Middle East", beIN Sports MENA 9
+http://192.168.2.98:5004/DaddyLive/watch/99
+#EXTINF:-1 tvg-id="unknown" tvg-name="beIN SPORTS XTRA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" group-title="Middle East", beIN Sports XTRA 1
+http://192.168.2.98:5004/DaddyLive/watch/100
+
+
+#EXTINF:-1 tvg-id="Beinsports.tr" tvg-name="beIN SPORTS 1 Turkey" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="Turkey", beIN SPORTS 1
+http://192.168.2.98:5004/DaddyLive/watch/62
+#EXTINF:-1 tvg-id="Beinsports.2.tr" tvg-name="beIN SPORTS 2 Turkey" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="Turkey", beIN SPORTS 2
+http://192.168.2.98:5004/DaddyLive/watch/63
+#EXTINF:-1 tvg-id="Beinsports.3.tr" tvg-name="beIN SPORTS 3 Turkey" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png" group-title="Turkey", beIN SPORTS 3
+http://192.168.2.98:5004/DaddyLive/watch/64
+#EXTINF:-1 tvg-id="Beinsports.4.tr" tvg-name="beIN SPORTS 4 Turkey" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-4-hz-int.png" group-title="Turkey", beIN SPORTS 4
+http://192.168.2.98:5004/DaddyLive/watch/67
+
+
+
+
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="FOX Sports 502 AU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-league-502-au.png?raw=true" group-title="Australia", FOX Sports 502
+http://192.168.2.98:5004/DaddyLive/watch/820
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="FOX Sports 503 AU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-503-au.png?raw=true" group-title="Australia", FOX Sports 503
+http://192.168.2.98:5004/DaddyLive/watch/821
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="FOX Sports 504 AU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-footy-504-au.png?raw=true" group-title="Australia", FOX Sports 504
+http://192.168.2.98:5004/DaddyLive/watch/822
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="FOX Sports 505 AU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="Australia", FOX Sports 505
+http://192.168.2.98:5004/DaddyLive/watch/823
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="FOX Sports 506 AU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-506-au.png" group-title="Australia", FOX Sports 506
+http://192.168.2.98:5004/DaddyLive/watch/824
+#EXTINF:-1 tvg-id="unknown" tvg-name="FOX Sports 507 AU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="Australia", FOX Sports 507
+http://192.168.2.98:5004/DaddyLive/watch/825
+#EXTINF:-1 tvg-id="beINSports1.au" tvg-name="beIN SPORTS Australia 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="Australia", beIN SPORTS Australia 1
+http://192.168.2.98:5004/DaddyLive/watch/491
+#EXTINF:-1 tvg-id="beINSports2.au" tvg-name="beIN SPORTS Australia 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="Australia", beIN SPORTS Australia 2
+http://192.168.2.98:5004/DaddyLive/watch/492
+#EXTINF:-1 tvg-id="beINSports3.au" tvg-name="beIN SPORTS Australia 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png" group-title="Australia", beIN SPORTS Australia 3
+http://192.168.2.98:5004/DaddyLive/watch/493
+
+
+
+
+
+#EXTINF:-1 tvg-id="Combate..br" tvg-name="Combate Brasil" tvg-logo="https://i.imgur.com/yqzhFnK.png" group-title="Brazil", Combate
+http://192.168.2.98:5004/DaddyLive/watch/89
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png" group-title="Brazil", ESPN
+http://192.168.2.98:5004/DaddyLive/watch/81
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN2 Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-2-ar.png" group-title="Brazil", ESPN 2
+http://192.168.2.98:5004/DaddyLive/watch/82
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN3 Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-3-ar.png" group-title="Brazil", ESPN 3
+http://192.168.2.98:5004/DaddyLive/watch/83
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN4 Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-4-br.png" group-title="Brazil", ESPN 4
+http://192.168.2.98:5004/DaddyLive/watch/85
+#EXTINF:-1 tvg-id="Globo.SP.HD.br" tvg-name="Globo SP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil", Globo SP
+http://192.168.2.98:5004/DaddyLive/watch/760
+#EXTINF:-1 tvg-id="Globo.Rio.br" tvg-name="Globo RIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil", Globo RIO
+http://192.168.2.98:5004/DaddyLive/watch/761
+#EXTINF:-1 tvg-id="Premiere..br" tvg-name="Premier Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil", Premier
+http://192.168.2.98:5004/DaddyLive/watch/88
+#EXTINF:-1 tvg-id="SPORTV.br" tvg-name="SporTV Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png" group-title="Brazil", SporTV
+http://192.168.2.98:5004/DaddyLive/watch/78
+#EXTINF:-1 tvg-id="SPORTV.2.br" tvg-name="SporTV2 Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv2-br.png" group-title="Brazil", SporTV 2
+http://192.168.2.98:5004/DaddyLive/watch/79
+#EXTINF:-1 tvg-id="SPORTV.3.br" tvg-name="SporTV3 Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv3-br.png" group-title="Brazil", SporTV 3
+http://192.168.2.98:5004/DaddyLive/watch/80
+#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-name="TNT Brasil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-br.png" group-title="Brazil", TNT
+http://192.168.2.98:5004/DaddyLive/watch/87
+#EXTINF:-1 tvg-id="Bandsports.HD.br" tvg-name="Bandsports Brasil" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Brasil", Bandsports
+http://192.168.2.98:5004/DaddyLive/watch/275
+
+
+
+
+
+#EXTINF:-1 tvg-id="GRANDSTAND.za" tvg-name="SuperSport Grandstand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-grandstand-za.png?raw=true" group-title="Africa", SuperSport Grandstand
+http://192.168.2.98:5004/DaddyLive/watch/412
+#EXTINF:-1 tvg-id="PSL.za" tvg-name="SuperSport PSL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-psl-za.png?raw=true" group-title="Africa", SuperSport PSL
+http://192.168.2.98:5004/DaddyLive/watch/413
+#EXTINF:-1 tvg-id="SS.Premier.League.za" tvg-name="SuperSport Premier league" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-premier-league-za.png?raw=true" group-title="Africa", SuperSport Premier league
+http://192.168.2.98:5004/DaddyLive/watch/414
+#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-name="SuperSport LaLiga" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-laliga-za.png?raw=true" group-title="Africa", SuperSport LaLiga
+http://192.168.2.98:5004/DaddyLive/watch/415
+#EXTINF:-1 tvg-id="VARIETY.1.za" tvg-name="SuperSport Variety 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety1-za.png?raw=true" group-title="Africa", SuperSport Variety 1
+http://192.168.2.98:5004/DaddyLive/watch/416
+#EXTINF:-1 tvg-id="VARIETY.2.za" tvg-name="SuperSport Variety 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety2-za.png?raw=true" group-title="Africa", SuperSport Variety 2
+http://192.168.2.98:5004/DaddyLive/watch/417
+#EXTINF:-1 tvg-id="VARIETY.3.za" tvg-name="SuperSport Variety 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety3-za.png?raw=true" group-title="Africa", SuperSport Variety 3
+http://192.168.2.98:5004/DaddyLive/watch/418
+#EXTINF:-1 tvg-id="VARIETY.4.za" tvg-name="SuperSport Variety 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety4-za.png?raw=true" group-title="Africa", SuperSport Variety 4
+http://192.168.2.98:5004/DaddyLive/watch/419
+#EXTINF:-1 tvg-id="ACTION.za" tvg-name="SuperSport Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-action-za.png?raw=true" group-title="Africa", SuperSport Action
+http://192.168.2.98:5004/DaddyLive/watch/420
+#EXTINF:-1 tvg-id="RUGBY.za" tvg-name="SuperSport Rugby" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-rugby-za.png?raw=true" group-title="Africa", SuperSport Rugby
+http://192.168.2.98:5004/DaddyLive/watch/421
+#EXTINF:-1 tvg-id="GOLF.za" tvg-name="SuperSport Golf" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-golf-za.png?raw=true" group-title="Africa", SuperSport Golf
+http://192.168.2.98:5004/DaddyLive/watch/422
+#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="SuperSport Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-tennis-za.png?raw=true" group-title="Africa", SuperSport Tennis
+http://192.168.2.98:5004/DaddyLive/watch/423
+#EXTINF:-1 tvg-id="MOTORSPORT.za" tvg-name="SuperSport Motorsport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-motorsport-za.png?raw=true" group-title="Africa", SuperSport Motorsport
+http://192.168.2.98:5004/DaddyLive/watch/424
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-name="Supersport Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-football-za.png?raw=true" group-title="Africa", Supersport Football
+http://192.168.2.98:5004/DaddyLive/watch/56
+#EXTINF:-1 tvg-id="CRICKET.za" tvg-name="SuperSport Cricket" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-cricket-za.png?raw=true" group-title="Africa", SuperSport Cricket
+http://192.168.2.98:5004/DaddyLive/watch/368
+#EXTINF:-1 tvg-id="MAXIMO.1.za" tvg-name="SuperSport MaXimo 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-maximo1-za.png?raw=true" group-title="Africa", SuperSport MaXimo 1
+http://192.168.2.98:5004/DaddyLive/watch/572
+#EXTINF:-1 tvg-id="unknown" tvg-name="Canal+ Sport 1 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Africa", Canal+ Sport 1
+http://192.168.2.98:5004/DaddyLive/watch/486
+#EXTINF:-1 tvg-id="unknown" tvg-name="Canal+ Sport 2 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Africa", Canal+ Sport 2
+http://192.168.2.98:5004/DaddyLive/watch/487
+#EXTINF:-1 tvg-id="unknown" tvg-name="Canal+ Sport 3 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Africa", Canal+ Sport 3
+http://192.168.2.98:5004/DaddyLive/watch/488
+#EXTINF:-1 tvg-id="unknown" tvg-name="Canal+ Sport 4 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Africa", Canal+ Sport 4
+http://192.168.2.98:5004/DaddyLive/watch/489
+#EXTINF:-1 tvg-id="unknown" tvg-name="Canal+ Sport 5 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="Africa", Canal+ Sport 5
+http://192.168.2.98:5004/DaddyLive/watch/490
+#EXTINF:-1 tvg-id="Mzansi.Magic.HD.za" tvg-name="DSTV Mzansi Magic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/dstv-bg.png" group-title="Africa", DSTV Mzansi Magic
+http://192.168.2.98:5004/DaddyLive/watch/786
+#EXTINF:-1 tvg-id="M-Net.HD.za" tvg-name="DSTV M-Net" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/dstv-bg.png" group-title="Africa", DSTV M-Net
+http://192.168.2.98:5004/DaddyLive/watch/827
+#EXTINF:-1 tvg-id="Kyk.NET.&amp;.Kie.HD.za" tvg-name="DSTV kykNET & kie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/dstv-bg.png" group-title="Africa", DSTV kykNET & kie
+http://192.168.2.98:5004/DaddyLive/watch/828
+
+
+#EXTINF:-1 tvg-id="Sport.1.HD.il" tvg-name="Sport 1 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport1-il.png" group-title="Israel", Sport 1
+http://192.168.2.98:5004/DaddyLive/watch/140
+#EXTINF:-1 tvg-id="Sport.2.HD.il" tvg-name="Sport 2 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport2-il.png" group-title="Israel", Sport 2
+http://192.168.2.98:5004/DaddyLive/watch/141
+#EXTINF:-1 tvg-id="Sport.3.HD.il" tvg-name="Sport 3 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport3-il.png" group-title="Israel", Sport 3
+http://192.168.2.98:5004/DaddyLive/watch/142
+#EXTINF:-1 tvg-id="Sport.4.HD.il" tvg-name="Sport 4 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport4-il.png" group-title="Israel", Sport 4
+http://192.168.2.98:5004/DaddyLive/watch/143
+#EXTINF:-1 tvg-id="Sport.5.HD.(55).il" tvg-name="Sport 5 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5sport-il.png" group-title="Israel", Sport 5
+http://192.168.2.98:5004/DaddyLive/watch/144
+#EXTINF:-1 tvg-id="Sport.5+.HD.(56).il" tvg-name="Sport 5 PLUS Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5plus-il.png" group-title="Israel", Sport 5 PLUS
+http://192.168.2.98:5004/DaddyLive/watch/145
+#EXTINF:-1 tvg-id="Sport.5.Live.HD.(58).il" tvg-name="Sport 5 Live Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5live-il.png" group-title="Israel", Sport 5 Live
+http://192.168.2.98:5004/DaddyLive/watch/146
+#EXTINF:-1 tvg-id="Sport.5.Stars.HD.(59).il" tvg-name="Sport 5 Star Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5stars-il.png" group-title="Israel", Sport 5 Star
+http://192.168.2.98:5004/DaddyLive/watch/147
+#EXTINF:-1 tvg-id="Sport.5.Gold.(57).il" tvg-name="Sport 5 Gold Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5gold-il.png" group-title="Israel", Sport 5 Gold
+http://192.168.2.98:5004/DaddyLive/watch/148
+#EXTINF:-1 tvg-id="ערוץ.9.שידור.חי.il" tvg-name="Channel 9 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel9-il.png" group-title="Israel", Channel 9
+http://192.168.2.98:5004/DaddyLive/watch/546
+#EXTINF:-1 tvg-id="ערוץ.10.שידור.חי.il" tvg-name="Channel 10 Israe" tvg-logo="https://i.imgur.com/SCGWVot.png" group-title="Israel", Channel 10
+https://top1.newkso.ru/top1/cdn/547
+#EXTINF:-1 tvg-id="ערוץ.11.כאן.שידור.חי.il" tvg-name="Channel 11 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/kan11-il.png" group-title="Israel", Channel 11
+http://192.168.2.98:5004/DaddyLive/watch/548
+#EXTINF:-1 tvg-id="ערוץ.12.שידור.חי.il" tvg-name="Channel 12 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/keshet12-il.png" group-title="Israel", Channel 12
+http://192.168.2.98:5004/DaddyLive/watch/549
+#EXTINF:-1 tvg-id="ערוץ.13.שידור.חי.il" tvg-name="Channel 13 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/reshet13-il.png" group-title="Israel", Channel 13
+http://192.168.2.98:5004/DaddyLive/watch/551
+#EXTINF:-1 tvg-id="ערוץ.14.שידור.חי.il" tvg-name="Channel 14 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel14-il.png" group-title="Israel", Channel 14
+http://192.168.2.98:5004/DaddyLive/watch/552
+#EXTINF:-1 tvg-id="ערוץ.3.שידור.חי.il" tvg-name="HOT3 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hot3-il.png" group-title="Israel", HOT3
+http://192.168.2.98:5004/DaddyLive/watch/553
+#EXTINF:-1 tvg-id="ONE.HD.ill" tvg-name="ONE 1 HD Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/one-il.png" group-title="Israel", ONE 1
+http://192.168.2.98:5004/DaddyLive/watch/541
+#EXTINF:-1 tvg-id="ONE2.HD.il" tvg-name="ONE 2 HD Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/one2-il.png" group-title="Israel", ONE 2
+http://192.168.2.98:5004/DaddyLive/watch/542
+#EXTINF:-1 tvg-id="yes.Movies.Action.il" tvg-name="Yes Movies Action Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/yes-movies-action-il.png" group-title="Israel", Yes Movies Action
+http://192.168.2.98:5004/DaddyLive/watch/543
+#EXTINF:-1 tvg-id="yes.Movies.Kids.il" tvg-name="Yes Movies Kids Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/yes-movies-kids-il.png" group-title="Israel", Yes Movies Kids
+http://192.168.2.98:5004/DaddyLive/watch/544
+#EXTINF:-1 tvg-id="yes.Movies.Comedy.il" tvg-name="Yes Movies Comedy Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/yes-tv-comedy-il.png" group-title="Israel", Yes Movies Comedy
+http://192.168.2.98:5004/DaddyLive/watch/545
+
+
+#EXTINF:-1 tvg-id="CTV.(CFCN).Calgary,.AB.ca" tvg-name="CTV Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png" group-title="Canada", CTV
+http://192.168.2.98:5004/DaddyLive/watch/602
+#EXTINF:-1 tvg-id="CTV2.Toronto,.ON.ca" tvg-name="CTV 2 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png" group-title="Canada", CTV 2
+http://192.168.2.98:5004/DaddyLive/watch/838
+#EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-name="Citytv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/city-tv-ca.png" group-title="Canada", Citytv
+http://192.168.2.98:5004/DaddyLive/watch/831
+#EXTINF:-1 tvg-id="CBC.(CBLT).Toronto,.ON.ca" tvg-name="CBC CA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-ca.png" group-title="Canada", CBC
+http://192.168.2.98:5004/DaddyLive/watch/832
+#EXTINF:-1 tvg-id="Fight.Network.Canada.ca" tvg-name="Fight Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/fight-network-ca.png" group-title="Canada", Fight Network
+http://192.168.2.98:5004/DaddyLive/watch/757
+#EXTINF:-1 tvg-id="Global.BC.ca" tvg-name="Global CA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/global-ca.png" group-title="Canada", Global
+http://192.168.2.98:5004/DaddyLive/watch/836
+#EXTINF:-1 tvg-id="unknown" tvg-name="YTV CA" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Canada", YTV
+http://192.168.2.98:5004/DaddyLive/watch/296
+#EXTINF:-1 tvg-id="Noovo.(CFJP).Montreal,.QC.ca" tvg-name="Noovo CA" tvg-logo="https://i.imgur.com/DK8UT1f.png" group-title="Canada", Noovo
+http://192.168.2.98:5004/DaddyLive/watch/835
+#EXTINF:-1 tvg-id="RDS.(Réseau.des.sports).ca" tvg-name="RDS CA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-ca.png" group-title="Canada", RDS
+http://192.168.2.98:5004/DaddyLive/watch/839
+#EXTINF:-1 tvg-id="RDS2(src01).ca" tvg-name="RDS 2 CA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-ca.png" group-title="Canada", RDS 2
+http://192.168.2.98:5004/DaddyLive/watch/840
+#EXTINF:-1 tvg-id="RDS.Info.ca" tvg-name="RDS Info CA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-ca.png" group-title="Canada", RDS Info
+http://192.168.2.98:5004/DaddyLive/watch/841
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="Sportsnet Ontario" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" group-title="Canada", Sportsnet Ontario
+http://192.168.2.98:5004/DaddyLive/watch/406
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png" group-title="Canada", Sportsnet One
+http://192.168.2.98:5004/DaddyLive/watch/411
+#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-name="Sportsnet West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" group-title="Canada", Sportsnet West
+http://192.168.2.98:5004/DaddyLive/watch/407
+#EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-name="Sportsnet East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" group-title="Canada", Sportsnet East
+http://192.168.2.98:5004/DaddyLive/watch/408
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-name="Sportsnet 360" tvg-logo="https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png" group-title="Canada", Sportsnet 360
+http://192.168.2.98:5004/DaddyLive/watch/409
+#EXTINF:-1 tvg-id="Sportsnet.World.ca" tvg-name="Sportsnet World" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-world-ca.png" group-title="Canada", Sportsnet World
+http://192.168.2.98:5004/DaddyLive/watch/410
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="Canada", TSN1
+http://192.168.2.98:5004/DaddyLive/watch/111
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" group-title="Canada", TSN2
+http://192.168.2.98:5004/DaddyLive/watch/112
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90119_h15_aa.png" group-title="Canada", TSN3
+http://192.168.2.98:5004/DaddyLive/watch/113
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" group-title="Canada", TSN4
+http://192.168.2.98:5004/DaddyLive/watch/114
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1200px-TSN5.svg.png" group-title="Canada", TSN5
+http://192.168.2.98:5004/DaddyLive/watch/115
+#EXTINF:-1 tvg-id="TVA.Sports.ca" tvg-name="TVA Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-ca.png" group-title="Canada", TVA Sports
+http://192.168.2.98:5004/DaddyLive/watch/833
+#EXTINF:-1 tvg-id="TVA.Sports.2.ca" tvg-name="TVA Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-2-ca.png" group-title="Canada", TVA Sports 2
+http://192.168.2.98:5004/DaddyLive/watch/834
+#EXTINF:-1 tvg-id="TVO.(TV.Ontario).HD.ca" tvg-name="TVO CA" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Canada", TVO
+http://192.168.2.98:5004/DaddyLive/watch/842
+#EXTINF:-1 tvg-id="WEtv.us" tvg-name="WETV USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/we-tv-us.png" group-title="Canada", WETV USA
+http://192.168.2.98:5004/DaddyLive/watch/655
+#EXTINF:-1 tvg-id="Yes.TV.(CITS).Burlington,.ON.HD.ca" tvg-name="Yes TV CA" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Canada", Yes TV
+http://192.168.2.98:5004/DaddyLive/watch/837
+#EXTINF:-1 tvg-id="CTV.Speed.ca" tvg-name="Discovery Velocity CA" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Canada", Discovery Velocity
+http://192.168.2.98:5004/DaddyLive/watch/285
+
+
+#EXTINF:-1 tvg-id="FoxSports(Argentina).ar" tvg-name="Fox Sports Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-ar.png" group-title="Argentina", Fox Sports
+https://Nonenew.newkso.ru/None/premium787
+#EXTINF:-1 tvg-id="FoxSports2(Argentina).ar" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-2-ar.png" group-title="Argentina", Fox Sports 2
+http://192.168.2.98:5004/DaddyLive/watch/788
+#EXTINF:-1 tvg-id="FoxSports3(Argentina).ar" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-3-ar.png" group-title="Argentina", Fox Sports 3
+http://192.168.2.98:5004/DaddyLive/watch/789
+#EXTINF:-1 tvg-id="ESPN.Premium.(Chile).(FOXSP1).cl" tvg-name="ESPN Premium Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-premium-ar.png" group-title="Argentina", ESPN Premium
+http://192.168.2.98:5004/DaddyLive/watch/387
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN SUR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png" group-title="Argentina", ESPN SUR
+http://192.168.2.98:5004/DaddyLive/watch/149
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN2 SUR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-2-ar.png" group-title="Argentina", ESPN2 SUR
+http://192.168.2.98:5004/DaddyLive/watch/150
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC Sports Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tyc-sports-ar.png" group-title="Argentina", TYC Sports
+http://192.168.2.98:5004/DaddyLive/watch/746
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT Sports Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tnt-sports-ar.png" group-title="Argentina", TNT Sports
+http://192.168.2.98:5004/DaddyLive/watch/388
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN Extra Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="Argentina", ESPN Extra
+http://192.168.2.98:5004/DaddyLive/watch/798
+
+
+#EXTINF:-1 tvg-id="Digi.Sport.1.ro" tvg-name="Digi Sport 1 Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/digi-sport-1-ro.png" group-title="Romania", Digi Sport 1
+https://top2new.newkso.ru/top2/premium400
+#EXTINF:-1 tvg-id="Digi.Sport.2.ro" tvg-name="Digi Sport 2 Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/digi-sport-2-ro.png" group-title="Romania", Digi Sport 2
+https://top2new.newkso.ru/top2/premium401
+#EXTINF:-1 tvg-id="Digi.Sport.3.ro" tvg-name="Digi Sport 3 Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/digi-sport-3-ro.png" group-title="Romania", Digi Sport 3
+https://top2new.newkso.ru/top2/premium402
+#EXTINF:-1 tvg-id="Digi.Sport.4.ro" tvg-name="Digi Sport 4 Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/digi-sport-4-ro.png" group-title="Romania", Digi Sport 4
+https://top2new.newkso.ru/top2/premium403
+#EXTINF:-1 tvg-id="unknown" tvg-name="Orange Sport 1 Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/orange-sport-1-ro.png" group-title="Romania", Orange Sport 1
+https://wikinew.newkso.ru/wiki/premium439
+#EXTINF:-1 tvg-id="unknown" tvg-name="Orange Sport 2 Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/orange-sport-2-ro.png" group-title="Romania", Orange Sport 2
+https://wikinew.newkso.ru/wiki/premium440
+#EXTINF:-1 tvg-id="unknown" tvg-name="Orange Sport 3 Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/orange-sport-3-ro.png" group-title="Romania", Orange Sport 3
+https://top1.newkso.ru/top1/cdn/441
+#EXTINF:-1 tvg-id="unknown" tvg-name="Orange Sport 4 Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/orange-sport-4-ro.png" group-title="Romania", Orange Sport 4
+https://top1.newkso.ru/top1/cdn/442
+#EXTINF:-1 tvg-id="Prima.Sport.1.ro" tvg-name="Prima Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-1-ro.png" group-title="Romania", Prima Sport 1
+https://top2new.newkso.ru/top2/premium583
+#EXTINF:-1 tvg-id="Prima.Sport.2.ro" tvg-name="Prima Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-2-ro.png" group-title="Romania", Prima Sport 2
+https://wikinew.newkso.ru/wiki/premium584
+#EXTINF:-1 tvg-id="Prima.Sport.3.ro" tvg-name="Prima Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-3-ro.png" group-title="Romania", Prima Sport 3
+https://top2new.newkso.ru/top2/premium585
+#EXTINF:-1 tvg-id="Prima.Sport.4.ro" tvg-name="Prima Sport 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-4-ro.png" group-title="Romania", Prima Sport 4
+https://top2new.newkso.ru/top2/premium586
+#EXTINF:-1 tvg-id="Prima.TV.ro" tvg-name="Prima TV RO" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Romania", Prima TV
+https://wikinew.newkso.ru/wiki/premium843
+
+
+
+#EXTINF:-1 tvg-id="FoxSportsPremium(Spanish).mx" tvg-name="Fox Sports Premium MX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/fox-sports-premium-mx.png" group-title="Mexico", Fox Sports Premium
+http://192.168.2.98:5004/DaddyLive/watch/830
+#EXTINF:-1 tvg-id="Azteca.(XHOR).mx" tvg-name="Azteca 7 MX" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Mexico", Azteca 7
+http://192.168.2.98:5004/DaddyLive/watch/844
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 1 Russia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-futbol-1-ru.png" group-title="Russia", Match Football 1
+http://192.168.2.98:5004/DaddyLive/watch/136
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 2 Russia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-futbol-2-ru.png" group-title="Russia", Match Football 2
+http://192.168.2.98:5004/DaddyLive/watch/137
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 3 Russia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-futbol-3-ru.png" group-title="Russia", Match Football 3
+http://192.168.2.98:5004/DaddyLive/watch/138
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Premier Russia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-premier-ru.png" group-title="Russia", Match Premier
+http://192.168.2.98:5004/DaddyLive/watch/573
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match TV Russia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-ru.png" group-title="Russia", Match TV
+http://192.168.2.98:5004/DaddyLive/watch/127
+#EXTINF:-1 tvg-id="6577" tvg-name="МАТЧ! БОЕЦ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-boets-ru.png" group-title="Russia", МАТЧ! БОЕЦ
+http://192.168.2.98:5004/DaddyLive/watch/395
+
+
+#EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-name="Sky Sport 1 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-1-nz.png" group-title="New Zealand", Sky Sport 1
+http://192.168.2.98:5004/DaddyLive/watch/588
+#EXTINF:-1 tvg-id="Sky.Sport.2.nz" tvg-name="Sky Sport 2 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-2-nz.png" group-title="New Zealand", Sky Sport 2
+http://192.168.2.98:5004/DaddyLive/watch/589
+#EXTINF:-1 tvg-id="Sky.Sport.3.nz" tvg-name="Sky Sport 3 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-3-nz.png" group-title="New Zealand", Sky Sport 3
+http://192.168.2.98:5004/DaddyLive/watch/590
+#EXTINF:-1 tvg-id="Sky.Sport.4.nz" tvg-name="Sky Sport 4 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-4-nz.png" group-title="New Zealand", Sky Sport 4
+http://192.168.2.98:5004/DaddyLive/watch/591
+#EXTINF:-1 tvg-id="Sky.Sport.5.nz" tvg-name="Sky Sport 5 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-5-nz.png" group-title="New Zealand", Sky Sport 5
+http://192.168.2.98:5004/DaddyLive/watch/592
+#EXTINF:-1 tvg-id="Sky.Sport.6.nz" tvg-name="Sky Sport 6 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-6-nz.png" group-title="New Zealand", Sky Sport 6
+http://192.168.2.98:5004/DaddyLive/watch/593
+#EXTINF:-1 tvg-id="Sky.Sport.7.nz" tvg-name="Sky Sport 7 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-7-nz.png" group-title="New Zealand", Sky Sport 7
+http://192.168.2.98:5004/DaddyLive/watch/594
+#EXTINF:-1 tvg-id="Sky.Sport.8.nz" tvg-name="Sky Sport 8 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-8-nz.png" group-title="New Zealand", Sky Sport 8
+http://192.168.2.98:5004/DaddyLive/watch/595
+#EXTINF:-1 tvg-id="Sky.Sport.9.nz" tvg-name="Sky Sport 9 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-9-nz.png" group-title="New Zealand", Sky Sport 9
+http://192.168.2.98:5004/DaddyLive/watch/596
+#EXTINF:-1 tvg-id="Sky.Sport.Select.nz" tvg-name="Sky Sport Select NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-select-nz.png" group-title="New Zealand", Sky Sport Select
+http://192.168.2.98:5004/DaddyLive/watch/587
+
+
+
+#EXTINF:-1 tvg-id="RTL.7.nl" tvg-name="RTL7 Netherland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/rtl7-nl.png" group-title="Netherlands", RTL7
+http://192.168.2.98:5004/DaddyLive/watch/390
+#EXTINF:-1 tvg-id="Ziggo.Sport.5.nl" tvg-name="Ziggo Sport Docu NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-nl.png" group-title="Netherlands", Ziggo Sport Docu
+http://192.168.2.98:5004/DaddyLive/watch/383
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport Select NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-nl.png" group-title="Netherlands", Ziggo Sport Select
+http://192.168.2.98:5004/DaddyLive/watch/393
+#EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-name="Ziggo Sport Racing NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-nl.png" group-title="Netherlands", Ziggo Sport Racing
+http://192.168.2.98:5004/DaddyLive/watch/396
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="Ziggo Sport Voetbal NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-nl.png" group-title="Netherlands", Ziggo Sport Voetbal
+http://192.168.2.98:5004/DaddyLive/watch/398
+#EXTINF:-1 tvg-id="Veronica.nl" tvg-name="Veronica NL Netherland" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Netherlands", Veronica
+http://192.168.2.98:5004/DaddyLive/watch/378
+#EXTINF:-1 tvg-id="SBS.6.nl" tvg-name="SBS6 NL" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Netherlands", SBS6
+http://192.168.2.98:5004/DaddyLive/watch/883
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 BiH" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-1-hr.png" group-title="Bosnia and Herzegovina", Arena Sport 1
+http://192.168.2.98:5004/DaddyLive/watch/579
+
+
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="Premier Sports Ireland 1" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Ireland", Premier Sports Ireland 1
+http://192.168.2.98:5004/DaddyLive/watch/771
+#EXTINF:-1 tvg-id="unknown" tvg-name="Premier Sports Ireland 2" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Ireland", Premier Sports Ireland 2
+http://192.168.2.98:5004/DaddyLive/watch/799
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OnTime Sports" tvg-logo="https://i.imgur.com/fUE3iHJ.png" group-title="Egypt", OnTime Sports
+http://192.168.2.98:5004/DaddyLive/watch/611
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OnTime Sports 2" tvg-logo="https://i.imgur.com/fUE3iHJ.png" group-title="Egypt", OnTime Sports 2
+http://192.168.2.98:5004/DaddyLive/watch/612
+
+
+
+#EXTINF:-1 tvg-id="PTV.Sports.pk" tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/3gcbW9w.png" group-title="Pakistan", PTV Sports
+http://192.168.2.98:5004/DaddyLive/watch/450
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten Sports PK" tvg-logo="https://i.imgur.com/WIchS6G.png" group-title="Pakistan", Ten Sports
+http://192.168.2.98:5004/DaddyLive/watch/741
+#EXTINF:-1 tvg-id="unknown" tvg-name="A Sport PK" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Pakistan", A Sport
+http://192.168.2.98:5004/DaddyLive/watch/269
+
+
+#EXTINF:-1 tvg-id="TNT.Sports.(TNTS3).cl" tvg-name="TNT Sports HD Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png" group-title="Chile", TNT Sports
+http://192.168.2.98:5004/DaddyLive/watch/642
+
+
+#EXTINF:-1 tvg-id="VTV.+.HD.uy" tvg-name="VTV+ Uruguay" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/vtv-id.png" group-title="Uruguay", VTV+
+http://192.168.2.98:5004/DaddyLive/watch/391
+
+
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="Win Sports+ Columbia" tvg-logo="https://i.imgur.com/wLTqT4Q.png" group-title="Columbia", Win Sports+
+http://192.168.2.98:5004/DaddyLive/watch/392
+
+
+
+#EXTINF:-1 tvg-id="Cytavision.Sports1.HD.cy" tvg-name="Cytavision Sports 1 Cyprus" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cytavision-sports.png" group-title="Cyprus", Cytavision Sports 1 Cyprus
+http://192.168.2.98:5004/DaddyLive/watch/911
+#EXTINF:-1 tvg-id="Cytavision.Sports2.HD.cy" tvg-name="Cytavision Sports 2 Cyprus" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cytavision-sports.png" group-title="Cyprus", Cytavision Sports 2 Cyprus
+http://192.168.2.98:5004/DaddyLive/watch/912
+#EXTINF:-1 tvg-id="Cytavision.Sports3.HD.cy" tvg-name="Cytavision Sports 3 Cyprus" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cytavision-sports.png" group-title="Cyprus", Cytavision Sports 3 Cyprus
+http://192.168.2.98:5004/DaddyLive/watch/913
+#EXTINF:-1 tvg-id="Cytavision.Sports4.HD.cy" tvg-name="Cytavision Sports 4 Cyprus" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cytavision-sports.png" group-title="Cyprus", Cytavision Sports 4 Cyprus
+http://192.168.2.98:5004/DaddyLive/watch/914
+#EXTINF:-1 tvg-id="Cytavision.Sports5.HD.cy" tvg-name="Cytavision Sports 5 Cyprus" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cytavision-sports.png" group-title="Cyprus", Cytavision Sports 5 Cyprus
+http://192.168.2.98:5004/DaddyLive/watch/915
+#EXTINF:-1 tvg-id="Cytavision.Sports6.HD.cy" tvg-name="Cytavision Sports 6 Cyprus" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cytavision-sports.png" group-title="Cyprus", Cytavision Sports 6 Cyprus
+http://192.168.2.98:5004/DaddyLive/watch/916
+#EXTINF:-1 tvg-id="Cytavision.Sports7.HD.cy" tvg-name="Cytavision Sports 7 Cyprus" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cytavision-sports.png" group-title="Cyprus", Cytavision Sports 7 Cyprus
+http://192.168.2.98:5004/DaddyLive/watch/917
+
+
+
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.in" tvg-name="Star Sports 1 IN" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="India", Star Sports 1
+http://192.168.2.98:5004/DaddyLive/watch/267
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.HINDI.in" tvg-name="Star Sports Hindi IN" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="India", Star Sports Hindi
+http://192.168.2.98:5004/DaddyLive/watch/268
+
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="T Sports BD" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Bangladesh", T Sports
+http://192.168.2.98:5004/DaddyLive/watch/270
+
+#EXTINF:-1 tvg-id="vodasport(src01).is" tvg-name="Vodafone Sport" tvg-logo="https://raw.githubusercontent.com/sesukyole/dtankdempse-daddylive-m3u/refs/heads/main/bg/ddy-logo.jpg" group-title="Iceland", Vodafone Sport
+http://192.168.2.98:5004/DaddyLive/watch/260
+
+
+
+#EXTINF:-1 channelID="501" tvg-num="2" tvg-chno="2" tvg-name="18+ (Player-01)" tvg-id="501" group-title="Aldult",Pornbox Realitykings
+http://192.168.2.98:5004/DaddyLive/watch/501
+#EXTINF:-1 channelID="502" tvg-num="3" tvg-chno="3" tvg-name="18+ (Player-02)" tvg-id="502" group-title="Aldult",pornbox trans angels
+http://192.168.2.98:5004/DaddyLive/watch/502
+#EXTINF:-1 channelID="503" tvg-num="4" tvg-chno="4" tvg-name="18+ (Player-03)" tvg-id="503" group-title="Aldult",parade onlyfans 3
+http://192.168.2.98:5004/DaddyLive/watch/503
+#EXTINF:-1 channelID="504" tvg-num="5" tvg-chno="5" tvg-name="18+ (Player-04)" tvg-id="504" group-title="Aldult",bbcpie.com
+http://192.168.2.98:5004/DaddyLive/watch/504
+#EXTINF:-1 channelID="505" tvg-num="6" tvg-chno="6" tvg-name="18+ (Player-05)" tvg-id="505" group-title="Aldult",pornbox fake hostel.com
+http://192.168.2.98:5004/DaddyLive/watch/505
+#EXTINF:-1 channelID="506" tvg-num="7" tvg-chno="7" tvg-name="18+ (Player-06)" tvg-id="506" group-title="Aldult",parade blowjob
+http://192.168.2.98:5004/DaddyLive/watch/506
+#EXTINF:-1 channelID="507" tvg-num="8" tvg-chno="8" tvg-name="18+ (Player-07)" tvg-id="507" group-title="Aldult",parade onlyfans 11
+http://192.168.2.98:5004/DaddyLive/watch/507
+#EXTINF:-1 channelID="508" tvg-num="9" tvg-chno="9" tvg-name="18+ (Player-08)" tvg-id="508" group-title="Aldult",parade onlyfans 9
+http://192.168.2.98:5004/DaddyLive/watch/508
+#EXTINF:-1 channelID="509" tvg-num="10" tvg-chno="10" tvg-name="18+ (Player-09)" tvg-id="509" group-title="Aldult",pornbox family swap.xx
+http://192.168.2.98:5004/DaddyLive/watch/509
+#EXTINF:-1 channelID="510" tvg-num="11" tvg-chno="11" tvg-name="18+ (Player-10)" tvg-id="510" group-title="Aldult",penthouse gold
+http://192.168.2.98:5004/DaddyLive/watch/510
+#EXTINF:-1 channelID="511" tvg-num="12" tvg-chno="12" tvg-name="18+ (Player-11)" tvg-id="511" group-title="Aldult",pornbox cherry grace
+http://192.168.2.98:5004/DaddyLive/watch/511
+#EXTINF:-1 channelID="512" tvg-num="13" tvg-chno="13" tvg-name="18+ (Player-12)" tvg-id="512" group-title="Aldult",vip +18 solo nubiles.net
+http://192.168.2.98:5004/DaddyLive/watch/512
+#EXTINF:-1 channelID="513" tvg-num="14" tvg-chno="14" tvg-name="18+ (Player-13)" tvg-id="513" group-title="Aldult",pornbox realitykings
+http://192.168.2.98:5004/DaddyLive/watch/513
+#EXTINF:-1 channelID="514" tvg-num="15" tvg-chno="15" tvg-name="18+ (Player-14)" tvg-id="514" group-title="Aldult",parade teen
+http://192.168.2.98:5004/DaddyLive/watch/514
+#EXTINF:-1 channelID="515" tvg-num="16" tvg-chno="16" tvg-name="18+ (Player-15)" tvg-id="515" group-title="Aldult",vera adult
+http://192.168.2.98:5004/DaddyLive/watch/515
+#EXTINF:-1 channelID="516" tvg-num="17" tvg-chno="17" tvg-name="18+ (Player-16)" tvg-id="516" group-title="Aldult",pornbox realitykings
+http://192.168.2.98:5004/DaddyLive/watch/516
+#EXTINF:-1 channelID="517" tvg-num="18" tvg-chno="18" tvg-name="18+ (Player-17)" tvg-id="517" group-title="Aldult",parade adult 1
+http://192.168.2.98:5004/DaddyLive/watch/517
+#EXTINF:-1 channelID="518" tvg-num="19" tvg-chno="19" tvg-name="18+ (Player-18)" tvg-id="518" group-title="Aldult",parade blowjob
+http://192.168.2.98:5004/DaddyLive/watch/518
+#EXTINF:-1 channelID="519" tvg-num="20" tvg-chno="20" tvg-name="18+ (Player-19)" tvg-id="519" group-title="Aldult",sruirted
+http://192.168.2.98:5004/DaddyLive/watch/519
+#EXTINF:-1 channelID="520" tvg-num="21" tvg-chno="21" tvg-name="18+ (Player-20)" tvg-id="520" group-title="Aldult",parade onlyfans 13
+http://192.168.2.98:5004/DaddyLive/watch/520
