@@ -1,0 +1,221 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/wangjun99999/my-custom-epg/refs/heads/main/custom_epg.xml"
+
+#EXTINF:-1 tvg-id="ROCK Action HD" tvg-name="ROCK Action HD" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/live138_pc.png",ROCKAction
+http://220.132.15.209:5008/4gtv-live138/index.m3u8
+#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live080_pc.png",ROCKEntertainment
+http://220.132.15.209:5008/4gtv-live080/index.m3u8
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live069_pc.png",CinemaWorld
+http://220.132.15.209:5008/4gtv-live069/index.m3u8
+#EXTINF:-1 tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live620_pc.png",HITS頻道
+http://220.132.15.209:5008/4gtv-live620/index.m3u8
+#EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_TVBS綜藝台_pc-.png",TVBS綜藝台
+http://220.132.15.209:5008/4gtv-live087/index.m3u8
+#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_TVBS台劇台_pc.png",TVBS台劇台
+http://220.132.15.209:5008/4gtv-live088/index.m3u8
+#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live207_pc.png",三立綜合台
+http://220.132.15.209:5008/4gtv-live207/index.m3u8
+#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live089_pc.png",三立新聞iNEWS
+http://220.132.15.209:5008/4gtv-live089/index.m3u8
+#EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live026_pc.png",History歷史頻道
+http://220.132.15.209:5008/4gtv-live026/index.m3u8
+#EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live050_pc.png",新唐人亞太台
+http://220.132.15.209:5008/4gtv-live050/index.m3u8
+#EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LiveABC互動英語頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live030_pc.png",LiveABC互動英語頻道
+http://220.132.15.209:5008/4gtv-live030/index.m3u8
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live032_mobile.png",NickJr.兒童頻道
+http://220.132.15.209:5008/4gtv-live032/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon Asia尼克兒童頻道" tvg-name="Nickelodeon Asia尼克兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live105_mobile.png",Nickelodeon尼克兒童頻道
+http://220.132.15.209:5008/4gtv-live105/index.m3u8
+#EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live017_pc.png",DreamWorks夢工廠動畫
+http://220.132.15.209:5008/4gtv-live017/index.m3u8
+#EXTINF:-1 tvg-id="momo親子台" tvg-name="momo親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live107_pc.png",MOMO親子台
+http://220.132.15.209:5008/4gtv-live107/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTV" tvg-name="BloombergTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live0_pc.png",BloombergTV
+http://220.132.15.209:5008/4gtv-live059/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live029_pc.png",Lifetime娛樂頻道
+http://220.132.15.209:5008/4gtv-live029/index.m3u8
+#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live031_pc.png",電影原聲台CMusic
+http://220.132.15.209:5008/4gtv-live031/index.m3u8
+#EXTINF:-1 tvg-id="MTV Live音樂頻道" tvg-name="MTV Live音樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live025_pc.png",MTVLiveHD音樂頻道
+http://220.132.15.209:5008/4gtv-live025/index.m3u8
+#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_INULTRA_mobile.png",INULTRA
+http://220.132.15.209:5008/4gtv-live096/index.m3u8
+#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live201_pc.png",車迷TV
+http://220.132.15.209:5008/4gtv-live201/index.m3u8
+#EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live012_pc.png",滾動力rollor
+http://220.132.15.209:5008/4gtv-live012/index.m3u8
+#EXTINF:-1 tvg-id="GlobalTrekker" tvg-name="GlobalTrekker" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live112_pc.png",GlobalTrekker
+http://220.132.15.209:5008/4gtv-live112/index.m3u8
+#EXTINF:-1 tvg-id="fun探索娛樂台" tvg-name="fun探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live011_pc.png",fun探索娛樂台
+http://220.132.15.209:5008/4gtv-live011/index.m3u8
+#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live206_pc.png",幸福空間居家台
+http://220.132.15.209:5008/4gtv-live206/index.m3u8
+#EXTINF:-1 tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live208_mobile.png",LoveNature
+http://220.132.15.209:5008/4gtv-live208/index.m3u8
+#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live120_pc.png",愛爾達生活旅遊台
+http://220.132.15.209:5008/4gtv-live120/index.m3u8
+#EXTINF:-1 tvg-id="LUXE TV" tvg-name="LUXE TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live121_pc.png",LUXETVChannel
+http://220.132.15.209:5008/4gtv-live121/index.m3u8
+#EXTINF:-1 tvg-id="TV5MONDE STYLE HD 生活時尚" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live122_pc.png",TV5MONDESTYLEHD生活時尚
+http://220.132.15.209:5008/4gtv-live122/index.m3u8
+#EXTINF:-1 tvg-id="麥哲倫頻道" tvg-name="麥哲倫頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_MGTV_mobile.png",MagellanTV頻道(麥哲倫頻道)
+http://220.132.15.209:5008/4gtv-live123/index.m3u8
+#EXTINF:-1 tvg-id="霹靂布袋戲" tvg-name="霹靂布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live145_pc.png",霹靂布袋戲
+http://220.132.15.209:5008/4gtv-live145/index.m3u8
+#EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live027_pc.png",CI罪案偵查頻道
+http://220.132.15.209:5008/4gtv-live027/index.m3u8
+#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live144_pc.png",金光布袋戲
+http://220.132.15.209:5008/4gtv-live144/index.m3u8
+#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live008_pc.png",人間衛視
+http://220.132.15.209:5008/4gtv-live008/index.m3u8
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_litv-ftv10_pc.png",半島國際新聞台
+http://220.132.15.209:5008/4gtv-live157/index.m3u8
+#EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv_pc.png",FRANCE24英文台
+http://220.132.15.209:5008/4gtv-live146/index.m3u8
+#EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-4gtv130_pc.png",CNBCAsia財經台
+http://220.132.15.209:5008/4gtv-live130/index.m3u8
+#EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live060_pc.png",SBN全球財經台
+http://220.132.15.209:5008/4gtv-live060/index.m3u8
+#EXTINF:-1 tvg-id="DW德國之聲" tvg-name="DW德國之聲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live071_pc.png",DW德國之聲
+http://220.132.15.209:5008/4gtv-live071/index.m3u8
+#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live021_pc.png",經典電影台
+http://220.132.15.209:5008/4gtv-live021/index.m3u8
+#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live022_pc.png",經典卡通台
+http://220.132.15.209:5008/4gtv-live022/index.m3u8
+#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live024_pc.png",精選動漫台
+http://220.132.15.209:5008/4gtv-live024/index.m3u8
+#EXTINF:-1 tvg-id="戲劇免費看 1台" tvg-name="戲劇免費看 1台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live010_pc.png",戲劇免費看1台
+http://220.132.15.209:5008/4gtv-live010/index.m3u8
+
+
+#EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV1.png",龍華電影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 tvg-id="龍華洋片MOD" tvg-name="龍華洋片MOD" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV2.png",龍華洋片
+https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV7.png",龍華經典
+https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV8.png",龍華卡通
+https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV6.png",龍華偶像
+https://cdn8.163189.xyz/live/lhox/stream.m3u8
+#EXTINF:-1 tvg-id="龍華日韩台" tvg-name="龍華日韩台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV5.png",龍華日韩
+https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV4.png",龍華戲劇
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+
+
+
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/PopC.png",PopC电影
+http://j.s.bkpcp.top/js/popc
+#EXTINF:-1 tvg-id="爆谷台" tvg-name="爆谷台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%E7%88%86%E8%B0%B7.png",Now爆谷
+http://j.s.bkpcp.top/js/nowbgt
+#EXTINF:-1 tvg-id="Now爆谷星影台" tvg-name="Now爆谷星影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%E6%98%9F%E5%BD%B1.png",Now爆谷星影台
+http://j.s.bkpcp.top/js/nowxyt
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png",美亞電影台HK
+http://j.s.bkpcp.top/js/enmydy
+
+
+#EXTINF:-1 tvg-id="美亞電影台台灣" tvg-name="美亞電影台台灣" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png",美亞電影台TW
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-id="天映频道马来西亚" tvg-name="天映频道马来西亚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png",天映频道MY
+http://php.jdshipin.com:8880/smt.php?id=Celestial
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png",天映經典頻道MY
+http://php.jdshipin.com:8880/smt.php?id=Celestial2
+
+
+
+#EXTINF:-1 tvg-id="449" tvg-name="HOY76" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E5%9C%8B%E9%9A%9B%E8%B2%A1%E7%B6%93%E5%8F%B0.png",HOY76 國際財經
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 tvg-id="450" tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E9%96%8B%E9%9B%BB%E8%A6%96.png",HOY77
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 tvg-id="451" tvg-name="HOY78" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E8%B3%87%E8%A8%8A%E5%8F%B0.png",HOY78 資訊
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 tvg-id="444" tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK31.png",RTHKTV 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="445" tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK32.png",RTHKTV 32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 tvg-id="446" tvg-name="RTHK33" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK33.png",RTHKTV 33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:-1 tvg-id="447" tvg-name="RTHK34" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK34.png",RTHKTV 34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+#EXTINF:-1 tvg-id="448" tvg-name="RTHK35" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK35.png",RTHKTV 35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%8A%9F%E5%A4%AB%E5%8F%B0.png",TVB Asian Action
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+#EXTINF:-1 tvg-id="558" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%E6%98%9F%E6%B2%B3%E5%8F%B0.png",星河台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 tvg-id="娛樂新聞台 (免費)" tvg-name="娛樂新聞台 (免費)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%A8%9B%E6%A8%82%E6%96%B0%E8%81%9E%E5%8F%B0.png",娛樂新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 tvg-id="225" tvg-name="無綫新聞台 (免費)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png",無綫新聞台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+
+
+#EXTINF:-1 tvg-id="now新聞" tvg-name="now新聞" tvg-logo="https://epg-1.iill.top/logo/NOW新聞台.png",now新聞台
+https://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-id="翡翠台(超高清)" tvg-name="翡翠台(超高清)" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png",翡翠台4K
+https://cdn6.163189.xyz/163189/fct4k
+#EXTINF:-1 tvg-id="189" tvg-name="翡翠台" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%8D%83%E7%A6%A7%E7%B6%93%E5%85%B8%E5%8F%B0.png",千禧經典台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 tvg-id="190" tvg-name="明珠台" tvg-logo="https://epg-1.iill.top/logo/明珠台.png",明珠台
+https://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1 tvg-id="223" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20J1.png",翡翠台北美版(TVB J1)
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 tvg-id="223" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20Plus.png",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ViuTV.png",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 tvg-id="viu6" tvg-name="viu6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ViuTV96.png",ViuTVSix
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0.png",鳳凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="194" tvg-name="凤凰咨询" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0.png",鳳凰資訊
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0.png",鳳凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-id="重温经典频道" tvg-name="重温经典频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png",重温经典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+
+
+
+#EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="https://epg-1.iill.top/logo/澳门Macau.png",澳門Macau
+https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://epg-1.iill.top/logo/澳视澳门.png",澳視澳門
+https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門葡萄牙" tvg-name="澳門葡萄牙" tvg-logo="https://epg-1.iill.top/logo/澳视葡文.png",澳門葡文
+https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門資訊" tvg-name="澳門資訊" tvg-logo="https://epg-1.iill.top/logo/澳门资讯.png",澳門資訊
+https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-logo="https://epg-1.iill.top/logo/澳门体育.png",澳門體育
+https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-logo="https://epg-1.iill.top/logo/澳门综艺.png",澳門綜藝
+https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://epg-1.iill.top/logo/AOD.png",Astro AOD
+http://php.jdshipin.com:8880/smt.php?id=Aodhd
+#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20iQIYI.png",Astro iQIYI
+http://php.jdshipin.com:8880/smt.php?id=Qiyi
+#EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://epg-1.iill.top/logo/全佳.png",Astro QJ
+http://php.jdshipin.com:8880/smt.php?id=Quanjia
+#EXTINF:-1 tvg-id="AstroHuaHeeDai" tvg-name="AstroHuaHeeDai" tvg-logo="https://epg-1.iill.top/logo/欢喜台.png",Astro 歡喜台
+http://php.jdshipin.com:8880/smt.php?id=Huahee
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png",Astro 華麗台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://epg-1.iill.top/logo/Channel5.png",Channel 5
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://epg-1.iill.top/logo/Channel8.png",Channel 8
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://epg-1.iill.top/logo/ChannelU.png",Channel U
+http://cdn6.163189.xyz/163189/chu
+
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/CNA.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半島電視台英語頻道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Al%20Jazeera.png",Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
