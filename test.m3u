@@ -1,0 +1,205 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",昙花
+https://t33.cdn2020.com/video/m3u8/2025/09/20/3fb0ea6b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",白上咲花1
+https://surrit.com/08e2b01a-823a-4b20-a993-057cb17cfc67/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",白上咲花2
+https://surrit.com/4ad9032d-a6c4-40af-81d0-e6646e85eb4f/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",白上咲花3
+https://surrit.com/564d4f53-1862-4ddb-821b-7131324f9bfb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",白上咲花4
+https://surrit.com/57b7e487-eb89-4224-8974-37fa0c46b662/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2fc2bd4467ebd719c47bd8d695d503be" tvg-logo="https://via.placeholder.com/150x80?text=Astro+Premier+League+1" group-title="体育频道", Astro Premier League 1
+http://tv123.vvvv.ee/live.php/?ch=447
+#EXTINF:-1 tvg-id="435f1da73d81eab24550fc2bc5a5ee02" tvg-logo="https://via.placeholder.com/150x80?text=Astro+EPL+1+backup" group-title="体育频道", Astro EPL 1 backup
+http://tv123.vvvv.ee/live.php/?ch=448
+#EXTINF:-1 tvg-id="d6b3cfbaecf1a5bf496886b57a9d1530" tvg-logo="https://via.placeholder.com/150x80?text=Astro+Premier+League+2" group-title="体育频道", Astro Premier League 2
+http://tv123.vvvv.ee/live.php/?ch=449
+#EXTINF:-1 tvg-id="687df5334c1b1694434c6b9a77ab4531" tvg-logo="https://via.placeholder.com/150x80?text=Astro+Grandstand" group-title="体育频道", Astro Grandstand
+http://tv123.vvvv.ee/live.php/?ch=450
+#EXTINF:-1 tvg-id="c3d4f1e1fe0e29729a342dee7163b737" tvg-logo="https://via.placeholder.com/150x80?text=Astro+Football" group-title="体育频道", Astro Football
+http://tv123.vvvv.ee/live.php/?ch=451
+#EXTINF:-1 tvg-id="d84453378f13ddf8affab78b1497170e" tvg-logo="https://via.placeholder.com/150x80?text=Astro+Sports+Plus" group-title="体育频道", Astro Sports Plus
+http://tv123.vvvv.ee/live.php/?ch=452
+#EXTINF:-1 tvg-id="e21f00fa87a44cd035b7086ea4daf2e3" tvg-logo="https://via.placeholder.com/150x80?text=Astro+Badminton+1" group-title="体育频道", Astro Badminton 1
+http://tv123.vvvv.ee/live.php/?ch=453
+#EXTINF:-1 tvg-id="46f257ef021f0a0404b5b5bd32450646" tvg-logo="https://via.placeholder.com/150x80?text=Astro+Badminton+2" group-title="体育频道", Astro Badminton 2
+http://tv123.vvvv.ee/live.php/?ch=454
+#EXTINF:-1 tvg-id="fc5c5f7acfddde4b967b9e3723f3573a" tvg-logo="https://via.placeholder.com/150x80?text=Astro+W-Sports" group-title="体育频道", Astro W-Sports
+http://tv123.vvvv.ee/live.php/?ch=455
+#EXTINF:-1 tvg-id="94b540d6b6b4df145b5f571cad392385" tvg-logo="https://via.placeholder.com/150x80?text=Supersports+1" group-title="体育频道", Supersports 1
+http://tv123.vvvv.ee/live.php/?ch=456
+#EXTINF:-1 tvg-id="e34a69afef7c847c09f8d1f25eccd5f2" tvg-logo="https://via.placeholder.com/150x80?text=Supersports+2" group-title="体育频道", Supersports 2
+http://tv123.vvvv.ee/live.php/?ch=457
+#EXTINF:-1 tvg-id="6ecf775d1ffbf6ddcefba0c5b51695c3" tvg-logo="https://via.placeholder.com/150x80?text=Supersports+3" group-title="体育频道", Supersports 3
+http://tv123.vvvv.ee/live.php/?ch=458
+#EXTINF:-1 tvg-id="53b7bcae504779adb55e63580669f131" tvg-logo="https://via.placeholder.com/150x80?text=Supersports+4" group-title="体育频道", Supersports 4
+http://tv123.vvvv.ee/live.php/?ch=459
+#EXTINF:-1 tvg-id="eb9330e15ec873951dc79e74e2224a65" tvg-logo="https://via.placeholder.com/150x80?text=WWE" group-title="体育频道", WWE
+http://tv123.vvvv.ee/live.php/?ch=460
+#EXTINF:-1 tvg-id="6355ea90b00d68edeb0b2e81bad4198b" tvg-logo="https://via.placeholder.com/150x80?text=Fight+Sports" group-title="体育频道", Fight Sports
+http://tv123.vvvv.ee/live.php/?ch=461
+#EXTINF:-1 tvg-id="ac36a3696ec781ba88e1469447723040" tvg-logo="https://via.placeholder.com/150x80?text=NBA+TV" group-title="体育频道", NBA TV
+http://tv123.vvvv.ee/live.php/?ch=462
+#EXTINF:-1 tvg-id="92b49909ea50775c9467a87fbf258955" tvg-logo="https://via.placeholder.com/150x80?text=Astro+Cricket" group-title="体育频道", Astro Cricket
+http://tv123.vvvv.ee/live.php/?ch=463
+#EXTINF:-1 tvg-id="01dbe1c956459b19b09c65362c75c093" tvg-logo="https://via.placeholder.com/150x80?text=Astro+Golf" group-title="体育频道", Astro Golf
+http://tv123.vvvv.ee/live.php/?ch=464
+#EXTINF:-1 tvg-id="911cdd060d3808bb18f170981151c3bc" tvg-logo="https://via.placeholder.com/150x80?text=Tnt+Sports+1" group-title="体育频道", Tnt Sports 1
+http://tv123.vvvv.ee/live.php/?ch=465
+#EXTINF:-1 tvg-id="967d1da30592a0c35b333bb96b3ac862" tvg-logo="https://via.placeholder.com/150x80?text=TNT+Sports+2" group-title="体育频道", TNT Sports 2
+http://tv123.vvvv.ee/live.php/?ch=466
+#EXTINF:-1 tvg-id="166c4935307043aba9a795d62d6c521b" tvg-logo="https://via.placeholder.com/150x80?text=TNT+Sports+3" group-title="体育频道", TNT Sports 3
+http://tv123.vvvv.ee/live.php/?ch=467
+#EXTINF:-1 tvg-id="23f2cf0101e4eed36a8239afa812c64e" tvg-logo="https://via.placeholder.com/150x80?text=TNT+Sports+4" group-title="体育频道", TNT Sports 4
+http://tv123.vvvv.ee/live.php/?ch=468
+#EXTINF:-1 tvg-id="e9643500c3fcb10664f066ea35c2b066" tvg-logo="https://via.placeholder.com/150x80?text=Sony+Ten+1" group-title="体育频道", Sony Ten 1
+http://tv123.vvvv.ee/live.php/?ch=469
+#EXTINF:-1 tvg-id="3d1d7c776a34868a19d58f47ee093c75" tvg-logo="https://via.placeholder.com/150x80?text=Sony+Ten+2" group-title="体育频道", Sony Ten 2
+http://tv123.vvvv.ee/live.php/?ch=470
+#EXTINF:-1 tvg-id="b7f6b2a595e9be6825ad620fabb117d1" tvg-logo="https://via.placeholder.com/150x80?text=Sony+Ten+3" group-title="体育频道", Sony Ten 3
+http://tv123.vvvv.ee/live.php/?ch=471
+#EXTINF:-1 tvg-id="aab48f88720bf52bb64ae51ceba5741a" tvg-logo="https://via.placeholder.com/150x80?text=SPOTV+1+HD" group-title="体育频道", SPOTV 1 HD
+http://tv123.vvvv.ee/live.php/?ch=472
+#EXTINF:-1 tvg-id="83d04152e83e4b317cfd13ce2bb2cdd4" tvg-logo="https://via.placeholder.com/150x80?text=SPO+TV+2" group-title="体育频道", SPO TV 2
+http://tv123.vvvv.ee/live.php/?ch=473
+#EXTINF:-1 tvg-id="648cae038734bad4d88754761c11bdd9" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+F1" group-title="体育频道", Skysports F1
+http://tv123.vvvv.ee/live.php/?ch=474
+#EXTINF:-1 tvg-id="0aa1aadbaa1ff48964575222f3b35491" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+Cricket" group-title="体育频道", Skysports Cricket
+http://tv123.vvvv.ee/live.php/?ch=475
+#EXTINF:-1 tvg-id="870144ded2ac21bad42d2074b4123f0e" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+EPL" group-title="体育频道", Skysports EPL
+http://tv123.vvvv.ee/live.php/?ch=476
+#EXTINF:-1 tvg-id="898cc446bc9f9110e10e3b67c38994d4" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+Main+Event" group-title="体育频道", Skysports Main Event
+http://tv123.vvvv.ee/live.php/?ch=477
+#EXTINF:-1 tvg-id="207b635df5bf2e51acccc983805c9cf5" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+News" group-title="体育频道", Skysports News
+http://tv123.vvvv.ee/live.php/?ch=478
+#EXTINF:-1 tvg-id="7d59fbb2b6b6858c03af710e148228f7" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+Mix" group-title="体育频道", Skysports Mix
+http://tv123.vvvv.ee/live.php/?ch=479
+#EXTINF:-1 tvg-id="7b0ef842a6a1233a8a86a8533063a1a1" tvg-logo="https://via.placeholder.com/150x80?text=ESPN" group-title="体育频道", ESPN
+http://tv123.vvvv.ee/live.php/?ch=950
+#EXTINF:-1 tvg-id="252281d97c0213dc30031564b51f30de" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+Arena" group-title="体育频道", Skysports Arena
+http://tv123.vvvv.ee/live.php/?ch=951
+#EXTINF:-1 tvg-id="76505e4eac021175bbef106fae72db2a" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+Football" group-title="体育频道", Skysports Football
+http://tv123.vvvv.ee/live.php/?ch=952
+#EXTINF:-1 tvg-id="6b6e8ebeb3fc141b42ee9ca728fcea3c" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+Golf" group-title="体育频道", Skysports Golf
+http://tv123.vvvv.ee/live.php/?ch=953
+#EXTINF:-1 tvg-id="e6d922e6a01891881dea8ff685d2b16b" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+NFL" group-title="体育频道", Skysports NFL
+http://tv123.vvvv.ee/live.php/?ch=954
+#EXTINF:-1 tvg-id="f297508d51aa255f80ba9c38f8da54a5" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+Racing" group-title="体育频道", Skysports Racing
+http://tv123.vvvv.ee/live.php/?ch=955
+#EXTINF:-1 tvg-id="52b6d6fc82db6aef110362f4755a1fe8" tvg-logo="https://via.placeholder.com/150x80?text=NBA" group-title="体育频道", NBA
+http://tv123.vvvv.ee/live.php/?ch=956
+#EXTINF:-1 tvg-id="67f838f395e6043f2ea6eb2cd24d0217" tvg-logo="https://via.placeholder.com/150x80?text=CCTV-5+%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93" group-title="体育频道", CCTV-5 体育频道
+http://tv123.vvvv.ee/live.php/?ch=480
+#EXTINF:-1 tvg-id="a91eb0cb1cef8ca010201dbc01366206" tvg-logo="https://via.placeholder.com/150x80?text=CCTV-5%2B+%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B+HD" group-title="体育频道", CCTV-5+ 体育赛事 HD
+http://tv123.vvvv.ee/live.php/?ch=481
+#EXTINF:-1 tvg-id="255902274560c201dc0da8ed817d7002" tvg-logo="https://via.placeholder.com/150x80?text=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B21%E5%8F%B0" group-title="体育频道", 爱尔达体育1台
+http://tv123.vvvv.ee/live.php/?ch=482
+#EXTINF:-1 tvg-id="e4c61c912d631f69d37a7c6f2ebc84aa" tvg-logo="https://via.placeholder.com/150x80?text=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B22%E5%8F%B0" group-title="体育频道", 爱尔达体育2台
+http://tv123.vvvv.ee/live.php/?ch=483
+#EXTINF:-1 tvg-id="ea382422f252efcaa53800db4f87a05a" tvg-logo="https://via.placeholder.com/150x80?text=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B23%E5%8F%B0" group-title="体育频道", 爱尔达体育3台
+http://tv123.vvvv.ee/live.php/?ch=484
+#EXTINF:-1 tvg-id="65d7eb1c641215902ff195aaec98cff4" tvg-logo="https://via.placeholder.com/150x80?text=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B24%E5%8F%B0" group-title="体育频道", 爱尔达体育4台
+http://tv123.vvvv.ee/live.php/?ch=485
+#EXTINF:-1 tvg-id="243a16f5a12120df29649be6019dacf8" tvg-logo="https://via.placeholder.com/150x80?text=Rugby+Pass+TV" group-title="体育频道", Rugby Pass TV
+http://tv123.vvvv.ee/live.php/?ch=486
+#EXTINF:-1 tvg-id="d4721512a241379205a8c39350c1c84c" tvg-logo="https://via.placeholder.com/150x80?text=RTM+Sports+HD" group-title="体育频道", RTM Sports HD
+http://tv123.vvvv.ee/live.php/?ch=487
+#EXTINF:-1 tvg-id="6fa3f3daa9f9a6282d58c913b73b8dc4" tvg-logo="https://via.placeholder.com/150x80?text=Arena" group-title="体育频道", Arena
+http://tv123.vvvv.ee/live.php/?ch=488
+#EXTINF:-1 tvg-id="9fc113e3cb65d67185903645c5a7d77b" tvg-logo="https://via.placeholder.com/150x80?text=Arena+2" group-title="体育频道", Arena 2
+http://tv123.vvvv.ee/live.php/?ch=489
+#EXTINF:-1 tvg-id="f319ce83da5962e3d5f58d73b60aa25d" tvg-logo="https://via.placeholder.com/150x80?text=BolaArena+1" group-title="体育频道", BolaArena 1
+http://tv123.vvvv.ee/live.php/?ch=490
+#EXTINF:-1 tvg-id="9ddf3cdc7760d79ace899c4d8f101752" tvg-logo="https://via.placeholder.com/150x80?text=BolaArena+2" group-title="体育频道", BolaArena 2
+http://tv123.vvvv.ee/live.php/?ch=491
+#EXTINF:-1 tvg-id="e8bf49aaa944cc9a6e7f66c7ef27d9cb" tvg-logo="https://via.placeholder.com/150x80?text=Astro+Beinsports+1" group-title="体育频道", Astro Beinsports 1
+http://tv123.vvvv.ee/live.php/?ch=492
+#EXTINF:-1 tvg-id="a2e4cf4aa281c7001a54c8ff5e2ca371" tvg-logo="https://via.placeholder.com/150x80?text=Astro+Beinsports+2" group-title="体育频道", Astro Beinsports 2
+http://tv123.vvvv.ee/live.php/?ch=493
+#EXTINF:-1 tvg-id="0f6c76e9950b36ad87ec2fd81e15a9c5" tvg-logo="https://via.placeholder.com/150x80?text=Astro+Beinsports+3" group-title="体育频道", Astro Beinsports 3
+http://tv123.vvvv.ee/live.php/?ch=494
+
+#EXTINF:-1 tvg-id="aac304d7d73a842852abd4cf9141a309" tvg-logo="https://via.placeholder.com/150x80?text=Catchplay%E9%9B%BB%E5%BD%B1%E5%8F%B0" group-title="电影频道", Catchplay電影台
+http://tv123.vvvv.ee/live.php/?ch=936
+#EXTINF:-1 tvg-id="68a273c7a3ba7578a2ca58fe24f3c2be" tvg-logo="https://via.placeholder.com/150x80?text=HBO_HD" group-title="电影频道", HBO_HD
+http://tv123.vvvv.ee/live.php/?ch=594
+#EXTINF:-1 tvg-id="691d4ec0d845f027529d5c573e14b144" tvg-logo="https://via.placeholder.com/150x80?text=HBO_HITS" group-title="电影频道", HBO_HITS
+http://tv123.vvvv.ee/live.php/?ch=595
+#EXTINF:-1 tvg-id="10ae0037515403bdeadd6016a352726e" tvg-logo="https://via.placeholder.com/150x80?text=HBO+Hits" group-title="电影频道", HBO Hits
+http://tv123.vvvv.ee/live.php/?ch=948
+#EXTINF:-1 tvg-id="a42674dcc0ef7cae6e9c4916951aa1d3" tvg-logo="https://via.placeholder.com/150x80?text=HBO+Signature" group-title="电影频道", HBO Signature
+http://tv123.vvvv.ee/live.php/?ch=949
+#EXTINF:-1 tvg-id="eb7222ef9cacc4c8f3f07bcc5754e3c5" tvg-logo="https://via.placeholder.com/150x80?text=Hollywood+Movies" group-title="电影频道", Hollywood Movies
+http://tv123.vvvv.ee/live.php/?ch=596
+#EXTINF:-1 tvg-id="4ea7b0d44bc8f4cb5ad29b80db17911a" tvg-logo="https://via.placeholder.com/150x80?text=CCTV-6" group-title="电影频道", CCTV-6
+http://tv123.vvvv.ee/live.php/?ch=597
+#EXTINF:-1 tvg-id="ea561c74560f38d405a67622947bae32" tvg-logo="https://via.placeholder.com/150x80?text=CINEMAX" group-title="电影频道", CINEMAX
+http://tv123.vvvv.ee/live.php/?ch=598
+#EXTINF:-1 tvg-id="156313ed0e9462c9a84fe4cf60ba4f7d" tvg-logo="https://via.placeholder.com/150x80?text=Cinemax" group-title="电影频道", Cinemax
+http://tv123.vvvv.ee/live.php/?ch=599
+#EXTINF:-1 tvg-id="2197cb071d222130bf2099e8709d1cd5" tvg-logo="https://via.placeholder.com/150x80?text=AXN+Taiwan" group-title="电影频道", AXN Taiwan
+http://tv123.vvvv.ee/live.php/?ch=600
+#EXTINF:-1 tvg-id="bff2595bce5b84f35bb6bd6de9c9f456" tvg-logo="https://via.placeholder.com/150x80?text=%E5%A4%A7%E7%88%B12%E5%8F%B0" group-title="电影频道", 大爱2台
+http://tv123.vvvv.ee/live.php/?ch=601
+#EXTINF:-1 tvg-id="232c84f1b3fc3fdeab7879ad274664aa" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1+ETTV+Movie" group-title="电影频道", 东森电影 ETTV Movie
+http://tv123.vvvv.ee/live.php/?ch=602
+#EXTINF:-1 tvg-id="66fbeebcaf00290b0626ab1551ee4837" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87+ETTV+Western" group-title="电影频道", 东森洋片 ETTV Western
+http://tv123.vvvv.ee/live.php/?ch=603
+#EXTINF:-1 tvg-id="e992809f2b88febc44c0b4c3dc2e4829" tvg-logo="https://via.placeholder.com/150x80?text=%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87+Lunghua+Western" group-title="电影频道", 龙华洋片 Lunghua Western
+http://tv123.vvvv.ee/live.php/?ch=604
+#EXTINF:-1 tvg-id="becc555bf1dcd0b2e3e67e5df239b5cc" tvg-logo="https://via.placeholder.com/150x80?text=Animax" group-title="电影频道", Animax
+http://tv123.vvvv.ee/live.php/?ch=605
+#EXTINF:-1 tvg-id="54e88bb1b730136cb0f6f54bf02a0e44" tvg-logo="https://via.placeholder.com/150x80?text=%E9%BE%99%E8%AF%A6%E6%97%B6%E4%BB%A3" group-title="电影频道", 龙详时代
+http://tv123.vvvv.ee/live.php/?ch=606
+#EXTINF:-1 tvg-id="f09cae31cc4dd56b285570fcb0cdd332" tvg-logo="https://via.placeholder.com/150x80?text=Movies+Now+HD" group-title="电影频道", Movies Now HD
+http://tv123.vvvv.ee/live.php/?ch=607
+#EXTINF:-1 tvg-id="f7869a0ec038aed4204e38c9d645cf62" tvg-logo="https://via.placeholder.com/150x80?text=Star+Movies+HD" group-title="电影频道", Star Movies HD
+http://tv123.vvvv.ee/live.php/?ch=608
+#EXTINF:-1 tvg-id="da7c10b4db5173707c89e0888f73e6c8" tvg-logo="https://via.placeholder.com/150x80?text=%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0+Star+Movies+Chinese" group-title="电影频道", 卫视中文台 Star Movies Chinese
+http://tv123.vvvv.ee/live.php/?ch=609
+#EXTINF:-1 tvg-id="1ed954e561f5a45908a012b533fbfeae" tvg-logo="https://via.placeholder.com/150x80?text=HBO+Family" group-title="电影频道", HBO Family
+http://tv123.vvvv.ee/live.php/?ch=610
+#EXTINF:-1 tvg-id="b69df945ae986e6b1882cdc87ad19617" tvg-logo="https://via.placeholder.com/150x80?text=Hits" group-title="电影频道", Hits
+http://tv123.vvvv.ee/live.php/?ch=611
+#EXTINF:-1 tvg-id="cc843ad3ec4652d15d171ce35be3b59d" tvg-logo="https://via.placeholder.com/150x80?text=Warner+TV" group-title="电影频道", Warner TV
+http://tv123.vvvv.ee/live.php/?ch=612
+#EXTINF:-1 tvg-id="c73f35112e74ce77a8ecc4ddb5628bf2" tvg-logo="https://via.placeholder.com/150x80?text=%E5%8D%AB%E8%A7%86%E7%94%B5%E5%BD%B1%E5%8F%B0" group-title="电影频道", 卫视电影台
+http://tv123.vvvv.ee/live.php/?ch=613
+#EXTINF:-1 tvg-id="6c53d913af63c3d24ba8f43fd6442ca5" tvg-logo="https://via.placeholder.com/150x80?text=HBO+HD" group-title="电影频道", HBO HD
+http://tv123.vvvv.ee/live.php/?ch=614
+#EXTINF:-1 tvg-id="8467323d62ebf5ab353627d4e186969f" tvg-logo="https://via.placeholder.com/150x80?text=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1" group-title="电影频道", 美亚电影
+http://tv123.vvvv.ee/live.php/?ch=615
+#EXTINF:-1 tvg-id="a42674dcc0ef7cae6e9c4916951aa1d3" tvg-logo="https://via.placeholder.com/150x80?text=HBO+Signature" group-title="电影频道", HBO Signature
+http://tv123.vvvv.ee/live.php/?ch=616
+#EXTINF:-1 tvg-id="10ae0037515403bdeadd6016a352726e" tvg-logo="https://via.placeholder.com/150x80?text=HBO+Hits" group-title="电影频道", HBO Hits
+http://tv123.vvvv.ee/live.php/?ch=617
+#EXTINF:-1 tvg-id="061fd1ad76c7e49774baa6343d23393d" tvg-logo="https://via.placeholder.com/150x80?text=%E6%98%9F%E5%8D%AB%E7%94%B5%E5%BD%B1" group-title="电影频道", 星卫电影
+http://tv123.vvvv.ee/live.php/?ch=618
+#EXTINF:-1 tvg-id="616842b667c02164dda634d846884093" tvg-logo="https://via.placeholder.com/150x80?text=SCM" group-title="电影频道", SCM
+http://tv123.vvvv.ee/live.php/?ch=619
+#EXTINF:-1 tvg-id="c048cd0e34331df6f4bf4a4d786b2edf" tvg-logo="https://via.placeholder.com/150x80?text=Dreamworks" group-title="电影频道", Dreamworks
+http://tv123.vvvv.ee/live.php/?ch=620
+#EXTINF:-1 tvg-id="a5f799ea7465e196f726736ff8551980" tvg-logo="https://via.placeholder.com/150x80?text=Thrill" group-title="电影频道", Thrill
+http://tv123.vvvv.ee/live.php/?ch=621
+#EXTINF:-1 tvg-id="72bcfd0ced95a257af148daa5a6a9c19" tvg-logo="https://via.placeholder.com/150x80?text=Hits+Movie" group-title="电影频道", Hits Movie
+http://tv123.vvvv.ee/live.php/?ch=622
+#EXTINF:-1 tvg-id="06c2cea18679d64399783748fa367bdd" tvg-logo="https://via.placeholder.com/150x80?text=One" group-title="电影频道", One
+http://tv123.vvvv.ee/live.php/?ch=623
+#EXTINF:-1 tvg-id="0e2768bc53eea52fb496a06501566c82" tvg-logo="https://via.placeholder.com/150x80?text=tvN+Movie" group-title="电影频道", tvN Movie
+http://tv123.vvvv.ee/live.php/?ch=624
+#EXTINF:-1 tvg-id="99e5841991755934f4ceecf58f67eb78" tvg-logo="https://via.placeholder.com/150x80?text=Celestial+Classic" group-title="电影频道", Celestial Classic
+http://tv123.vvvv.ee/live.php/?ch=625
+#EXTINF:-1 tvg-id="2035d9bc0dba572a289edbc3dec53975" tvg-logo="https://via.placeholder.com/150x80?text=Celestial+Movies+HD" group-title="电影频道", Celestial Movies HD
+http://tv123.vvvv.ee/live.php/?ch=626
+#EXTINF:-1 tvg-id="c6a3523d9682cd539258a3e4322be9ac" tvg-logo="https://via.placeholder.com/150x80?text=Axn+HD" group-title="电影频道", Axn HD
+http://tv123.vvvv.ee/live.php/?ch=627
+#EXTINF:-1 tvg-id="94d29a0d4682f088ab8c7ad6efc34b64" tvg-logo="https://via.placeholder.com/150x80?text=Paramount+Network" group-title="电影频道", Paramount Network
+http://tv123.vvvv.ee/live.php/?ch=628
+#EXTINF:-1 tvg-id="efcd60999a673fe9d62b6fc8d61d1702" tvg-logo="https://via.placeholder.com/150x80?text=Astrol+Kplus" group-title="电影频道", Astrol Kplus
+http://tv123.vvvv.ee/live.php/?ch=629
+#EXTINF:-1 tvg-id="c2c38c86a93ee0e1250584a80f486911" tvg-logo="https://via.placeholder.com/150x80?text=Rock+Actions" group-title="电影频道", Rock Actions
+http://tv123.vvvv.ee/live.php/?ch=630
+#EXTINF:-1 tvg-id="4407c4e0d9bd72553170e97d88399e9e" tvg-logo="https://via.placeholder.com/150x80?text=Rock+Entertainment" group-title="电影频道", Rock Entertainment
+http://tv123.vvvv.ee/live.php/?ch=631
+
