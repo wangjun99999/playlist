@@ -2,13 +2,13 @@
 
 
 #EXTINF:-1 tvg-id="520" tvg-name="青岛新闻综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/QTV-1.png", group-title="青岛频道",青岛新闻综合QTV-1
-http://39.77.79.109:9901/tsfile/live/1000_1.m3u8?key=txiptv
+http://39.77.79.109:85/tsfile/live/1000_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="522" tvg-name="青岛影视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/QTV-3.png" group-title="青岛频道",青岛影视QTV-3
-http://39.77.79.109:9901/tsfile/live/1002_1.m3u8?key=txiptv
+http://39.77.79.109:85/tsfile/live/1002_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="523" tvg-name="青岛财经资讯" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/QTV-4.png" group-title="青岛频道",青岛财经资讯QTV-4
-http://39.77.79.109:9901/tsfile/live/1004_1.m3u8?key=txiptv
+http://39.77.79.109:85/tsfile/live/1004_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="524" tvg-name="青岛都市" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/QTV-5.png" group-title="青岛频道",青岛都市QTV-5
-http://39.77.79.109:9901/tsfile/live/0002_1.m3u8?key=txiptv
+http://39.77.79.109:85/tsfile/live/0002_1.m3u8?key=txiptv
 
 
 
