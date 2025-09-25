@@ -1,3 +1,95 @@
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",SKY CINEMA DRAMA[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/35251
+#EXTINF:-1,tvg-id="RTE NEWS[2098x1080]" tvg-name="RTE NEWS[2098x1080]" tvg-logo="https://epg.112114.xyz/logo/RTENEWS.png" group-title="其他",RTE NEWS[2098x1080]
+http://nocable.cc:8080/5AGbfz/324331/79108
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="其他",5[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/53675
+#EXTINF:-1,tvg-id="Channel 5[1920x1080]" tvg-name="Channel 5[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/CHANNEL5.png" group-title="其他",Channel 5[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/53653
+#EXTINF:-1,tvg-id="Film 4[1920x1080]" tvg-name="Film 4[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/FILM4.png" group-title="其他",Film 4[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/53702
+#EXTINF:-1,tvg-id="H2[1920x1080]" tvg-name="H2[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/H2.png" group-title="其他",H2[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/53692
+#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="其他",Investigation Discovery[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/53687
+#EXTINF:-1,tvg-id="ITV[1920x1080]" tvg-name="ITV[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/ITV.png" group-title="其他",ITV[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/53651
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",Sky Cinema Animation[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/53698
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",Sky Cinema Premier[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/35256
+#EXTINF:-1,tvg-id="Sky Sports F1 FHD (D)[1920x1080]" tvg-name="Sky Sports F1 FHD (D)[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSF1(D).png" group-title="其他",Sky Sports F1 FHD (D)[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/53704
+#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="其他",Sky Sports Main Event[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/35243
+#EXTINF:-1,tvg-id="Sky Sports News[1920x1080]" tvg-name="Sky Sports News[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSNEWS.png" group-title="其他",Sky Sports News[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/35241
+#EXTINF:-1,tvg-id="TLC旅游生活" tvg-name="TLC旅游生活" tvg-logo="https://epg.112114.xyz/logo/TLC旅游生活.png" group-title="其他",TLC[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/53681
+#EXTINF:-1,tvg-id="Sky Sports F1 FHD[1920x1080]" tvg-name="Sky Sports F1 FHD[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSF1.png" group-title="其他",Sky Sports F1 FHD[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/35244
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",SKY SP RACING FHD[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/76842
+#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="其他",Discovery Channel[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/53684
+#EXTINF:-1,tvg-id="ITV 4[1920x1080]" tvg-name="ITV 4[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/ITV4.png" group-title="其他",ITV 4[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/53666
+#EXTINF:-1,tvg-id="ITV2 HD[1920x1080]" tvg-name="ITV2 HD[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/ITV2.png" group-title="其他",ITV2 HD[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/53671
+#EXTINF:-1,tvg-id="MUTV[1920x1080]" tvg-name="MUTV[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/MUTV.png" group-title="其他",MUTV[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/53717
+#EXTINF:-1,tvg-id="Sky Sports Golf FHD[1920x1080]" tvg-name="Sky Sports Golf FHD[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSGOLF.png" group-title="其他",Sky Sports Golf FHD[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/35240
+#EXTINF:-1,tvg-id="Sky Sports Mix FHD (D)[1920x1080]" tvg-name="Sky Sports Mix FHD (D)[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSMIX(D).png" group-title="其他",Sky Sports Mix FHD (D)[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/53706
+#EXTINF:-1,tvg-id="CBS JUSTICE[1920x1080]" tvg-name="CBS JUSTICE[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/CBSJUSTICE.png" group-title="其他",CBS JUSTICE[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/134942
+#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="其他",SKY SPORTS MAIN EVENT HD[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/137720
+#EXTINF:-1,tvg-id="SKY SPORTS ARENA FHD[1920x1080]" tvg-name="SKY SPORTS ARENA FHD[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSARENA.png" group-title="其他",SKY SPORTS ARENA FHD[1920x1080]
+http://nocable.cc:8080/5AGbfz/324331/137719
+#EXTINF:-1,tvg-id="BBC One[960x540]" tvg-name="BBC One[960x540]" tvg-logo="https://epg.112114.xyz/logo/BBCONE.png" group-title="其他",BBC One[960x540]
+http://nocable.cc:8080/5AGbfz/324331/53649
+#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="其他",Discovery History[1047x576]
+http://nocable.cc:8080/5AGbfz/324331/53694
+#EXTINF:-1,tvg-id="ITV 3[1024x576]" tvg-name="ITV 3[1024x576]" tvg-logo="https://epg.112114.xyz/logo/ITV3.png" group-title="其他",ITV 3[1024x576]
+http://nocable.cc:8080/5AGbfz/324331/53665
+#EXTINF:-1,tvg-id="More4[1024x576]" tvg-name="More4[1024x576]" tvg-logo="https://epg.112114.xyz/logo/MORE4.png" group-title="其他",More4[1024x576]
+http://nocable.cc:8080/5AGbfz/324331/53673
+#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="其他",MTV Hits[1024x576]
+http://nocable.cc:8080/5AGbfz/324331/53735
+#EXTINF:-1,tvg-id="Nat Geo Wild[1024x576]" tvg-name="Nat Geo Wild[1024x576]" tvg-logo="https://epg.112114.xyz/logo/NATGEOWILD.png" group-title="其他",Nat Geo Wild[1024x576]
+http://nocable.cc:8080/5AGbfz/324331/53693
+#EXTINF:-1,tvg-id=" Pop[1024x576]" tvg-name=" Pop[1024x576]" tvg-logo="https://epg.112114.xyz/logo/POP.png" group-title="其他", Pop[1024x576]
+http://nocable.cc:8080/5AGbfz/324331/53730
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",SKY CINEMA ACTION FHD[1280x720]
+http://nocable.cc:8080/5AGbfz/324331/35254
+#EXTINF:-1,tvg-id="SKY COMEDY[1280x720]" tvg-name="SKY COMEDY[1280x720]" tvg-logo="https://epg.112114.xyz/logo/SKYCOMEDY.png" group-title="其他",SKY COMEDY[1280x720]
+http://nocable.cc:8080/5AGbfz/324331/35253
+#EXTINF:-1,tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.112114.xyz/logo/THRILL.png" group-title="其他",SKY CRIME THRILLER[1280x720]
+http://nocable.cc:8080/5AGbfz/324331/35252
+#EXTINF:-1,tvg-id="SKY GREATS[1280x720]" tvg-name="SKY GREATS[1280x720]" tvg-logo="https://epg.112114.xyz/logo/SKYGREATS.png" group-title="其他",SKY GREATS[1280x720]
+http://nocable.cc:8080/5AGbfz/324331/35249
+#EXTINF:-1,tvg-id="BBC NEWS[1280x720]" tvg-name="BBC NEWS[1280x720]" tvg-logo="https://epg.112114.xyz/logo/BBCNEWS.png" group-title="其他",BBC NEWS[1280x720]
+http://nocable.cc:8080/5AGbfz/324331/53757
+#EXTINF:-1,tvg-id="Crime & Investigation FHD (D)[1280x720]" tvg-name="Crime & Investigation FHD (D)[1280x720]" tvg-logo="https://epg.112114.xyz/logo/CRIME&INVESTIGATION(D).png" group-title="其他",Crime & Investigation FHD (D)[1280x720]
+http://nocable.cc:8080/5AGbfz/324331/53689
+#EXTINF:-1,tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" group-title="其他",History  Channel[1280x720]
+http://nocable.cc:8080/5AGbfz/324331/53686
+#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.112114.xyz/logo/NICKELODEON.png" group-title="其他",NICKELODEON[1280x720]
+http://nocable.cc:8080/5AGbfz/324331/53728
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",Sky Cinema Family[1280x720]
+http://nocable.cc:8080/5AGbfz/324331/53699
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",Sky Cinema Comedy[1280x720]
+http://nocable.cc:8080/5AGbfz/324331/53661
+#EXTINF:-1,tvg-id="Sky Sports Cricket FHD (D)[1280x720]" tvg-name="Sky Sports Cricket FHD (D)[1280x720]" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSCRICKET(D).png" group-title="其他",Sky Sports Cricket FHD (D)[1280x720]
+http://nocable.cc:8080/5AGbfz/324331/45940
+#EXTINF:-1,tvg-id="Channel 4[1280x720]" tvg-name="Channel 4[1280x720]" tvg-logo="https://epg.112114.xyz/logo/CHANNEL4.png" group-title="其他",Channel 4[1280x720]
+http://nocable.cc:8080/5AGbfz/324331/99138
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",昙花
 https://t33.cdn2020.com/video/m3u8/2025/09/20/3fb0ea6b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",白上咲花1
