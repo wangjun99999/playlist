@@ -78,7 +78,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #extvlcopt:http-referrer=https://v.iqilu.com
 http://192.168.2.98:5678/SD.php?id=sdws
 #EXTINF:-1 tvg-id="385" tvg-name="山东体育休闲" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/山东体育.png" group-title="山东频道",山东体育高清
-http://39.77.79.109:9901/tsfile/live/0002_50.m3u8?key=txiptv
+http://39.77.79.109:85/tsfile/live/0002_50.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="385" tvg-name="山东体育休闲" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/山东体育.png" group-title="山东频道",山东体育
 http://192.168.2.98:5678/SD.php?id=sdty
 #EXTINF:-1 tvg-id="381" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/山东新闻.png" group-title="山东频道",山东新闻
