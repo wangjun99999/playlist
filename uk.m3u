@@ -1,5 +1,90 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/wangjun99999/my-custom-epg/refs/heads/main/custom_epg.xml"
 
+#EXTINF:-1 tvg-id="Sky.Action.uk" tvg-name="Sky Cinema Action UK" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-cinema-action-uk.png",Sky Cinema Action
+http://nocable.cc:8080/5AGbfz/324331/35254
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-name="Sky Cinema Animation UK" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-cinema-animation-uk.png",Sky Cinema Animation
+http://nocable.cc:8080/5AGbfz/324331/53698
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-name="Sky Cinema Drama UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-uk.png?raw=true",Sky Cinema Drama
+http://nocable.cc:8080/5AGbfz/324331/35251
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-name="Sky Cinema Family UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-family-uk.png",Sky Cinema Family
+http://nocable.cc:8080/5AGbfz/324331/53699
+#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-name="Sky Cinema Comedy UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-comedy-uk.png",Sky Cinema Comedy
+http://nocable.cc:8080/5AGbfz/324331/53661
+#EXTINF:-1 tvg-id="Sky.Greats.uk" tvg-name="Sky Cinema Greats UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-greats-uk.png",Sky Cinema Greats
+http://nocable.cc:8080/5AGbfz/324331/35249
+#EXTINF:-1 tvg-id="Sky.Premiere.uk" tvg-name="Sky Cinema Premiere UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-premiere-uk.png",Sky Cinema Premiere
+http://nocable.cc:8080/5AGbfz/324331/35256
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-name="Sky Cinema Thriller UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-thriller-uk.png",Sky Cinema Thriller
+http://nocable.cc:8080/5AGbfz/324331/35252
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="Film4 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png",Film4
+http://nocable.cc:8080/5AGbfz/324331/53702
+#EXTINF:-1 tvg-id="9526" tvg-name="SkySpMainEv" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png",Sky Sports Main Event
+http://nocable.cc:8080/5AGbfz/324331/137720
+#EXTINF:-1 tvg-id="9526" tvg-name="SkySpMainEv" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png",Sky Sports Main Event
+http://nocable.cc:8080/5AGbfz/324331/35243
+#EXTINF:-1 tvg-id="9375" tvg-name="SkySp F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",Sky Sports F1
+http://nocable.cc:8080/5AGbfz/324331/53704
+#EXTINF:-1 tvg-id="9375" tvg-name="SkySp F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",Sky Sports F1
+http://nocable.cc:8080/5AGbfz/324331/35244
+#EXTINF:-1 tvg-id="9413" tvg-name="SkySp Golf" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Golf.png",Sky Sports Golf
+http://nocable.cc:8080/5AGbfz/324331/35240
+#EXTINF:-1 tvg-id="12358" tvg-name="SkySp ArenaHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Arena.png",Sky Sports Arena
+http://nocable.cc:8080/5AGbfz/324331/137719
+#EXTINF:-1 tvg-id="9293" tvg-name="SkySp Cricket" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Cricket.png",Sky Sports Cricket
+http://nocable.cc:8080/5AGbfz/324331/45940
+#EXTINF:-1 tvg-id="9244" tvg-name="SkySp Mix HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Mix.png",Sky Sports Mix
+http://nocable.cc:8080/5AGbfz/324331/53706
+#EXTINF:-1 tvg-id="9612" tvg-name="SkySp News HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20News.png",Sky Sports News
+http://nocable.cc:8080/5AGbfz/324331/35241
+#EXTINF:-1 tvg-id="9613" tvg-name="SkySp Racing HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Racing.png",Sky Sports Racing
+http://nocable.cc:8080/5AGbfz/324331/76842
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mutv-uk.png",MUTV
+http://nocable.cc:8080/5AGbfz/324331/53717
+#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-name="Sky Comedy UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-comedy-uk.png",Sky Comedy
+http://nocable.cc:8080/5AGbfz/324331/35253
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png",Channel 4
+http://nocable.cc:8080/5AGbfz/324331/99138
+#EXTINF:-1 tvg-id="Channel.5.uk" tvg-name="Channel 5 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png",Channel 5
+http://nocable.cc:8080/5AGbfz/324331/53653
+#EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-name="BBC News Channel HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png",BBC News Channel
+http://nocable.cc:8080/5AGbfz/324331/53757
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV 1 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",ITV 1
+http://nocable.cc:8080/5AGbfz/324331/53651
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-name="ITV 2 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png",ITV 2
+http://nocable.cc:8080/5AGbfz/324331/53671
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-name="ITV 3 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-uk.png",ITV 3
+http://nocable.cc:8080/5AGbfz/324331/53665
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="ITV 4 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png",ITV 4
+http://nocable.cc:8080/5AGbfz/324331/53666
+#EXTINF:-1 tvg-id="12185" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Discovery.png",Discovery Channel
+http://nocable.cc:8080/5AGbfz/324331/53684
+#EXTINF:-1 tvg-id="12354" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Discovery%20ID.png",Investigation Discovery
+http://nocable.cc:8080/5AGbfz/324331/53687
+#EXTINF:-1 tvg-id="12354" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Discovery_History.png",Discovery History
+http://nocable.cc:8080/5AGbfz/324331/53694
+#EXTINF:-1,tvg-id="12272" tvg-name="Sky History" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/History.png",History Channel
+http://nocable.cc:8080/5AGbfz/324331/53686
+#EXTINF:-1,tvg-id="12226" tvg-name="Sky History2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/History%202.png",H2
+http://nocable.cc:8080/5AGbfz/324331/53692
+#EXTINF:-1,tvg-id="9498" tvg-name="Crime+Inv HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Crime%20%26%20Investigation.png",Crime & Investigation
+http://nocable.cc:8080/5AGbfz/324331/53689
+#EXTINF:-1,tvg-id="9234" tvg-name="CBS Justice" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/CBS%20Justice.png",CBS Justice
+http://nocable.cc:8080/5AGbfz/324331/134942
+#EXTINF:-1,tvg-id="12083" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Nat%20Geo%20Wild.png",Nat Geo Wild
+http://nocable.cc:8080/5AGbfz/324331/53693
+#EXTINF:-1,tvg-id="12163" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TLC.png",TLC
+http://nocable.cc:8080/5AGbfz/324331/53681
+#EXTINF:-1,tvg-id="12084" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Nickelodeon.png",Nickelodeon
+http://nocable.cc:8080/5AGbfz/324331/53728
+#EXTINF:-1,tvg-id="12164" tvg-name="More4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/More%204.png",More4
+http://nocable.cc:8080/5AGbfz/324331/53673
+#EXTINF:-1,tvg-id="12376" tvg-name="POP" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/POP.png",Pop
+http://nocable.cc:8080/5AGbfz/324331/53730
+#EXTINF:-1,tvg-id="12471" tvg-name="MTV HITS" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/MTV%20Hits.png",MTV Hits
+http://nocable.cc:8080/5AGbfz/324331/53735
+
+
+
 
 #EXTINF:-1 tvg-id="9526" tvg-name="SkySpMainEv" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png",Sky Sports Main Event
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GAydSKUklOV8GIh4=/index.m3u8
