@@ -186,9 +186,12 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
 
-
+#EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="https://epg-1.iill.top/logo/澳门Macau.png",澳門Macau
+https://cdn6.163189.xyz/163189/as
 #EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="https://epg-1.iill.top/logo/澳门Macau.png",澳門Macau
 https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://epg-1.iill.top/logo/澳视澳门.png",澳視澳門
+https://cdn6.163189.xyz/163189/asam
 #EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://epg-1.iill.top/logo/澳视澳门.png",澳視澳門
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳門葡萄牙" tvg-name="澳門葡萄牙" tvg-logo="https://epg-1.iill.top/logo/澳视葡文.png",澳門葡文
