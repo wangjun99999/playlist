@@ -1,4 +1,14 @@
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Now Sports 英超1台 CH621(HK)
+http://hnplay.modaily.cn/live/b53bd8b46fda268cda8b35a309ded6d0.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Now Sports 英超2台 CH622(HK)
+http://hnplay.modaily.cn/live/db4dca4f8bff280d31fd55c9310379df.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Now Sports 英超3台 CH623(HK)
+http://hnplay.modaily.cn/live/d913e3a2e88a8c06a2e166cd5cba020b.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Now Sports 英超4台 CH624(HK)
+http://hnplay.modaily.cn/live/cfb3e89a6f766f4a1703823fc43fdfa0.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SG",Suria
 https://d19h5fcpqoh625.cloudfront.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SG",Vasantham
