@@ -244,43 +244,43 @@ http://iptv.4666888.xyz/iptv2A.php?id=5
 http://iptv.4666888.xyz/iptv2A.php?id=11
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png",美亞電影台HK粤
 http://iptv.4666888.xyz/iptv2A.php?id=12
-#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="",东森电影
+#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1%E5%8F%B0.png",東森電影台
 http://iptv.4666888.xyz/iptv2A.php?id=15
-#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="",东森洋片
+#EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87%E5%8F%B0.png",東森洋片台
 http://iptv.4666888.xyz/iptv2A.php?id=16
-#EXTINF:-1 tvg-id="采昌影剧" tvg-name="采昌影剧" tvg-logo="",采昌影剧
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E9%87%87%E6%98%8C%E5%BD%B1%E5%8A%87%E5%8F%B0.png",采昌影劇台
 http://iptv.4666888.xyz/iptv2A.php?id=168
 #EXTINF:-1 tvg-id="ROCK Action HD" tvg-name="ROCK Action HD" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/live138_pc.png",ROCKAction
 http://iptv.4666888.xyz/iptv2A.php?id=19
 #EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live080_pc.png",ROCKEntertainment
 http://iptv.4666888.xyz/iptv2A.php?id=20
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="",AXN
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/AXN.png",AXN
 http://iptv.4666888.xyz/iptv2A.php?id=21
-#EXTINF:-1 tvg-id="AnimaxC" tvg-name="AnimaxC" tvg-logo="",AnimaxC
+#EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Animax.png",Animax
 http://iptv.4666888.xyz/iptv2A.php?id=22
-#EXTINF:-1 tvg-id="warnertv华纳" tvg-name="warnertv华纳" tvg-logo="",warnertv华纳
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Warner%20TV%20Asia.png",Warner TV
 http://iptv.4666888.xyz/iptv2A.php?id=23
-#EXTINF:-1 tvg-id="cinemaxwj" tvg-name="cinemaxwj" tvg-logo="",cinemaxwj
+#EXTINF:-1 tvg-id="CINEMAX有線" tvg-name="CINEMAX有線" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Cinemax.png",CINEMAX
 http://iptv.4666888.xyz/iptv2A.php?id=24
-#EXTINF:-1 tvg-id="HBOHD" tvg-name="HBOHD" tvg-logo="",HBOHD
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO.png",HBO
 http://iptv.4666888.xyz/iptv2A.php?id=25
-#EXTINF:-1 tvg-id="amcmovies" tvg-name="amcmovies" tvg-logo="",amcmovies
+#EXTINF:-1 tvg-id="AMC電影" tvg-name="AMC電影" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/AMC%E7%94%B5%E5%BD%B1%E5%8F%B0.png",AMC電影
 http://iptv.4666888.xyz/iptv2A.php?id=27
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="",Thrill
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Thrill.png",Thrill
 http://iptv.4666888.xyz/iptv2A.php?id=183
-#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="",TVBS新闻
+#EXTINF:-1 tvg-id="TVBS 新聞台" tvg-name="TVBS 新聞台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/TVBS%E6%96%B0%E9%97%BB%E5%8F%B0.png",TVBS新闻
 http://iptv.4666888.xyz/iptv2A.php?id=145
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="",中天新闻
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0.png",中天新闻
 http://iptv.4666888.xyz/iptv2A.php?id=141
-#EXTINF:-1 tvg-id="东森LIVE" tvg-name="东森LIVE" tvg-logo="",东森LIVE
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/%E6%9D%B1%E6%A3%AELIVE.png",东森LIVE
 http://iptv.4666888.xyz/iptv2A.php?id=140
-#EXTINF:-1 tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="",爱尔达体育1
+#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/ELTA%E4%BD%93%E8%82%B21%E5%8F%B0.png",愛爾達體育1台
 http://iptv.4666888.xyz/iptv2A.php?id=45
-#EXTINF:-1 tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="",爱尔达体育2
+#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/ELTA%E4%BD%93%E8%82%B22%E5%8F%B0.png",愛爾達體育2台
 http://iptv.4666888.xyz/iptv2A.php?id=46
-#EXTINF:-1 tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="",爱尔达体育3
+#EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/ELTA%E4%BD%93%E8%82%B23%E5%8F%B0.png",愛爾達體育3台
 http://iptv.4666888.xyz/iptv2A.php?id=47
-#EXTINF:-1 tvg-id="爱尔达体育4" tvg-name="爱尔达体育4" tvg-logo="",爱尔达体育4
+#EXTINF:-1 tvg-id="愛爾達體育4台 tvg-name="愛爾達體育4台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/ELTA%E4%BD%93%E8%82%B24%E5%8F%B0.png",愛爾達體育4台
 http://iptv.4666888.xyz/iptv2A.php?id=48
 
 
