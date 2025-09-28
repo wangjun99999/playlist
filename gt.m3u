@@ -228,3 +228,59 @@ http://cdn6.163189.xyz/163189/chu
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半島電視台英語頻道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Al%20Jazeera.png",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+
+#EXTINF:-1 tvg-id="爆谷台" tvg-name="爆谷台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%E7%88%86%E8%B0%B7.png",Now爆谷
+http://iptv.4666888.xyz/iptv2A.php?id=6
+#EXTINF:-1 tvg-id="Now爆谷星影台" tvg-name="Now爆谷星影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%E6%98%9F%E5%BD%B1.png",Now爆谷星影台
+http://iptv.4666888.xyz/iptv2A.php?id=7
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png",天映經典頻道
+http://iptv.4666888.xyz/iptv2A.php?id=77
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png",天映經典頻道
+http://iptv.4666888.xyz/iptv2A.php?id=78
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/PopC.png",PopC电影
+http://iptv.4666888.xyz/iptv2A.php?id=5
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png",美亞電影台HK国
+http://iptv.4666888.xyz/iptv2A.php?id=11
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png",美亞電影台HK粤
+http://iptv.4666888.xyz/iptv2A.php?id=12
+#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="",东森电影
+http://iptv.4666888.xyz/iptv2A.php?id=15
+#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="",东森洋片
+http://iptv.4666888.xyz/iptv2A.php?id=16
+#EXTINF:-1 tvg-id="采昌影剧" tvg-name="采昌影剧" tvg-logo="",采昌影剧
+http://iptv.4666888.xyz/iptv2A.php?id=168
+#EXTINF:-1 tvg-id="ROCK Action HD" tvg-name="ROCK Action HD" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/live138_pc.png",ROCKAction
+http://iptv.4666888.xyz/iptv2A.php?id=19
+#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live080_pc.png",ROCKEntertainment
+http://iptv.4666888.xyz/iptv2A.php?id=20
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="",AXN
+http://iptv.4666888.xyz/iptv2A.php?id=21
+#EXTINF:-1 tvg-id="AnimaxC" tvg-name="AnimaxC" tvg-logo="",AnimaxC
+http://iptv.4666888.xyz/iptv2A.php?id=22
+#EXTINF:-1 tvg-id="warnertv华纳" tvg-name="warnertv华纳" tvg-logo="",warnertv华纳
+http://iptv.4666888.xyz/iptv2A.php?id=23
+#EXTINF:-1 tvg-id="cinemaxwj" tvg-name="cinemaxwj" tvg-logo="",cinemaxwj
+http://iptv.4666888.xyz/iptv2A.php?id=24
+#EXTINF:-1 tvg-id="HBOHD" tvg-name="HBOHD" tvg-logo="",HBOHD
+http://iptv.4666888.xyz/iptv2A.php?id=25
+#EXTINF:-1 tvg-id="amcmovies" tvg-name="amcmovies" tvg-logo="",amcmovies
+http://iptv.4666888.xyz/iptv2A.php?id=27
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="",Thrill
+http://iptv.4666888.xyz/iptv2A.php?id=183
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="",TVBS新闻
+http://iptv.4666888.xyz/iptv2A.php?id=145
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="",中天新闻
+http://iptv.4666888.xyz/iptv2A.php?id=141
+#EXTINF:-1 tvg-id="东森LIVE" tvg-name="东森LIVE" tvg-logo="",东森LIVE
+http://iptv.4666888.xyz/iptv2A.php?id=140
+#EXTINF:-1 tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="",爱尔达体育1
+http://iptv.4666888.xyz/iptv2A.php?id=45
+#EXTINF:-1 tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="",爱尔达体育2
+http://iptv.4666888.xyz/iptv2A.php?id=46
+#EXTINF:-1 tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="",爱尔达体育3
+http://iptv.4666888.xyz/iptv2A.php?id=47
+#EXTINF:-1 tvg-id="爱尔达体育4" tvg-name="爱尔达体育4" tvg-logo="",爱尔达体育4
+http://iptv.4666888.xyz/iptv2A.php?id=48
+
+
