@@ -1,3 +1,33 @@
+#EXTINF:-1 tvg-id="" group-title="移动18",惊艳
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 tvg-id="" group-title="移动18",潘朵啦
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 tvg-id="" group-title="移动18",彩虹
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+#EXTINF:-1 tvg-id="" group-title="移动18",松1
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 tvg-id="" group-title="移动18",松2
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 tvg-id="" group-title="移动18",松3
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+
+#EXTINF:-1 tvg-id="" group-title="今日",天映经典
+https://pull-hls-live.jr365m.cc/stream/astromalaysia/celestialclassic/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="今日",天映频道
+https://pull-hls-live.jr365m.cc/stream/astromalaysia/celestialmovies/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="今日",TLC
+https://pull-hls-live.jr365m.cc/stream/astromalaysia/tlc/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="今日",AXN
+https://pull-hls-live.jr365m.cc/stream/astromalaysia/axn/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="今日",DiscoveryAsia
+https://pull-hls-live.jr365m.cc/stream/astromalaysia/discoveryasia/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="今日",BBC Earth
+https://pull-hls-live.jr365m.cc/stream/astromalaysia/bbcearth/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="今日",BBC Lifestyle
+https://pull-hls-live.jr365m.cc/stream/astromalaysia/bbclifestyle/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="今日",tvN Movies
+https://pull-hls-live.jr365m.cc/stream/astromalaysia/tvnmovies/master.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="澳门",澳门莲花
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 
