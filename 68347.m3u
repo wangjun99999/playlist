@@ -97,8 +97,6 @@ http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1481950
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=534481&extension=ts&play_token=EP21PRuH3e
 #EXTINF:-1 tvg-id="534480" tvg-name="GR| ERT SPORTS 2 UHD" tvg-logo="http://103.176.90.95/images/534480.png",GR| ERT SPORTS 2 UHD
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=534480&extension=ts&play_token=84MvxP3Pfw
-
-
 #EXTINF:-1 tvg-id="1541593" tvg-name="SWE| VIAPLAY SPORT GOLF 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png",SWE| VIAPLAY SPORT GOLF 4K
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1541593&extension=ts&play_token=emPxAfqhEm
 #EXTINF:-1 tvg-id="1541595" tvg-name="SWE| VIAPLAY SPORT MOTOR 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png",SWE| VIAPLAY SPORT MOTOR 4K
@@ -109,7 +107,6 @@ http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1541597
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1541600&extension=ts&play_token=EoVm4jOlwd
 #EXTINF:-1 tvg-id="1112184" tvg-name="SWE| VIAPLAY ULTRA 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png",SWE| VIAPLAY ULTRA 4K
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1112184&extension=ts&play_token=tnhEqYUr02
-
 #EXTINF:-1 tvg-id="466358" tvg-name="FIN| VIASAT SPORT ULTRA 4K+" tvg-logo="http://picons.cmshulk.com/picons/466358.png",FIN| VIASAT SPORT ULTRA 4K+
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=466358&extension=ts&play_token=3KiesoKVKq
 #EXTINF:-1 tvg-id="154625" tvg-name="FI| VIASAT SPORT ULTRA 4K+ [ONLY ON 4K DEVICES]" tvg-logo="http://103.176.90.118/picons/logos/logos/VIASAT-SPORT-ULTRA.png",FI| VIASAT SPORT ULTRA 4K+ [ONLY ON 4K DEVICES]
@@ -118,220 +115,212 @@ http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=154625&
 
 
 
-#EXTINF:-1 tvg-id="1016544" tvg-name="UK| ASTRO Premier League" tvg-logo="http://103.176.90.95/images/1016544.png",UK| ASTRO Premier League
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1016544&extension=ts&play_token=JGZqXRYATC
-#EXTINF:-1 tvg-id="1016545" tvg-name="UK| ASTRO Football" tvg-logo="http://103.176.90.95/images/1016545.png",UK| ASTRO Football
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1016545&extension=ts&play_token=9sxtvSPOj0
-#EXTINF:-1 tvg-id="918986" tvg-name="UK| ASTRO Premier League HD" tvg-logo="http://103.176.90.95/images/918986.png",UK| ASTRO Premier League HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=918986&extension=ts&play_token=x5zJi8Vpdc
-#EXTINF:-1 tvg-id="918985" tvg-name="UK| ASTRO Premier League 2 HD" tvg-logo="http://103.176.90.95/images/918985.png",UK| ASTRO Premier League 2 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=918985&extension=ts&play_token=mjv5uwh5CM
-#EXTINF:-1 tvg-id="918984" tvg-name="UK| ASTRO Grandstand" tvg-logo="http://103.176.90.95/images/918984.png",UK| ASTRO Grandstand
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=918984&extension=ts&play_token=nTR8sbhXWE
-#EXTINF:-1 tvg-id="918983" tvg-name="UK| ASTRO Football" tvg-logo="http://103.176.90.95/images/918983.png",UK| ASTRO Football
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=918983&extension=ts&play_token=mLqFXeFLrP
 
-#EXTINF:-1 tvg-id="1111034" tvg-name="SPORTS| MY SUPERSPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/supersport1.png",MY| SUPERSPORTS 1 HD
+
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Premier%20League%201.png",UK| Astro Premier League
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1016544&extension=ts&play_token=JGZqXRYATC
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Premier%20League%201.png",UK| Astro Premier League
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=918986&extension=ts&play_token=x5zJi8Vpdc
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro Premier League 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Premier%20League%202.png",UK| Astro Premier League 2
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=918985&extension=ts&play_token=mjv5uwh5CM
+#EXTINF:-1 tvg-id="AstroFootball" tvg-name="Astro Football" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Football.png",UK| Astro Football
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=918983&extension=ts&play_token=mLqFXeFLrP
+#EXTINF:-1 tvg-id="AstroFootball" tvg-name="Astro Football" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Football.png",UK| Astro Football
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1016545&extension=ts&play_token=9sxtvSPOj0
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro Grandstand" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Grandstand.png",UK| Astro Grandstand
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=918984&extension=ts&play_token=nTR8sbhXWE
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Premier%20League%201.png",MY| Astro Premier League
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=571245&extension=ts&play_token=LfNiOobpto
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro Premier League 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Premier%20League%202.png",MY| Astro Premier League 2
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=571248&extension=ts&play_token=Rus6R0xwXi
+#EXTINF:-1 tvg-id="AstroFootball" tvg-name="Astro Football" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Football.png",MY| Astro Football
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=571246&extension=ts&play_token=tC3hLpHVjX
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro Grandstand" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Grandstand.png",MY| Astro Grandstand
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=571247&extension=ts&play_token=TiumC1tk3x
+#EXTINF:-1 tvg-id="AstroSportsPlus" tvg-name="Astro Sports Plus" tvg-logo="http://103.176.90.95/images/554968.png",MY| Astro Sports Plus
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=554968&extension=ts&play_token=VZAqp0OaAp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/supersport1.png",MY| SUPERSPORTS 1
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1111034&extension=ts&play_token=peJKaEXbJI
-#EXTINF:-1 tvg-id="1111033" tvg-name="SPORTS| MY SUPERSPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/supersport2.png",MY| SUPERSPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/supersport2.png",MY| SUPERSPORTS 2
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1111033&extension=ts&play_token=XJBIhiMJ9c
-#EXTINF:-1 tvg-id="1111032" tvg-name="SPORTS| MY SUPERSPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/supersport3.png",MY| SUPERSPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/supersport3.png",MY| SUPERSPORTS 3
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1111032&extension=ts&play_token=9GWYvAXT9M
-#EXTINF:-1 tvg-id="1111031" tvg-name="SPORTS| MY SUPERSPORTS 4 HD" tvg-logo="http://picons.cmshulk.com/picons/1111031.png",MY| SUPERSPORTS 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picons.cmshulk.com/picons/1111031.png",MY| SUPERSPORTS 4
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1111031&extension=ts&play_token=YOYkSDCyod
 
-#EXTINF:-1 tvg-id="554968" tvg-name="MY| ASTRO Sports Plus" tvg-logo="http://103.176.90.95/images/554968.png",MY| ASTRO Sports Plus
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=554968&extension=ts&play_token=VZAqp0OaAp
-#EXTINF:-1 tvg-id="571248" tvg-name="MY| ASTRO Premier League 2" tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-2.png",MY| ASTRO Premier League 2
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=571248&extension=ts&play_token=Rus6R0xwXi
-#EXTINF:-1 tvg-id="571247" tvg-name="MY| ASTRO Grandstand" tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-3.png",MY| ASTRO Grandstand
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=571247&extension=ts&play_token=TiumC1tk3x
-#EXTINF:-1 tvg-id="571246" tvg-name="MY| ASTRO Football" tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-4.png",MY| ASTRO Football
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=571246&extension=ts&play_token=tC3hLpHVjX
-#EXTINF:-1 tvg-id="571245" tvg-name="MY| ASTRO Premier League" tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-1.png",MY| ASTRO Premier League
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=571245&extension=ts&play_token=LfNiOobpto
 
-#EXTINF:-1 tvg-id="1032487" tvg-name="UK| NOW HK PREMIER SPORTS 1" tvg-logo="http://103.176.90.95/images/1032487.png",UK| NOW HK PREMIER SPORTS 1
+#EXTINF:-1,tvg-id="410388" tvg-name="Now Sports 英超1台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 1.png",UK| Now HK Premier Sports 1
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1032487&extension=ts&play_token=nnsa9PL6Ig
-#EXTINF:-1 tvg-id="1032486" tvg-name="UK| NOW HK PREMIER SPORTS 2" tvg-logo="http://103.176.90.95/images/1032486.png",UK| NOW HK PREMIER SPORTS 2
+#EXTINF:-1,tvg-id="410389" tvg-name="Now Sports 英超2台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 2.png",UK| Now HK Premier Sports 2
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1032486&extension=ts&play_token=O9aK93P1lT
-#EXTINF:-1 tvg-id="1032485" tvg-name="UK| NOW HK PREMIER SPORTS 3" tvg-logo="http://103.176.90.95/images/1032485.png",UK| NOW HK PREMIER SPORTS 3
+#EXTINF:-1,tvg-id="410390" tvg-name="Now Sports 英超3台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 3.png",UK| Now HK Premier Sports 3
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1032485&extension=ts&play_token=DmbaeGPYC0
-#EXTINF:-1 tvg-id="1032484" tvg-name="UK| NOW HK PREMIER SPORTS 4" tvg-logo="http://103.176.90.95/images/1032484.png",UK| NOW HK PREMIER SPORTS 4
+#EXTINF:-1,tvg-id="410391" tvg-name="Now Sports 英超4台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 4.png",UK| Now HK Premier Sports 4
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1032484&extension=ts&play_token=5IJyVsfv1m
-#EXTINF:-1 tvg-id="1032483" tvg-name="UK| NOW HK PREMIER SPORTS 5" tvg-logo="http://103.176.90.95/images/1032483.png",UK| NOW HK PREMIER SPORTS 5
+#EXTINF:-1,tvg-id="410392" tvg-name="Now Sports 英超5台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 5.png",UK| Now HK Premier Sports 5
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1032483&extension=ts&play_token=Vqym1tJ1oL
-#EXTINF:-1 tvg-id="1032482" tvg-name="UK| NOW HK PREMIER SPORTS 6" tvg-logo="http://103.176.90.95/images/1032482.png",UK| NOW HK PREMIER SPORTS 6
+#EXTINF:-1,tvg-id="415544" tvg-name="Now Sports 英超6台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 6.png",UK| Now HK Premier Sports 6
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1032482&extension=ts&play_token=ERpLdJC946
-#EXTINF:-1 tvg-id="1032481" tvg-name="UK| NOW HK PREMIER SPORTS 7" tvg-logo="http://103.176.90.95/images/1032481.png",UK| NOW HK PREMIER SPORTS 7
+#EXTINF:-1,tvg-id="415545" tvg-name="Now Sports 英超7台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 7.png",UK| Now HK Premier Sports 7
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1032481&extension=ts&play_token=fgYh4FdKyr
-#EXTINF:-1 tvg-id="1032480" tvg-name="UK| NOW HK PREMIER SPORTS 8" tvg-logo="http://103.176.90.95/images/1032480.png",UK| NOW HK PREMIER SPORTS 8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 8.png",UK| Now HK Premier Sports 8
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1032480&extension=ts&play_token=I6G8LHKZgn
-#EXTINF:-1 tvg-id="1032479" tvg-name="UK| NOW HK NOW SPORTS 1" tvg-logo="http://103.176.90.95/images/1032479.png",UK| NOW HK NOW SPORTS 1
+#EXTINF:-1,tvg-id="410396" tvg-name="Now Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 1.png",UK| Now Sports 1
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1032479&extension=ts&play_token=76dKYKg9CJ
-#EXTINF:-1 tvg-id="1032478" tvg-name="UK| NOW HK NOW SPORTS 2" tvg-logo="http://103.176.90.95/images/1032478.png",UK| NOW HK NOW SPORTS 2
+#EXTINF:-1,tvg-id="410397" tvg-name="Now Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 2.png",UK| Now Sports 2
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1032478&extension=ts&play_token=8GYSaXtRI4
-#EXTINF:-1 tvg-id="1032477" tvg-name="UK| NOW HK NOW SPORTS 3" tvg-logo="http://103.176.90.95/images/1032477.png",UK| NOW HK NOW SPORTS 3
+#EXTINF:-1,tvg-id="410398" tvg-name="Now Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 3.png",UK| Now Sports 3
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1032477&extension=ts&play_token=WlEePeWOwJ
-#EXTINF:-1 tvg-id="1032476" tvg-name="UK| NOW HK NOW SPORTS 4" tvg-logo="http://103.176.90.95/images/1032476.png",UK| NOW HK NOW SPORTS 4
+#EXTINF:-1,tvg-id="410399" tvg-name="Now Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 4.png",UK| Now Sports 4
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1032476&extension=ts&play_token=ttTO69Ep30
-#EXTINF:-1 tvg-id="1032475" tvg-name="UK| NOW HK NOW SPORTS 5" tvg-logo="http://103.176.90.95/images/1032475.png",UK| NOW HK NOW SPORTS 5
+#EXTINF:-1,tvg-id="410400" tvg-name="Now Sports 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 5.png",UK| Now Sports 5
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1032475&extension=ts&play_token=pkiWZk9n3X
-#EXTINF:-1 tvg-id="1032474" tvg-name="UK| NOW HK NOW SPORTS 6" tvg-logo="http://103.176.90.95/images/1032474.png",UK| NOW HK NOW SPORTS 6
+#EXTINF:-1,tvg-id="410401" tvg-name="Now Sports 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 6.png",UK| Now Sports 6
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1032474&extension=ts&play_token=IzcwaJhEO7
-#EXTINF:-1 tvg-id="1032473" tvg-name="UK| NOW HK NOW SPORTS 7" tvg-logo="http://103.176.90.95/images/1032473.png",UK| NOW HK NOW SPORTS 7
+#EXTINF:-1,tvg-id="410402" tvg-name="Now Sports 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 7.png",UK| Now Sports 7
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1032473&extension=ts&play_token=mIuVvo83pR
-
-
-#EXTINF:-1 tvg-id="1110615" tvg-name="SPORTS| HK NOW SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/nowsports.png",HK| NOW SPORTS 1 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1110615&extension=ts&play_token=AspPs5DIBn
-#EXTINF:-1 tvg-id="1110616" tvg-name="SPORTS| HK NOW SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/nowsports.png",HK| NOW SPORTS 2 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1110616&extension=ts&play_token=VPaOnXWelq
-#EXTINF:-1 tvg-id="1110617" tvg-name="SPORTS| HK NOW SPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/nowsports.png",HK| NOW SPORTS 3 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1110617&extension=ts&play_token=cwk8wh5gWB
-#EXTINF:-1 tvg-id="1110618" tvg-name="SPORTS| HK NOW SPORTS 4 HD" tvg-logo="http://103.176.90.118/picons/logos/nowsports.png",HK| NOW SPORTS 4 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1110618&extension=ts&play_token=XAXkdHVXy9
-#EXTINF:-1 tvg-id="1110619" tvg-name="SPORTS| HK NOW SPORTS 5 HD" tvg-logo="http://103.176.90.118/picons/logos/nowsports.png",HK| NOW SPORTS 5 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1110619&extension=ts&play_token=2vKF867gxy
-#EXTINF:-1 tvg-id="1110620" tvg-name="SPORTS| HK NOW SPORTS 6 HD" tvg-logo="http://103.176.90.118/picons/logos/nowsports.png",HK| NOW SPORTS 6 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1110620&extension=ts&play_token=C9B5SfKCsu
-#EXTINF:-1 tvg-id="1110621" tvg-name="SPORTS| HK NOW SPORTS 7 HD" tvg-logo="http://103.176.90.118/picons/logos/nowsports.png",HK| NOW SPORTS 7 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1110621&extension=ts&play_token=eHEfUgLavA
-#EXTINF:-1 tvg-id="1110622" tvg-name="SPORTS| HK NOW PREMIER SPORTS 1 HD" tvg-logo="http://picons.cmshulk.com/picons/1110622.png",HK| NOW PREMIER SPORTS 1 HD
+#EXTINF:-1,tvg-id="410388" tvg-name="Now Sports 英超1台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 1.png",HK| Now HK Premier Sports 1
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1110622&extension=ts&play_token=sNJOs0jcvh
-
-
-#EXTINF:-1 tvg-id="554949" tvg-name="HK| NOW SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/nowsports.png",HK| NOW SPORTS 1 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=554949&extension=ts&play_token=YnhP27DXex
-#EXTINF:-1 tvg-id="554948" tvg-name="HK| NOW SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/nowsports.png",HK| NOW SPORTS 2 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=554948&extension=ts&play_token=sJNiCM9xUQ
-#EXTINF:-1 tvg-id="554947" tvg-name="HK| NOW SPORTS 3 HD" tvg-logo="http://picons.cmshulk.com/picons/554947.png",HK| NOW SPORTS 3 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=554947&extension=ts&play_token=RDS7FtGIwh
-#EXTINF:-1 tvg-id="554946" tvg-name="HK| NOW SPORTS 4 HD" tvg-logo="http://picons.cmshulk.com/picons/554946.png",HK| NOW SPORTS 4 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=554946&extension=ts&play_token=RncrLO0E6e
-#EXTINF:-1 tvg-id="554945" tvg-name="HK| NOW SPORTS 5 HD" tvg-logo="http://picons.cmshulk.com/picons/554945.png",HK| NOW SPORTS 5 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=554945&extension=ts&play_token=ZSqI0Fn46A
-#EXTINF:-1 tvg-id="554944" tvg-name="HK| NOW SPORTS 6 HD" tvg-logo="http://picons.cmshulk.com/picons/554944.png",HK| NOW SPORTS 6 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=554944&extension=ts&play_token=EDSJUHJoOQ
-#EXTINF:-1 tvg-id="554943" tvg-name="HK| NOW SPORTS 7 HD" tvg-logo="http://picons.cmshulk.com/picons/554943.png",HK| NOW SPORTS 7 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=554943&extension=ts&play_token=Al3XcgAqe9
-#EXTINF:-1 tvg-id="554953" tvg-name="HK| NOW PREMIER SPORTS 1 HD" tvg-logo="http://picons.cmshulk.com/picons/554953.png",HK| NOW PREMIER SPORTS 1 HD
+#EXTINF:-1,tvg-id="410396" tvg-name="Now Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 1.png",HK| Now Sports 1
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1110615&extension=ts&play_token=AspPs5DIBn
+#EXTINF:-1,tvg-id="410397" tvg-name="Now Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 2.png",HK| Now Sports 2
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1110616&extension=ts&play_token=VPaOnXWelq
+#EXTINF:-1,tvg-id="410398" tvg-name="Now Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 3.png",HK| Now Sports 3
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1110617&extension=ts&play_token=cwk8wh5gWB
+#EXTINF:-1,tvg-id="410399" tvg-name="Now Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 4.png",HK| Now Sports 4
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1110618&extension=ts&play_token=XAXkdHVXy9
+#EXTINF:-1,tvg-id="410400" tvg-name="Now Sports 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 5.png",HK| Now Sports 5
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1110619&extension=ts&play_token=2vKF867gxy
+#EXTINF:-1,tvg-id="410401" tvg-name="Now Sports 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 6.png",HK| Now Sports 6
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1110620&extension=ts&play_token=C9B5SfKCsu
+#EXTINF:-1,tvg-id="410402" tvg-name="Now Sports 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 7.png",HK| Now Sports 7
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1110621&extension=ts&play_token=eHEfUgLavA
+#EXTINF:-1,tvg-id="410388" tvg-name="Now Sports 英超1台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 1.png",HK| Now HK Premier Sports 1
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=554953&extension=ts&play_token=rOSuqCstLh
+#EXTINF:-1,tvg-id="410396" tvg-name="Now Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 1.png",HK| Now Sports 1
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=554949&extension=ts&play_token=YnhP27DXex
+#EXTINF:-1,tvg-id="410397" tvg-name="Now Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 2.png",HK| Now Sports 2
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=554948&extension=ts&play_token=sJNiCM9xUQ
+#EXTINF:-1,tvg-id="410398" tvg-name="Now Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 3.png",HK| Now Sports 3
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=554947&extension=ts&play_token=RDS7FtGIwh
+#EXTINF:-1,tvg-id="410399" tvg-name="Now Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 4.png",HK| Now Sports 4
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=554946&extension=ts&play_token=RncrLO0E6e
+#EXTINF:-1,tvg-id="410400" tvg-name="Now Sports 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 5.png",HK| Now Sports 5
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=554945&extension=ts&play_token=ZSqI0Fn46A
+#EXTINF:-1,tvg-id="410401" tvg-name="Now Sports 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 6.png",HK| Now Sports 6
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=554944&extension=ts&play_token=EDSJUHJoOQ
+#EXTINF:-1,tvg-id="410402" tvg-name="Now Sports 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 7.png",HK| Now Sports 7
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=554943&extension=ts&play_token=Al3XcgAqe9
 
 
-
-
-#EXTINF:-1 tvg-id="941573" tvg-name="SG| HUB SPORTS 1 HD" tvg-logo="http://picons.cmshulk.com/picons/941573.png",SG| HUB SPORTS 1 HD
+#EXTINF:-1 tvg-id="412169" tvg-name="Hub Sports 1 HD" tvg-logo="http://picons.cmshulk.com/picons/941573.png",SG| Hub Sports 1
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=941573&extension=ts&play_token=69Y69eTiwo
-#EXTINF:-1 tvg-id="941572" tvg-name="SG| HUB SPORTS 2 HD" tvg-logo="http://picons.cmshulk.com/picons/941572.png",SG| HUB SPORTS 2 HD
+#EXTINF:-1 tvg-id="412154" tvg-name="Hub Sports 2 HD" tvg-logo="http://picons.cmshulk.com/picons/941572.png",SG| Hub Sports 2
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=941572&extension=ts&play_token=quVccetUyn
-#EXTINF:-1 tvg-id="941571" tvg-name="SG| HUB SPORTS 3 HD" tvg-logo="http://picons.cmshulk.com/picons/941571.png",SG| HUB SPORTS 3 HD
+#EXTINF:-1 tvg-id="412105" tvg-name="Hub Sports 3 HD" tvg-logo="http://picons.cmshulk.com/picons/941571.png",SG| Hub Sports 3
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=941571&extension=ts&play_token=8ejxuxzUCx
-#EXTINF:-1 tvg-id="941570" tvg-name="SG| PREMIER SPORTS HD" tvg-logo="http://picons.cmshulk.com/picons/941570.png",SG| PREMIER SPORTS HD
+#EXTINF:-1 tvg-id="369790" tvg-name="Premier Sports" tvg-logo="http://picons.cmshulk.com/picons/941570.png",SG| Premier Sports
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=941570&extension=ts&play_token=87c3Uth9XA
-#EXTINF:-1 tvg-id="941569" tvg-name="SG| BEIN SPORTS HD" tvg-logo="http://picons.cmshulk.com/picons/941569.png",SG| BEIN SPORTS HD
+#EXTINF:-1 tvg-id="369750" tvg-name="beIN SPORTS (HD)" tvg-logo="http://picons.cmshulk.com/picons/941569.png",SG| beIN Sports
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=941569&extension=ts&play_token=VsKmXDTawX
-#EXTINF:-1 tvg-id="941568" tvg-name="SG| BEIN SPORTS 2 HD" tvg-logo="http://103.176.90.95/picons/beinsportshd2.png",SG| BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="412129" tvg-name="beIN Sports 2 HD" tvg-logo="http://103.176.90.95/picons/beinsportshd2.png",SG| beIN Sports 2
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=941568&extension=ts&play_token=Zopj09kRqO
-#EXTINF:-1 tvg-id="941567" tvg-name="SG| BEIN SPORTS 3 HD" tvg-logo="http://picons.cmshulk.com/picons/941567.png",SG| BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-id="412175" tvg-name="beIN Sports 3" tvg-logo="http://picons.cmshulk.com/picons/941567.png",SG| beIN Sports 3
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=941567&extension=ts&play_token=FPgGVK6JQq
-#EXTINF:-1 tvg-id="941566" tvg-name="SG| BEIN SPORTS 4 HD" tvg-logo="http://picons.cmshulk.com/picons/941566.png",SG| BEIN SPORTS 4 HD
+#EXTINF:-1 tvg-id="456377" tvg-name="beIN Sports 4" tvg-logo="http://picons.cmshulk.com/picons/941566.png",SG| beIN Sports 4
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=941566&extension=ts&play_token=N0A18Ocbak
-#EXTINF:-1 tvg-id="941565" tvg-name="SG| BEIN SPORTS 5 HD" tvg-logo="http://picons.cmshulk.com/picons/941565.png",SG| BEIN SPORTS 5 HD
+#EXTINF:-1 tvg-id="456376" tvg-name="beIN Sports 5" tvg-logo="http://picons.cmshulk.com/picons/941565.png",SG| beIN Sports 5
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=941565&extension=ts&play_token=knWmVysQ4W
-#EXTINF:-1 tvg-id="941564" tvg-name="SG| SPOTV HD" tvg-logo="http://picons.cmshulk.com/picons/941564.png",SG| SPOTV HD
+#EXTINF:-1 tvg-id="412181" tvg-name="SPOTV" tvg-logo="http://picons.cmshulk.com/picons/941564.png",SG| SPOTV
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=941564&extension=ts&play_token=tV6PGTkpP8
-#EXTINF:-1 tvg-id="941563" tvg-name="SG| SPOTV2 HD" tvg-logo="http://picons.cmshulk.com/picons/941563.png",SG| SPOTV2 HD
+#EXTINF:-1 tvg-id="412187" tvg-name="SPOTV2" tvg-logo="http://picons.cmshulk.com/picons/941563.png",SG| SPOTV2
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=941563&extension=ts&play_token=QMKEjOaZdI
-#EXTINF:-1 tvg-id="941562" tvg-name="SG| NBA TV HD" tvg-logo="http://picons.cmshulk.com/picons/nbatv.png",SG| NBA TV HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=941562&extension=ts&play_token=uKq0jBVVgz
 
 
-
-
-
-#EXTINF:-1 tvg-id="913404" tvg-name="TR| A SPOR 4K" tvg-logo="http://picons.cmshulk.com/picons/913404.png",TR| A SPOR 4K
+#EXTINF:-1 tvg-id="387731" tvg-name="A Spor HD" tvg-logo="http://picons.cmshulk.com/picons/913404.png",TR| A Spor 4K
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913404&extension=ts&play_token=LGS4fovX3D
-#EXTINF:-1 tvg-id="913403" tvg-name="TR| A SPOR HD" tvg-logo="http://picons.cmshulk.com/picons/913403.png",TR| A SPOR HD
+#EXTINF:-1 tvg-id="387731" tvg-name="A Spor HD" tvg-logo="http://picons.cmshulk.com/picons/913404.png",TR| A Spor
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913403&extension=ts&play_token=kDZRtfJww2
-#EXTINF:-1 tvg-id="913402" tvg-name="TR| TRT SPOR 4K" tvg-logo="http://picons.cmshulk.com/picons/913402.png",TR| TRT SPOR 4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picons.cmshulk.com/picons/913402.png",TR| TRT Spor 4K
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913402&extension=ts&play_token=ecIYuT7jzd
-#EXTINF:-1 tvg-id="913401" tvg-name="TR| TRT SPOR HD" tvg-logo="http://picons.cmshulk.com/picons/913401.png",TR| TRT SPOR HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picons.cmshulk.com/picons/913401.png",TR| TRT Spor HD
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913401&extension=ts&play_token=tJ9Sj61Ril
-#EXTINF:-1 tvg-id="913405" tvg-name="TR| TRT SPOR YILDIZ" tvg-logo="http://picons.cmshulk.com/picons/913405.png",TR| TRT SPOR YILDIZ
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913405&extension=ts&play_token=EZUam7Pdgi
-#EXTINF:-1 tvg-id="1639118" tvg-name="TR| HABER TURK SPOR" tvg-logo="http://51.158.145.100/picons/logos/logos/HABER-TURK-SPOR.png",TR| HABER TURK SPOR
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1639118&extension=ts&play_token=joNFWdVRpu
-#EXTINF:-1 tvg-id="913400" tvg-name="TR| TAY TV" tvg-logo="http://picons.cmshulk.com/picons/913400.png",TR| TAY TV
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913400&extension=ts&play_token=TcfxFTb9QZ
-#EXTINF:-1 tvg-id="1337928" tvg-name="TR| EXXEN TV" tvg-logo="http://picons.cmshulk.com/picons/1337928.png",TR| EXXEN TV
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1337928&extension=ts&play_token=iaATX7EeD6
-#EXTINF:-1 tvg-id="913399" tvg-name="TR| E X X E N SPORT 4K" tvg-logo="http://picons.cmshulk.com/picons/913399.png",TR| E X X E N SPORT 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913399&extension=ts&play_token=IY2RvF5cpR
-#EXTINF:-1 tvg-id="913398" tvg-name="TR| E X X E N SPOR 1 4K" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E X X E N SPOR 1 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913398&extension=ts&play_token=MH9DI1aiwo
-#EXTINF:-1 tvg-id="913397" tvg-name="TR| E-X-X-E-N SPOR 1 HD" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 1 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913397&extension=ts&play_token=pyXg8UMZeL
-#EXTINF:-1 tvg-id="913396" tvg-name="TR| E-X-X-E-N SPOR 1" tvg-logo="http://picons.cmshulk.com/picons/913396.png",TR| E-X-X-E-N SPOR 1
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913396&extension=ts&play_token=4zY50DDPLy
-#EXTINF:-1 tvg-id="913395" tvg-name="TR| E-X-X-E-N SPOR 2 4K" tvg-logo="http://picons.cmshulk.com/picons/913395.png",TR| E-X-X-E-N SPOR 2 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913395&extension=ts&play_token=MZyLC1mdkd
-#EXTINF:-1 tvg-id="913394" tvg-name="TR| E-X-X-E-N SPOR 2 HD" tvg-logo="http://picons.cmshulk.com/picons/913394.png",TR| E-X-X-E-N SPOR 2 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913394&extension=ts&play_token=dm2FF8MG0D
-#EXTINF:-1 tvg-id="913393" tvg-name="TR| E-X-X-E-N SPOR 3 4K" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 3 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913393&extension=ts&play_token=k4VyavRyKC
-#EXTINF:-1 tvg-id="913392" tvg-name="TR| E-X-X-E-N SPOR 3 HD" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 3 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913392&extension=ts&play_token=uRzzdTWK4S
-#EXTINF:-1 tvg-id="913391" tvg-name="TR| E-X-X-E-N SPORT 4 4K" tvg-logo="http://picons.cmshulk.com/picons/913391.png",TR| E-X-X-E-N SPORT 4 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913391&extension=ts&play_token=n3ItGy76Ju
-#EXTINF:-1 tvg-id="913390" tvg-name="TR| E-X-X-E-N SPOR 4 HD" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 4 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913390&extension=ts&play_token=3F8wMZm0Fq
-#EXTINF:-1 tvg-id="913389" tvg-name="TR| E-X-X-E-N SPOR 5 4K" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 5 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913389&extension=ts&play_token=4bDqsyEWOP
-#EXTINF:-1 tvg-id="913388" tvg-name="TR| E-X-X-E-N SPOR 5 HD" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 5 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913388&extension=ts&play_token=vQWrsDl7ck
-#EXTINF:-1 tvg-id="913387" tvg-name="TR| E-X-X-E-N SPOR 6 4K" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 6 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913387&extension=ts&play_token=hJ9PJMPFrq
-#EXTINF:-1 tvg-id="913386" tvg-name="TR| E-X-X-E-N SPOR 6 HD" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 6 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913386&extension=ts&play_token=9d8tfP6IsY
-#EXTINF:-1 tvg-id="913385" tvg-name="TR| E-X-X-E-N SPOR 7 4K" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 7 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913385&extension=ts&play_token=cdNt5EhYef
-#EXTINF:-1 tvg-id="913384" tvg-name="TR| E-X-X-E-N SPOR 7 HD" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 7 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913384&extension=ts&play_token=IxASRM6ZLj
-#EXTINF:-1 tvg-id="913383" tvg-name="TR| E-X-X-E-N SPOR 8 4K" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 8 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913383&extension=ts&play_token=FugFhSc07N
-#EXTINF:-1 tvg-id="913382" tvg-name="TR| TRT SPOR 2 HD" tvg-logo="http://picons.cmshulk.com/picons/913382.png",TR| TRT SPOR 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picons.cmshulk.com/picons/913382.png",TR| TRT Spor 2
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913382&extension=ts&play_token=MnVncxtouZ
-#EXTINF:-1 tvg-id="913381" tvg-name="TR| S-SPORT HD" tvg-logo="http://picons.cmshulk.com/picons/913381.png",TR| S-SPORT HD
+#EXTINF:-1 tvg-id="444115" tvg-name="TRT Spor Yıldız [TR]" tvg-logo="http://picons.cmshulk.com/picons/913405.png",TR| TRT Spor Yıldız
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913405&extension=ts&play_token=EZUam7Pdgi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/HABER-TURK-SPOR.png",TR| HABER TURK SPOR
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1639118&extension=ts&play_token=joNFWdVRpu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picons.cmshulk.com/picons/913400.png",TR| TAY TV
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913400&extension=ts&play_token=TcfxFTb9QZ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picons.cmshulk.com/picons/1337928.png",TR| EXXEN TV
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1337928&extension=ts&play_token=iaATX7EeD6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picons.cmshulk.com/picons/913399.png",TR| E X X E N SPORT 4K
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913399&extension=ts&play_token=IY2RvF5cpR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E X X E N SPOR 1 4K
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913398&extension=ts&play_token=MH9DI1aiwo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 1 HD
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913397&extension=ts&play_token=pyXg8UMZeL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picons.cmshulk.com/picons/913396.png",TR| E-X-X-E-N SPOR 1
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913396&extension=ts&play_token=4zY50DDPLy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picons.cmshulk.com/picons/913395.png",TR| E-X-X-E-N SPOR 2 4K
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913395&extension=ts&play_token=MZyLC1mdkd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picons.cmshulk.com/picons/913394.png",TR| E-X-X-E-N SPOR 2 HD
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913394&extension=ts&play_token=dm2FF8MG0D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 3 4K
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913393&extension=ts&play_token=k4VyavRyKC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 3 HD
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913392&extension=ts&play_token=uRzzdTWK4S
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picons.cmshulk.com/picons/913391.png",TR| E-X-X-E-N SPORT 4 4K
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913391&extension=ts&play_token=n3ItGy76Ju
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 4 HD
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913390&extension=ts&play_token=3F8wMZm0Fq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 5 4K
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913389&extension=ts&play_token=4bDqsyEWOP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 5 HD
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913388&extension=ts&play_token=vQWrsDl7ck
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 6 4K
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913387&extension=ts&play_token=hJ9PJMPFrq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 6 HD
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913386&extension=ts&play_token=9d8tfP6IsY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 7 4K
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913385&extension=ts&play_token=cdNt5EhYef
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 7 HD
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913384&extension=ts&play_token=IxASRM6ZLj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/EXXEN-SPORTS.png",TR| E-X-X-E-N SPOR 8 4K
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913383&extension=ts&play_token=FugFhSc07N
+#EXTINF:-1 tvg-id="444098" tvg-name="S Sport [TR]" tvg-logo="http://picons.cmshulk.com/picons/913381.png",TR| S Sport HD
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913381&extension=ts&play_token=ZjBvOinoXI
-#EXTINF:-1 tvg-id="913380" tvg-name="TR| S-SPORT 2 HD" tvg-logo="http://picons.cmshulk.com/picons/913380.png",TR| S-SPORT 2 HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913380&extension=ts&play_token=qjJTws7Aws
-#EXTINF:-1 tvg-id="913379" tvg-name="TR| S SPORT PLUS+" tvg-logo="http://picons.cmshulk.com/picons/913379.png",TR| S SPORT PLUS+
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913379&extension=ts&play_token=PicHDcJyHL
-#EXTINF:-1 tvg-id="913378" tvg-name="TR| S SPORT PLUS+1" tvg-logo="http://picons.cmshulk.com/picons/913378.png",TR| S SPORT PLUS+1
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913378&extension=ts&play_token=sz6LlNOheb
-#EXTINF:-1 tvg-id="913377" tvg-name="TR| S SPORT PLUS+2" tvg-logo="http://picons.cmshulk.com/picons/913377.png",TR| S SPORT PLUS+2
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913377&extension=ts&play_token=jqCXInaMkE
-#EXTINF:-1 tvg-id="913376" tvg-name="TR| SPOR SMART HD" tvg-logo="http://picons.cmshulk.com/picons/913376.png",TR| SPOR SMART HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913376&extension=ts&play_token=n1poZvFojW
-#EXTINF:-1 tvg-id="913375" tvg-name="TR| SPOR SMART 2 4K" tvg-logo="http://picons.cmshulk.com/picons/913375.png",TR| SPOR SMART 2 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913375&extension=ts&play_token=Z98E9I99wb
-#EXTINF:-1 tvg-id="913374" tvg-name="TR| SPORTSTV HD" tvg-logo="http://picons.cmshulk.com/picons/913374.png",TR| SPORTSTV HD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913374&extension=ts&play_token=EdlMrDZpGu
-#EXTINF:-1 tvg-id="1447189" tvg-name="TR| TIVIBUSPOR  4K" tvg-logo="http://picons.cmshulk.com/picons/1447189.png",TR| TIVIBUSPOR  4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1447189&extension=ts&play_token=FxtLW5ira0
-#EXTINF:-1 tvg-id="913373" tvg-name="TR| TIVIBUSPOR 1 4K" tvg-logo="http://picons.cmshulk.com/picons/913373.png",TR| TIVIBUSPOR 1 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913373&extension=ts&play_token=pxLAYsP2Ha
-#EXTINF:-1 tvg-id="913372" tvg-name="TR| TIVIBUSPOR 2 4K" tvg-logo="http://103.176.90.118/picons/logos/TIVIBU-SPOR-2.png",TR| TIVIBUSPOR 2 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913372&extension=ts&play_token=ZZhCuIuR4J
-#EXTINF:-1 tvg-id="913371" tvg-name="TR| TIVIBUSPOR 3 4K" tvg-logo="http://103.176.90.118/picons/logos/TIVIBU-SPOR-3.png",TR| TIVIBUSPOR 3 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913371&extension=ts&play_token=DixqZg5Wje
-#EXTINF:-1 tvg-id="1447190" tvg-name="TR| TIVIBUSPOR 4  4K" tvg-logo="http://103.176.90.118/picons/logos/USA/TIVIBUSPOR.png",TR| TIVIBUSPOR 4  4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1447190&extension=ts&play_token=qmfOcUHaNF
-#EXTINF:-1 tvg-id="913370" tvg-name="TR| SPOR SMART 4K" tvg-logo="http://picons.cmshulk.com/picons/913370.png",TR| SPOR SMART 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913370&extension=ts&play_token=hmRrsiyVpL
-#EXTINF:-1 tvg-id="913369" tvg-name="TR| S-SPORT 1 4K" tvg-logo="http://picons.cmshulk.com/picons/913369.png",TR| S-SPORT 1 4K
+#EXTINF:-1 tvg-id="444098" tvg-name="S Sport [TR]" tvg-logo="http://picons.cmshulk.com/picons/913369.png",TR| S Sport 1 4K
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913369&extension=ts&play_token=KxJTuC7sdz
+#EXTINF:-1 tvg-id="444123" tvg-name="S Sport 2 [TR]" tvg-logo="http://picons.cmshulk.com/picons/913380.png",TR| S Sport 2 HD
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913380&extension=ts&play_token=qjJTws7Aws
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picons.cmshulk.com/picons/913379.png",TR| S SPORT PLUS+
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913379&extension=ts&play_token=PicHDcJyHL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picons.cmshulk.com/picons/913378.png",TR| S SPORT PLUS+1
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913378&extension=ts&play_token=sz6LlNOheb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picons.cmshulk.com/picons/913377.png",TR| S SPORT PLUS+2
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913377&extension=ts&play_token=jqCXInaMkE
+#EXTINF:-1 tvg-id="411887" tvg-name="Spor Smart TR" tvg-logo="http://picons.cmshulk.com/picons/913370.png",TR| Spor Smart 4K
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913370&extension=ts&play_token=hmRrsiyVpL
+#EXTINF:-1 tvg-id="411887" tvg-name="Spor Smart TR" tvg-logo="http://picons.cmshulk.com/picons/913376.png",TR| Spor Smart HD
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913376&extension=ts&play_token=n1poZvFojW
+#EXTINF:-1 tvg-id="411899" tvg-name="Spor Smart 2 TR" tvg-logo="http://picons.cmshulk.com/picons/913375.png",TR| Spor Smart 2 4K
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913375&extension=ts&play_token=Z98E9I99wb
+#EXTINF:-1 tvg-id="405679" tvg-name="Sports TV TR" tvg-logo="http://picons.cmshulk.com/picons/913374.png",TR| Sports TV
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913374&extension=ts&play_token=EdlMrDZpGu
+#EXTINF:-1 tvg-id="409702" tvg-name="Tivibu Spor [TR]" tvg-logo="http://picons.cmshulk.com/picons/1447189.png",TR| Tivibu Spor
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1447189&extension=ts&play_token=FxtLW5ira0
+#EXTINF:-1 tvg-id="405488" tvg-name="Tivibu Spor 1" tvg-logo="http://picons.cmshulk.com/picons/913373.png",TR| Tivibu Spor 1
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913373&extension=ts&play_token=pxLAYsP2Ha
+#EXTINF:-1 tvg-id="405609" tvg-name="Tivibu Spor 2" tvg-logo="http://103.176.90.118/picons/logos/TIVIBU-SPOR-2.png",TR| Tivibu Spor 2
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913372&extension=ts&play_token=ZZhCuIuR4J
+#EXTINF:-1 tvg-id="444097" tvg-name="Tivibu Spor 3 [TR]" tvg-logo="http://103.176.90.118/picons/logos/TIVIBU-SPOR-3.png",TR| Tivibu Spor 3
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=913371&extension=ts&play_token=DixqZg5Wje
+#EXTINF:-1 tvg-id="1447190" tvg-name="TR| TIVIBUSPOR 4  4K" tvg-logo="http://103.176.90.118/picons/logos/USA/TIVIBUSPOR.png",TR| Tivibu Spor 4
+http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1447190&extension=ts&play_token=qmfOcUHaNF
+
+
 
 
 
