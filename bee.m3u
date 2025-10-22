@@ -20,9 +20,9 @@ http://192.168.2.98:5050/play?id=TNT-Sports-4-BU
 http://192.168.2.98:5050/play?id=Sky-Sports-Football
 #EXTINF:-1 tvg-id="9321" tvg-name="SkySp Fball" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-v-dh-zp-i-qa-alh-lgx1-jpu-y-y-q-m-t-c4-o7-fi7-rc-fcqz-uup.png",Sky Sports Football [備線]
 http://192.168.2.98:5050/play?id=Sky-Sports-Football-BU
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="SkySpMainEv" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8-a1o6-z1-vb-a-dve-w2-xa-c-kb9-odz-hewz-yl0-w-p-c-l-hcr7p.png",Sky Sports Main Event
+#EXTINF:-1 tvg-id="7673" tvg-name="Sky Sports Main Event HD" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8-a1o6-z1-vb-a-dve-w2-xa-c-kb9-odz-hewz-yl0-w-p-c-l-hcr7p.png",Sky Sports Main Event
 http://192.168.2.98:5050/play?id=Sky-Sports-Main-Event
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="SkySpMainEv" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8-a1o6-z1-vb-a-dve-w2-xa-c-kb9-odz-hewz-yl0-w-p-c-l-hcr7p.png",Sky Sports Main Event [備線]
+#EXTINF:-1 tvg-id="7673" tvg-name="Sky Sports Main Event HD" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8-a1o6-z1-vb-a-dve-w2-xa-c-kb9-odz-hewz-yl0-w-p-c-l-hcr7p.png",Sky Sports Main Event [備線]
 http://192.168.2.98:5050/play?id=Sky-Sports-Main-Event-BU
 #EXTINF:-1 tvg-id="9506" tvg-name="SkySp PL" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg",Sky Sports Premier League
 http://192.168.2.98:5050/play?id=Sky-Sports-Premier-League
