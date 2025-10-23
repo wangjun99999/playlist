@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,video.mytvsuper.xyz,香港-HKG-01-VL
 DOMAIN-SUFFIX,mytvsuper.com.mp,香港-HKG-01-VL
 DOMAIN-SUFFIX,tvb.com,香港-HKG-01-VL
 DOMAIN-SUFFIX,hoy.tv,香港-HKG-01-VL
+DOMAIN-SUFFIX,api2.hoy.tv,香港-HKG-01-VL
 DOMAIN-SUFFIX,viu.tv,香港-HKG-01-VL
 DOMAIN-SUFFIX,api.viu.now.com,香港-HKG-01-VL
 DOMAIN-SUFFIX,now.com,香港-HKG-01-VL
