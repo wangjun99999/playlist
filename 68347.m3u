@@ -3,8 +3,6 @@
 #EXTINF:-1 tvg-id="7673" tvg-name="Sky Sports Main Event HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event%20UHD.png",UK| Sky Sports Main Event (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1608071&extension=ts&play_token=ALaSAR8wmK
 #EXTINF:-1 tvg-id="7673" tvg-name="Sky Sports Main Event HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event%20UHD.png",UK| Sky Sports Main Event (UHD/4K)
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1448189&extension=ts&play_token=Bbnz0C05qI
-#EXTINF:-1 tvg-id="7673" tvg-name="Sky Sports Main Event HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event%20UHD.png",UK| Sky Sports Main Event (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1641636&extension=ts&play_token=nXXlKVJ3HI
 #EXTINF:-1 tvg-id="9375" tvg-name="SkySp F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",UK| Sky Sports F1 (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1641637&extension=ts&play_token=XVIjsdA9bJ
@@ -41,8 +39,6 @@ http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1764953
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/TOD%20360.png",AR| TOD 360 ULTRA 4K (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1347222&extension=ts&play_token=A3Qr5QIXmg
 #EXTINF:-1 tvg-id="401577" tvg-name="Sky Sport 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20UHD.png",DE| Sky Sport (UHD/4K)
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=411603&extension=ts&play_token=JKYuXyMW9V
-#EXTINF:-1 tvg-id="401577" tvg-name="Sky Sport 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20UHD.png",DE| Sky Sport (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1753227&extension=ts&play_token=FruFZZgJfm
 #EXTINF:-1 tvg-id="212821" tvg-name="Sky Sport Bundesliga" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%20UHD.png",DE| Sky Sport Bundesliga (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=411573&extension=ts&play_token=MCnMFhMQQe
@@ -52,64 +48,25 @@ http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1761911
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1380012&extension=ts&play_token=pmOo4afZes
 #EXTINF:-1 tvg-id="459266" tvg-name="Canal+ Sport" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/Canal%2B%20Sport.png",FR| Canal+ Evenment Sport (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1380011&extension=ts&play_token=l61JhrNDFg
-#EXTINF:-1 tvg-id="406588" tvg-name="DAZN LALIGA [ES]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/DAZN%20LaLiga.png",ES| DAZN LaLiga (UHD/4K)
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1471376&extension=ts&play_token=7oR5AylA4L
-#EXTINF:-1 tvg-id="406588" tvg-name="DAZN LALIGA [ES]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/DAZN%20LaLiga.png",ES| DAZN LaLiga (UHD/4K)
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=986639&extension=ts&play_token=ci92IKArFi
-#EXTINF:-1 tvg-id="406568" tvg-name="M+ Liga de Campeones [ES]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/Liga%20de%20Campeones%20UHD.png",Liga de Campeones (UHD/4K)
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1777884&extension=ts&play_token=rLNVUXZD9t
 #EXTINF:-1 tvg-id="6338" tvg-name="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PL/Eleven%20Sports%201.png",PL| Eleven Sports 1 (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1470618&extension=ts&play_token=qx50QnJzhB
-#EXTINF:-1 tvg-id="6338" tvg-name="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PL/Eleven%20Sports%201.png",PL| Eleven Sports 1 (UHD/4K)
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1498959&extension=ts&play_token=4tNK34n5qp
-#EXTINF:-1 tvg-id="6338" tvg-name="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PL/Eleven%20Sports%201.png",PL| Eleven Sports 1 (UHD/4K)
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=905665&extension=ts&play_token=ARoU1dEhhA
-#EXTINF:-1 tvg-id="465225" tvg-name="New England Sports Network HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NESN.png",US| NESN (UHD/4K)
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1124351&extension=ts&play_token=7sIo4zBu8B
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox.png",US| FOX (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1124348&extension=ts&play_token=gIeVDEUvpH
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20Sports%20Ultra.png",US| FOX Sports (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1124346&extension=ts&play_token=FEUcIs9UUV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20Sports%20Regional%20Networks.png",US| FOX Regional (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1124347&extension=ts&play_token=Eb2wNVSdGE
-#EXTINF:-1 tvg-id="464779" tvg-name="NBC Sports 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NBC%20Sports.png",US| NBC Sports (UHD/4K)
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1124350&extension=ts&play_token=7LozxGpZeb
-#EXTINF:-1 tvg-id="465058" tvg-name="CHSN Chicago Sports Network" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Chicago%20Sports%20Network.png",US| Chicago Sports Network (UHD/4K)
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1124349&extension=ts&play_token=Y5IJcWjXvz
-#EXTINF:-1 tvg-id="409255" tvg-name="Sportsnet 360 [CA]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/SportsNet%20360.png",CA| Sportsnet 360
+#EXTINF:-1 tvg-id="409255" tvg-name="Sportsnet 360 [CA]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/SportsNet%20360.png",CA| Sportsnet 360 (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1470603&extension=ts&play_token=ZTndsg0Izx
-#EXTINF:-1 tvg-id="407574" tvg-name="V Sport 1 [NO]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/V%20Sport%2B.png",NOR| V Sport (UHD/4K)
+#EXTINF:-1 tvg-id="68288" tvg-name="Viasat Sport HD SE" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/V%20Sport%20ULTRA.png",NOR| V Sport (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1749221&extension=ts&play_token=ZKIoUQFvLT
-#EXTINF:-1 tvg-id="407574" tvg-name="V Sport 1 [NO]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/V%20Sport%2B.png",NOR| V Sport (UHD/4K)
+#EXTINF:-1 tvg-id="68288" tvg-name="Viasat Sport HD SE" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/V%20Sport%20ULTRA.png",NOR| V Sport (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1387334&extension=ts&play_token=kRGteTwk4s
-#EXTINF:-1 tvg-id="407577" tvg-name="V Sport+ [NO]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/V%20Sport%2B.png",NOR| V Sport+ (UHD/4K)
+#EXTINF:-1 tvg-id="68288" tvg-name="Viasat Sport HD SE" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/V%20Sport%20ULTRA.png",NOR| V Sport (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1632123&extension=ts&play_token=tq4hjTvotP
-#EXTINF:-1 tvg-id="406806" tvg-name="Ziggo Sport 1 [NL]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/Ziggo%20Sport.png",NL| Ziggo Sport (UHD/4K)
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1481950&extension=ts&play_token=55xIPUxfsK
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="534481" tvg-name="GR| ERT SPORTS 1 UHD" tvg-logo="http://103.176.90.95/images/534481.png",GR| ERT SPORTS 1 UHD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=534481&extension=ts&play_token=EP21PRuH3e
-#EXTINF:-1 tvg-id="534480" tvg-name="GR| ERT SPORTS 2 UHD" tvg-logo="http://103.176.90.95/images/534480.png",GR| ERT SPORTS 2 UHD
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=534480&extension=ts&play_token=84MvxP3Pfw
-#EXTINF:-1 tvg-id="1541593" tvg-name="SWE| VIAPLAY SPORT GOLF 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png",SWE| VIAPLAY SPORT GOLF 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1541593&extension=ts&play_token=emPxAfqhEm
-#EXTINF:-1 tvg-id="1541595" tvg-name="SWE| VIAPLAY SPORT MOTOR 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png",SWE| VIAPLAY SPORT MOTOR 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1541595&extension=ts&play_token=gpr0Ruqjcj
-#EXTINF:-1 tvg-id="1541597" tvg-name="SWE| VIAPLAY SPORT PREMIUM 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png",SWE| VIAPLAY SPORT PREMIUM 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1541597&extension=ts&play_token=ollzJMWeBQ
-#EXTINF:-1 tvg-id="1541600" tvg-name="SWE| VIAPLAY ULTRA 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png",SWE| VIAPLAY ULTRA 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1541600&extension=ts&play_token=EoVm4jOlwd
-#EXTINF:-1 tvg-id="1112184" tvg-name="SWE| VIAPLAY ULTRA 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png",SWE| VIAPLAY ULTRA 4K
-http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1112184&extension=ts&play_token=tnhEqYUr02
-#EXTINF:-1 tvg-id="466358" tvg-name="FIN| VIASAT SPORT ULTRA 4K+" tvg-logo="http://picons.cmshulk.com/picons/466358.png",FIN| VIASAT SPORT ULTRA 4K+
+#EXTINF:-1 tvg-id="68288" tvg-name="Viasat Sport HD SE" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/V%20Sport%20ULTRA.png",FIN| Viasat Sport (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=466358&extension=ts&play_token=3KiesoKVKq
-#EXTINF:-1 tvg-id="154625" tvg-name="FI| VIASAT SPORT ULTRA 4K+ [ONLY ON 4K DEVICES]" tvg-logo="http://103.176.90.118/picons/logos/logos/VIASAT-SPORT-ULTRA.png",FI| VIASAT SPORT ULTRA 4K+ [ONLY ON 4K DEVICES]
+#EXTINF:-1 tvg-id="68288" tvg-name="Viasat Sport HD SE" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/V%20Sport%20ULTRA.png",FIN| Viasat Sport (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=154625&extension=ts&play_token=GhWr58CxUa
 
 
