@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,tonton.com.my,新加坡-SIN-01-VL
 DOMAIN-SUFFIX,astradamy.com,新加坡-SIN-01-VL
 DOMAIN-SUFFIX,starhubgo.com,新加坡-SIN-01-VL
 DOMAIN-SUFFIX,akamaihd.net,新加坡-SIN-01-VL
+DOMAIN-SUFFIX,perfecttv.net,新加坡-SIN-01-VL
 
 # === 美国 Smart ===
 DOMAIN-SUFFIX,50.7.158.194,美国-SJC-01-VL
