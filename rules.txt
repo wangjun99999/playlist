@@ -43,6 +43,11 @@ DOMAIN-SUFFIX,api2.hoy.tv,香港-HKG-01-VL
 DOMAIN-SUFFIX,viu.tv,香港-HKG-01-VL
 DOMAIN-SUFFIX,api.viu.now.com,香港-HKG-01-VL
 DOMAIN-SUFFIX,now.com,香港-HKG-01-VL
+DOMAIN-SUFFIX,rthktv31-live.akamaized.net,香港-HKG-01-VL
+DOMAIN-SUFFIX,rthktv32-live.akamaized.net,香港-HKG-01-VL
+DOMAIN-SUFFIX,rthktv33-live.akamaized.net,香港-HKG-01-VL
+DOMAIN-SUFFIX,rthktv34-live.akamaized.net,香港-HKG-01-VL
+DOMAIN-SUFFIX,rthktv35-live.akamaized.net,香港-HKG-01-VL
 
 # === 新加坡 Astro ===
 DOMAIN-SUFFIX,astro.com.my,新加坡-SIN-01-VL
