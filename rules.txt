@@ -2,8 +2,9 @@
 # 🌏 自定义分流规则
 # =============================
 
-# === 台湾 4GTV ===
+# === 台湾 4GTV/Hami ===
 DOMAIN-SUFFIX,ofissaifreepc.akamaized.net,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,akamaized.net,台湾-TPE-HiNet-01-VL
 DOMAIN-SUFFIX,kktv.com.tw台湾-TPE-HiNet-01-VL
 DOMAIN-SUFFIX,kktv.me,台湾-TPE-HiNet-01-VL
 DOMAIN-SUFFIX,kk.stream,台湾-TPE-HiNet-01-VL
@@ -24,9 +25,32 @@ DOMAIN-SUFFIX,hinet,台湾-TPE-HiNet-01-VL
 DOMAIN-SUFFIX,4gtv,台湾-TPE-HiNet-01-VL
 DOMAIN-SUFFIX,cdn.hinet.net,台湾-TPE-HiNet-01-VL
 DOMAIN-SUFFIX,api2.4gtv.tv,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,4gtvfree-mozai.4gtv.tv,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,4gtvfreepc-cds.cdn.hinet.net,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,4gtvfreemobile-cds.cdn.hinet.net,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,ofiii.com,台湾-TPE-HiNet-01-VL
+
+# === 香港 TVB/Mytv/HOY ===
+DOMAIN-SUFFIX,mytvsuper.com,香港-HKG-01-VL
+DOMAIN-SUFFIX,mytvsuper.xyz,香港-HKG-01-VL
+DOMAIN-SUFFIX,video.mytvsuper.xyz,香港-HKG-01-VL
+DOMAIN-SUFFIX,mytvsuper.com.mp,香港-HKG-01-VL
+DOMAIN-SUFFIX,tvb.com,香港-HKG-01-VL
+DOMAIN-SUFFIX,hoy.tv,香港-HKG-01-VL
+DOMAIN-SUFFIX,viu.tv,香港-HKG-01-VL
+DOMAIN-SUFFIX,api.viu.now.com,香港-HKG-01-VL
+DOMAIN-SUFFIX,now.com,香港-HKG-01-VL
 
 # === 新加坡 Astro ===
 DOMAIN-SUFFIX,astro.com.my,新加坡-SIN-01-VL
+DOMAIN-SUFFIX,unifi.com.my,新加坡-SIN-01-VL
+DOMAIN-SUFFIX,sooka.my,新加坡-SIN-01-VL
+DOMAIN-SUFFIX,tonton.com.my,新加坡-SIN-01-VL
+DOMAIN-SUFFIX,astradamy.com,新加坡-SIN-01-VL
+DOMAIN-SUFFIX,starhubgo.com,新加坡-SIN-01-VL
+DOMAIN-SUFFIX,akamaihd.net,新加坡-SIN-01-VL
 
 # === 美国 Smart ===
 DOMAIN-SUFFIX,50.7.158.194,美国-SJC-01-VL
