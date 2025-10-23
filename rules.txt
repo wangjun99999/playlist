@@ -1,0 +1,35 @@
+# =============================
+# 🌏 自定义分流规则
+# =============================
+
+# === 台湾 4GTV ===
+DOMAIN-SUFFIX,ofissaifreepc.akamaized.net,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,kktv.com.tw台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,kktv.me,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,kk.stream,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,chocotv.com.tw,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,line-cdn.net,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,line-scdn.net,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,linetv.tw,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,litv.tv,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,LiTV.tv,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,chinet.net,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,hinet.net,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,4gtv.tv,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,ntdofifreepc.akamaized.net,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,ntdofifreepocpc.akamaized.net,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,ntdofifreevcpc.akamaized.net,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,hamivideo,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,hinet,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,4gtv,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,cdn.hinet.net,台湾-TPE-HiNet-01-VL
+DOMAIN-SUFFIX,api2.4gtv.tv,台湾-TPE-HiNet-01-VL
+
+# === 新加坡 Astro ===
+DOMAIN-SUFFIX,astro.com.my,新加坡-SIN-01-VL
+
+# === 美国 Smart ===
+DOMAIN-SUFFIX,50.7.158.194,美国-SJC-01-VL
+
+
+
