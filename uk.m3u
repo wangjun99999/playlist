@@ -70,7 +70,12 @@ http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1471376&extension
 http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1471377&extension=ts&play_token=8Qc7OsZxyt
 #EXTINF:-1 tvg-id="369822" tvg-name="Hub Premier 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%202.png",HUB PREMIER 2 (UHD/4K)
 http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032518&extension=ts&play_token=NdqcgnIrbr
-
+#EXTINF:-1 tvg-id="409255" tvg-name="Sportsnet 360 [CA]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/SportsNet%20360.png",Sportsnet 360 (UHD/4K)
+http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1470603&extension=ts&play_token=f1Sb2vAxil
+#EXTINF:-1 tvg-id="68288" tvg-name="Viasat Sport HD SE" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/V%20Sport%20ULTRA.png",V Sport (UHD/4K)
+http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1749221&extension=ts&play_token=3psMWwKaIS
+#EXTINF:-1 tvg-id="6338" tvg-name="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PL/Eleven%20Sports%201.png",Eleven Sports 1 (UHD/4K)
+http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1470618&extension=ts&play_token=xDkYV0lZTQ
 
 #EXTINF:-1 tvg-id="7673" tvg-name="Sky Sports Main Event HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png",Sky Sports Main Event
 http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=30496&extension=ts&play_token=BTFp2lpdBM
