@@ -1,3 +1,15 @@
+#EXTINF:-1 tvg-id="lch211" tvg-name="E*SPN 1 4K" tvg-logo="https://imgmxa.net/espn1.png" group-title="Canais [4K]",E*SPN 1 4K
+http://jt0x.com:80/5596441560leandro/le4667732/1658.ts
+#EXTINF:-1 tvg-id="lch464" tvg-name="E*SPN 2 4K" tvg-logo="https://imgmxa.net/espn2.png" group-title="Canais [4K]",E*SPN 2 4K
+http://jt0x.com:80/5596441560leandro/le4667732/1645.ts
+#EXTINF:-1 tvg-id="lch144" tvg-name="E*SPN 4 4K" tvg-logo="https://i.imgur.com/TAoxLQY.png" group-title="Canais [4K]",E*SPN 4 4K
+http://jt0x.com:80/5596441560leandro/le4667732/1636.ts
+#EXTINF:-1 tvg-id="lch855" tvg-name="ESPN 5 4K" tvg-logo="https://imgmxa.net/espn1.png" group-title="Canais [4K]",ESPN 5 4K
+http://jt0x.com:80/5596441560leandro/le4667732/1643.ts
+#EXTINF:-1 tvg-id="lch216" tvg-name="S*porTV 1 4K" tvg-logo="https://imgmxa.net/sportv1-2023.png" group-title="Canais [4K]",S*porTV 1 4K
+http://jt0x.com:80/5596441560leandro/le4667732/1639.ts
+
+
 #EXTINF:-1 tvg-id="" group-title="移动18",惊艳
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 #EXTINF:-1 tvg-id="" group-title="移动18",潘朵啦
