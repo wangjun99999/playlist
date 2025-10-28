@@ -134,15 +134,15 @@ https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.m
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY",Berita RTM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY",DIDIK TV KPM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY",DIDIK TV KPM失效
 https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY",8TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY",8TV失效
 https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY",Drama Hebat
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
