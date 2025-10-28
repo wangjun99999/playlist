@@ -101,6 +101,7 @@ tvb.com
 hoy.tv
 api2.hoy.tv
 hoytv-live-stream.hoy.tv
+edge.media.seaovers.live
 viu.tv
 api.viu.now.com
 now.com
