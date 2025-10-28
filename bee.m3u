@@ -52,11 +52,11 @@ http://192.168.2.98:5050/play?id=BEIN-SPORT-USA-BU
 http://192.168.2.98:5050/play?id=Racing-TV
 #EXTINF:-1 tvg-id="465236" tvg-name="Tennis Channel HD" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/94bbab25-acbc-4e62-9468-39038ac16f92-tc_og.png",Tennis Channel
 http://192.168.2.98:5050/play?id=Tennis-Channel
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/9r-j-w92-g-j-imn-a2vfqm6v-k-er0-n-o9-k-l8-b-phk-a4cv-cbq.png",DAZN
+#EXTINF:-1 tvg-id="76632" tvg-name="DAZN" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/9r-j-w92-g-j-imn-a2vfqm6v-k-er0-n-o9-k-l8-b-phk-a4cv-cbq.png",DAZN
 http://192.168.2.98:5050/play?id=DAZN-TV
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/be-i-n_-s-p-o-r-t-s1_-e-n-g-l-i-s-h_-digital_-mono.png",Bein Sports English 1
+#EXTINF:-1 tvg-id="94061" tvg-name="BeIN Sports 1 EN" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/be-i-n_-s-p-o-r-t-s1_-e-n-g-l-i-s-h_-digital_-mono.png",Bein Sports English 1
 http://192.168.2.98:5050/play?id=Bein-Sports-English-1
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/v-hu-vg-g-s-gu-t-yy-i2usg-k8-bh-y-ov-fo-pv9n-g65z-dm-txo3.png",Bein Sports English 2
+#EXTINF:-1 tvg-id="93994" tvg-name="BeIN Sports 2 EN" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/v-hu-vg-g-s-gu-t-yy-i2usg-k8-bh-y-ov-fo-pv9n-g65z-dm-txo3.png",Bein Sports English 2
 http://192.168.2.98:5050/play?id=Bein-Sports-English-2
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/",Bein Sports English 3
 http://192.168.2.98:5050/play?id=Bein-Sports-English-3
@@ -108,11 +108,11 @@ http://192.168.2.98:5050/play?id=NHL-Network
 http://192.168.2.98:5050/play?id=World-Fishing-Network
 #EXTINF:-1 tvg-id="464879" tvg-name="ACC Network" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-c-c_-network_-raycom_-logo.png",ACC Network
 http://192.168.2.98:5050/play?id=ACC-Network
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/g-e46rp-x-a-j-o-cxma-gth2-ovp5sf-az-g4p-eq-v-vlyost-q-l.png",LALIGA TV HD
+#EXTINF:-1 tvg-id="406588" tvg-name="DAZN LALIGA [ES]" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/g-e46rp-x-a-j-o-cxma-gth2-ovp5sf-az-g4p-eq-v-vlyost-q-l.png",LALIGA TV HD
 http://192.168.2.98:5050/play?id=La-Liga-TV
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/g-e46rp-x-a-j-o-cxma-gth2-ovp5sf-az-g4p-eq-v-vlyost-q-l.png",LALIGA TV HD [備線]
+#EXTINF:-1 tvg-id="406588" tvg-name="DAZN LALIGA [ES]" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/g-e46rp-x-a-j-o-cxma-gth2-ovp5sf-az-g4p-eq-v-vlyost-q-l.png",LALIGA TV HD [備線]
 http://192.168.2.98:5050/play?id=LA-LIGA-TV-BU
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k9-cbp-r-zcaom-r-jayck5v-qr-m-o-n-zqop9v1-e-s-u-z-g-kk3b.png",Willow Extra
+#EXTINF:-1 tvg-id="465022" tvg-name="Willow Xtra" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k9-cbp-r-zcaom-r-jayck5v-qr-m-o-n-zqop9v1-e-s-u-z-g-kk3b.png",Willow Extra
 http://192.168.2.98:5050/play?id=Willow-Extra
 #EXTINF:-1 tvg-id="465214" tvg-name="Fox Soccer Plus HD" tvg-logo="https://center.urlix.co/storage/images/QThyDK3aE2AEGNXcjaaFUHeFgNy3X5izleCb6QT4.png",Fox Soccer Plus
 http://192.168.2.98:5050/play?id=Fox-Soccer-Plus
@@ -130,19 +130,19 @@ http://192.168.2.98:5050/play?id=UK-Sky-Cinema-Family
 http://192.168.2.98:5050/play?id=Sky-Cinema-Action
 #EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-name="Sky Cinema Animation UK" tvg-logo="https://center.urlix.co/storage/images/So67ypbXnCLB8aIICUay2TfFiwlXh5mDh5GPw7Pc.svg",Sky Cinema Animation
 http://192.168.2.98:5050/play?id=Sky-Cinema-Animation
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/r-d9d247-s1-q-wg-g-lcg-c-g-ps2r-s-t6024f-l-ak-eld-h-e-m-tn.png",HBO 1
+#EXTINF:-1 tvg-id="465249" tvg-name="HBO (Pacific)" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/r-d9d247-s1-q-wg-g-lcg-c-g-ps2r-s-t6024f-l-ak-eld-h-e-m-tn.png",HBO 1
 http://192.168.2.98:5050/play?id=HBO
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/5-tj1j-wtmcg-o-zj-egka-yk-s-x-p-puqfj03x0w-ka-b-rwcy-o.png",HBO 2
+#EXTINF:-1 tvg-id="465146" tvg-name="HBO2 (Pacific)" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/5-tj1j-wtmcg-o-zj-egka-yk-s-x-p-puqfj03x0w-ka-b-rwcy-o.png",HBO 2
 http://192.168.2.98:5050/play?id=HBO-2
 #EXTINF:-1 tvg-id="465364" tvg-name="Discovery Channel HD" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/euzl-x-u-j-t8dx9s-puq8-hh5-g-m-rlmzu-sek-cn1ra-g-g-my2.png",Discovery Channel
 http://192.168.2.98:5050/play?id=Discovery-Channel
 #EXTINF:-1 tvg-id="464838" tvg-name="Discovery Life Channel" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/152-b-g-b-ja-rg9je-jt-nw8-xm7-en-g-uayb-i-u-x-mjc5od5d5.png",Discovery Life
 http://192.168.2.98:5050/play?id=Discovery-Life
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/waj-k6-w-wwz-x-np7-h573-ir-p-sj-x-ewjdwmvri-bfz-aimc1.png",Cinemax West
+#EXTINF:-1 tvg-id="465388" tvg-name="Cinemax (Pacific)" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/waj-k6-w-wwz-x-np7-h573-ir-p-sj-x-ewjdwmvri-bfz-aimc1.png",Cinemax West
 http://192.168.2.98:5050/play?id=Cinemax-West
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-r-yjt-u-b-a-hk-q-tvi-dbq-n5q-n7-a-a-rd0gxv-f-ks-l-j6-yml-s.png",Great Movies
+#EXTINF:-1 tvg-id="9419" tvg-name="GREAT! movies" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-r-yjt-u-b-a-hk-q-tvi-dbq-n5q-n7-a-a-rd0gxv-f-ks-l-j6-yml-s.png",Great Movies
 http://192.168.2.98:5050/play?id=UK-Great-Movies
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-i-gsl2-n77-dpt-h-wdy-q-c-f-odhz-gf-x-a-h-sje4z3-q-a0-qn-o.png",Cartoon Network
+#EXTINF:-1 tvg-id="9478" tvg-name="Cartoon Net HD" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-i-gsl2-n77-dpt-h-wdy-q-c-f-odhz-gf-x-a-h-sje4z3-q-a0-qn-o.png",Cartoon Network
 http://192.168.2.98:5050/play?id=UK-Cartoon-Network
 
 #EXTINF:-1 tvg-id="9206" tvg-name="BBC NEWS HD" tvg-logo="https://center.urlix.co/storage/images/uN6eIk65I2im0d4ojxIloksV9wyxbVshhM8Num6J.jpg",BBC News
@@ -151,9 +151,9 @@ http://192.168.2.98:5050/play?id=BBC-News
 http://192.168.2.98:5050/play?id=FOX-NEWS
 #EXTINF:-1 tvg-id="464791" tvg-name="CNBC HD" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t-tgl-m-ns6-d-r6bcw3qf-il-l8a-rg-k-l-ll-dmc-p-v5h7-s-wg-d.png",CNBC
 http://192.168.2.98:5050/play?id=CNBC
-#EXTINF:-1 tvg-logo="https://center.urlix.co/storage/images/PEoLnkz4lbWBN4A79dA6p1nOi15uD1VE8CN2mqT4.svg",NBC UNIVERSO
+#EXTINF:-1 tvg-id="465329" tvg-name="UNIVERSO HD" tvg-logo="https://center.urlix.co/storage/images/PEoLnkz4lbWBN4A79dA6p1nOi15uD1VE8CN2mqT4.svg",NBC UNIVERSO
 http://192.168.2.98:5050/play?id=NBC-UNIVERSO
-#EXTINF:-1 tvg-logo="https://center.urlix.co/storage/images/dMcVmNAd6ayvAw11IJi3LnMrftYrkM5VGoY3roDR.webp",BBC One
+#EXTINF:-1 tvg-id="76657" tvg-name="BBC One" tvg-logo="https://center.urlix.co/storage/images/dMcVmNAd6ayvAw11IJi3LnMrftYrkM5VGoY3roDR.webp",BBC One
 http://192.168.2.98:5050/play?id=BBC-1
 #EXTINF:-1 tvg-id="9459" tvg-name="BBC Two HD" tvg-logo="https://center.urlix.co/storage/images/o8L1QWPS4sWAdPbaDiGKqqu5BspdchEK3l1834EQ.png",BBC Two
 http://192.168.2.98:5050/play?id=BBC-2
@@ -161,7 +161,7 @@ http://192.168.2.98:5050/play?id=BBC-2
 http://192.168.2.98:5050/play?id=BBC-Three
 #EXTINF:-1 tvg-id="9474" tvg-name="BBC Four HD" tvg-logo="https://center.urlix.co/storage/images/MUfPvwYCKrhk35p5BQ4qRBktD9iBALX4dMOqFV8q.jpg",BBC Four
 http://192.168.2.98:5050/play?id=BBC-FOUR
-#EXTINF:-1 tvg-logo="https://center.urlix.co/storage/images/7N4k68afYicjhSWwU5Kx0yTlVY9A1Ob5iYPUmXPF.jpg",BBC Red Button
+#EXTINF:-1 tvg-id="9460" tvg-name="BBC RB 1 HD" tvg-logo="https://center.urlix.co/storage/images/7N4k68afYicjhSWwU5Kx0yTlVY9A1Ob5iYPUmXPF.jpg",BBC Red Button
 http://192.168.2.98:5050/play?id=BBC-Red-Button
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/c7-mg-r-w1l-p-k-cm-sc-rd-w-b-dhs-n90-b-uc-qozpi3-v-dwtmz-a.png",Virgin 1
 http://192.168.2.98:5050/play?id=UK-Virgin-1
