@@ -1,3 +1,5 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/wangjun99999/my-custom-epg/refs/heads/main/custom_epg.xml"
+
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png",民視
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png",民視第一台
@@ -72,16 +74,14 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv049
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
 #EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png",影迷數位紀實台
 http://xtvantsc.xyz/litv_ts.php?id=litv-ftv15
+#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png",視納華仁紀實頻道
+http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv013
 #EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MyCinema.png",歐洲光影
 http://xtvantsc.xyz/litv_ts.php?id=litv-ftv10
 #EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png",ELTA娛樂台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv070
 #EXTINF:-1 tvg-id="台灣戲劇HD" tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png",台灣戲劇台
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn22
-
-#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png",視納華仁紀實頻道
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv013
-
 #EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png",公視戲劇
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv042
 
@@ -100,7 +100,7 @@ http://xtvantsc.xyz/litv_ts.php?id=litv-longturn11
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn12
 #EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png",龍華戲劇台
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn18
-#EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png",龍華經典台
+#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png",龍華經典台
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn21
 
 #EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png",靖天映畫台
@@ -156,7 +156,7 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv018
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv076
 #EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png",時尚運動X
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv014
-#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="Ginx TV 電競頻道" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png",GINX Esports TV 電競頻道
+#EXTINF:-1 tvg-id="GINX Esports TV" tvg-name="GINX Esports TV" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png",GINX Esports TV 電競頻道
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv053
 #EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png",TRACE Sport Stars
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv077
