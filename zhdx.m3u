@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+
 #EXTINF:-1 tvg-name="amc電影台" tvg-logo="https://live.fanmingming.com/tv/amc電影台.png",amc電影台
 http://ru.m8ap.com:11001/udp/224.1.4.43:11111
 #EXTINF:-1 tvg-name="amc電影台" tvg-logo="https://live.fanmingming.com/tv/amc電影台.png",amc電影台
