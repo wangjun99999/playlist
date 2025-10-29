@@ -35,19 +35,19 @@ https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="451" tvg-name="HOY78" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E8%B3%87%E8%A8%8A%E5%8F%B0.png",HOY78 資訊
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-id="" group-title="HOY",HOY 生活台91
+#EXTINF:-1 tvg-id="",HOY 生活台91
 https://edge.media.seaovers.live/856b503e276cc4912b6c0b42cb01878d/baselive/v2/6TV1VW9W.m3u8
-#EXTINF:-1 tvg-id="" group-title="HOY",HOY 剧集台92
+#EXTINF:-1 tvg-id="",HOY 剧集台92
 https://edge.media.seaovers.live/856b503e276cc49100c1dde528ee8cde/baselive/v2/DPL3J6FY.m3u8
-#EXTINF:-1 tvg-id="" group-title="HOY",HOY 怪谈台93
+#EXTINF:-1 tvg-id="",HOY 怪谈台93
 https://edge.media.seaovers.live/856b503e276cc49197dd54aa8a0c740e/baselive/v2/TPLUZIFF.m3u8
-#EXTINF:-1 tvg-id="" group-title="HOY",HOY 体育台94
+#EXTINF:-1 tvg-id="",HOY 体育台94
 https://edge.media.seaovers.live/856b503e276cc4917dc388396c23668b/baselive/v2/J0LMZVOV.m3u8
-#EXTINF:-1 tvg-id="" group-title="HOY",SportsPlus96
+#EXTINF:-1 tvg-id="",HOY SportsPlus96
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/WQFFQD2YSMWFAZXKTY07/hls3/now,-1m/m.m3u8
-#EXTINF:-1 tvg-id="" group-title="HOY",Travel & Food TV97
+#EXTINF:-1 tvg-id="",HOY Travel & Food TV97
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/77I3ZMNRNMI5I93YF0WC/hls3/now,-1m/m.m3u8
-#EXTINF:-1 tvg-id="" group-title="HOY",Spot on news98
+#EXTINF:-1 tvg-id="",HOY Spot on news98
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TDGHWR1Q2FLL5PEG33BE/hls3/now,-1m/m.m3u8
 
 #EXTINF:-1 tvg-id="444" tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK31.png",RTHKTV 31
@@ -128,6 +128,29 @@ http://php.jdshipin.com:8880/smt.php?id=Quanjia
 http://php.jdshipin.com:8880/smt.php?id=Huahee
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png",Astro 華麗台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Drama Hebat
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Filem Mantap
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Lawak Sentral
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Drama Hotspot
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Travel & Taste
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Unifi Sports
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://epg-1.iill.top/logo/Channel5.png",Channel 5
 http://cdn6.163189.xyz/163189/ch5
