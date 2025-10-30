@@ -8,6 +8,14 @@ http://104.250.141.226/live/lfv8rvfeiez2g1sm/index.m3u8
 http://104.250.141.226/live/lx84p2j5ch8ci98a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Now爆谷
 http://104.250.141.226/live/1d8a863e4c56f888/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",111
+http://104.250.141.226/live/hq2tjzfrbpct5zcv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",222
+http://104.250.141.226/live/af8f5hi7o3r8jbes/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",333
+http://104.250.141.226/live/g0igy4ul6c8w35qf/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",444
+http://104.250.141.226/live/5zki2672qhljwesm/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="移动18",惊艳
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
