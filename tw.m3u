@@ -58,7 +58,7 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv056
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png",TVBS
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
-#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://live.fanmingming.com/tv/TVBS新聞.png",TVBS新聞台
+#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/TVBS%E6%96%B0%E9%97%BB%E5%8F%B0.png",TVBS新聞台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png",TVBS精采台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
@@ -94,7 +94,7 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv034
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn01
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png",龍華電影台
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn03
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png",龍華日韓台
+#EXTINF:-1 tvg-id="龍華日韩台" tvg-name="龍華日韩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png",龍華日韓台
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn11
 #EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png",龍華偶像台
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn12
@@ -121,6 +121,8 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv063
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv054
 #EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png",靖天戲劇台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv058
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png",靖天資訊台
+http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065
 #EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png",靖洋卡通台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv057
 #EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png",靖洋戲劇台
@@ -128,9 +130,9 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv045
 
 #EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png",智林體育台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv101
-#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast6.png",博斯魅力
+#EXTINF:-1 tvg-id="博斯魅力網" tvg-name="博斯魅力網" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast6.png",博斯魅力
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn04
-#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast3.png",博斯高球I
+#EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast3.png",博斯高球I
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn05
 #EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast4.png",博斯高球II
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn06
@@ -148,7 +150,7 @@ http://xtvantsc.xyz/litv_ts.php?id=litv-longturn13
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn20
 #EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png",Smart知識台
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn19
-#EXTINF:-1 tvg-name="Globetrotter 環遊旅行家" tvg-logo="https://live.fanmingming.com/tv/Globetrotter 環遊旅行家.png",Globetrotter 環遊旅行家
+#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png",韓國娛樂台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv016
 #EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png",達文西頻道
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv018
@@ -192,8 +194,7 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv103
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-live138
 #EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png",龍華洋片台
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn02
-#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png",靖天資訊台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065
+
 
 #EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png",東森購物三台
 http://45.196.239.180:39039/4gtv-live048/index.m3u8?proxy=true
