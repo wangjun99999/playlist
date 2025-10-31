@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/wangjun99999/my-custom-epg/refs/heads/main/custom_epg.xml"
 
 
-#EXTINF:-1 tvg-id="520" tvg-name="青岛新闻综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/QTV-1.png", group-title="青岛频道",青岛新闻综合QTV-1
+#EXTINF:-1 tvg-id="476376" tvg-name="青岛新闻综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/QTV-1.png", group-title="青岛频道",青岛新闻综合QTV-1
 http://39.77.79.109:85/tsfile/live/1000_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="522" tvg-name="青岛影视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/QTV-3.png" group-title="青岛频道",青岛影视QTV-3
+#EXTINF:-1 tvg-id="476274" tvg-name="青岛影视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/QTV-3.png" group-title="青岛频道",青岛影视QTV-3
 http://39.77.79.109:85/tsfile/live/1002_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="523" tvg-name="青岛财经资讯" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/QTV-4.png" group-title="青岛频道",青岛财经资讯QTV-4
+#EXTINF:-1 tvg-id="476285" tvg-name="青岛财经资讯" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/QTV-4.png" group-title="青岛频道",青岛财经资讯QTV-4
 http://39.77.79.109:85/tsfile/live/1004_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="525" tvg-name="青岛教育" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/QTV-5.png" group-title="青岛频道",青岛都市QTV-5
+#EXTINF:-1 tvg-id="476361" tvg-name="青岛教育" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/QTV-5.png" group-title="青岛频道",青岛教育QTV-5
 http://39.77.79.109:85/tsfile/live/0002_1.m3u8?key=txiptv
 
 
@@ -35,9 +35,9 @@ http://192.168.2.98:5678/shkk.php?id=jsrw
 http://192.168.2.98:5678/BJ.php?id=bjws4k
 #EXTINF:-1 tvg-id="90" tvg-name="北京卫视" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/Beijing0.png" group-title="北京频道",北京卫视
 http://192.168.2.98:5678/BJ.php?id=bjws
-#EXTINF:-1 tvg-id="137" tvg-name="北京体育休闲" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/Beijing6.png" group-title="北京频道",北京体育休闲
+#EXTINF:-1 tvg-id="457765" tvg-name="北京体育休闲" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/Beijing6.png" group-title="北京频道",北京体育休闲
 http://m.061899.xyz/mg/bjty
-#EXTINF:-1 tvg-id="137" tvg-name="北京体育休闲" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/Beijing6.png" group-title="北京频道",北京体育休闲
+#EXTINF:-1 tvg-id="457765" tvg-name="北京体育休闲" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/Beijing6.png" group-title="北京频道",北京体育休闲
 http://192.168.2.98:5678/BJ.php?id=bjty
 #EXTINF:-1 tvg-id="130" tvg-name="北京新闻" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/Beijing1.png" group-title="北京频道",北京新闻
 http://192.168.2.98:5678/BJ.php?id=bjxw
