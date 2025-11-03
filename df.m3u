@@ -13,21 +13,21 @@ http://39.77.79.109:85/tsfile/live/0002_1.m3u8?key=txiptv
 
 
 #EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/东方卫视.png" group-title="上海频道",东方卫视4K
-http://192.168.2.98:5678/shkk.php?id=dfws4k
+http://192.168.2.98:5678/kankanews.php?id=dfws
 #EXTINF:-1 tvg-id="170" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/五星体育.png" group-title="上海频道",五星体育
 https://cdn3.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-id="170" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/五星体育.png" group-title="上海频道",五星体育
-http://192.168.2.98:5678/shkk.php?id=wxty
+http://192.168.2.98:5678/kankanews.php?id=wxty
 #EXTINF:-1 tvg-id="199" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/上海新闻综合.png" group-title="上海频道",上海新闻综合
-http://192.168.2.98:5678/shkk.php?id=shxwzh
+http://192.168.2.98:5678/kankanews.php?id=shxwzh
 #EXTINF:-1 tvg-id="263" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/上海都市.png" group-title="上海频道",上海都市
-http://192.168.2.98:5678/shkk.php?id=shds
+http://192.168.2.98:5678/kankanews.php?id=shds
 #EXTINF:-1 tvg-id="198" tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/第一财经.png" group-title="上海频道",第一财经
-http://192.168.2.98:5678/shkk.php?id=dycj
+http://192.168.2.98:5678/kankanews.php?id=dycj
 #EXTINF:-1 tvg-id="" tvg-name="魔都眼" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/魔都眼.png" group-title="上海频道",魔都眼
-http://192.168.2.98:5678/shkk.php?id=mdy
+http://192.168.2.98:5678/kankanews.php?id=mdy
 #EXTINF:-1 tvg-id="" tvg-name="新纪实" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/新纪实.png" group-title="上海频道",新纪实
-http://192.168.2.98:5678/shkk.php?id=jsrw
+http://192.168.2.98:5678/kankanews.php?id=jsrw
 
 
 
