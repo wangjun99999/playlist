@@ -1,324 +1,308 @@
-#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
-
-#EXTINF:-1 tvg-id="香港频道" tvg-name="香港频道" tvg-logo="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/hong-kong-flag-icon.png",======香港频道======
-http://192.168.2.98:5678/smt.php?id=Jade_xue
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/翡翠台.png",翡翠台
-http://192.168.2.98:5678/smt.php?id=Jade_xue
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/无线新闻台.png",無線新聞台
-http://192.168.2.98:5678/smt.php?id=inews_twn
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png",J2
-http://192.168.2.98:5678/smt.php?id=j2_twn
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/TVB2.png",明珠台
-http://192.168.2.98:5678/smt.php?id=pearl_twn
-#EXTINF:-1 tvg-id="HOY资讯" tvg-name="HOY资讯" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E8%B3%87%E8%A8%8A%E5%8F%B0.png",HOY资讯
-http://192.168.2.98:5678/smt.php?id=hoycaijing_twn
-#EXTINF:-1 tvg-id="RTHK 32" tvg-name="RTHK 32" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK32.png",RTHK 32
-http://192.168.2.98:5678/smt.php?id=rhk32_twn
-#EXTINF:-1 tvg-id="ViuTV1" tvg-name="ViuTV1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ViuTV.png",ViuTV1
-http://192.168.2.98:5678/smt.php?id=viu1_twn
-#EXTINF:-1 tvg-id="Viu6" tvg-name="Viu6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ViuTV96.png",Viu6
-http://192.168.2.98:5678/smt.php?id=viusix_twn
-
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/wangjun99999/my-custom-epg/refs/heads/main/custom_epg.xml"
 
 #EXTINF:-1 tvg-id="台湾频道" tvg-name="台湾频道" tvg-logo="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/taiwan-flag-icon.png",======台湾频道======
-http://192.168.2.98:5678/smt.php?id=tvbs_n
+http://xtvantsc.xyz/Smart.php?id=tvbs_n
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/TVBS新闻台.png",TVBS新闻
-http://192.168.2.98:5678/smt.php?id=tvbs_n
+http://xtvantsc.xyz/Smart.php?id=tvbs_n
 #EXTINF:-1 tvg-id="TVBS欢乐" tvg-name="TVBS欢乐" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/TVBS欢乐台.png",TVBS欢乐
-http://192.168.2.98:5678/smt.php?id=tvbshuanle_twn
+http://xtvantsc.xyz/Smart.php?id=tvbshuanle_twn
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/TVBS.png",TVBS
-http://192.168.2.98:5678/smt.php?id=tvbs
+http://xtvantsc.xyz/Smart.php?id=tvbs
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/中天新闻台.png",中天新闻
-http://192.168.2.98:5678/smt.php?id=ctinews
+http://xtvantsc.xyz/Smart.php?id=ctinews
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/中天娱乐台.png",中天娱乐
-http://192.168.2.98:5678/smt.php?id=ctient
+http://xtvantsc.xyz/Smart.php?id=ctient
 #EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/中天综合台.png",中天综合
-http://192.168.2.98:5678/smt.php?id=ctizhonghe
+http://xtvantsc.xyz/Smart.php?id=ctizhonghe
 #EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/中天亚洲台.png",中天亚洲
-http://192.168.2.98:5678/smt.php?id=ctiasia_twn
+http://xtvantsc.xyz/Smart.php?id=ctiasia_twn
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/台视.png",台视
-http://192.168.2.98:5678/smt.php?id=ttv_taiwan
+http://xtvantsc.xyz/Smart.php?id=ttv_taiwan
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/台视新闻台.png",台视新闻
-http://192.168.2.98:5678/smt.php?id=ttvnews_twn
+http://xtvantsc.xyz/Smart.php?id=ttvnews_twn
 #EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/台视综合台.png",台视综合
-http://192.168.2.98:5678/smt.php?id=ttvzhonghe
+http://xtvantsc.xyz/Smart.php?id=ttvzhonghe
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/中视.png",中视
-http://192.168.2.98:5678/smt.php?id=zhongshihd_twn
+http://xtvantsc.xyz/Smart.php?id=zhongshihd_twn
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/中视新闻台.png",中视新闻
-http://192.168.2.98:5678/smt.php?id=zhongshinews_twn
+http://xtvantsc.xyz/Smart.php?id=zhongshinews_twn
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/民视.png",民视
-http://192.168.2.98:5678/smt.php?id=ftvhd_taiwan
+http://xtvantsc.xyz/Smart.php?id=ftvhd_taiwan
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/民视新闻台.png",民视新闻
-http://192.168.2.98:5678/smt.php?id=ftvnew_taiwan
+http://xtvantsc.xyz/Smart.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/华视.png",华视
-http://192.168.2.98:5678/smt.php?id=ctshd_twn
+http://xtvantsc.xyz/Smart.php?id=ctshd_twn
 #EXTINF:-1 tvg-id="八大第一" tvg-name="八大第一" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/八大第一台.png",八大第一
-http://192.168.2.98:5678/smt.php?id=badafirst
+http://xtvantsc.xyz/Smart.php?id=badafirst
 #EXTINF:-1 tvg-id="八大综合" tvg-name="八大综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/八大综合台.png",八大综合
-http://192.168.2.98:5678/smt.php?id=badazhonghe
+http://xtvantsc.xyz/Smart.php?id=badazhonghe
 #EXTINF:-1 tvg-id="八大戏剧" tvg-name="八大戏剧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/八大戏剧台.png",八大戏剧
-http://192.168.2.98:5678/smt.php?id=badadrama
+http://xtvantsc.xyz/Smart.php?id=badadrama
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/%E5%A4%A9%E6%98%A0%E9%A0%BB%E9%81%93.png",天映频道
-http://192.168.2.98:5678/smt.php?id=ctv18_twn
+http://xtvantsc.xyz/Smart.php?id=ctv18_twn
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/AXN.png",AXN
-http://192.168.2.98:5678/smt.php?id=axn_twn
+http://xtvantsc.xyz/Smart.php?id=axn_twn
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Cinemax.png",CINEMAX
-http://192.168.2.98:5678/smt.php?id=cinemax_twn
+http://xtvantsc.xyz/Smart.php?id=cinemax_twn
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO.png",HBO
-http://192.168.2.98:5678/smt.php?id=hbohd_twn
+http://xtvantsc.xyz/Smart.php?id=hbohd_twn
 #EXTINF:-1 tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/好莱坞电影台.png",Hollywood Movies
-http://192.168.2.98:5678/smt.php?id=hollywoodmovies_twn
+http://xtvantsc.xyz/Smart.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-id="三立台湾" tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/三立台湾台.png",三立台湾
-http://192.168.2.98:5678/smt.php?id=sanlitaiwan
+http://xtvantsc.xyz/Smart.php?id=sanlitaiwan
 #EXTINF:-1 tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/三立戏剧台.png",三立戏剧
-http://192.168.2.98:5678/smt.php?id=sanlixiju_twn
+http://xtvantsc.xyz/Smart.php?id=sanlixiju_twn
 #EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/三立综合台.png",三立综合
-http://192.168.2.98:5678/smt.php?id=sanlizhonghe
+http://xtvantsc.xyz/Smart.php?id=sanlizhonghe
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/东森新闻台.png",东森新闻
-http://192.168.2.98:5678/smt.php?id=ettvnews
+http://xtvantsc.xyz/Smart.php?id=ettvnews
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/东森电影台.png",东森电影
-http://192.168.2.98:5678/smt.php?id=ettvmovie
+http://xtvantsc.xyz/Smart.php?id=ettvmovie
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/东森洋片台.png",东森洋片
-http://192.168.2.98:5678/smt.php?id=ettvwestern
+http://xtvantsc.xyz/Smart.php?id=ettvwestern
 #EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/东森综合台.png",东森综合
-http://192.168.2.98:5678/smt.php?id=ettvzhonghe
+http://xtvantsc.xyz/Smart.php?id=ettvzhonghe
 #EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/东森戏剧台.png",东森戏剧
-http://192.168.2.98:5678/smt.php?id=ettvdrama
+http://xtvantsc.xyz/Smart.php?id=ettvdrama
 #EXTINF:-1 tvg-id="东森幼幼" tvg-name="东森幼幼" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/东森幼幼台.png",东森幼幼
-http://192.168.2.98:5678/smt.php?id=yoyo_twn
+http://xtvantsc.xyz/Smart.php?id=yoyo_twn
 #EXTINF:-1 tvg-id="东森森财经新闻" tvg-name="东森森财经新闻" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/东森财经新闻台.png",东森财经新闻
-http://192.168.2.98:5678/smt.php?id=ettvcaijing_twn
+http://xtvantsc.xyz/Smart.php?id=ettvcaijing_twn
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/寰宇新闻台.png",寰宇新闻
-http://192.168.2.98:5678/smt.php?id=huanyuxinwen_twn
+http://xtvantsc.xyz/Smart.php?id=huanyuxinwen_twn
 #EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/非凡新闻台.png",非凡新闻
-http://192.168.2.98:5678/smt.php?id=feifannews_twn
+http://xtvantsc.xyz/Smart.php?id=feifannews_twn
 #EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/龙华电影台.png",龙华电影
-http://192.168.2.98:5678/smt.php?id=xingwei_movie
+http://xtvantsc.xyz/Smart.php?id=xingwei_movie
 #EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/龙华戏剧台.png",龙华戏剧
-http://192.168.2.98:5678/smt.php?id=lunghuaxiju_twn
+http://xtvantsc.xyz/Smart.php?id=lunghuaxiju_twn
 #EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/龙华偶像台.png",龙华偶像
-http://192.168.2.98:5678/smt.php?id=lunghuaidol_twn
+http://xtvantsc.xyz/Smart.php?id=lunghuaidol_twn
 #EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/龙华洋片台.png",龙华洋片
-http://192.168.2.98:5678/smt.php?id=lunghuawestern_twn
+http://xtvantsc.xyz/Smart.php?id=lunghuawestern_twn
 #EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/龙祥时代台.png",龙祥时代
-http://192.168.2.98:5678/smt.php?id=lungxiangtime_twn
+http://xtvantsc.xyz/Smart.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/靖天国际台.png",靖天国际
-http://192.168.2.98:5678/smt.php?id=jingtianintl_twn
+http://xtvantsc.xyz/Smart.php?id=jingtianintl_twn
 #EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/靖天卡通台.png",靖天卡通
-http://192.168.2.98:5678/smt.php?id=jingtiancartoon_twn
+http://xtvantsc.xyz/Smart.php?id=jingtiancartoon_twn
 #EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/纬来日本台.png",纬来日本
-http://192.168.2.98:5678/smt.php?id=videolandjapan
+http://xtvantsc.xyz/Smart.php?id=videolandjapan
 #EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/纬来电影台.png",纬来电影
-http://192.168.2.98:5678/smt.php?id=videolandmovie
+http://xtvantsc.xyz/Smart.php?id=videolandmovie
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/纬来体育台.png",纬来体育
-http://192.168.2.98:5678/smt.php?id=videolandsport
+http://xtvantsc.xyz/Smart.php?id=videolandsport
 #EXTINF:-1 tvg-id="纬来综合" tvg-name="纬来综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/纬来综合台.png",纬来综合
-http://192.168.2.98:5678/smt.php?id=videolandzonghe
+http://xtvantsc.xyz/Smart.php?id=videolandzonghe
 #EXTINF:-1 tvg-id="美食星球" tvg-name="美食星球" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/美食星球台.png",美食星球
-http://192.168.2.98:5678/smt.php?id=foodplanet_twn
+http://xtvantsc.xyz/Smart.php?id=foodplanet_twn
 #EXTINF:-1 tvg-id="AFC亚洲美食" tvg-name="AFC亚洲美食" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/AFC亚洲美食.png",AFC亚洲美食
-http://192.168.2.98:5678/smt.php?id=afc_twn
+http://xtvantsc.xyz/Smart.php?id=afc_twn
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/TLC.png",TLC亚洲旅游
-http://192.168.2.98:5678/smt.php?id=tlc_twn
+http://xtvantsc.xyz/Smart.php?id=tlc_twn
 #EXTINF:-1,tvg-id="博斯运动1" tvg-name="博斯运动1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/博斯运动1.png",博斯运动1
-http://192.168.2.98:5678/smt.php?id=bosisport1_twn
+http://xtvantsc.xyz/Smart.php?id=bosisport1_twn
 #EXTINF:-1,tvg-id="博斯运动2" tvg-name="博斯运动2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/博斯运动2.png",博斯运动2
-http://192.168.2.98:5678/smt.php?id=bosisport2_twn
+http://xtvantsc.xyz/Smart.php?id=bosisport2_twn
 #EXTINF:-1,tvg-id="博斯高球2台" tvg-name="博斯高球2台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/博斯高球2.png",博斯高球2
-http://192.168.2.98:5678/smt.php?id=bosigolf2_twn
+http://xtvantsc.xyz/Smart.php?id=bosigolf2_twn
 #EXTINF:-1,tvg-id="博斯网球台" tvg-name="博斯网球台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/博斯网球.png",博斯网球
-http://192.168.2.98:5678/smt.php?id=bositennis_twn
+http://xtvantsc.xyz/Smart.php?id=bositennis_twn
 #EXTINF:-1,tvg-id="博斯无限二台" tvg-name="博斯无限二台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/博斯无限2.png",博斯无限2
-http://192.168.2.98:5678/smt.php?id=bosiunlimited_twn
+http://xtvantsc.xyz/Smart.php?id=bosiunlimited_twn
 #EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/MTVLive.png",MTV Live
-http://192.168.2.98:5678/smt.php?id=mtvhd_twn
+http://xtvantsc.xyz/Smart.php?id=mtvhd_twn
 #EXTINF:-1,tvg-id="EYETV 旅游" tvg-name="EYETV 旅游" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/EYETV旅游台.jpg",EYETV 旅游
-http://192.168.2.98:5678/smt.php?id=eyetvtravel_twn
+http://xtvantsc.xyz/Smart.php?id=eyetvtravel_twn
 #EXTINF:-1,tvg-id="EYETV 戏剧" tvg-name="EYETV 戏剧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/EYETV戏剧台.jpg",EYETV 戏剧
-http://192.168.2.98:5678/smt.php?id=eyetvxiju_twn
+http://xtvantsc.xyz/Smart.php?id=eyetvxiju_twn
 #EXTINF:-1,tvg-id="华艺中文" tvg-name="华艺中文" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/华艺中文.jpg",华艺中文
-http://192.168.2.98:5678/smt.php?id=weishichinese_twn
+http://xtvantsc.xyz/Smart.php?id=weishichinese_twn
 #EXTINF:-1,tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/美亚电影台.png",美亚电影
-http://192.168.2.98:5678/smt.php?id=meiyamovie_twn
+http://xtvantsc.xyz/Smart.php?id=meiyamovie_twn
 #EXTINF:-1,tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/亚洲旅游台.png",AsiaTravel亚洲旅游台
-http://192.168.2.98:5678/smt.php?id=asiatravel_twn
+http://xtvantsc.xyz/Smart.php?id=asiatravel_twn
 #EXTINF:-1,tvg-id="爱尔达影剧" tvg-name="爱尔达影剧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/爱尔达影剧台.png",爱尔达影剧
-http://192.168.2.98:5678/smt.php?id=eltayingju_twn
+http://xtvantsc.xyz/Smart.php?id=eltayingju_twn
 #EXTINF:-1,tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/爱尔达体育2台.png",爱尔达体育2台
-http://192.168.2.98:5678/smt.php?id=eltasport2_twn
+http://xtvantsc.xyz/Smart.php?id=eltasport2_twn
 #EXTINF:-1,tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/爱尔达体育3台.png",爱尔达体育3台
-http://192.168.2.98:5678/smt.php?id=eltasport3_twn
+http://xtvantsc.xyz/Smart.php?id=eltasport3_twn
 #EXTINF:-1,tvg-id="爱尔达体育4台" tvg-name="爱尔达体育4台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/爱尔达体育4台.png",爱尔达体育4台
-http://192.168.2.98:5678/smt.php?id=natgeowild_twn
+http://xtvantsc.xyz/Smart.php?id=natgeowild_twn
 #EXTINF:-1,tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/DMAX.png",DMAX
-http://192.168.2.98:5678/smt.php?id=natgeohd_twn
+http://xtvantsc.xyz/Smart.php?id=natgeohd_twn
 #EXTINF:-1,tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/动物星球台.png",Animal Planet动物星球
-http://192.168.2.98:5678/smt.php?id=animalplanet_twn
+http://xtvantsc.xyz/Smart.php?id=animalplanet_twn
 #EXTINF:-1,tvg-id="DISCOVERYASIA" tvg-name="DISCOVERYASIA" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/Discovery Asia.png",Discovery Asia探索亚洲
-http://192.168.2.98:5678/smt.php?id=discoverytwn_twn
+http://xtvantsc.xyz/Smart.php?id=discoverytwn_twn
 #EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Crime%20%26%20Investigation.png",CI罪案侦缉
-http://192.168.2.98:5678/smt.php?id=ci_twn
+http://xtvantsc.xyz/Smart.php?id=ci_twn
 #EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%20Earth.png",BBC Earth
-http://192.168.2.98:5678/smt.php?id=bbcearth_twn
+http://xtvantsc.xyz/Smart.php?id=bbcearth_twn
 #EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC Lifestyle.png",BBC Lifestyle
-http://192.168.2.98:5678/smt.php?id=bbclifestyle_twn
+http://xtvantsc.xyz/Smart.php?id=bbclifestyle_twn
 
 
 #EXTINF:-1,tvg-id="体育频道" tvg-name="体育频道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Olympic_rings_with_transparent_rims.svg/960px-Olympic_rings_with_transparent_rims.svg.png?20131227152443",======体育频道======
-http://192.168.2.98:5678/smt.php?id=cctv5
+http://xtvantsc.xyz/Smart.php?id=cctv5
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV5.png",CCTV-5 体育频道
-http://192.168.2.98:5678/smt.php?id=cctv5
+http://xtvantsc.xyz/Smart.php?id=cctv5
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV5+.png",CCTV-5+ 体育赛事
-http://192.168.2.98:5678/smt.php?id=cctv5plus
+http://xtvantsc.xyz/Smart.php?id=cctv5plus
 #EXTINF:-1,tvg-id="Astro Premier League 1" tvg-name="Astro Premier League 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro Premier League 1.png",Astro Premier League 1
-http://192.168.2.98:5678/smt.php?id=go_assp1
+http://xtvantsc.xyz/Smart.php?id=go_assp1
 #EXTINF:-1,tvg-id="Astro Premier League 2" tvg-name="Astro Premier League 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro Premier League 2.png",Astro Premier League 2
-http://192.168.2.98:5678/smt.php?id=go_assp2
+http://xtvantsc.xyz/Smart.php?id=go_assp2
 #EXTINF:-1,tvg-id="Astro Grandstand" tvg-name="Astro Grandstand" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro Grandstand.png",Astro Grandstand
-http://192.168.2.98:5678/smt.php?id=go_assp3
+http://xtvantsc.xyz/Smart.php?id=go_assp3
 #EXTINF:-1,tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro Football.png",Astro Football
-http://192.168.2.98:5678/smt.php?id=go_assp4
+http://xtvantsc.xyz/Smart.php?id=go_assp4
 #EXTINF:-1,tvg-id="Astro Badminton 1" tvg-name="Astro Badminton 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro Badminton.png",Astro Badminton 1
-http://192.168.2.98:5678/smt.php?id=go_badminton1
+http://xtvantsc.xyz/Smart.php?id=go_badminton1
 #EXTINF:-1,tvg-id="Astro Badminton 2" tvg-name="Astro Badminton 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro Badminton 2.png",Astro Badminton 2
-http://192.168.2.98:5678/smt.php?id=go_badminton2
+http://xtvantsc.xyz/Smart.php?id=go_badminton2
 #EXTINF:-1,tvg-id="Astro Cricket" tvg-name="Astro Cricket" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro Cricket.png",Astro Cricket
-http://192.168.2.98:5678/smt.php?id=Acricket
+http://xtvantsc.xyz/Smart.php?id=Acricket
 #EXTINF:-1,tvg-id="Astro Golf" tvg-name="Astro Golf" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Golf%20Channel.png",Astro Golf
-http://192.168.2.98:5678/smt.php?id=Agolf
+http://xtvantsc.xyz/Smart.php?id=Agolf
 #EXTINF:-1,tvg-id="Astro Arena" tvg-name="Astro Arena" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro Arena.png",Astro Arena
-http://192.168.2.98:5678/smt.php?id=Arena
+http://xtvantsc.xyz/Smart.php?id=Arena
 #EXTINF:-1,tvg-id="Astro Arena 2" tvg-name="Astro Arena 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro Arena 2.png",Astro Arena 2
-http://192.168.2.98:5678/smt.php?id=Arena2
+http://xtvantsc.xyz/Smart.php?id=Arena2
 #EXTINF:-1,tvg-id="Astro Arena Bola" tvg-name="Astro Arena Bola" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro Arena Bola.png",Astro Arena Bola 1
-http://192.168.2.98:5678/smt.php?id=Bolaarena1
+http://xtvantsc.xyz/Smart.php?id=Bolaarena1
 #EXTINF:-1,tvg-id="Astro Arena Bola 2" tvg-name="Astro Arena Bola 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro Arena Bola 2.png",Astro Arena Bola 2
-http://192.168.2.98:5678/smt.php?id=Bolaarena2
+http://xtvantsc.xyz/Smart.php?id=Bolaarena2
 #EXTINF:-1,tvg-id="Astro Beinsports 1" tvg-name="Astro Beinsports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN Sports 1.png",Astro Beinsports 1
-http://192.168.2.98:5678/smt.php?id=Astrobein1
+http://xtvantsc.xyz/Smart.php?id=Astrobein1
 #EXTINF:-1,tvg-id="Astro Beinsports 2" tvg-name="Astro Beinsports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN Sports 2.png",Astro Beinsports 2
-http://192.168.2.98:5678/smt.php?id=Astrobein2
+http://xtvantsc.xyz/Smart.php?id=Astrobein2
 #EXTINF:-1,tvg-id="Astro Beinsports 3" tvg-name="Astro Beinsports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN Sports 3.png",Astro Beinsports 3
-http://192.168.2.98:5678/smt.php?id=Astrobein3
+http://xtvantsc.xyz/Smart.php?id=Astrobein3
 #EXTINF:-1,tvg-id="Supersports 1" tvg-name="Supersports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro SuperSport 1.png",Astro Supersports 1
-http://192.168.2.98:5678/smt.php?id=Assp1
+http://xtvantsc.xyz/Smart.php?id=Assp1
 #EXTINF:-1,tvg-id="Supersports 2" tvg-name="Supersports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro SuperSport 2.png",Astro Supersports 2
-http://192.168.2.98:5678/smt.php?id=Assp2
+http://xtvantsc.xyz/Smart.php?id=Assp2
 #EXTINF:-1,tvg-id="Supersports 3" tvg-name="Supersports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro SuperSport 3.png",Astro Supersports 3
-http://192.168.2.98:5678/smt.php?id=Assp3
+http://xtvantsc.xyz/Smart.php?id=Assp3
 #EXTINF:-1,tvg-id="Supersports 4" tvg-name="Supersports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro SuperSport 4.png",Astro Supersports 4
-http://192.168.2.98:5678/smt.php?id=Assp4
+http://xtvantsc.xyz/Smart.php?id=Assp4
 #EXTINF:-1,tvg-id="TNT Sports 1" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT Sports 1.png",TNT Sports 1
-http://192.168.2.98:5678/smt.php?id=6fac0aaead
+http://xtvantsc.xyz/Smart.php?id=6fac0aaead
 #EXTINF:-1,tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT Sports 2.png",TNT Sports 2
-http://192.168.2.98:5678/smt.php?id=d9a76a79cc
+http://xtvantsc.xyz/Smart.php?id=d9a76a79cc
 #EXTINF:-1,tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT Sports 3.png",TNT Sports 3
-http://192.168.2.98:5678/smt.php?id=5fea4d73db
+http://xtvantsc.xyz/Smart.php?id=5fea4d73db
 #EXTINF:-1,tvg-id="TNT Sports 4" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT Sports 4.png",TNT Sports 4
-http://192.168.2.98:5678/smt.php?id=tntsport4
+http://xtvantsc.xyz/Smart.php?id=tntsport4
 #EXTINF:-1,tvg-id="Sony Sports 1" tvg-name="Sony Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/Sony Sports Ten 1.png",Sony Sports 1
-http://192.168.2.98:5678/smt.php?id=ten1_raj
+http://xtvantsc.xyz/Smart.php?id=ten1_raj
 #EXTINF:-1,tvg-id="Sony Sports 2" tvg-name="Sony Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/Sony Sports Ten 2.png",Sony Sports 2
-http://192.168.2.98:5678/smt.php?id=ten2_raj
+http://xtvantsc.xyz/Smart.php?id=ten2_raj
 #EXTINF:-1,tvg-id="Sony Sports 3" tvg-name="Sony Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/Sony Sports Ten 3.png",Sony Sports 3
-http://192.168.2.98:5678/smt.php?id=ten3_raj
+http://xtvantsc.xyz/Smart.php?id=ten3_raj
 #EXTINF:-1,tvg-id="SPOTV 1" tvg-name="SPOTV 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/SPOTV.png",SPOTV 1
-http://192.168.2.98:5678/smt.php?id=go_spotv
+http://xtvantsc.xyz/Smart.php?id=go_spotv
 #EXTINF:-1,tvg-id="SPOTV 2" tvg-name="SPOTV 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/SPOTV2.png",SPOTV 2
-http://192.168.2.98:5678/smt.php?id=go_spotv2
+http://xtvantsc.xyz/Smart.php?id=go_spotv2
 #EXTINF:-1,tvg-id="Skysports F1" tvg-name="Skysports F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Sports F1.png",Sky Sports F1
-http://192.168.2.98:5678/smt.php?id=tiankongf1
+http://xtvantsc.xyz/Smart.php?id=tiankongf1
 #EXTINF:-1,tvg-id="Skysports Cricket" tvg-name="Skysports Cricket" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Sports Cricket.png",Sky Sports Cricket
-http://192.168.2.98:5678/smt.php?id=tiankongcricket
+http://xtvantsc.xyz/Smart.php?id=tiankongcricket
 #EXTINF:-1,tvg-id="Skysports EPL" tvg-name="Skysports EPL" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Sports Premier League.png",Sky Sports Premier League
-http://192.168.2.98:5678/smt.php?id=tiankongepl
+http://xtvantsc.xyz/Smart.php?id=tiankongepl
 #EXTINF:-1,tvg-id="Sky Sports Main Event" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Sports Main Event.png",Sky Sports Main Event
-http://192.168.2.98:5678/smt.php?id=tiankongmain
+http://xtvantsc.xyz/Smart.php?id=tiankongmain
 #EXTINF:-1,tvg-id="Skysports News" tvg-name="Skysports News" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Sports News.png",Sky Sports News
-http://192.168.2.98:5678/smt.php?id=tiankongnews
+http://xtvantsc.xyz/Smart.php?id=tiankongnews
 #EXTINF:-1,tvg-id="Skysports Mix" tvg-name="Skysports Mix" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Sports Mix.png",Sky Sports Mix
-http://192.168.2.98:5678/smt.php?id=tiankongmix
+http://xtvantsc.xyz/Smart.php?id=tiankongmix
 #EXTINF:-1,tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/爱尔达体育2台.png",爱尔达体育2台
-http://192.168.2.98:5678/smt.php?id=eltasport2_twn
+http://xtvantsc.xyz/Smart.php?id=eltasport2_twn
 #EXTINF:-1,tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/爱尔达体育3台.png",爱尔达体育3台
-http://192.168.2.98:5678/smt.php?id=eltasport3_twn
+http://xtvantsc.xyz/Smart.php?id=eltasport3_twn
 #EXTINF:-1,tvg-id="爱尔达体育4台" tvg-name="爱尔达体育4台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/爱尔达体育4台.png",爱尔达体育4台
-http://192.168.2.98:5678/smt.php?id=natgeowild_twn
+http://xtvantsc.xyz/Smart.php?id=natgeowild_twn
 #EXTINF:-1,tvg-id="Rugby Pass TV" tvg-name="Rugby Pass TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Rugby Pass TV.png",Rugby Pass TV
-http://192.168.2.98:5678/smt.php?id=Rugbypasstv
+http://xtvantsc.xyz/Smart.php?id=Rugbypasstv
 #EXTINF:-1,tvg-id="W-Sport" tvg-name="W-Sport" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/W-Sport.png",W-Sport
-http://192.168.2.98:5678/smt.php?id=go_assp5
+http://xtvantsc.xyz/Smart.php?id=go_assp5
 #EXTINF:-1,tvg-id="WWE" tvg-name="WWE" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/WWE.png",WWE
-http://192.168.2.98:5678/smt.php?id=Wwe
+http://xtvantsc.xyz/Smart.php?id=Wwe
 #EXTINF:-1,tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Fight Sports.png",Fight Sports
-http://192.168.2.98:5678/smt.php?id=Fs
+http://xtvantsc.xyz/Smart.php?id=Fs
 #EXTINF:-1,tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NBA TV.png",NBA TV
-http://192.168.2.98:5678/smt.php?id=Nba
+http://xtvantsc.xyz/Smart.php?id=Nba
 
 
 
 #EXTINF:-1 tvg-id="电影频道" tvg-name="电影频道" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/95/China_Movie_Channel_Main_Logo.png/360px-China_Movie_Channel_Main_Logo.png",======电影频道======
-http://192.168.2.98:5678/smt.php?id=cctv6
+http://xtvantsc.xyz/Smart.php?id=cctv6
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV6.png",CCTV-6电影
-http://192.168.2.98:5678/smt.php?id=cctv6
+http://xtvantsc.xyz/Smart.php?id=cctv6
 #EXTINF:-1,tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/美亚电影台",美亚电影
-http://192.168.2.98:5678/smt.php?id=meiyamovie_twn
+http://xtvantsc.xyz/Smart.php?id=meiyamovie_twn
 #EXTINF:-1,tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/纬来电影台.png",纬来电影
-http://192.168.2.98:5678/smt.php?id=videolandmovie
+http://xtvantsc.xyz/Smart.php?id=videolandmovie
 #EXTINF:-1,tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/东森电影台.png",东森电影
-http://192.168.2.98:5678/smt.php?id=ettvmovie
+http://xtvantsc.xyz/Smart.php?id=ettvmovie
 #EXTINF:-1,tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/东森洋片台.png",东森洋片
-http://192.168.2.98:5678/smt.php?id=ettvwestern
+http://xtvantsc.xyz/Smart.php?id=ettvwestern
 #EXTINF:-1,tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/龙华电影台.png",龙华电影
-http://192.168.2.98:5678/smt.php?id=xingwei_movie
+http://xtvantsc.xyz/Smart.php?id=xingwei_movie
 #EXTINF:-1,tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/龙华洋片台.png",龙华洋片
-http://192.168.2.98:5678/smt.php?id=lunghuawestern_twn
+http://xtvantsc.xyz/Smart.php?id=lunghuawestern_twn
 #EXTINF:-1,tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/龙祥时代台.png",龙祥时代
-http://192.168.2.98:5678/smt.php?id=lungxiangtime_twn
+http://xtvantsc.xyz/Smart.php?id=lungxiangtime_twn
 #EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO.png",HBO Taiwan
-http://192.168.2.98:5678/smt.php?id=hbohd_twn
+http://xtvantsc.xyz/Smart.php?id=hbohd_twn
 #EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO.png",HBO
-http://192.168.2.98:5678/smt.php?id=Hbo
+http://xtvantsc.xyz/Smart.php?id=Hbo
 #EXTINF:-1,tvg-id="HBOFAMILY" tvg-name="HBOFAMILY" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HBO Family Asia.png",HBO Family
-http://192.168.2.98:5678/smt.php?id=Hbofamily
+http://xtvantsc.xyz/Smart.php?id=Hbofamily
 #EXTINF:-1,tvg-id="Hollywood Movies" tvg-name="Hollywood Movies" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/好莱坞电影台.png",Hollywood Movies
-http://192.168.2.98:5678/smt.php?id=hollywoodmovies_twn
+http://xtvantsc.xyz/Smart.php?id=hollywoodmovies_twn
 #EXTINF:-1,tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Cinemax.png",Cinemax Taiwan
-http://192.168.2.98:5678/smt.php?id=cinemax_twn
+http://xtvantsc.xyz/Smart.php?id=cinemax_twn
 #EXTINF:-1,tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Cinemax.png",Cinemax
-http://192.168.2.98:5678/smt.php?id=Cinemax
+http://xtvantsc.xyz/Smart.php?id=Cinemax
 #EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/AXN.png",AXN Taiwan
-http://192.168.2.98:5678/smt.php?id=axn_twn
+http://xtvantsc.xyz/Smart.php?id=axn_twn
 #EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/AXN.png",AXN
-http://192.168.2.98:5678/smt.php?id=Axn
+http://xtvantsc.xyz/Smart.php?id=Axn
 #EXTINF:-1,tvg-id="Rock Action" tvg-name="Rock Action" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Rock Action.png",Rock Action
-http://192.168.2.98:5678/smt.php?id=Rockaction
+http://xtvantsc.xyz/Smart.php?id=Rockaction
 #EXTINF:-1,tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Rock Entertainment.png",Rock Entertainment
-http://192.168.2.98:5678/smt.php?id=Rockentertain
+http://xtvantsc.xyz/Smart.php?id=Rockentertain
 #EXTINF:-1,tvg-id="Celestial Classic" tvg-name="Celestial Classic" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Celestial Classic Movies.png",Celestial Classic Movies
-http://192.168.2.98:5678/smt.php?id=Celestial2
+http://xtvantsc.xyz/Smart.php?id=Celestial2
 #EXTINF:-1,tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Celestial Movies.png",Celestial Movies
-http://192.168.2.98:5678/smt.php?id=Celestialindo
+http://xtvantsc.xyz/Smart.php?id=Celestialindo
 #EXTINF:-1,tvg-id="Movies Now" tvg-name="Movies Now" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/Movies Now.png",Movies Now
-http://192.168.2.98:5678/smt.php?id=moviesnow_raj
+http://xtvantsc.xyz/Smart.php?id=moviesnow_raj
 #EXTINF:-1,tvg-id="STARMOVIESHD" tvg-name="STARMOVIESHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Star Movies.png",Star Movies
-http://192.168.2.98:5678/smt.php?id=starmovies_raj
+http://xtvantsc.xyz/Smart.php?id=starmovies_raj
 #EXTINF:-1,tvg-id="WARNERTV" tvg-name="WARNERTV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Warner TV Asia.png",Warner TV
-http://192.168.2.98:5678/smt.php?id=WarnerTV
+http://xtvantsc.xyz/Smart.php?id=WarnerTV
 #EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Animax.png",Animax
-http://192.168.2.98:5678/smt.php?id=Animax
+http://xtvantsc.xyz/Smart.php?id=Animax
 #EXTINF:-1,tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/DreamWorks Television.png",Dreamworks
-http://192.168.2.98:5678/smt.php?id=Dreamworks
+http://xtvantsc.xyz/Smart.php?id=Dreamworks
 #EXTINF:-1,tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Thrill.png",Thrill
-http://192.168.2.98:5678/smt.php?id=Thrill
+http://xtvantsc.xyz/Smart.php?id=Thrill
 #EXTINF:-1,tvg-id="One" tvg-name="One" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/TV One.png",One
-http://192.168.2.98:5678/smt.php?id=One
+http://xtvantsc.xyz/Smart.php?id=One
 #EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/tvN Movie.png",tvN Movie
-http://192.168.2.98:5678/smt.php?id=Tvnmovie
+http://xtvantsc.xyz/Smart.php?id=Tvnmovie
 #EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Store.png",Sky Cinema Illumination
-http://192.168.2.98:5678/smt.php?id=Paramountnetwork
+http://xtvantsc.xyz/Smart.php?id=Paramountnetwork
 #EXTINF:-1,tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro K-Plus.png",Astro K-Plus
-http://192.168.2.98:5678/smt.php?id=Kplus
+http://xtvantsc.xyz/Smart.php?id=Kplus
+
+
+
+
 
 
 
