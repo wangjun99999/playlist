@@ -1,0 +1,168 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/wangjun99999/my-custom-epg/refs/heads/main/custom_epg.xml"
+
+#EXTINF:-1 tvg-id="7673" tvg-name="Sky Sports Main Event HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event%20UHD.png",UK| Sky Sports Main Event (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1608071&extension=ts&play_token=eNdDxRs4g6
+#EXTINF:-1 tvg-id="7673" tvg-name="Sky Sports Main Event HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event%20UHD.png",UK| Sky Sports Main Event (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1641636&extension=ts&play_token=hCeG0CtPDp
+#EXTINF:-1 tvg-id="9375" tvg-name="SkySp F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",UK| Sky Sports F1 (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1471382&extension=ts&play_token=2s3KG71k6y
+#EXTINF:-1 tvg-id="9375" tvg-name="SkySp F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",UK| Sky Sports F1 (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1641637&extension=ts&play_token=bR8Jlv02MY
+#EXTINF:-1 tvg-id="471315" tvg-name="Sky Sports Ultra HD 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20UHD.png",UK| Sky Sports (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1471387&extension=ts&play_token=uHtt1mbleb
+#EXTINF:-1 tvg-id="471315" tvg-name="Sky Sports Ultra HD 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%201.png",UK| Sky Sports 1 (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1608068&extension=ts&play_token=uC8pZYEQ5A
+#EXTINF:-1 tvg-id="471314" tvg-name="Sky Sports Ultra HD 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%202.png",UK| Sky Sports 2 (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1608069&extension=ts&play_token=L7AxXCzEEj
+#EXTINF:-1 tvg-id="400476" tvg-name="TNT Sports Ultimate" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%20Ultimate.png",UK| TNT Sports Ultimate (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1595637&extension=ts&play_token=ZE1jDXMFYa
+#EXTINF:-1 tvg-id="400476" tvg-name="TNT Sports Ultimate" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%20Ultimate.png",UK| TNT Sports Ultimate (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1479591&extension=ts&play_token=ObyX5fyuyf
+#EXTINF:-1 tvg-id="400476" tvg-name="TNT Sports Ultimate" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%20Ultimate.png",UK| TNT Sports Ultimate (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1379047&extension=ts&play_token=CN6jYCFMVJ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png",UK| EPL 1 (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1579368&extension=ts&play_token=hyuNHK4OXY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png",UK| EPL 2 (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1579367&extension=ts&play_token=QVgxGdNgOx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png",UK| Now Sports 4K 616 (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032489&extension=ts&play_token=QLDu3hefNl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png",UK| Now Sports 4K 617 (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032488&extension=ts&play_token=Dulh4eC3sm
+#EXTINF:-1 tvg-id="369822" tvg-name="Hub Premier 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%202.png",UK| Hub Premier 2 (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032518&extension=ts&play_token=W8wTTTQ5tk
+#EXTINF:-1 tvg-id="7370" tvg-name="BeIN Sports 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/beIN%20Sports.png",AR| beIN Sports (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1500113&extension=ts&play_token=trWxG5b7eW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/TOD%20360.png",AR| TOD 360 ULTRA 4K (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1347222&extension=ts&play_token=EKwSuP0LYb
+#EXTINF:-1 tvg-id="406588" tvg-name="DAZN LALIGA [ES]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/DAZN%20LaLiga.png",ES| DAZN LaLiga (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1471376&extension=ts&play_token=YFjKoHeZTz
+#EXTINF:-1 tvg-id="406568" tvg-name="M+ Liga de Campeones [ES]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/Liga%20de%20Campeones%20UHD.png",ES| Liga de Campeones (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1471377&extension=ts&play_token=kSFetqdwO2
+#EXTINF:-1 tvg-id="6338" tvg-name="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PL/Eleven%20Sports%201.png",PL| Eleven Sports 1 (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1470618&extension=ts&play_token=Ls3UdEDHwo
+#EXTINF:-1 tvg-id="409255" tvg-name="Sportsnet 360 [CA]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/SportsNet%20360.png",CA| Sportsnet 360 (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1470603&extension=ts&play_token=FmCduWQcRA
+#EXTINF:-1 tvg-id="68288" tvg-name="Viasat Sport HD SE" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/V%20Sport%20ULTRA.png",NOR| V Sport (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1632123&extension=ts&play_token=x10ydGroT8
+#EXTINF:-1 tvg-id="68288" tvg-name="Viasat Sport HD SE" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/V%20Sport%20ULTRA.png",NOR| V Sport (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1749221&extension=ts&play_token=QUuFDmK75b
+#EXTINF:-1 tvg-id="406806" tvg-name="Ziggo Sport 1 [NL]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/Ziggo%20Sport.png",NL| Ziggo Sport 1 (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1481950&extension=ts&play_token=chCjljdO1R
+#EXTINF:-1 tvg-id="6578 tvg-name="Yes Sport 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IS/Yes%20Sport%205.png",IS| Yes Sport 5 (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1749220&extension=ts&play_token=YEvTq8Spph
+
+
+#EXTINF:-1 tvg-id="381882" tvg-name="SkySp+" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Plus.png",Sky Sports+
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=30500&extension=ts&play_token=xh8AzXLvVl
+#EXTINF:-1 tvg-id="9536" tvg-name="SkySp Action" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Action.png",Sky Sports Action
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=30501&extension=ts&play_token=oTGMmgzJha
+#EXTINF:-1 tvg-id="9293" tvg-name="SkySp Cricket" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Cricket.png",Sky Sports Cricket
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=30502&extension=ts&play_token=1UShH37u99
+#EXTINF:-1 tvg-id="9375" tvg-name="SkySp F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",Sky Sports F1
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=30499&extension=ts&play_token=DfGqyKP7Oq
+#EXTINF:-1 tvg-id="9321" tvg-name="SkySp Fball" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Football.png",Sky Sports Football
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=30498&extension=ts&play_token=h5YO8VU9xd
+#EXTINF:-1 tvg-id="9413" tvg-name="SkySp Golf" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Golf.png",Sky Sports Golf
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=30497&extension=ts&play_token=VzHS2nocyu
+#EXTINF:-1 tvg-id="7673" tvg-name="Sky Sports Main Event HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png",Sky Sports Main Event
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=30496&extension=ts&play_token=PCUCnsp4aa
+#EXTINF:-1 tvg-id="9244" tvg-name="SkySp Mix HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Mix.png",Sky Sports Mix
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=30495&extension=ts&play_token=8v3JzXsLq2
+#EXTINF:-1 tvg-id="9612" tvg-name="SkySp News HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20News.png",Sky Sports News
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=30494&extension=ts&play_token=wlGl3vpzjY
+#EXTINF:-1 tvg-id="9506" tvg-name="SkySp PL" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Premier%20League.png",Sky Sports Premier League
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=30493&extension=ts&play_token=NSwQRvvEET
+#EXTINF:-1 tvg-id="9613" tvg-name="SkySp Racing HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Racing.png",Sky Sports Racing
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=77373&extension=ts&play_token=TCnEDWzCG8
+#EXTINF:-1 tvg-id="222007" tvg-name="SkySp Tennis HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Tennis.png",Sky Sports Tennis
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1454232&extension=ts&play_token=DQZwT2c4h8
+#EXTINF:-1 tvg-id="400477" tvg-name="TNT Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png",TNT Sports 1
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=30567&extension=ts&play_token=J0UyAaegOt
+#EXTINF:-1 tvg-id="400480" tvg-name="TNT Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%202.png",TNT Sports 2
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=30566&extension=ts&play_token=XGc72HvSsZ
+#EXTINF:-1 tvg-id="400479" tvg-name="TNT Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%203.png",TNT Sports 3
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=30565&extension=ts&play_token=vuMoRxzOjk
+#EXTINF:-1 tvg-id="400478" tvg-name="TNT Sports 4 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%204.png",TNT Sports 4
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1019935&extension=ts&play_token=vrFL0JCue3
+#EXTINF:-1 tvg-id="1004548" tvg-name="TNT Sports 5 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%205.png",TNT Sports 5
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1004548&extension=ts&play_token=PkNNxhUsCK
+#EXTINF:-1 tvg-id="219100" tvg-name="Premier Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%201.png",Premier Sports 1
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1905930&extension=ts&play_token=BXclBJQs7T
+#EXTINF:-1 tvg-id="219104" tvg-name="Premier Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%202.png",Premier Sports 2
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1905927&extension=ts&play_token=wiLTl2DJLU
+
+#EXTINF:-1,tvg-id="410388" tvg-name="Now Sports 英超1台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 1.png",Now HK Premier Sports 1
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032487&extension=ts&play_token=deBnJnXzDE
+#EXTINF:-1,tvg-id="410389" tvg-name="Now Sports 英超2台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 2.png",Now HK Premier Sports 2
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032486&extension=ts&play_token=gmLo5tp2MH
+#EXTINF:-1,tvg-id="410390" tvg-name="Now Sports 英超3台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 3.png",Now HK Premier Sports 3
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032485&extension=ts&play_token=T6wiiiVXxr
+#EXTINF:-1,tvg-id="410391" tvg-name="Now Sports 英超4台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 4.png",Now HK Premier Sports 4
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032484&extension=ts&play_token=JBXuyEnBz6
+#EXTINF:-1,tvg-id="410392" tvg-name="Now Sports 英超5台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 5.png",Now HK Premier Sports 5
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032483&extension=ts&play_token=kPFMKGJIKH
+#EXTINF:-1,tvg-id="415544" tvg-name="Now Sports 英超6台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 6.png",Now HK Premier Sports 6
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032482&extension=ts&play_token=TWHtZkKAQn
+#EXTINF:-1,tvg-id="415545" tvg-name="Now Sports 英超7台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 7.png",Now HK Premier Sports 7
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032481&extension=ts&play_token=wET6UDjM3Z
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 8.png",Now HK Premier Sports 8
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032480&extension=ts&play_token=ZI5pcLbDKk
+#EXTINF:-1,tvg-id="410396" tvg-name="Now Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 1.png",Now Sports 1
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032479&extension=ts&play_token=HpIqJ5nXSp
+#EXTINF:-1,tvg-id="410397" tvg-name="Now Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 2.png",Now Sports 2
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032478&extension=ts&play_token=A28piN2Wj5
+#EXTINF:-1,tvg-id="410398" tvg-name="Now Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 3.png",Now Sports 3
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032477&extension=ts&play_token=LntbpwAPVu
+#EXTINF:-1,tvg-id="410399" tvg-name="Now Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 4.png",Now Sports 4
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032476&extension=ts&play_token=rATqFCXIkO
+#EXTINF:-1,tvg-id="410400" tvg-name="Now Sports 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 5.png",Now Sports 5
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032475&extension=ts&play_token=MQ6fcMdz1g
+#EXTINF:-1,tvg-id="410401" tvg-name="Now Sports 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 6.png",Now Sports 6
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032474&extension=ts&play_token=k8SRVMeZax
+#EXTINF:-1,tvg-id="410402" tvg-name="Now Sports 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 7.png",Now Sports 7
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1032473&extension=ts&play_token=TgzV0KS9sC
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Cinemania%20Hollywood.png",Cinemania Hollywood (UHD/4K)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1430509&extension=ts&play_token=agHWPJKBka
+#EXTINF:-1 tvg-id="Sky.Action.uk" tvg-name="Sky Cinema Action UK" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-cinema-action-uk.png",Sky Cinema Action
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=163996&extension=ts&play_token=0PE2Mud7tl
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-name="Sky Cinema Animation UK" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-cinema-animation-uk.png",Sky Cinema Animation
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=873868&extension=ts&play_token=aqzTIDGTBi
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-name="Sky Cinema Drama UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-uk.png?raw=true",Sky Cinema Drama
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=163997&extension=ts&play_token=CsOSTc6fJK
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-name="Sky Cinema Family UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-family-uk.png",Sky Cinema Family
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=163993&extension=ts&play_token=jfmTHcpdbe
+#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-name="Sky Cinema Comedy UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-comedy-uk.png",Sky Cinema Comedy
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=163994&extension=ts&play_token=7npOra4U4a
+#EXTINF:-1 tvg-id="Sky.Greats.uk" tvg-name="Sky Cinema Greats UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-greats-uk.png",Sky Cinema Greats
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=164000&extension=ts&play_token=wC4JTJCppL
+#EXTINF:-1 tvg-id="Sky.Premiere.uk" tvg-name="Sky Cinema Premiere UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-premiere-uk.png",Sky Cinema Premiere
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=163991&extension=ts&play_token=0Jzh5LOg70
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-name="Sky Cinema Thriller UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-thriller-uk.png",Sky Cinema Thriller
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=163999&extension=ts&play_token=eCLmENUq8p
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-name="Sky Cinema Hits UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-hits-uk.png", Sky Cinema Hits
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=163992&extension=ts&play_token=tEMwvHMS6v
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-name="Sky Cinema Sci-Fi Horror UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png", Sky Cinema Sci-Fi Horror
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=163998&extension=ts&play_token=Kf7MxBHZub
+
+#EXTINF:-1 tvg-id="464175" tvg-name="ZEE CAFE" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/Zee%20Cafe.png",Zee Café (SUB ENG)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=155730&extension=ts&play_token=sqVtCeVNjC
+#EXTINF:-1 tvg-id="463984" tvg-name="STAR MOVIES" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/Star%20Movies.png",Star Movies (SUB ENG)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=282639&extension=ts&play_token=Uupz1J9FPi
+#EXTINF:-1 tvg-id="464114" tvg-name="STAR MOVIES SELECT" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/Star%20Movies%20Select.png",Star Movies Select (SUB ENG)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=155729&extension=ts&play_token=DBPJSMxnOJ
+#EXTINF:-1 tvg-id="463905" tvg-name="MOVIES NOW" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/Movies%20Now.png",Movies Now (SUB ENG)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1116477&extension=ts&play_token=RP0KUlpB3l
+#EXTINF:-1 tvg-id="464026" tvg-name="and flix" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/And%20Flix.png",And Flix (SUB ENG)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1116484&extension=ts&play_token=bQPLQmXSrE
+#EXTINF:-1 tvg-id="463869" tvg-name="and PRIVE HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/And%20Prive.png",And Privé (SUB ENG)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=155746&extension=ts&play_token=GBWSOgRtcC
+#EXTINF:-1 tvg-id="464247" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/Cartoon%20Network.png",Cartoon Network (SUB ENG)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1110636&extension=ts&play_token=9ha9QELvBM
+#EXTINF:-1 tvg-id="463932" tvg-name="SONY PIX HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/Sony%20Pix.png",Sony Pix (SUB ENG)
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1116481&extension=ts&play_token=xY9jJ5vlc2
+#EXTINF:-1 tvg-id="463835" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/National%20Geographic.png",National Geographic
+http://pinkstar-diamant.eu:80/play/live.php?mac=00:1A:79:33:07:7E&stream=1116478&extension=ts&play_token=mARuyZR61s
+
+
