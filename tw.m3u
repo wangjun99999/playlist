@@ -104,7 +104,8 @@ http://xtvantsc.xyz/Smart.php?id=Thrill
 http://xtvantsc.xyz/Smart.php?id=Celestialindo
 #EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png",天映經典頻道MY
 http://xtvantsc.xyz/Smart.php?id=Celestial2
-
+#EXTINF:-1 tvg-id="CatchPlay電影台" tvg-name="CatchPlay電影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/CatchPlay%E9%9B%BB%E5%BD%B1%E5%8F%B0.png",CatchPlay電影台
+http://xtvantsc.xyz/Smart.php?id=catchplay_twn
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png",amc 電影台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv017
 #EXTINF:-1,tvg-id="美亞電影台台灣" tvg-name="美亞電影台台灣影" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/美亚电影台.png",美亞電影台
