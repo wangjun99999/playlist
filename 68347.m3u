@@ -4,17 +4,17 @@
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1608071&extension=ts&play_token=ALaSAR8wmK
 #EXTINF:-1 tvg-id="7673" tvg-name="Sky Sports Main Event HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event%20UHD.png",UK| Sky Sports Main Event (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1641636&extension=ts&play_token=nXXlKVJ3HI
-#EXTINF:-1 tvg-id="9375" tvg-name="SkySp F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",UK| Sky Sports F1 (UHD/4K)
+#EXTINF:-1 tvg-id="6317" tvg-name="Sky Sports F1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",UK| Sky Sports F1 (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1641637&extension=ts&play_token=XVIjsdA9bJ
-#EXTINF:-1 tvg-id="9375" tvg-name="SkySp F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",UK| Sky Sports F1 (UHD/4K)
+#EXTINF:-1 tvg-id="6317" tvg-name="Sky Sports F1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",UK| Sky Sports F1 (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1471382&extension=ts&play_token=QL0psc9BR7
-#EXTINF:-1 tvg-id="9375" tvg-name="SkySp F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",UK| Sky Sports F1 (UHD/4K)
+#EXTINF:-1 tvg-id="6317" tvg-name="Sky Sports F1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",UK| Sky Sports F1 (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1761500&extension=ts&play_token=VskGFp1o8t
-#EXTINF:-1 tvg-id="471315" tvg-name="Sky Sports Ultra HD 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20UHD.png",UK| Sky Sports (UHD/4K)
+#EXTINF:-1 tvg-id="431628" tvg-name="Sky Sports 1 UHD [UK]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20UHD.png",UK| Sky Sports (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1471387&extension=ts&play_token=jsW85mNAgr
-#EXTINF:-1 tvg-id="471315" tvg-name="Sky Sports Ultra HD 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%201.png",UK| Sky Sports 1 (UHD/4K)
+#EXTINF:-1 tvg-id="431628" tvg-name="Sky Sports 1 UHD [UK]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%201.png",UK| Sky Sports 1 (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1608068&extension=ts&play_token=nyzwvSLe7L
-#EXTINF:-1 tvg-id="471314" tvg-name="Sky Sports Ultra HD 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%202.png",UK| Sky Sports 2 (UHD/4K)
+#EXTINF:-1 tvg-id="431627" tvg-name="Sky Sports 2 UHD [UK]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%202.png",UK| Sky Sports 2 (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1608069&extension=ts&play_token=Hmm0WTCbDB
 #EXTINF:-1 tvg-id="400476" tvg-name="TNT Sports Ultimate" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%20Ultimate.png",UK| TNT Sports Ultimate (UHD/4K)
 http://68347-pcs.oot-mx.me:80/play/live.php?mac=00:1a:79:c1:76:19&stream=1595637&extension=ts&play_token=2IaTxciv7Z
