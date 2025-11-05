@@ -206,17 +206,17 @@ http://xtvantsc.xyz/Smart.php?id=ten3_raj
 http://xtvantsc.xyz/Smart.php?id=go_spotv
 #EXTINF:-1,tvg-id="SPOTV 2" tvg-name="SPOTV 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/SPOTV2.png",SPOTV 2
 http://xtvantsc.xyz/Smart.php?id=go_spotv2
-#EXTINF:-1,tvg-id="Skysports F1" tvg-name="Skysports F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Sports F1.png",Sky Sports F1
+#EXTINF:-1,tvg-id="6317" tvg-name="Sky Sports F1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Sports F1.png",Sky Sports F1
 http://xtvantsc.xyz/Smart.php?id=tiankongf1
-#EXTINF:-1,tvg-id="Skysports Cricket" tvg-name="Skysports Cricket" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Sports Cricket.png",Sky Sports Cricket
+#EXTINF:-1,tvg-id="6254" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Sports Cricket.png",Sky Sports Cricket
 http://xtvantsc.xyz/Smart.php?id=tiankongcricket
-#EXTINF:-1,tvg-id="Skysports EPL" tvg-name="Skysports EPL" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Sports Premier League.png",Sky Sports Premier League
+#EXTINF:-1,tvg-id="6958" tvg-name="Sky Sports Premier League HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Sports Premier League.png",Sky Sports Premier League
 http://xtvantsc.xyz/Smart.php?id=tiankongepl
 #EXTINF:-1,tvg-id="Sky Sports Main Event" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Sports Main Event.png",Sky Sports Main Event
 http://xtvantsc.xyz/Smart.php?id=tiankongmain
-#EXTINF:-1,tvg-id="Skysports News" tvg-name="Skysports News" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Sports News.png",Sky Sports News
+#EXTINF:-1,tvg-id="6626" tvg-name="Sky Sports News HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Sports News.png",Sky Sports News
 http://xtvantsc.xyz/Smart.php?id=tiankongnews
-#EXTINF:-1,tvg-id="Skysports Mix" tvg-name="Skysports Mix" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Sports Mix.png",Sky Sports Mix
+#EXTINF:-1,tvg-id="6553" tvg-name="Sky Sports Mix HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky Sports Mix.png",Sky Sports Mix
 http://xtvantsc.xyz/Smart.php?id=tiankongmix
 #EXTINF:-1,tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/爱尔达体育2台.png",爱尔达体育2台
 http://xtvantsc.xyz/Smart.php?id=eltasport2_twn
