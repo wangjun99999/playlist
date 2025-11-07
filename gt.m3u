@@ -72,9 +72,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 #EXTINF:-1 tvg-id="TVB生活台" tvg-name="TVB生活台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%E7%94%9F%E6%B4%BB%E5%8F%B0.png",TVB生活台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-#EXTINF:-1 tvg-id="410344" tvg-name="Now新聞台" tvg-logo="https://epg-1.iill.top/logo/NOW新聞台.png",now新聞台
+#EXTINF:-1 tvg-id="410344" tvg-name="Now新聞台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/now%E6%96%B0%E8%81%9E%E5%8F%B0.png",now新聞台
 https://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="翡翠台(超高清)" tvg-name="翡翠台(超高清)" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png",翡翠台4K
+#EXTINF:-1 tvg-id="460917" tvg-name="TVB 翡翠台" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png",翡翠台4K
 https://cdn6.163189.xyz/163189/fct4k
 #EXTINF:-1 tvg-id="460917" tvg-name="TVB 翡翠台" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png",翡翠台
 https://mytv.cdn.loc.cc/o12.php?id=fct
