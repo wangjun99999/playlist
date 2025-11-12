@@ -29,25 +29,25 @@ http://php.jdshipin.com/smt.php?id=Celestial2
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
 
-#EXTINF:-1 tvg-id="HOY國際財經" tvg-name="HOY國際財經" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E5%9C%8B%E9%9A%9B%E8%B2%A1%E7%B6%93%E5%8F%B0.png",HOY76 國際財經
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E5%9C%8B%E9%9A%9B%E8%B2%A1%E7%B6%93%E5%8F%B0.png",HOY76 國際財經台
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E9%96%8B%E9%9B%BB%E8%A6%96.png",HOY77
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOY資訊" tvg-name="HOY資訊" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E8%B3%87%E8%A8%8A%E5%8F%B0.png",HOY78 資訊
+#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E8%B3%87%E8%A8%8A%E5%8F%B0.png",HOY78 資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-id="",HOY 生活台91
+#EXTINF:-1 tvg-id="HOY生活台" tvg-name="HOY生活台",HOY91 生活台
 https://edge.media.seaovers.live/856b503e276cc4912b6c0b42cb01878d/baselive/v2/6TV1VW9W.m3u8
-#EXTINF:-1 tvg-id="",HOY 剧集台92
+#EXTINF:-1 tvg-id="HOY劇集台" tvg-name="HOY劇集台",HOY92 劇集台
 https://edge.media.seaovers.live/856b503e276cc49100c1dde528ee8cde/baselive/v2/DPL3J6FY.m3u8
-#EXTINF:-1 tvg-id="",HOY 怪谈台93
+#EXTINF:-1 tvg-id="HOY怪談台" tvg-name="HOY怪談台",HOY93 怪談台
 https://edge.media.seaovers.live/856b503e276cc49197dd54aa8a0c740e/baselive/v2/TPLUZIFF.m3u8
-#EXTINF:-1 tvg-id="",HOY 体育台94
+#EXTINF:-1 tvg-id="HOY體育台" tvg-name="HOY體育台",HOY94 體育台
 https://edge.media.seaovers.live/856b503e276cc4917dc388396c23668b/baselive/v2/J0LMZVOV.m3u8
-#EXTINF:-1 tvg-id="",HOY SportsPlus96
+#EXTINF:-1 tvg-id="SportsPlus" tvg-name="SportsPlus",HOY96 SportsPlus
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/WQFFQD2YSMWFAZXKTY07/hls3/now,-1m/m.m3u8
-#EXTINF:-1 tvg-id="",HOY Travel & Food TV97
+#EXTINF:-1 tvg-id="Travel &amp; Food TV" tvg-name="Travel &amp; Food TV",HOY97 Travel & Food TV
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/77I3ZMNRNMI5I93YF0WC/hls3/now,-1m/m.m3u8
-#EXTINF:-1 tvg-id="",HOY Spot on news98
+#EXTINF:-1 tvg-id="spot on news" tvg-name="spot on news",HOY98 Spot on news
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TDGHWR1Q2FLL5PEG33BE/hls3/now,-1m/m.m3u8
 
 #EXTINF:-1 tvg-id="368550" tvg-name="港台电视31" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK31.png",RTHKTV 31
@@ -78,17 +78,17 @@ https://cdn.163189.xyz/163189/now
 https://cdn6.163189.xyz/163189/fct4k
 #EXTINF:-1 tvg-id="460917" tvg-name="TVB 翡翠台" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png",翡翠台
 https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20Drama.png",翡翠剧集台
+#EXTINF:-1 tvg-id="TVB翡翠劇集臺(TVB Drama)" tvg-name="TVB翡翠劇集臺(TVB Drama)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20Drama.png",TVB Drama 翡翠劇集臺
 https://6.cdn.loc.cc/163189.php?id=tvbd
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%8D%83%E7%A6%A7%E7%B6%93%E5%85%B8%E5%8F%B0.png",千禧經典台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-id="460932" tvg-name="TVB Pearl" tvg-logo="https://epg-1.iill.top/logo/明珠台.png",明珠台
 https://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20J1.png",翡翠台北美版(TVB J1)
+#EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20J1.png",TVB J1 翡翠台北美版
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20Plus.png",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%201.png",TVB1
+#EXTINF:-1 tvg-id="翡翠一臺(TVB1)" tvg-name="翡翠一臺(TVB1)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%201.png",TVB1 翡翠一臺
 https://6.cdn.loc.cc/163189.php?id=tvb1
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ViuTV.png",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
