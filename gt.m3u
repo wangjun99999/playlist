@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV1.png",龍華電影
 http://cdn8.163189.xyz/163189/lhdy
-#EXTINF:-1 tvg-id="龍華洋片MOD" tvg-name="龍華洋片MOD" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV2.png",龍華洋片
+#EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV2.png",龍華洋片
 http://cdn8.163189.xyz/163189/lhyp
 #EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV7.png",龍華經典
 http://cdn8.163189.xyz/163189/lhjd
