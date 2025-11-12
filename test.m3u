@@ -1,3 +1,19 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",电影频道央影传媒HLS
+https://pull-hs-f5.flive.douyincdn.com/media/stream-694768596311868076_hd/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1763532433&major_anchor_level=common&sign=da1e0873258689966f9cb603825871f5&t_id=037-202511121407134B5589B8FAC5BEEC35DB-pgiHAO&volcSecret=da1e0873258689966f9cb603825871f5&volcTime=1763532433
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",电影频道央影传媒FLV
+https://pull-hs-f5.flive.douyincdn.com/media/stream-694768596311868076_hd.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1763532433&major_anchor_level=common&sign=9366586ea991c6366fbd2e6d60d97586&t_id=037-202511121407134B5589B8FAC5BEEC35DB-pgiHAO&unique_id=stream-694768596311868076_684_flv_hd&volcSecret=9366586ea991c6366fbd2e6d60d97586&volcTime=1763532433
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",央视网HLS
+https://pull-f3.douyinliving.com/media/stream-694764280073159506_hd.m3u8?arch_hrchy=s2&auth_key=1763531025-0-0-c6f5cfce515bde38777229b5c27781d9&major_anchor_level=vip&s_anchor=1&t_id=037-20251112141345D9212EBDFC0C4C05D69C-9LVQ3L
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",央视网FLV
+https://pull-f3.douyinliving.com/media/stream-694764280073159506_hd.flv?arch_hrchy=s2&auth_key=1763531025-0-0-6b178410440cbef01fa1b07433f62c14&major_anchor_level=vip&s_anchor=1&t_id=037-20251112141345D9212EBDFC0C4C05D69C-9LVQ3L&unique_id=stream-694764280073159506_850_flv_hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",央视频HLS
+https://pull-hls-f26.douyinliving.com/media/stream-406537583769682770_hd.m3u8?arch_hrchy=s2&expire=691d60a9&major_anchor_level=vip&s_anchor=1&sign=8d9b1ff67820146ea14066fd8eee88f1&t_id=037-202511121416099EBA1CB6AB033EAEC7B3-ZsNa0T
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",央视频FLV
+https://pull-flv-f26.douyinliving.com/media/stream-406537583769682770_hd.flv?arch_hrchy=s2&expire=691d60a9&major_anchor_level=vip&s_anchor=1&sign=75febd2d1c318bfc91e316f269ce7cf2&t_id=037-202511121416099EBA1CB6AB033EAEC7B3-ZsNa0T&unique_id=stream-406537583769682770_850_flv_hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",看看新闻KnewsHLS
+https://pull-hls-f26.douyinliving.com/media/stream-118308069908939602_hd.m3u8?arch_hrchy=s2&expire=691d6121&major_anchor_level=vip&s_anchor=1&sign=77ff8a89853e95e72e1f35cdf96bf004&t_id=037-20251112141809F743B324157B53C42822-TYh5sJ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",看看新闻KnewsFLV
+https://pull-flv-f26.douyinliving.com/media/stream-118308069908939602_hd.flv?arch_hrchy=s2&expire=691d6121&major_anchor_level=vip&s_anchor=1&sign=a48add2b121511e501119df8ed4efb25&t_id=037-20251112141809F743B324157B53C42822-TYh5sJ&unique_id=stream-118308069908939602_850_flv_hd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",緯來電影
