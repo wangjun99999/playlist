@@ -28,26 +28,25 @@ http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1 tvg-id="重温经典频道" tvg-name="重温经典频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
-
+#EXTINF:-1 tvg-id="HOY怪談台" tvg-name="HOY怪談台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY.png",HOY72 怪談台
+https://edge.media.seaovers.live/856b503e276cc49197dd54aa8a0c740e/baselive/v2/TPLUZIFF.m3u8
+#EXTINF:-1 tvg-id="HOY劇集台" tvg-name="HOY劇集台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY.png",HOY73 劇集台
+https://edge.media.seaovers.live/856b503e276cc49100c1dde528ee8cde/baselive/v2/DPL3J6FY.m3u8
+#EXTINF:-1 tvg-id="HOY生活台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY.png" tvg-name="HOY生活台",HOY74 生活台
+https://edge.media.seaovers.live/856b503e276cc4912b6c0b42cb01878d/baselive/v2/6TV1VW9W.m3u8
+#EXTINF:-1 tvg-id="HOY體育台" tvg-name="HOY體育台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY.png",HOY75 體育台
+https://edge.media.seaovers.live/856b503e276cc4917dc388396c23668b/baselive/v2/J0LMZVOV.m3u8
 #EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E5%9C%8B%E9%9A%9B%E8%B2%A1%E7%B6%93%E5%8F%B0.png",HOY76 國際財經台
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E9%96%8B%E9%9B%BB%E8%A6%96.png",HOY77
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E8%B3%87%E8%A8%8A%E5%8F%B0.png",HOY78 資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOY生活台" tvg-name="HOY生活台",HOY91 生活台
-https://edge.media.seaovers.live/856b503e276cc4912b6c0b42cb01878d/baselive/v2/6TV1VW9W.m3u8
-#EXTINF:-1 tvg-id="HOY劇集台" tvg-name="HOY劇集台",HOY92 劇集台
-https://edge.media.seaovers.live/856b503e276cc49100c1dde528ee8cde/baselive/v2/DPL3J6FY.m3u8
-#EXTINF:-1 tvg-id="HOY怪談台" tvg-name="HOY怪談台",HOY93 怪談台
-https://edge.media.seaovers.live/856b503e276cc49197dd54aa8a0c740e/baselive/v2/TPLUZIFF.m3u8
-#EXTINF:-1 tvg-id="HOY體育台" tvg-name="HOY體育台",HOY94 體育台
-https://edge.media.seaovers.live/856b503e276cc4917dc388396c23668b/baselive/v2/J0LMZVOV.m3u8
-#EXTINF:-1 tvg-id="SportsPlus" tvg-name="SportsPlus",HOY96 SportsPlus
+#EXTINF:-1 tvg-id="SportsPlus" tvg-name="SportsPlus" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY.png",HOY711 SportsPlus
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/WQFFQD2YSMWFAZXKTY07/hls3/now,-1m/m.m3u8
-#EXTINF:-1 tvg-id="Travel &amp; Food TV" tvg-name="Travel &amp; Food TV",HOY97 Travel & Food TV
+#EXTINF:-1 tvg-id="Travel & Food TV" tvg-name="Travel & Food TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY.png",HOY720 Travel & Food TV
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/77I3ZMNRNMI5I93YF0WC/hls3/now,-1m/m.m3u8
-#EXTINF:-1 tvg-id="spot on news" tvg-name="spot on news",HOY98 Spot on news
+#EXTINF:-1 tvg-id="spot on news" tvg-name="spot on news" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY.png",HOY740 Spot on news
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TDGHWR1Q2FLL5PEG33BE/hls3/now,-1m/m.m3u8
 
 #EXTINF:-1 tvg-id="368550" tvg-name="港台电视31" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK31.png",RTHKTV 31
