@@ -1,6 +1,7 @@
 
 
 赛事咪咕,#genre# 
+11,http://proxpanel.pro:80/11223344/55667788/707929
 赛事咪咕播01,https://zby.130519.xyz/PLTV/11/224/3221225636/index.m3u8 
 赛事咪咕播02,https://zby.130519.xyz/PLTV/11/224/3221225637/index.m3u8 
 赛事咪咕播03,https://zby.130519.xyz/PLTV/11/224/3221225638/index.m3u8 
