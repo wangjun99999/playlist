@@ -122,13 +122,13 @@ http://192.168.2.98:5050/play?id=FOX-DEPORTES
 http://192.168.2.98:5050/play?id=FOX-DEPORTES-BU
 
 
-#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-name="Sky Cinema Comedy UK" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2560px--sky_-cinema_-comedy_-_-logo_2016.svg.png",Sky Cinema Comedy
+#EXTINF:-1 tvg-id="9158" tvg-name="Sky Comedy Cinema" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2560px--sky_-cinema_-comedy_-_-logo_2016.svg.png",Sky Cinema Comedy
 http://192.168.2.98:5050/play?id=UK-Sky-Cinema-Comedy
-#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-name="Sky Cinema Family UK" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2560px--sky_-cinema_-family_-_-logo_2021.svg.png",Sky Cinema Family
+#EXTINF:-1 tvg-id="12449" tvg-name="Sky Family HD" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2560px--sky_-cinema_-family_-_-logo_2021.svg.png",Sky Cinema Family
 http://192.168.2.98:5050/play?id=UK-Sky-Cinema-Family
-#EXTINF:-1 tvg-id="Sky.Action.uk" tvg-name="Sky Cinema Action UK" tvg-logo="https://center.urlix.co/storage/images/xoFwpmX85KdS4KiiKZh2HTg7z9C588zrClleoH0u.webp",Sky Cinema Action
+#EXTINF:-1 tvg-id="9272" tvg-name="Sky Action" tvg-logo="https://center.urlix.co/storage/images/xoFwpmX85KdS4KiiKZh2HTg7z9C588zrClleoH0u.webp",Sky Cinema Action
 http://192.168.2.98:5050/play?id=Sky-Cinema-Action
-#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-name="Sky Cinema Animation UK" tvg-logo="https://center.urlix.co/storage/images/So67ypbXnCLB8aIICUay2TfFiwlXh5mDh5GPw7Pc.svg",Sky Cinema Animation
+#EXTINF:-1 tvg-id="12122" tvg-name="SkyAnimationHD" tvg-logo="https://center.urlix.co/storage/images/So67ypbXnCLB8aIICUay2TfFiwlXh5mDh5GPw7Pc.svg",Sky Cinema Animation
 http://192.168.2.98:5050/play?id=Sky-Cinema-Animation
 #EXTINF:-1 tvg-id="465249" tvg-name="HBO (Pacific)" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/r-d9d247-s1-q-wg-g-lcg-c-g-ps2r-s-t6024f-l-ak-eld-h-e-m-tn.png",HBO 1
 http://192.168.2.98:5050/play?id=HBO
@@ -167,13 +167,13 @@ http://192.168.2.98:5050/play?id=BBC-Red-Button
 http://192.168.2.98:5050/play?id=UK-Virgin-1
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/z-n1gy-tr71-xm1uia7-m8-jv-e-t0ygm-ql47v-h4-d5wu-t91.png",Virgin 3
 http://192.168.2.98:5050/play?id=UK-Virgin-3
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV 1 UK" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t-t-zte39n-nu-a-z-cr-to-h-c7k5-shg-n-yaa9-ccl-iljf2onx.png",ITV 1
+#EXTINF:-1 tvg-id="12086" tvg-name="ITV1 HD" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t-t-zte39n-nu-a-z-cr-to-h-c7k5-shg-n-yaa9-ccl-iljf2onx.png",ITV 1
 http://192.168.2.98:5050/play?id=ITV-1
-#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-name="ITV 2 UK" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-pt-eo-s-rm-jk-n-b1-qg9v-b-x-n-l-la-m-z-vp6-i-w4-l-j-t7-j-g01-c.png",ITV 2
+#EXTINF:-1 tvg-id="12203" tvg-name="ITV2 HD" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-pt-eo-s-rm-jk-n-b1-qg9v-b-x-n-l-la-m-z-vp6-i-w4-l-j-t7-j-g01-c.png",ITV 2
 http://192.168.2.98:5050/play?id=ITV-2
-#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-name="ITV 3 UK" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/3j3ra-qdk-rm3-cz-c9l-iyhrk-si82-oyshnipxl8os-sm-n.png",ITV 3
+#EXTINF:-1 tvg-id="12274" tvg-name="ITV3 HD" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/3j3ra-qdk-rm3-cz-c9l-iyhrk-si82-oyshnipxl8os-sm-n.png",ITV 3
 http://192.168.2.98:5050/play?id=ITV-3
-#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="ITV 4 UK" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/d0-sx-p-n7-cb6-o-n-rdi-m-w-bnrzrrzgu-k-u-srs-h-d-b-q-gy-l5w.png",ITV 4
+#EXTINF:-1 tvg-id="12271" tvg-name="ITV4 HD" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/d0-sx-p-n7-cb6-o-n-rdi-m-w-bnrzrrzgu-k-u-srs-h-d-b-q-gy-l5w.png",ITV 4
 http://192.168.2.98:5050/play?id=ITV-4
 
 
