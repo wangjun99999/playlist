@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/wangjun99999/my-custom-epg/refs/heads/main/custom_epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgziyong.xml"
 
 
 #EXTINF:-1 tvg-id="476376" tvg-name="青岛新闻综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/QTV-1.png", group-title="青岛频道",青岛新闻综合QTV-1
