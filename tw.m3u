@@ -106,7 +106,7 @@ http://217.116.172.49/Smart.php?id=Celestialindo
 http://217.116.172.49/Smart.php?id=Celestial2
 #EXTINF:-1 tvg-id="CatchPlay電影台" tvg-name="CatchPlay電影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/CatchPlay%E9%9B%BB%E5%BD%B1%E5%8F%B0.png",CatchPlay電影台
 http://217.116.172.49/Smart.php?id=catchplay_twn
-#EXTINF:-1,tvg-id="美亞電影台台灣" tvg-name="美亞電影台台灣影" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/美亚电影台.png",美亞電影台
+#EXTINF:-1,tvg-id="美亞電影HD" tvg-name="美亞電影HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/美亚电影台.png",美亞電影台
 http://217.116.172.49/Smart.php?id=meiyamovie_twn
 #EXTINF:-1,tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Crime%20%26%20Investigation.png",CI 罪案偵查頻道
 http://217.116.172.49/Smart.php?id=ci_twn
