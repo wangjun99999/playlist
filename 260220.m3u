@@ -1,5 +1,3 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/wangjun99999/my-custom-epg/refs/heads/main/custom_epg.xml"
-
 
 #EXTINF:-1 tvg-id="7673" tvg-name="Sky Sports Main Event HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event%20UHD.png",Sky Sports Main Event (UHD/4K)
 http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=1608071&extension=ts&play_token=GTnJF4KHtk
@@ -123,34 +121,34 @@ http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=45251&extension=t
 http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=1032489&extension=ts&play_token=dNTbdauwnG
 #EXTINF:-1 tvg-id="410385" tvg-name="Now Sports 4K 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png",Now HK Now Sports 4K 617
 http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=1032488&extension=ts&play_token=V8AAvOZsZ5
-#EXTINF:-1,tvg-id="410388" tvg-name="Now Sports 英超1台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 1.png",Now HK Premier Sports 1
+#EXTINF:-1 tvg-id="410388" tvg-name="Now Sports 英超1台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 1.png",Now HK Premier Sports 1
 http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=1032487&extension=ts&play_token=KrdYDMQWdN
-#EXTINF:-1,tvg-id="410389" tvg-name="Now Sports 英超2台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 2.png",Now HK Premier Sports 2
+#EXTINF:-1 tvg-id="410389" tvg-name="Now Sports 英超2台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 2.png",Now HK Premier Sports 2
 http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=1032486&extension=ts&play_token=yvZjm1bFnO
-#EXTINF:-1,tvg-id="410390" tvg-name="Now Sports 英超3台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 3.png",Now HK Premier Sports 3
+#EXTINF:-1 tvg-id="410390" tvg-name="Now Sports 英超3台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 3.png",Now HK Premier Sports 3
 http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=1032485&extension=ts&play_token=xwjowoU5BA
-#EXTINF:-1,tvg-id="410391" tvg-name="Now Sports 英超4台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 4.png",Now HK Premier Sports 4
+#EXTINF:-1 tvg-id="410391" tvg-name="Now Sports 英超4台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 4.png",Now HK Premier Sports 4
 http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=1032484&extension=ts&play_token=j9upXOwSz2
-#EXTINF:-1,tvg-id="410392" tvg-name="Now Sports 英超5台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 5.png",Now HK Premier Sports 5
+#EXTINF:-1 tvg-id="410392" tvg-name="Now Sports 英超5台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 5.png",Now HK Premier Sports 5
 http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=1032483&extension=ts&play_token=VWWVgYTI58
-#EXTINF:-1,tvg-id="415544" tvg-name="Now Sports 英超6台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 6.png",Now HK Premier Sports 6
+#EXTINF:-1 tvg-id="415544" tvg-name="Now Sports 英超6台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 6.png",Now HK Premier Sports 6
 http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=1032482&extension=ts&play_token=XYXspNlybQ
-#EXTINF:-1,tvg-id="415545" tvg-name="Now Sports 英超7台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 7.png",Now HK Premier Sports 7
+#EXTINF:-1 tvg-id="415545" tvg-name="Now Sports 英超7台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 7.png",Now HK Premier Sports 7
 http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=1032481&extension=ts&play_token=SQSYuvTQSW
 
-#EXTINF:-1,tvg-id="410396" tvg-name="Now Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 1.png",Now Sports 1
+#EXTINF:-1 tvg-id="410396" tvg-name="Now Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 1.png",Now Sports 1
 http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=1032479&extension=ts&play_token=Nqzefp2ZZT
-#EXTINF:-1,tvg-id="410397" tvg-name="Now Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 2.png",Now Sports 2
+#EXTINF:-1 tvg-id="410397" tvg-name="Now Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 2.png",Now Sports 2
 http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=1032478&extension=ts&play_token=srPgLakYGa
-#EXTINF:-1,tvg-id="410398" tvg-name="Now Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 3.png",Now Sports 3
+#EXTINF:-1 tvg-id="410398" tvg-name="Now Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 3.png",Now Sports 3
 http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=1032477&extension=ts&play_token=nX6Y2mmjLH
-#EXTINF:-1,tvg-id="410399" tvg-name="Now Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 4.png",Now Sports 4
+#EXTINF:-1 tvg-id="410399" tvg-name="Now Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 4.png",Now Sports 4
 http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=1032476&extension=ts&play_token=APNkjZNIsG
-#EXTINF:-1,tvg-id="410400" tvg-name="Now Sports 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 5.png",Now Sports 5
+#EXTINF:-1 tvg-id="410400" tvg-name="Now Sports 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 5.png",Now Sports 5
 http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=1032475&extension=ts&play_token=xgcVDbLVdd
-#EXTINF:-1,tvg-id="410401" tvg-name="Now Sports 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 6.png",Now Sports 6
+#EXTINF:-1 tvg-id="410401" tvg-name="Now Sports 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 6.png",Now Sports 6
 http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=1032474&extension=ts&play_token=bUcCYzn8uO
-#EXTINF:-1,tvg-id="410402" tvg-name="Now Sports 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 7.png",Now Sports 7
+#EXTINF:-1 tvg-id="410402" tvg-name="Now Sports 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 7.png",Now Sports 7
 http://23232.top:80/play/live.php?mac=00:1A:79:B1:98:C1&stream=1032473&extension=ts&play_token=TKYD37hmDU
 
 
