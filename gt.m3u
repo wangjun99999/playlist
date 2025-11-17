@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/wangjun99999/my-custom-epg/refs/heads/main/custom_epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgziyong.xml"
 
 #EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV1.png",龍華電影
 http://cdn8.163189.xyz/163189/lhdy
