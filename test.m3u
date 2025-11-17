@@ -1,20 +1,38 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",电影频道央影传媒HLS
-https://pull-hs-f5.flive.douyincdn.com/media/stream-694768596311868076_hd/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1763532433&major_anchor_level=common&sign=da1e0873258689966f9cb603825871f5&t_id=037-202511121407134B5589B8FAC5BEEC35DB-pgiHAO&volcSecret=da1e0873258689966f9cb603825871f5&volcTime=1763532433
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",电影频道央影传媒FLV
-https://pull-hs-f5.flive.douyincdn.com/media/stream-694768596311868076_hd.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1763532433&major_anchor_level=common&sign=9366586ea991c6366fbd2e6d60d97586&t_id=037-202511121407134B5589B8FAC5BEEC35DB-pgiHAO&unique_id=stream-694768596311868076_684_flv_hd&volcSecret=9366586ea991c6366fbd2e6d60d97586&volcTime=1763532433
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",央视网HLS
-https://pull-f3.douyinliving.com/media/stream-694764280073159506_hd.m3u8?arch_hrchy=s2&auth_key=1763531025-0-0-c6f5cfce515bde38777229b5c27781d9&major_anchor_level=vip&s_anchor=1&t_id=037-20251112141345D9212EBDFC0C4C05D69C-9LVQ3L
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",央视网FLV
-https://pull-f3.douyinliving.com/media/stream-694764280073159506_hd.flv?arch_hrchy=s2&auth_key=1763531025-0-0-6b178410440cbef01fa1b07433f62c14&major_anchor_level=vip&s_anchor=1&t_id=037-20251112141345D9212EBDFC0C4C05D69C-9LVQ3L&unique_id=stream-694764280073159506_850_flv_hd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",央视频HLS
-https://pull-hls-f26.douyinliving.com/media/stream-406537583769682770_hd.m3u8?arch_hrchy=s2&expire=691d60a9&major_anchor_level=vip&s_anchor=1&sign=8d9b1ff67820146ea14066fd8eee88f1&t_id=037-202511121416099EBA1CB6AB033EAEC7B3-ZsNa0T
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",央视频FLV
-https://pull-flv-f26.douyinliving.com/media/stream-406537583769682770_hd.flv?arch_hrchy=s2&expire=691d60a9&major_anchor_level=vip&s_anchor=1&sign=75febd2d1c318bfc91e316f269ce7cf2&t_id=037-202511121416099EBA1CB6AB033EAEC7B3-ZsNa0T&unique_id=stream-406537583769682770_850_flv_hd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",看看新闻KnewsHLS
-https://pull-hls-f26.douyinliving.com/media/stream-118308069908939602_hd.m3u8?arch_hrchy=s2&expire=691d6121&major_anchor_level=vip&s_anchor=1&sign=77ff8a89853e95e72e1f35cdf96bf004&t_id=037-20251112141809F743B324157B53C42822-TYh5sJ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",看看新闻KnewsFLV
-https://pull-flv-f26.douyinliving.com/media/stream-118308069908939602_hd.flv?arch_hrchy=s2&expire=691d6121&major_anchor_level=vip&s_anchor=1&sign=a48add2b121511e501119df8ed4efb25&t_id=037-20251112141809F743B324157B53C42822-TYh5sJ&unique_id=stream-118308069908939602_850_flv_hd
 
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/TV2.png",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/Astro%20Awani.png",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/RTM%20Asean.png",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+#EXTINF:-1 tvg-id="370131" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/TV6.png",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:-1 tvg-id="370133" tvg-name="Sukan RTM" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Sukan%20RTM.png",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Drama%20Hebat.png",Drama Hebat
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Filem%20Mantap.png",Filem Mantap
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Lawak%20Sentral.png",Lawak Sentral
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Drama%20Hotpot.png",Drama Hotpot
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Travel%20%26%20Taste.png",Travel & Taste
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Unifi%20Sports%201.png",Unifi Sports
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://epg-1.iill.top/logo/Channel5.png",Channel 5
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://epg-1.iill.top/logo/Channel8.png",Channel 8
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://epg-1.iill.top/logo/ChannelU.png",Channel U
+http://cdn6.163189.xyz/163189/chu
+
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/CNA.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半島電視台英語頻道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Al%20Jazeera.png",Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",緯來電影
 http://104.250.141.226/live/f6rwjyv0v5tunntj/index.m3u8
