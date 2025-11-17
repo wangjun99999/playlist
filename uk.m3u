@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/wangjun99999/my-custom-epg/refs/heads/main/custom_epg.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Cinemania%20Hollywood.png",Cinemania Hollywood (UHD/4K)
 http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1430509&extension=ts&play_token=E607kKLQPP
