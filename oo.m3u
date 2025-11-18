@@ -12,11 +12,11 @@ http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1471382&extension
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1641637&extension=ts&play_token=t4xJnxFyM3
 #EXTINF:-1 tvg-id="412947" tvg-name="Sky Sports F1 UHD [UK]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png" group-title="4K UHD 3840P",Sky Sports F1 NM
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948623&extension=ts&play_token=p4inMoF9YQ
-#EXTINF:-1 tvg-id="471315" tvg-name="Sky Sports Ultra HD 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20UHD.png" group-title="4K UHD 3840P",Sky Sports 1
+#EXTINF:-1 tvg-id="471315" tvg-name="Sky Sports Ultra HD 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20UHD.png" group-title="4K UHD 3840P",Sky Sports 1 (LIVE-EVENT) 
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1608068&extension=ts&play_token=Sn5xmloWmk
 #EXTINF:-1 tvg-id="471315" tvg-name="Sky Sports Ultra HD 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20UHD.png" group-title="4K UHD 3840P",Sky Sports 1 (LIVE-EVENT) NM
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948621&extension=ts&play_token=QRT0URAdY8
-#EXTINF:-1 tvg-id="471314" tvg-name="Sky Sports Ultra HD 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%202.png" group-title="4K UHD 3840P",Sky Sports 2
+#EXTINF:-1 tvg-id="471314" tvg-name="Sky Sports Ultra HD 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%202.png" group-title="4K UHD 3840P",Sky Sports 2 (LIVE-EVENT) 
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1608069&extension=ts&play_token=6AKA2L11db
 #EXTINF:-1 tvg-id="471314" tvg-name="Sky Sports Ultra HD 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%202.png" group-title="4K UHD 3840P",Sky Sports 2 (LIVE-EVENT) NM
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948620&extension=ts&play_token=SfqFMuGTGD
@@ -28,27 +28,27 @@ http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1753227&extension
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=411603&extension=ts&play_token=dg4wxBU5N1
 #EXTINF:-1 tvg-id="7370" tvg-name="BeIN Sports 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/beIN%20Sports.png" group-title="4K UHD 3840P",beIN Sports (LIVE-EVENT)
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1500113&extension=ts&play_token=NH1E0BT4zK
-#EXTINF:-1 tvg-id="7370" tvg-name="BeIN Sports 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/beIN%20Sports.png" group-title="4K UHD 3840P",beIN UHD/4K NM
+#EXTINF:-1 tvg-id="7370" tvg-name="BeIN Sports 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/beIN%20Sports.png" group-title="4K UHD 3840P",beIN NM
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948627&extension=ts&play_token=ofD0jEykkV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png" group-title="4K UHD 3840P",EPL 1 4K/UHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png" group-title="4K UHD 3840P",EPL 1
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1579368&extension=ts&play_token=iok3sSqGZq
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png" group-title="4K UHD 3840P",EPL 2 4K/UHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png" group-title="4K UHD 3840P",EPL 2
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1579367&extension=ts&play_token=64B3F5CPBf
-#EXTINF:-1 tvg-id="410384" tvg-name="Now Sports 4K 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png" group-title="4K UHD 3840P",NOW HK NOW SPORTS 4K 616
+#EXTINF:-1 tvg-id="410384" tvg-name="Now Sports 4K 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png" group-title="4K UHD 3840P",NOW HK Now Sports 4K 616
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1032489&extension=ts&play_token=YHc0cUeuhc
-#EXTINF:-1 tvg-id="410385" tvg-name="Now Sports 4K 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png" group-title="4K UHD 3840P",NOW HK NOW SPORTS 4K 617
+#EXTINF:-1 tvg-id="410385" tvg-name="Now Sports 4K 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png" group-title="4K UHD 3840P",NOW HK Now Sports 4K 617
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1032488&extension=ts&play_token=vFABxD5UOr
-#EXTINF:-1 tvg-id="410384" tvg-name="Now Sports 4K 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png" group-title="4K UHD 3840P",NOW SPORTS UHD/4K
+#EXTINF:-1 tvg-id="410384" tvg-name="Now Sports 4K 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png" group-title="4K UHD 3840P",Now Sports
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948655&extension=ts&play_token=POdzdhHFjH
-#EXTINF:-1 tvg-id="410384" tvg-name="Now Sports 4K 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png" group-title="4K UHD 3840P",NOW SPORTS HK UHD/4K
+#EXTINF:-1 tvg-id="410384" tvg-name="Now Sports 4K 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png" group-title="4K UHD 3840P",Now Sports HK
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948636&extension=ts&play_token=xfwQ0PK0UX
-#EXTINF:-1 tvg-id="410384" tvg-name="Now Sports 4K 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png" group-title="4K UHD 3840P",NOW SPORTS PREMIER LEAGUE UHD/4K NM
+#EXTINF:-1 tvg-id="410384" tvg-name="Now Sports 4K 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png" group-title="4K UHD 3840P",Now Sports Premier League NM
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948624&extension=ts&play_token=tcozVCWvPz
-#EXTINF:-1 tvg-id="369822" tvg-name="Hub Premier 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%202.png" group-title="4K UHD 3840P",HUB PREMIER 2 UHD
+#EXTINF:-1 tvg-id="369822" tvg-name="Hub Premier 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%202.png" group-title="4K UHD 3840P",HUB Premier 2
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1032518&extension=ts&play_token=4EUrhwxAWY
-#EXTINF:-1 tvg-id="369822" tvg-name="Hub Premier 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%202.png" group-title="4K UHD 3840P",STARHUB PREMIER 2 UHD/4K NM
+#EXTINF:-1 tvg-id="369822" tvg-name="Hub Premier 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%202.png" group-title="4K UHD 3840P",STARHUB Premier 2 NM
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948626&extension=ts&play_token=4ps0UTGdjy
-#EXTINF:-1 tvg-id="3018" tvg-name="Astro SuperSport UHD 1" tvg-logo="http://51.158.145.100/picons/logos/logos/1948625.png" group-title="4K UHD 3840P",ASTRO SPORTS UHD/4K NM
+#EXTINF:-1 tvg-id="3018" tvg-name="Astro SuperSport UHD 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Astro%20Sports%20UHD.png" group-title="4K UHD 3840P",Astro Sports NM
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948625&extension=ts&play_token=6UnRREq8w7
 #EXTINF:-1 tvg-id="406806" tvg-name="Ziggo Sport 1 [NL]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/Ziggo%20Sport.png" group-title="4K UHD 3840P",Ziggo Sport
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1481950&extension=ts&play_token=WwVTHOCVXP
@@ -58,25 +58,25 @@ http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1481941&extension
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1595637&extension=ts&play_token=UaAQ99uOSu
 #EXTINF:-1 tvg-id="400476" tvg-name="TNT Sports Ultimate" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%20Ultimate.png" group-title="4K UHD 3840P",TNT Sports Ultimate (LIVE-EVENT)
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1479591&extension=ts&play_token=xUqclm2dO2
-#EXTINF:-1 tvg-id="400476" tvg-name="TNT Sports Ultimate" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%20Ultimate.png" group-title="4K UHD 3840P",TNT ULTIMATE 4K+ (LIVE-EVENT)
+#EXTINF:-1 tvg-id="400476" tvg-name="TNT Sports Ultimate" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%20Ultimate.png" group-title="4K UHD 3840P",TNT Ultimate 4K+ (LIVE-EVENT)
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1379047&extension=ts&play_token=qZQvWHQWTK
 #EXTINF:-1 tvg-id="400476" tvg-name="TNT Sports Ultimate" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%20Ultimate.png" group-title="4K UHD 3840P",TNT Sports Ultimate NM
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948616&extension=ts&play_token=JvYz7FOeRq
 #EXTINF:-1 tvg-id="409255" tvg-name="Sportsnet 360 [CA]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/SportsNet%20360.png" group-title="4K UHD 3840P",Sportsnet 360
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1470603&extension=ts&play_token=MFoGvXR6DD
-#EXTINF:-1 tvg-id="470873" tvg-name="Sportsnet One" tvg-logo="http://51.158.145.100/picons/logos/logos/1948650.png" group-title="4K UHD 3840P",SPORTSNET ONE CA UHD/4K
+#EXTINF:-1 tvg-id="470873" tvg-name="Sportsnet One" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/Sportsnet%20One%204K.png" group-title="4K UHD 3840P",Sportsnet One 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948650&extension=ts&play_token=y56HHGAuoX
-#EXTINF:-1 tvg-id="470873" tvg-name="Sportsnet One" tvg-logo="http://51.158.145.100/picons/logos/logos/1948644.png" group-title="4K UHD 3840P",SPORTSNET ONE CA UHD/4K
+#EXTINF:-1 tvg-id="470873" tvg-name="Sportsnet One" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/Sportsnet%20One%204K.png" group-title="4K UHD 3840P",Sportsnet One 4K
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948644&extension=ts&play_token=I3H1bHsBOY
-#EXTINF:-1 tvg-id="470817" tvg-name="Sportsnet (Pacific) HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1948649.png" group-title="4K UHD 3840P",SPORTSNET CA UHD/4K
+#EXTINF:-1 tvg-id="470817" tvg-name="Sportsnet (Pacific) HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/Sportsnet.png" group-title="4K UHD 3840P",Sportsnet
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948649&extension=ts&play_token=qIWHmhF6VA
 #EXTINF:-1 tvg-id="406588" tvg-name="DAZN LALIGA [ES]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/DAZN%20LaLiga.png" group-title="4K UHD 3840P",DAZN LaLiga
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1471376&extension=ts&play_token=mhHWlXq3SW
 #EXTINF:-1 tvg-id="406568" tvg-name="M+ Liga de Campeones [ES]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/Liga%20de%20Campeones%20UHD.png" group-title="4K UHD 3840P",Liga de Campeones
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1471377&extension=ts&play_token=w822vUV9Ws
-#EXTINF:-1 tvg-id="406566" tvg-name="M+ LALIGA [ES]" tvg-logo="http://51.158.145.100/picons/logos/logos/1948619.png" group-title="4K UHD 3840P",M+ LALIGA TV UHD/4K NM
+#EXTINF:-1 tvg-id="406566" tvg-name="M+ LALIGA [ES]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/M%2B%20LaLiga%20TV.png" group-title="4K UHD 3840P",M+ LaLiga TV NM
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948619&extension=ts&play_token=o7TbCdsjOE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/1948658.png" group-title="4K UHD 3840P",MOVISTAR LALIGA 2 UHD/4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20por%20Movistar%20Plus%2B.png" group-title="4K UHD 3840P",LaLiga por Movistar Plus+ 2
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948658&extension=ts&play_token=ifSEaYHWox
 #EXTINF:-1 tvg-id="6338" tvg-name="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PL/Eleven%20Sports%201.png" group-title="4K UHD 3840P",Eleven Sports 1
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1470618&extension=ts&play_token=dxVzGqtx0S
@@ -94,9 +94,9 @@ http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1749221&extension
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1632123&extension=ts&play_token=DbHrDjjKN9
 #EXTINF:-1 tvg-id="6578" tvg-name="Yes Sport 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IS/Yes%20Sport%205.png" group-title="4K UHD 3840P",Yes Sport 5
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1749220&extension=ts&play_token=LUjO5nNefE
-#EXTINF:-1 tvg-id="459635" tvg-name="CANAL+BOX OFFICE UHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/Canal%2B%20Box%20Office.png" group-title="4K UHD 3840P",CANAL+ BOX OFFICE
+#EXTINF:-1 tvg-id="459635" tvg-name="CANAL+BOX OFFICE UHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/Canal%2B%20Box%20Office.png" group-title="4K UHD 3840P",Canal+ Box Office
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1640380&extension=ts&play_token=MPQZuPQMpN
-#EXTINF:-1 tvg-id="430106" tvg-name="Canal+ Premier League [FR]" tvg-logo="http://51.158.145.100/picons/logos/logos/1948657.png" group-title="4K UHD 3840P",CANAL+ PL UHD/4K
+#EXTINF:-1 tvg-id="430106" tvg-name="Canal+ Premier League [FR]" tvg-logo="http://51.158.145.100/picons/logos/logos/1948657.png" group-title="4K UHD 3840P",Canal+ Premier League
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948657&extension=ts&play_token=r1qJxOLhXS
 #EXTINF:-1 tvg-id="465225" tvg-name="New England Sports Network HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NESN.png" group-title="4K UHD 3840P",NESN
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1124351&extension=ts&play_token=b1nWxJMshV
@@ -122,89 +122,89 @@ http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948643&extension
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1471380&extension=ts&play_token=YkUWHec54Y
 #EXTINF:-1 tvg-id="55949" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/Fashion%20TV%20UHD.png" group-title="4K UHD 3840P",Fashion TV
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1491208&extension=ts&play_token=quzcRY3WJO
-#EXTINF:-1 tvg-id="465391" tvg-name="QVC HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/QVC.png" group-title="4K UHD 3840P",QVC UHD
+#EXTINF:-1 tvg-id="465391" tvg-name="QVC HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/QVC.png" group-title="4K UHD 3840P",QVC
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1491207&extension=ts&play_token=b823hDgxGU
-#EXTINF:-1 tvg-id="465186" tvg-name="The Travel Channel HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Travel%20Channel.png" group-title="4K UHD 3840P",TRAVEL UHD/4K
+#EXTINF:-1 tvg-id="465186" tvg-name="The Travel Channel HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Travel%20Channel.png" group-title="4K UHD 3840P",Travel
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1470622&extension=ts&play_token=GCyFYP9liV
-#EXTINF:-1 tvg-id="6963" tvg-name="Travel XP 4K" tvg-logo="http://51.158.145.100/picons/logos/logos/1948656.png" group-title="4K UHD 3840P",TRAVEL XP CA UHD/4K
+#EXTINF:-1 tvg-id="6963" tvg-name="Travel XP 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/Travelxp%204K.png" group-title="4K UHD 3840P",Travelxp
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948656&extension=ts&play_token=izVEMTv59R
-#EXTINF:-1 tvg-id="6963" tvg-name="Travel XP 4K" tvg-logo="http://51.158.145.100/picons/logos/logos/1948656.png" group-title="4K UHD 3840P",TRAVEL XP CA UHD/4K ⁽ᴹᵁᴸᵀᴵ⁾ 
+#EXTINF:-1 tvg-id="6963" tvg-name="Travel XP 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/Travelxp%204K.png" group-title="4K UHD 3840P",Travelxp (Multi)
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948635&extension=ts&play_token=bFNU5I2UYd
-#EXTINF:-1 tvg-id="459191" tvg-name="La 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LA%201.png" group-title="4K UHD 3840P",LA 1 UHD
+#EXTINF:-1 tvg-id="459191" tvg-name="La 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LA%201.png" group-title="4K UHD 3840P",LA 1
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1620282&extension=ts&play_token=2Krf70Ie0O
-#EXTINF:-1 tvg-id="459191" tvg-name="La 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LA%201.png" group-title="4K UHD 3840P",LA 1 UHD
+#EXTINF:-1 tvg-id="459191" tvg-name="La 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LA%201.png" group-title="4K UHD 3840P",LA 1
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948659&extension=ts&play_token=Mbz32Gj6vW
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Canal%20Cocina.png" group-title="4K UHD 3840P",COCINA UHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Canal%20Cocina.png" group-title="4K UHD 3840P",Cocina
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1471385&extension=ts&play_token=XSOUmYe26k
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Decasa.png" group-title="4K UHD 3840P",DECASA ES UHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Decasa.png" group-title="4K UHD 3840P",Decasa ES
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1471384&extension=ts&play_token=8Ly221s5Ti
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Decasa.png" group-title="4K UHD 3840P",DECASA ES UHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Decasa.png" group-title="4K UHD 3840P",Decasa ES
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948639&extension=ts&play_token=t2WNrwoRAO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Decasa.png" group-title="4K UHD 3840P",DECASA ES UHD/4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Decasa.png" group-title="4K UHD 3840P",Decasa ES
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948629&extension=ts&play_token=EO3hdoBXew
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Odisea.png" group-title="4K UHD 3840P",ODISEA ES UHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Odisea.png" group-title="4K UHD 3840P",Odisea ES
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1471383&extension=ts&play_token=kTBBvsUyDS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Odisea.png" group-title="4K UHD 3840P",ODISEA ES UHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Odisea.png" group-title="4K UHD 3840P",Odisea ES
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948640&extension=ts&play_token=2oaZPffGEc
-#EXTINF:-1 tvg-id="55932" tvg-name="MUSEUM TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/Museum.png" group-title="4K UHD 3840P",MUSEUM UHD
+#EXTINF:-1 tvg-id="55932" tvg-name="MUSEUM TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/Museum.png" group-title="4K UHD 3840P",Museum
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1632124&extension=ts&play_token=7wFAUjtUF9
-#EXTINF:-1 tvg-id="55932" tvg-name="MUSEUM TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/Museum.png" group-title="4K UHD 3840P",MUSEUM MULTI UHD/4K
+#EXTINF:-1 tvg-id="55932" tvg-name="MUSEUM TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/Museum.png" group-title="4K UHD 3840P",Museum (Multi)
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948634&extension=ts&play_token=QDCtP4Cfqn
-#EXTINF:-1 tvg-id="55932" tvg-name="MUSEUM TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/Museum.png" group-title="4K UHD 3840P",MUSEUM UHD/4K
+#EXTINF:-1 tvg-id="55932" tvg-name="MUSEUM TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/Museum.png" group-title="4K UHD 3840P",Museum
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948633&extension=ts&play_token=ZaMnRAhEgJ
-#EXTINF:-1 tvg-id="6278" tvg-name="Quadro 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/RU/Quadro%204K.png" group-title="4K UHD 3840P",QUADRO RU UHD/4K
+#EXTINF:-1 tvg-id="6278" tvg-name="Quadro 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/RU/Quadro%204K.png" group-title="4K UHD 3840P",Quadro
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1749219&extension=ts&play_token=tuC9wUO8NW
-#EXTINF:-1 tvg-id="6278" tvg-name="Quadro 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/RU/Quadro%204K.png" group-title="4K UHD 3840P",QUADRO RU UHD/4K
+#EXTINF:-1 tvg-id="6278" tvg-name="Quadro 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/RU/Quadro%204K.png" group-title="4K UHD 3840P",Quadro
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948641&extension=ts&play_token=HmI8RiGSz0
-#EXTINF:-1 tvg-id="6644" tvg-name="Kino TV HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/RU/Kino%20TV.png" group-title="4K UHD 3840P",KINO RU UHD/4K
+#EXTINF:-1 tvg-id="6644" tvg-name="Kino TV HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/RU/Kino%20TV.png" group-title="4K UHD 3840P",Kino RU
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1470620&extension=ts&play_token=3BrfNF7zSR
-#EXTINF:-1 tvg-id="6644" tvg-name="Kino TV HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/RU/Kino%20TV.png" group-title="4K UHD 3840P",KINO RU UHD/4K
+#EXTINF:-1 tvg-id="6644" tvg-name="Kino TV HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/RU/Kino%20TV.png" group-title="4K UHD 3840P",Kino RU
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948637&extension=ts&play_token=GUVGRYzeoI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/RU/Our%20Siberia.png" group-title="4K UHD 3840P",OUR SIBERIA RU UHD/4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/RU/Our%20Siberia.png" group-title="4K UHD 3840P",Our Siberia RU
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1471378&extension=ts&play_token=CNBBjKZGYe
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/RU/Our%20Siberia.png" group-title="4K UHD 3840P",OUR SIBERIA RU UHD/4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/RU/Our%20Siberia.png" group-title="4K UHD 3840P",Our Siberia RU
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948638&extension=ts&play_token=2SX6Gxfq12
-#EXTINF:-1 tvg-id="459189" tvg-name="Canal+" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/Canal%2B.png" group-title="4K UHD 3840P",CANAL+ HDR/UHD/4K
+#EXTINF:-1 tvg-id="459189" tvg-name="Canal+" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/Canal%2B.png" group-title="4K UHD 3840P",Canal+
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1640387&extension=ts&play_token=2p9GWZhusP
-#EXTINF:-1 tvg-id="1640385" tvg-name="IRIB HDR/UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",IRIB HDR/UHD/4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IR/IRIB.png" group-title="4K UHD 3840P",IRIB
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1640385&extension=ts&play_token=xRnUNbswcz
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/Loupe%20Art.png" group-title="4K UHD 3840P",LOUPE ART UHD/4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/Loupe%20Art.png" group-title="4K UHD 3840P",Loupe Art
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1640386&extension=ts&play_token=CBjWBgV5YH
-#EXTINF:-1 tvg-id="55713" tvg-name="M6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/M6.png" group-title="4K UHD 3840P",M6 UHD/4K
+#EXTINF:-1 tvg-id="55713" tvg-name="M6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/M6.png" group-title="4K UHD 3840P",M6
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1640383&extension=ts&play_token=VrpOe2spZy
-#EXTINF:-1 tvg-id="443174" tvg-name="TF1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/TF1.png" group-title="4K UHD 3840P",TF1 HDR/UHD/4K
+#EXTINF:-1 tvg-id="443174" tvg-name="TF1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/TF1.png" group-title="4K UHD 3840P",TF1
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1640379&extension=ts&play_token=d4zhgzW0C2
-#EXTINF:-1 tvg-id="430101" tvg-name="Digi 4K [RO]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/RO/Digi.png" group-title="4K UHD 3840P",DIGI UHD
+#EXTINF:-1 tvg-id="430101" tvg-name="Digi 4K [RO]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/RO/Digi.png" group-title="4K UHD 3840P",DIGI
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1632122&extension=ts&play_token=aZnymIVb4W
-#EXTINF:-1 tvg-id="12066" tvg-name="Zee TV HD" tvg-logo="http://picons.cmshulk.com/picons/1761502.png" group-title="4K UHD 3840P",ZEE TV UHD
+#EXTINF:-1 tvg-id="12066" tvg-name="Zee TV HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/Zee%20TV.png" group-title="4K UHD 3840P",Zee TV
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1761502&extension=ts&play_token=sOu6cQJpN7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/1948654.png" group-title="4K UHD 3840P",TSN WEST CA UHD/4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/TSN%204K.png" group-title="4K UHD 3840P",TSN WEST
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948654&extension=ts&play_token=LsC1gTVt3P
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/1948653.png" group-title="4K UHD 3840P",STINGRAY NOW CA UHD/4K
-http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948653&extension=ts&play_token=3bZqduEUGR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/1948652.png" group-title="4K UHD 3840P",STINGRAY FESTIVAL CA UHD/4K
-http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948652&extension=ts&play_token=5lhrtmSO03
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/1948651.png" group-title="4K UHD 3840P",STINGRAY AMBIANCE CA UHD/4K
-http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948651&extension=ts&play_token=cHry9rBuA3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/1948648.png" group-title="4K UHD 3840P",REVELTV CA UHD/4K
-http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948648&extension=ts&play_token=zPNvK9fFms
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/1948647.png" group-title="4K UHD 3840P",INULTRA CA UHD/4K
-http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948647&extension=ts&play_token=WT2J5ALjs7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/1948646.png" group-title="4K UHD 3840P",TSN SENATORS CA UHD/4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/TSN%20Ottawa%20Senators.png" group-title="4K UHD 3840P",TSN Ottawa Senators
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948646&extension=ts&play_token=Vujkcyeb9X
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/1948645.png" group-title="4K UHD 3840P",TSN LEAFS CA UHD/4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/TSN%20Toronto%20Maple%20Leafs.png" group-title="4K UHD 3840P",TSN Toronto Maple Leafs
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948645&extension=ts&play_token=dvqLb8L1xP
-#EXTINF:-1 tvg-id="385329" tvg-name="Luxe TV" tvg-logo="http://51.158.145.100/picons/logos/logos/1948632.png" group-title="4K UHD 3840P",LUXE TV FR UHD/4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/Stingray%20Now%204K.png" group-title="4K UHD 3840P",Stingray Now
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948653&extension=ts&play_token=3bZqduEUGR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/Stingray%20Festival%204K.png" group-title="4K UHD 3840P",Stingray Festival
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948652&extension=ts&play_token=5lhrtmSO03
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/Stingray%20Naturescape.png" group-title="4K UHD 3840P",Stingray Naturescape
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948651&extension=ts&play_token=cHry9rBuA3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/RU/Revel%20TV.png" group-title="4K UHD 3840P",Revel TV
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948648&extension=ts&play_token=zPNvK9fFms
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/InUltra.png" group-title="4K UHD 3840P",InUltra
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948647&extension=ts&play_token=WT2J5ALjs7
+#EXTINF:-1 tvg-id="385329" tvg-name="Luxe TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/Luxe%20TV.png" group-title="4K UHD 3840P",Luxe TV
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948632&extension=ts&play_token=44okn0hmJs
-#EXTINF:-1 tvg-id="55812" tvg-name="France 2" tvg-logo="http://51.158.145.100/picons/logos/logos/1948631.png" group-title="4K UHD 3840P",FRANCE 2 FR UHD/4K
+#EXTINF:-1 tvg-id="55812" tvg-name="France 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/France%202.png" group-title="4K UHD 3840P",France 2
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948631&extension=ts&play_token=nPAXX6rx22
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/logos/1948630.png" group-title="4K UHD 3840P",SLOW ES UHD/4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/Slow%20Channel.png" group-title="4K UHD 3840P",Slow Channel
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948630&extension=ts&play_token=8k64XRVJUW
-#EXTINF:-1 tvg-id="459199" tvg-name="RAI 1" tvg-logo="http://51.158.145.100/picons/logos/logos/1948617.png" group-title="4K UHD 3840P",RAI 1 UHD/4K NM
+#EXTINF:-1 tvg-id="459199" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Rai%201.png" group-title="4K UHD 3840P",Rai 1
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1948617&extension=ts&play_token=UvleaqFbtJ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",THROUGH THE EYES OF A TOURIST UHD/4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/RU/Through%20The%20Eyes%20of%20a%20Tourist.jpg" group-title="4K UHD 3840P",Through The Eyes of a Tourist
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1774383&extension=ts&play_token=iczBi44njJ
-#EXTINF:-1 tvg-id="459279" tvg-name="RTL" tvg-logo="http://picons.cmshulk.com/picons/1774379.png" group-title="4K UHD 3840P",RTL UHD
+#EXTINF:-1 tvg-id="459279" tvg-name="RTL" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/RTL.png" group-title="4K UHD 3840P",RTL
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1774379&extension=ts&play_token=eKBrLFHMIv
 
 
@@ -401,7 +401,7 @@ http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=411551&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=411549&extension=ts&play_token=1hzaLFlZZE
 #EXTINF:-1 tvg-id="76733" tvg-name="Sky Sport News" tvg-logo="http://103.176.90.92/images/411604.png" group-title="DE| SPORTS",SKY SPORT NEWS FHD
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=411604&extension=ts&play_token=acQp60D4mH
-#EXTINF:-1 tvg-id="10781" tvg-name="SKY Sport F1" tvg-logo="http://103.176.90.92/images/513132.png" group-title="DE| SPORTS",SKY SPORTS F1 FHD
+#EXTINF:-1 tvg-id="10781" tvg-name="SKY Sport F1" tvg-logo="http://103.176.90.92/images/513132.png" group-title="DE| SPORTS",SKY SPORT F1 FHD
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=513132&extension=ts&play_token=n53lnBkj57
 #EXTINF:-1 tvg-id="401577" tvg-name="Sky Sport 1" tvg-logo="http://103.176.90.92/images/411602.png" group-title="DE| SPORTS",SKY SPORT 1 FHD
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=411602&extension=ts&play_token=6vFWEiUZjG
