@@ -724,7 +724,7 @@ http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=464856&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1430509&extension=ts&play_token=Iu8mO1nakA
 #EXTINF:-1 tvg-id="12457" tvg-name="Sky Action HD" tvg-logo="http://103.176.90.92/images/163996.png" group-title="UK| MOVIES",SKY CINEMA ACTION FHD
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=163996&extension=ts&play_token=zegmZLQwaS
-#EXTINF:-1 tvg-id="873868" tvg-name="UK| SKY CINEMA ANIMATION FHD" tvg-logo="http://103.176.90.92/images/873868.png" group-title="UK| MOVIES",UK| SKY CINEMA ANIMATION FHD
+#EXTINF:-1 tvg-id="12122" tvg-name="SkyAnimationHD" tvg-logo="http://103.176.90.92/images/873868.png" group-title="UK| MOVIES",SKY CINEMA ANIMATION FHD
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=873868&extension=ts&play_token=D4Ho44tS4c
 #EXTINF:-1 tvg-id="12449" tvg-name="Sky Family HD" tvg-logo="http://103.176.90.92/images/163993.png" group-title="UK| MOVIES",SKY CINEMA FAMILY FHD
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=163993&extension=ts&play_token=OrOTbONdNK
