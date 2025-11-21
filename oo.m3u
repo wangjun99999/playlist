@@ -240,11 +240,6 @@ http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1323967&extension
 
 
 
-
-#EXTINF:-1 tvg-id="6338" tvg-name="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PL/Eleven%20Sports%201.png" group-title="PL| POLAND",Eleven Sports 1 4K
-http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1498959&extension=ts&play_token=lvEqznlZf9
-#EXTINF:-1 tvg-id="6338" tvg-name="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PL/Eleven%20Sports%201.png" group-title="PL| POLAND",Eleven Sports 1 4K
-http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=905665&extension=ts&play_token=2AJdHDbe6V
 #EXTINF:-1 tvg-id="6338" tvg-name="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PL/Eleven%20Sports%201.png" group-title="PL| POLAND",Eleven Sports 1
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=880457&extension=ts&play_token=QwDVi6MLyh
 #EXTINF:-1 tvg-id="6340" tvg-name="Eleven Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PL/Eleven%20Sports%202.png" group-title="PL| POLAND",Eleven Sports 2
@@ -742,6 +737,8 @@ http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1032475&extension
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1032474&extension=ts&play_token=NbGS2Za2m5
 #EXTINF:-1 tvg-id="410402" tvg-name="Now Sports 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%207.png" group-title="UK| NOW SPORTS",NOW HK NOW SPORTS 7
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1032473&extension=ts&play_token=dWirHXux5h
+#EXTINF:-1 tvg-id="410388" tvg-name="Now Sports 英超1台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%201.png" group-title="UK| NOW SPORTS",HK NOW PREMIER SPORTS 1
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1110622&extension=ts&play_token=DfKziEv9C8
 #EXTINF:-1 tvg-id="410388" tvg-name="Now Sports 英超1台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%201.png" group-title="UK| NOW SPORTS",NOW HK PREMIER SPORTS 1
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1032487&extension=ts&play_token=bKZek4qxct
 #EXTINF:-1 tvg-id="410389" tvg-name="Now Sports 英超2台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%202.png" group-title="UK| NOW SPORTS",NOW HK PREMIER SPORTS 2
@@ -966,3 +963,183 @@ http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1856983&extension
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1856982&extension=ts&play_token=QcqpeT8nLq
 #EXTINF:-1 tvg-id="1856981" tvg-name="UK| SKYMIX DOCS 15 ᴴᴰ" tvg-logo="http://103.176.90.95/images/1856981.png" group-title="UK| SKYMIX DOCS",SKYMIX DOCS 15 ᴴᴰ
 http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1856981&extension=ts&play_token=obzqSqTBjh
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="94061" tvg-name="BeIN Sports 1 EN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BeIN%20Sports%201%20EN.png" group-title="UK| BEIN SPORTS",beIN Sports English 1
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=483921&extension=ts&play_token=55wsg1BR8t
+#EXTINF:-1 tvg-id="93994" tvg-name="BeIN Sports 2 EN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BeIN%20Sports%202%20EN.png" group-title="UK| BEIN SPORTS",beIN Sports English 2
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=483920&extension=ts&play_token=f90NJg8TdI
+#EXTINF:-1 tvg-id="7761" tvg-name="BeIN Sport 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%201.png" group-title="UK| BEIN SPORTS",beIN Sports 1
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=238265&extension=ts&play_token=QhiqVCLUrl
+#EXTINF:-1 tvg-id="7762" tvg-name="BeIN Sport 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%202.png" group-title="UK| BEIN SPORTS",beIN Sports 2
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=238264&extension=ts&play_token=vejTKjlrzX
+#EXTINF:-1 tvg-id="7763" tvg-name="BeIN Sport 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%203.png" group-title="UK| BEIN SPORTS",beIN Sports 3
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=238266&extension=ts&play_token=2sFIXX3sa3
+#EXTINF:-1 tvg-id="7757" tvg-name="BeIN Sport 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%204.png" group-title="UK| BEIN SPORTS",beIN Sports 4
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=238267&extension=ts&play_token=Z58eFAJ7T6
+#EXTINF:-1 tvg-id="7758" tvg-name="BeIN Sport 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%205.png" group-title="UK| BEIN SPORTS",beIN Sports 5
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=238268&extension=ts&play_token=HaOQI6wmLA
+#EXTINF:-1 tvg-id="7759" tvg-name="BeIN Sport 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%206.png" group-title="UK| BEIN SPORTS",beIN Sports 6
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=238269&extension=ts&play_token=O3WCnaIrth
+#EXTINF:-1 tvg-id="7760" tvg-name="BeIN Sport 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%207.png" group-title="UK| BEIN SPORTS",beIN Sports 7
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=238270&extension=ts&play_token=mtSMtfheyu
+#EXTINF:-1 tvg-id="238261" tvg-name="UK| BEIN SPORTS 1 PREMIUM HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%201%20Premium.png" group-title="UK| BEIN SPORTS",beIN Sports 1 Premium
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=238261&extension=ts&play_token=VSqsVrby8f
+#EXTINF:-1 tvg-id="238262" tvg-name="UK| BEIN SPORTS 2 PREMIUM HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%202%20Premium.png" group-title="UK| BEIN SPORTS",beIN Sports 2 Premium
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=238262&extension=ts&play_token=8GPWa7aKQ2
+#EXTINF:-1 tvg-id="238263" tvg-name="UK| BEIN SPORTS 3 PREMIUM HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%203%20Premium.png" group-title="UK| BEIN SPORTS",beIN Sports 3 Premium
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=238263&extension=ts&play_token=9tGkciXbND
+#EXTINF:-1 tvg-id="411956" tvg-name="beIN Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%20Asia%201.png" group-title="UK| BEIN SPORTS",beIN Sports Asia 1
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=923432&extension=ts&play_token=IgemY6Izig
+#EXTINF:-1 tvg-id="411918" tvg-name="beIN Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%20Asia%202.png" group-title="UK| BEIN SPORTS",beIN Sports Asia 2
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=923431&extension=ts&play_token=dgXYasMRGS
+#EXTINF:-1 tvg-id="411914" tvg-name="beIN Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%20Asia%203.png" group-title="UK| BEIN SPORTS",beIN Sports Asia 3
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=923430&extension=ts&play_token=d5jMZBebme
+#EXTINF:-1 tvg-id="1348093" tvg-name="UK| BEIN SPORTS AU 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AU/beIN%20Sports%20AU%201.png" group-title="UK| BEIN SPORTS",beIN Sports AU 1
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1348093&extension=ts&play_token=qZPO5vK0et
+#EXTINF:-1 tvg-id="1348102" tvg-name="UK| BEIN SPORTS AU 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AU/beIN%20Sports%20AU%202.png" group-title="UK| BEIN SPORTS",beIN Sports AU 2
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1348102&extension=ts&play_token=XzlnrV2vtM
+#EXTINF:-1 tvg-id="1348103" tvg-name="UK| BEIN SPORTS AU 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AU/beIN%20Sports%20AU%203.png" group-title="UK| BEIN SPORTS",beIN Sports AU 3
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=1348103&extension=ts&play_token=zULaQ59cFp
+
+
+#EXTINF:-1 tvg-id="444127" tvg-name="SS Events" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20Events.png" group-title="UK| SUPERSPORTS",SuperSport Events
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=425312&extension=ts&play_token=zv04GlXrSa
+#EXTINF:-1 tvg-id="449786" tvg-name="SS Action" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20Action.png" group-title="UK| SUPERSPORTS",SuperSport Action
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=425668&extension=ts&play_token=Zi9V1dpjmr
+#EXTINF:-1 tvg-id="450119" tvg-name="BLITZ" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20Blitz.png" group-title="UK| SUPERSPORTS",SuperSport Blitz
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=425310&extension=ts&play_token=K0Hie2pfOf
+#EXTINF:-1 tvg-id="449612" tvg-name="CRICKET" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20Cricket.png" group-title="UK| SUPERSPORTS",SuperSport Cricket
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=239087&extension=ts&play_token=eDR35lSq3w
+#EXTINF:-1 tvg-id="450846" tvg-name="SS Football" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20Football.png" group-title="UK| SUPERSPORTS",SuperSport Football
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=239083&extension=ts&play_token=LbqzXCfuLr
+#EXTINF:-1 tvg-id="447909" tvg-name="GOLF" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20Golf.png" group-title="UK| SUPERSPORTS",SuperSport Golf
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=425667&extension=ts&play_token=J0P31oGjUZ
+#EXTINF:-1 tvg-id="447987" tvg-name="GRANDSTAND" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20Grandstand.png" group-title="UK| SUPERSPORTS",SuperSport Grandstand
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=239079&extension=ts&play_token=ejrySoQSa0
+#EXTINF:-1 tvg-id="422295" tvg-name="SS La Liga" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20La%20Liga.png" group-title="UK| SUPERSPORTS",SuperSport LaLiga
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=239076&extension=ts&play_token=hoROQnPrNh
+#EXTINF:-1 tvg-id="422277" tvg-name="MAXIMO 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20M%C3%A1ximo%201.png" group-title="UK| SUPERSPORTS",SuperSport Máximo
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=425666&extension=ts&play_token=DzxkPTAhGH
+#EXTINF:-1 tvg-id="451037" tvg-name="MOTORSPORT" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20Motorsport.png" group-title="UK| SUPERSPORTS",SuperSport Motorsport
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=239082&extension=ts&play_token=HlrOT0jOFh
+#EXTINF:-1 tvg-id="422279" tvg-name="SS Premier League" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20Premier%20League.png" group-title="UK| SUPERSPORTS",SuperSport Premier League
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=239078&extension=ts&play_token=uaZPSnz3fK
+#EXTINF:-1 tvg-id="452313" tvg-name="PSL" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20PSL.png" group-title="UK| SUPERSPORTS",SuperSport PSL
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=239077&extension=ts&play_token=BDVOMXFkeJ
+#EXTINF:-1 tvg-id="422294" tvg-name="RUGBY" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20Rugby.png" group-title="UK| SUPERSPORTS",SuperSport Rugby
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=239086&extension=ts&play_token=0ZXAthePIC
+#EXTINF:-1 tvg-id="450848" tvg-name="TENNIS" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20Tennis.png" group-title="UK| SUPERSPORTS",SuperSport Tennis
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=425314&extension=ts&play_token=YTV0rosW2n
+#EXTINF:-1 tvg-id="422313" tvg-name="SS Variety 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20Variety%201.png" group-title="UK| SUPERSPORTS",SuperSport Variety 1
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=239081&extension=ts&play_token=tkEQX2BefL
+#EXTINF:-1 tvg-id="442181" tvg-name="SS Variety 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20Variety%202.png" group-title="UK| SUPERSPORTS",SuperSport Variety 2
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=239080&extension=ts&play_token=6DsVWnK8hI
+#EXTINF:-1 tvg-id="422357" tvg-name="SS Variety 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20Variety%203.png" group-title="UK| SUPERSPORTS",SuperSport Variety 3
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=239085&extension=ts&play_token=R7gDeD6V54
+#EXTINF:-1 tvg-id="451035" tvg-name="SS Variety 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%20Variety%204.png" group-title="UK| SUPERSPORTS",SuperSport Variety 4
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=239084&extension=ts&play_token=p6b9zulAzo
+#EXTINF:-1 tvg-id="425313" tvg-name="UK| SUPER SPORTS PLAY 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%201.png" group-title="UK| SUPERSPORTS",SuperSport Play 1
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=425313&extension=ts&play_token=bC5dxXo16V
+#EXTINF:-1 tvg-id="425311" tvg-name="UK| SUPERSPORTS PLAY 2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/SuperSport%202.png" group-title="UK| SUPERSPORTS",SuperSport Play 2
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=425311&extension=ts&play_token=ajt63p76pS
+
+
+#EXTINF:-1 tvg-id="435490" tvg-name="Sky Sport Max [IT]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Sport%20Max.png" group-title="IT| SPORT",Sky Sport Max
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692442&extension=ts&play_token=LNdKzv8hKy
+#EXTINF:-1 tvg-id="406906" tvg-name="Sky Sport 24 [IT]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Sport%2024.png" group-title="IT| SPORT",Sky Sport 24
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692439&extension=ts&play_token=K4orRDxO2V
+#EXTINF:-1 tvg-id="406918" tvg-name="Sky Sport Arena [IT]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Sport%20Arena.png" group-title="IT| SPORT",Sky Sport Arena
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692436&extension=ts&play_token=cY4ikud5lU
+#EXTINF:-1 tvg-id="406907" tvg-name="Sky Sport Tennis [IT]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Sport%20Tennis.png" group-title="IT| SPORT",Sky Sport Tennis
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692433&extension=ts&play_token=aHBoU6oeru
+#EXTINF:-1 tvg-id="406908" tvg-name="Sky Sport F1 [IT]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Sport%20F1.png" group-title="IT| SPORT",Sky Sport F1
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692429&extension=ts&play_token=BWqwAxp86x
+#EXTINF:-1 tvg-id="406910" tvg-name="Sky Sport MotoGP [IT]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Sport%20MotoGP.png" group-title="IT| SPORT",Sky Sport MotoGP
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692423&extension=ts&play_token=eEyk7gBAzK
+#EXTINF:-1 tvg-id="435394" tvg-name="Sky Sport NBA [IT]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Sport%20NBA.png" group-title="IT| SPORT",Sky Sport NBA
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692420&extension=ts&play_token=2rYTdnLEm4
+#EXTINF:-1 tvg-id="435407" tvg-name="Sky Sport Calcio [IT]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Sport%20Calcio.png" group-title="IT| SPORT",Sky Sport Calcio
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692417&extension=ts&play_token=m8UAUraBto
+#EXTINF:-1 tvg-id="478377" tvg-name="Sportitalia [IT]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sportitalia.png" group-title="IT| SPORT",Sportitalia
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692390&extension=ts&play_token=JpuW5fkk17
+#EXTINF:-1 tvg-id="478364" tvg-name="Sportitalia Solo Calcio [IT]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sportitalia.png" group-title="IT| SPORT",Sportitalia Solo Calcio
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692395&extension=ts&play_token=beeTF3QTxY
+#EXTINF:-1 tvg-id="435546" tvg-name="Sky Sport Uno [IT]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Sport%20Uno.png" group-title="IT| SPORT",Sky Sport Uno
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692393&extension=ts&play_token=sBSZNwcNT5
+#EXTINF:-1 tvg-id="692384" tvg-name="IT| SKY ACI SPORT TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/ACI%20Sport.png" group-title="IT| SPORT",ACI Sport
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692384&extension=ts&play_token=IlNQk4EXis
+#EXTINF:-1 tvg-id="392165" tvg-name="RAI Sport" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Rai%20Sport.png" group-title="IT| SPORT",RAI Sport
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692383&extension=ts&play_token=sx7vkMMdck
+#EXTINF:-1 tvg-id="699231" tvg-name="IT| SKY SPORT BAR UNO FHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Sport%20Bar.png" group-title="IT| SPORT",Sky Sport Bar UNO
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=699231&extension=ts&play_token=qyP22gdcRr
+#EXTINF:-1 tvg-id="699228" tvg-name="IT| SKY SPORT BAR DUE FHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Sport%20Bar.png" group-title="IT| SPORT",Sky Sport Bar DUE
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=699228&extension=ts&play_token=e0PhBudfec
+#EXTINF:-1 tvg-id="692414" tvg-name="IT| SKY CALCIO 1 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Calcio%201.png" group-title="IT| SPORT",Sky Calcio 1
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692414&extension=ts&play_token=8f0OC3u6EI
+#EXTINF:-1 tvg-id="692411" tvg-name="IT| SKY CALCIO 2 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Calcio%202.png" group-title="IT| SPORT",Sky Calcio 2
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692411&extension=ts&play_token=otDthyobhz
+#EXTINF:-1 tvg-id="692408" tvg-name="IT| SKY CALCIO 3 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Calcio%203.png" group-title="IT| SPORT",Sky Calcio 3
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692408&extension=ts&play_token=QW4Di2b2yu
+#EXTINF:-1 tvg-id="692405" tvg-name="IT| SKY CALCIO 4 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Calcio%204.png" group-title="IT| SPORT",Sky Calcio 4
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692405&extension=ts&play_token=5uGL8GL2Js
+#EXTINF:-1 tvg-id="692402" tvg-name="IT| SKY CALCIO 5 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Calcio%205.png" group-title="IT| SPORT",Sky Calcio 5
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692402&extension=ts&play_token=SSAJPuFrF5
+#EXTINF:-1 tvg-id="692399" tvg-name="IT| SKY CALCIO 6 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Calcio%206.png" group-title="IT| SPORT",Sky Calcio 6
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692399&extension=ts&play_token=zeAHaNohHi
+#EXTINF:-1 tvg-id="692397" tvg-name="IT| SKY CALCIO 7 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/Sky%20Calcio%207.png" group-title="IT| SPORT",Sky Calcio 7
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=692397&extension=ts&play_token=Pg5mjlmJWe
+
+
+#EXTINF:-1 tvg-id="465504" tvg-name="SporTV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/SporTV.png" group-title="BR| DESPORTO",SporTV
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59184&extension=ts&play_token=8Q3dIoipEY
+#EXTINF:-1 tvg-id="465418" tvg-name="SporTV 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/SporTV%202.png" group-title="BR| DESPORTO",SporTV 2
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59183&extension=ts&play_token=dhks7lxpPo
+#EXTINF:-1 tvg-id="465416" tvg-name="SporTV 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/SporTV%203.png" group-title="BR| DESPORTO",SporTV 3
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59182&extension=ts&play_token=aZo8586IHN
+#EXTINF:-1 tvg-id="465414" tvg-name="OFF HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Canal%20OFF.png" group-title="BR| DESPORTO",Canal OFF
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59206&extension=ts&play_token=fegwv0rgdQ
+#EXTINF:-1 tvg-id="465431" tvg-name="Combate" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Combate.png" group-title="BR| DESPORTO",Combate
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59281&extension=ts&play_token=Td4agiZ44T
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN.png" group-title="BR| DESPORTO",ESPN
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59266&extension=ts&play_token=aLjuyvB8jW
+#EXTINF:-1 tvg-id="418722" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN%202.png" group-title="BR| DESPORTO",ESPN 2
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59264&extension=ts&play_token=dMeBGQbmFr
+#EXTINF:-1 tvg-id="465474" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN%203.png" group-title="BR| DESPORTO",ESPN 3
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=890657&extension=ts&play_token=bIwRxByfNm
+#EXTINF:-1 tvg-id="465503" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN%204.png" group-title="BR| DESPORTO",ESPN 4
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=890658&extension=ts&play_token=qp2735cXgH
+#EXTINF:-1 tvg-id="426053" tvg-name="São Paulo/SP FISH TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/FishTV.png" group-title="BR| DESPORTO",FishTV
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59261&extension=ts&play_token=BFdA2mYZHK
+#EXTINF:-1 tvg-id="465291" tvg-name="FS1 Fox Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Fox%20Sports%201.png" group-title="BR| DESPORTO",Fox Sports 1
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59255&extension=ts&play_token=WuTxAFZkTZ
+#EXTINF:-1 tvg-id="465355" tvg-name="FS2 Fox Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Fox%20Sports%202.png" group-title="BR| DESPORTO",Fox Sports 2
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59254&extension=ts&play_token=KRSVn7Ewz3
+#EXTINF:-1 tvg-id="465413" tvg-name="Premiere Clubes" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere%20Clubes.png" group-title="BR| DESPORTO",Premiere Clubes
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59194&extension=ts&play_token=tgpx08vbOe
+#EXTINF:-1 tvg-id="59161" tvg-name="BR| PREMIERE 1" tvg-logo="http://picons.cmshulk.com/picons/59161.png" group-title="BR| DESPORTO",PREMIERE 1
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59161&extension=ts&play_token=8uNrvSGze6
+#EXTINF:-1 tvg-id="59202" tvg-name="BR| PREMIERE 2" tvg-logo="http://picons.cmshulk.com/picons/59202.png" group-title="BR| DESPORTO",PREMIERE 2
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59202&extension=ts&play_token=xyssMoZkEy
+#EXTINF:-1 tvg-id="59201" tvg-name="BR| PREMIERE 3 HD" tvg-logo="http://picons.cmshulk.com/picons/59201.png" group-title="BR| DESPORTO",PREMIERE 3
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59201&extension=ts&play_token=NF09pJYf78
+#EXTINF:-1 tvg-id="59200" tvg-name="BR| PREMIERE 4 HD" tvg-logo="http://103.176.90.118/picons/logos/premiere.png" group-title="BR| DESPORTO",PREMIERE 4
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59200&extension=ts&play_token=U0imiFv0XK
+#EXTINF:-1 tvg-id="59199" tvg-name="BR| PREMIERE 5 HD" tvg-logo="http://103.176.90.118/picons/logos/premiere.png" group-title="BR| DESPORTO",PREMIERE 5
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59199&extension=ts&play_token=F83kdv8621
+#EXTINF:-1 tvg-id="59198" tvg-name="BR| PREMIERE 6 HD" tvg-logo="http://picons.cmshulk.com/picons/59198.png" group-title="BR| DESPORTO",PREMIERE 6
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59198&extension=ts&play_token=evReeYxkph
+#EXTINF:-1 tvg-id="59197" tvg-name="BR| PREMIERE 7" tvg-logo="http://103.176.90.118/picons/logos/premiere.png" group-title="BR| DESPORTO",PREMIERE 7
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59197&extension=ts&play_token=q5CvNOPVFu
+#EXTINF:-1 tvg-id="59196" tvg-name="BR| PREMIERE 8" tvg-logo="http://103.176.90.118/picons/logos/premiere.png" group-title="BR| DESPORTO",PREMIERE 8
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=59196&extension=ts&play_token=vxhQKMlV9X
+#EXTINF:-1 tvg-id="750888" tvg-name="BR| CONMEBOL TV 1" tvg-logo="http://103.176.90.118/picons/logos/CONMEBOL-TV.png" group-title="BR| DESPORTO",CONMEBOL TV 1
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=750888&extension=ts&play_token=7sHQ0f4NEu
+#EXTINF:-1 tvg-id="750889" tvg-name="BR| CONMEBOL TV 2" tvg-logo="http://103.176.90.118/picons/logos/CONMEBOL-TV.png" group-title="BR| DESPORTO",CONMEBOL TV 2
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=750889&extension=ts&play_token=QCW6jMJw4J
+#EXTINF:-1 tvg-id="750890" tvg-name="BR| CONMEBOL TV 3" tvg-logo="http://103.176.90.118/picons/logos/CONMEBOL-TV.png" group-title="BR| DESPORTO",CONMEBOL TV 3
+http://23232.top:80/play/live.php?mac=00:1A:79:B5:AC:D9&stream=750890&extension=ts&play_token=3soFaP3qar
