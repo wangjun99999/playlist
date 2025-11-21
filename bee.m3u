@@ -20,9 +20,9 @@ http://192.168.2.98:5050/play?id=TNT-Sports-4-BU
 http://192.168.2.98:5050/play?id=Sky-Sports-Football
 #EXTINF:-1 tvg-id="12191" tvg-name="SkySp F'ball HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Football.png",Sky Sports Football [備線]
 http://192.168.2.98:5050/play?id=Sky-Sports-Football-BU
-#EXTINF:-1 tvg-id="12306" tvg-name="SkySpMainEvHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png",Sky Sports Main Event
+#EXTINF:-1 tvg-id="9415" tvg-name="SkySpMainEvHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png",Sky Sports Main Event
 http://192.168.2.98:5050/play?id=Sky-Sports-Main-Event
-#EXTINF:-1 tvg-id="12306" tvg-name="SkySpMainEvHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png",Sky Sports Main Event [備線]
+#EXTINF:-1 tvg-id="9415" tvg-name="SkySpMainEvHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png",Sky Sports Main Event [備線]
 http://192.168.2.98:5050/play?id=Sky-Sports-Main-Event-BU
 #EXTINF:-1 tvg-id="12453" tvg-name="SkySp PL HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Premier%20League.png",Sky Sports Premier League
 http://192.168.2.98:5050/play?id=Sky-Sports-Premier-League
@@ -58,7 +58,7 @@ http://192.168.2.98:5050/play?id=DAZN-TV
 http://192.168.2.98:5050/play?id=Bein-Sports-English-1
 #EXTINF:-1 tvg-id="93994" tvg-name="BeIN Sports 2 EN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%202.png",Bein Sports English 2
 http://192.168.2.98:5050/play?id=Bein-Sports-English-2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%203.png",Bein Sports English 3
+#EXTINF:-1 tvg-id="412014" tvg-name="beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%203.png",Bein Sports English 3
 http://192.168.2.98:5050/play?id=Bein-Sports-English-3
 #EXTINF:-1 tvg-id="76744" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%202.png",Eurosport 2
 http://192.168.2.98:5050/play?id=Eurosport-2
