@@ -1,263 +1,107 @@
+#EXTINF:-1 tvg-id="400477" tvg-name="TNT Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png",TNT SPORTS 1
+http://192.168.2.98:5050/play?id=TNT-Sports-1
+#EXTINF:-1 tvg-id="400477" tvg-name="TNT Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png",TNT SPORTS 1 [備線]
+http://192.168.2.98:5050/play?id=TNT-Sports-1-BU
+#EXTINF:-1 tvg-id="400480" tvg-name="TNT Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%202.png",TNT SPORTS 2
+http://192.168.2.98:5050/play?id=TNT-Sports-2
+#EXTINF:-1 tvg-id="400480" tvg-name="TNT Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%202.png",TNT SPORTS 2 [備線]
+http://192.168.2.98:5050/play?id=TNT-Sports-2-BU
+#EXTINF:-1 tvg-id="400479" tvg-name="TNT Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%203.png",TNT SPORTS 3
+http://192.168.2.98:5050/play?id=TNT-Sports-3
+#EXTINF:-1 tvg-id="400479" tvg-name="TNT Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%203.png",TNT SPORTS 3 [備線]
+http://192.168.2.98:5050/play?id=TNT-Sports-3-BU
+#EXTINF:-1 tvg-id="400478" tvg-name="TNT Sports 4 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%204.png",TNT SPORTS 4
+http://192.168.2.98:5050/play?id=TNT-Sports-4
+#EXTINF:-1 tvg-id="400478" tvg-name="TNT Sports 4 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%204.png",TNT SPORTS 4 [備線]
+http://192.168.2.98:5050/play?id=TNT-Sports-4-BU
+#EXTINF:-1 tvg-id="12191" tvg-name="SkySp F'ball HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Football.png",Sky Sports Football
+http://192.168.2.98:5050/play?id=Sky-Sports-Football
+#EXTINF:-1 tvg-id="12191" tvg-name="SkySp F'ball HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Football.png",Sky Sports Football [備線]
+http://192.168.2.98:5050/play?id=Sky-Sports-Football-BU
+#EXTINF:-1 tvg-id="9415" tvg-name="SkySpMainEvHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png",Sky Sports Main Event
+http://192.168.2.98:5050/play?id=Sky-Sports-Main-Event
+#EXTINF:-1 tvg-id="9415" tvg-name="SkySpMainEvHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png",Sky Sports Main Event [備線]
+http://192.168.2.98:5050/play?id=Sky-Sports-Main-Event-BU
+#EXTINF:-1 tvg-id="12453" tvg-name="SkySp PL HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Premier%20League.png",Sky Sports Premier League
+http://192.168.2.98:5050/play?id=Sky-Sports-Premier-League
+#EXTINF:-1 tvg-id="12453" tvg-name="SkySp PL HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Premier%20League.png",Sky Sports Premier League [備線]
+http://192.168.2.98:5050/play?id=Sky-Sports-Premier-League-BU
+#EXTINF:-1 tvg-id="12562" tvg-name="SkySp Mix" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Mix.png",Sky Sports Mix
+http://192.168.2.98:5050/play?id=Sky-Sports-Mix
+#EXTINF:-1 tvg-id="12024" tvg-name="SkySp ActionHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Action.png",Sky Sports Action
+http://192.168.2.98:5050/play?id=Sky-Sports-Arena
+#EXTINF:-1 tvg-id="12337" tvg-name="SkySp News" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20News.png",Sky Sports News
+http://192.168.2.98:5050/play?id=Sky-Sports-News
+#EXTINF:-1 tvg-id="12434" tvg-name="SkySpCricket HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Cricket.png",Sky Sports Cricket
+http://192.168.2.98:5050/play?id=Sky-Sports-Cricket
+#EXTINF:-1 tvg-id="212145" tvg-name="SkySp Tennis HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Tennis.png",Sky Sports Tennis
+http://192.168.2.98:5050/play?id=Sky-Sports-Tennis
+#EXTINF:-1 tvg-id="12190" tvg-name="SkySp F1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",Sky Sports F1
+http://192.168.2.98:5050/play?id=Sky-Sports-F1
+#EXTINF:-1 tvg-id="12022" tvg-name="SkySp Golf HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Golf.png",Sky Sports Golf
+http://192.168.2.98:5050/play?id=Sky-Sports-Golf
+#EXTINF:-1 tvg-id="12200" tvg-name="SkySp Racing HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Racing.png",Sky Sports Racing
+http://192.168.2.98:5050/play?id=Sky-Sports-Racing
+#EXTINF:-1 tvg-id="408613" tvg-name="Premier Sports 1 [UK]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%201.png",Premier Sports 1
+http://192.168.2.98:5050/play?id=Premier-Sports-1
+#EXTINF:-1 tvg-id="408658" tvg-name="Premier Sports 2 [UK]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%202.png",Premier Sports 2
+http://192.168.2.98:5050/play?id=Premier-Sports-2
+#EXTINF:-1 tvg-id="12534" tvg-name="Racing TV HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Racing%20TV.png",Racing TV
+http://192.168.2.98:5050/play?id=Racing-TV
+#EXTINF:-1 tvg-id="76632" tvg-name="DAZN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/DAZN.png",DAZN
+http://192.168.2.98:5050/play?id=DAZN-TV
+#EXTINF:-1 tvg-id="406588" tvg-name="DAZN LALIGA [ES]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20TV.png",LALIGA TV HD
+http://192.168.2.98:5050/play?id=La-Liga-TV
+#EXTINF:-1 tvg-id="406588" tvg-name="DAZN LALIGA [ES]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20TV.png",LALIGA TV HD [備線]
+http://192.168.2.98:5050/play?id=LA-LIGA-TV-BU
+#EXTINF:-1 tvg-id="76744" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%202.png",Eurosport 2
+http://192.168.2.98:5050/play?id=Eurosport-2
+#EXTINF:-1 tvg-id="12258" tvg-name="MUTV HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/MUTV.png",MUTV
+http://192.168.2.98:5050/play?id=MUTV
+#EXTINF:-1 tvg-id="12202" tvg-name="LFCTV HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/LFC.png",LFC TV
+http://192.168.2.98:5050/play?id=LFC-TV
+#EXTINF:-1 tvg-id="9158" tvg-name="Sky Comedy Cinema" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Comedy.png",Sky Cinema Comedy
+http://192.168.2.98:5050/play?id=UK-Sky-Cinema-Comedy
+#EXTINF:-1 tvg-id="12449" tvg-name="Sky Family HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Family.png",Sky Cinema Family
+http://192.168.2.98:5050/play?id=UK-Sky-Cinema-Family
+#EXTINF:-1 tvg-id="12457" tvg-name="Sky Action HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Action.png",Sky Cinema Action
+http://192.168.2.98:5050/play?id=Sky-Cinema-Action
+#EXTINF:-1 tvg-id="12122" tvg-name="SkyAnimationHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Animation.png",Sky Cinema Animation
+http://192.168.2.98:5050/play?id=Sky-Cinema-Animation
+#EXTINF:-1 tvg-id="9419" tvg-name="GREAT! movies" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/GREAT!%20movies.png",Great Movies
+http://192.168.2.98:5050/play?id=UK-Great-Movies
+#EXTINF:-1 tvg-id="9478" tvg-name="Cartoon Net HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Cartoon%20Network.png",Cartoon Network
+http://192.168.2.98:5050/play?id=UK-Cartoon-Network
+#EXTINF:-1 tvg-id="9206" tvg-name="BBC NEWS HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%20News.png",BBC News
+http://192.168.2.98:5050/play?id=BBC-News
+#EXTINF:-1 tvg-id="76657" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%201.png",BBC One
+http://192.168.2.98:5050/play?id=BBC-1
+#EXTINF:-1 tvg-id="9459" tvg-name="BBC Two HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%202.png",BBC Two
+http://192.168.2.98:5050/play?id=BBC-2
+#EXTINF:-1 tvg-id="9507" tvg-name="BBC Three HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%203.png",BBC Three
+http://192.168.2.98:5050/play?id=BBC-Three
+#EXTINF:-1 tvg-id="9474" tvg-name="BBC Four HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%204.png",BBC Four
+http://192.168.2.98:5050/play?id=BBC-FOUR
+#EXTINF:-1 tvg-id="9460" tvg-name="BBC RB 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%20Red%20Button.png",BBC Red Button
+http://192.168.2.98:5050/play?id=BBC-Red-Button
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Virgin%201.png",Virgin 1
+http://192.168.2.98:5050/play?id=UK-Virgin-1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Virgin%203.png",Virgin 3
+http://192.168.2.98:5050/play?id=UK-Virgin-3
+#EXTINF:-1 tvg-id="12086" tvg-name="ITV1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/ITV%201.png",ITV 1
+http://192.168.2.98:5050/play?id=ITV-1
+#EXTINF:-1 tvg-id="12203" tvg-name="ITV2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/ITV%202.png",ITV 2
+http://192.168.2.98:5050/play?id=ITV-2
+#EXTINF:-1 tvg-id="12274" tvg-name="ITV3 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/ITV%203.png",ITV 3
+http://192.168.2.98:5050/play?id=ITV-3
+#EXTINF:-1 tvg-id="12271" tvg-name="ITV4 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/ITV%204.png",ITV 4
+http://192.168.2.98:5050/play?id=ITV-4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Cinemania%20Hollywood.png",Cinemania Hollywood (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1430509&extension=ts&play_token=E607kKLQPP
-#EXTINF:-1 tvg-id="Sky.Action.uk" tvg-name="Sky Cinema Action UK" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-cinema-action-uk.png",Sky Cinema Action
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=163996&extension=ts&play_token=eFgCoDlbwR
-#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-name="Sky Cinema Animation UK" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-cinema-animation-uk.png",Sky Cinema Animation
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=873868&extension=ts&play_token=ccB80S5gG7
-#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-name="Sky Cinema Drama UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-uk.png?raw=true",Sky Cinema Drama
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=163997&extension=ts&play_token=SwwVaMxXzj
-#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-name="Sky Cinema Family UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-family-uk.png",Sky Cinema Family
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=163993&extension=ts&play_token=TinhGRJgOn
-#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-name="Sky Cinema Comedy UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-comedy-uk.png",Sky Cinema Comedy
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=163994&extension=ts&play_token=7eYQGB8f5N
-#EXTINF:-1 tvg-id="Sky.Greats.uk" tvg-name="Sky Cinema Greats UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-greats-uk.png",Sky Cinema Greats
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=164000&extension=ts&play_token=MEXWokVKz0
-#EXTINF:-1 tvg-id="Sky.Premiere.uk" tvg-name="Sky Cinema Premiere UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-premiere-uk.png",Sky Cinema Premiere
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=163991&extension=ts&play_token=2ICqC2bSsd
-#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-name="Sky Cinema Thriller UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-thriller-uk.png",Sky Cinema Thriller
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=163999&extension=ts&play_token=3Nr5i43Fkj
-#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-name="Sky Cinema Hits UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-hits-uk.png", Sky Cinema Hits
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=163992&extension=ts&play_token=nBa5JxNTJh
-#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-name="Sky Cinema Sci-Fi Horror UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png", Sky Cinema Sci-Fi Horror
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=163998&extension=ts&play_token=DyYs8Uut7r
-#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="Film4 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png",Film4
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=30539&extension=ts&play_token=Dokl9sO6dK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/AMC.png",AMC
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=30583&extension=ts&play_token=KQJUwArovv
 
 
-#EXTINF:-1 tvg-id="7673" tvg-name="Sky Sports Main Event HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event%20UHD.png",Sky Sports Main Event (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1608071&extension=ts&play_token=vAgBk4abPG
-#EXTINF:-1 tvg-id="7673" tvg-name="Sky Sports Main Event HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event%20UHD.png",Sky Sports Main Event (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1641636&extension=ts&play_token=VoLPkfh3Fo
-#EXTINF:-1 tvg-id="6317" tvg-name="Sky Sports F1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",Sky Sports F1 (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1641637&extension=ts&play_token=bLxJCV0PX4
-#EXTINF:-1 tvg-id="6317" tvg-name="Sky Sports F1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",Sky Sports F1 (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1471382&extension=ts&play_token=AaFqzWzPWb
-#EXTINF:-1 tvg-id="6317" tvg-name="Sky Sports F1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",Sky Sports F1 (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1761500&extension=ts&play_token=1mRaL81Sli
-#EXTINF:-1 tvg-id="401577" tvg-name="Sky Sport 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20UHD.png",Sky Sport (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1471387&extension=ts&play_token=HXLS2wLiPd
-#EXTINF:-1 tvg-id="401577" tvg-name="Sky Sport 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20UHD.png",Sky Sport (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1753227&extension=ts&play_token=WabKdSrXol
-#EXTINF:-1 tvg-id="431628" tvg-name="Sky Sports 1 UHD [UK]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%201.png",Sky Sports 1 (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1608068&extension=ts&play_token=JJ674YvO3j
-#EXTINF:-1 tvg-id="431627" tvg-name="Sky Sports 2 UHD [UK]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%202.png",Sky Sports 2 (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1608069&extension=ts&play_token=LwdoaMLC5W
-#EXTINF:-1 tvg-id="400476" tvg-name="TNT Sports Ultimate" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%20Ultimate.png",TNT Sports Ultimate (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1595637&extension=ts&play_token=1OL1Is9Iim
-#EXTINF:-1 tvg-id="400476" tvg-name="TNT Sports Ultimate" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%20Ultimate.png",TNT Sports Ultimate (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1479591&extension=ts&play_token=S08pPJDvP6
-#EXTINF:-1 tvg-id="400476" tvg-name="TNT Sports Ultimate" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%20Ultimate.png",TNT Sports Ultimate (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1379047&extension=ts&play_token=1HmMwReqNR
-#EXTINF:-1 tvg-id="7370" tvg-name="BeIN Sports 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/beIN%20Sports.png",beIN Sports AR (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1500113&extension=ts&play_token=HguedgKD6y
-#EXTINF:-1 tvg-id="7370" tvg-name="BeIN Sports 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/beIN%20Sports.png",beIN Sports AR (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1851249&extension=ts&play_token=K5a3jSeI8q
-#EXTINF:-1 tvg-id="7370" tvg-name="BeIN Sports 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/beIN%20Sports.png",beIN Sports AR (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1764953&extension=ts&play_token=o9ukLiTOp1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png",EPL 1 (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1579368&extension=ts&play_token=N4qCLIuQmY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png",EPL 2 (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1579367&extension=ts&play_token=xzlz8JmSg7
-#EXTINF:-1 tvg-id="406588" tvg-name="DAZN LALIGA [ES]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/DAZN%20LaLiga.png",DAZN LaLiga (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=986639&extension=ts&play_token=00bJAxeo2v
-#EXTINF:-1 tvg-id="406588" tvg-name="DAZN LALIGA [ES]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/DAZN%20LaLiga.png",DAZN LaLiga (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1471376&extension=ts&play_token=6mcQWYRT59
-#EXTINF:-1 tvg-id="406568" tvg-name="M+ Liga de Campeones [ES]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/Liga%20de%20Campeones%20UHD.png",Liga de Campeones (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1471377&extension=ts&play_token=8Qc7OsZxyt
-#EXTINF:-1 tvg-id="369822" tvg-name="Hub Premier 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%202.png",HUB PREMIER 2 (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032518&extension=ts&play_token=NdqcgnIrbr
-#EXTINF:-1 tvg-id="409255" tvg-name="Sportsnet 360 [CA]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/SportsNet%20360.png",Sportsnet 360 (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1470603&extension=ts&play_token=f1Sb2vAxil
-#EXTINF:-1 tvg-id="68288" tvg-name="Viasat Sport HD SE" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/V%20Sport%20ULTRA.png",V Sport (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1749221&extension=ts&play_token=3psMWwKaIS
-#EXTINF:-1 tvg-id="6338" tvg-name="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PL/Eleven%20Sports%201.png",Eleven Sports 1 (UHD/4K)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1470618&extension=ts&play_token=xDkYV0lZTQ
-
-#EXTINF:-1 tvg-id="7673" tvg-name="Sky Sports Main Event HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png",Sky Sports Main Event
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=30496&extension=ts&play_token=BTFp2lpdBM
-#EXTINF:-1 tvg-id="6958" tvg-name="Sky Sports Premier League HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Premier%20League.png",Sky Sports Premier League
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=30493&extension=ts&play_token=zvxUQfe5Pw
-#EXTINF:-1 tvg-id="5791" tvg-name="Sky Sports Football HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Football.png",Sky Sports Football
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=30498&extension=ts&play_token=UKLCSsoW10
-#EXTINF:-1 tvg-id="7214" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Action.png",Sky Sports Action
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=30501&extension=ts&play_token=fqm0YhFeM8
-#EXTINF:-1 tvg-id="6254" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Cricket.png",Sky Sports Cricket
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=30502&extension=ts&play_token=gUYMqHP1C3
-#EXTINF:-1 tvg-id="6317" tvg-name="Sky Sports F1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",Sky Sports F1
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=30499&extension=ts&play_token=vr6OvgyRnC
-#EXTINF:-1 tvg-id="6445" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Golf.png",Sky Sports Golf
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=30497&extension=ts&play_token=1yxDV39W7g
-#EXTINF:-1 tvg-id="6553" tvg-name="Sky Sports Mix HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Mix.png",Sky Sports Mix
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=30495&extension=ts&play_token=PnWDCBpRc2
-#EXTINF:-1 tvg-id="6626" tvg-name="Sky Sports News HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20News.png",Sky Sports News
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=30494&extension=ts&play_token=n489MZEUf1
-#EXTINF:-1 tvg-id="6681" tvg-name="Sky Sports Racing HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Racing.png",Sky Sports Racing
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=77373&extension=ts&play_token=1dGNk7fUoM
-#EXTINF:-1 tvg-id="405554" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Tennis.png",Sky Sports Tennis
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1454232&extension=ts&play_token=t1Sv99dYyS
-#EXTINF:-1 tvg-id="412959" tvg-name="Sky Sports + [UK]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Plus.png",Sky Sports+
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=30500&extension=ts&play_token=R1SsmAv7AQ
-#EXTINF:-1 tvg-id="9217" tvg-name="Racing TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Racing%20TV.png",Racing TV
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=30523&extension=ts&play_token=rj0A1aFI4X
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EDGE%20Sport.png",EDGE Sport
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1014266&extension=ts&play_token=aFcYmrGfDa
 
 
-#EXTINF:-1 tvg-id="400477" tvg-name="TNT Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png",TNT Sports 1
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=30567&extension=ts&play_token=lNSxiFZp4W
-#EXTINF:-1 tvg-id="400480" tvg-name="TNT Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%202.png",TNT Sports 2
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=30566&extension=ts&play_token=ohfVZ9wzLJ
-#EXTINF:-1 tvg-id="400479" tvg-name="TNT Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%203.png",TNT Sports 3
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=30565&extension=ts&play_token=x7OtfFN8fp
-#EXTINF:-1 tvg-id="400478" tvg-name="TNT Sports 4 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%204.png",TNT Sports 4
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1019935&extension=ts&play_token=ZNApBSXkaO
-#EXTINF:-1 tvg-id="1004548" tvg-name="TNT Sports 5 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%205.png",TNT Sports 5
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1004548&extension=ts&play_token=gQt9AHVlhK
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%20LaLiga%20TV.png",Premier Sports LaLiga TV
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=163611&extension=ts&play_token=l6xIf4JtMC
-#EXTINF:-1 tvg-id="219100" tvg-name="Premier Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%201.png",Premier Sports 1
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=163607&extension=ts&play_token=SsWt9IgIiw
-#EXTINF:-1 tvg-id="219104" tvg-name="Premier Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%202.png",Premier Sports 2
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=45251&extension=ts&play_token=PXrr5Nzf0K
 
-
-#EXTINF:-1 tvg-id="410384" tvg-name="Now Sports 4K 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png",Now HK Now Sports 4K 616
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032489&extension=ts&play_token=WHSpTXslRc
-#EXTINF:-1 tvg-id="410385" tvg-name="Now Sports 4K 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png",Now HK Now Sports 4K 617
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032488&extension=ts&play_token=EkLgdRlcYy
-#EXTINF:-1,tvg-id="410388" tvg-name="Now Sports 英超1台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 1.png",Now HK Premier Sports 1
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032487&extension=ts&play_token=c1WfPs5vKr
-#EXTINF:-1,tvg-id="410389" tvg-name="Now Sports 英超2台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 2.png",Now HK Premier Sports 2
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032486&extension=ts&play_token=RS0PyXV08r
-#EXTINF:-1,tvg-id="410390" tvg-name="Now Sports 英超3台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 3.png",Now HK Premier Sports 3
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032485&extension=ts&play_token=hvaF8ODgyV
-#EXTINF:-1,tvg-id="410391" tvg-name="Now Sports 英超4台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 4.png",Now HK Premier Sports 4
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032484&extension=ts&play_token=omj7SldwF7
-#EXTINF:-1,tvg-id="410392" tvg-name="Now Sports 英超5台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 5.png",Now HK Premier Sports 5
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032483&extension=ts&play_token=Q1f3iZhiaM
-#EXTINF:-1,tvg-id="415544" tvg-name="Now Sports 英超6台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 6.png",Now HK Premier Sports 6
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032482&extension=ts&play_token=VDkfxRxtUp
-#EXTINF:-1,tvg-id="415545" tvg-name="Now Sports 英超7台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 7.png",Now HK Premier Sports 7
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032481&extension=ts&play_token=Oa0zQcBLWb
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 8.png",Now HK Premier Sports 8
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032480&extension=ts&play_token=xOeCVVc4GU
-#EXTINF:-1,tvg-id="410396" tvg-name="Now Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 1.png",Now Sports 1
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032479&extension=ts&play_token=kWqmURDtiZ
-#EXTINF:-1,tvg-id="410397" tvg-name="Now Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 2.png",Now Sports 2
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032478&extension=ts&play_token=7UxjNGelXd
-#EXTINF:-1,tvg-id="410398" tvg-name="Now Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 3.png",Now Sports 3
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032477&extension=ts&play_token=fE89QaKKvN
-#EXTINF:-1,tvg-id="410399" tvg-name="Now Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 4.png",Now Sports 4
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032476&extension=ts&play_token=1FL964jClz
-#EXTINF:-1,tvg-id="410400" tvg-name="Now Sports 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 5.png",Now Sports 5
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032475&extension=ts&play_token=KSC41ToznE
-#EXTINF:-1,tvg-id="410401" tvg-name="Now Sports 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 6.png",Now Sports 6
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032474&extension=ts&play_token=9Hsw03DCCM
-#EXTINF:-1,tvg-id="410402" tvg-name="Now Sports 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 7.png",Now Sports 7
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032473&extension=ts&play_token=i5WewnSiKf
-
-
-#EXTINF:-1,tvg-id="410388" tvg-name="Now Sports 英超1台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 1.png",Now HK Premier Sports 1 (HK)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1110622&extension=ts&play_token=p0cUjjX4NG
-#EXTINF:-1,tvg-id="410396" tvg-name="Now Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 1.png",Now Sports 1 (HK)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1110615&extension=ts&play_token=y5ff8220FL
-#EXTINF:-1,tvg-id="410397" tvg-name="Now Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 2.png",Now Sports 2 (HK)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1110616&extension=ts&play_token=kjbU4EmncM
-#EXTINF:-1,tvg-id="410398" tvg-name="Now Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 3.png",Now Sports 3 (HK)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1110617&extension=ts&play_token=voDfM1uxQl
-#EXTINF:-1,tvg-id="410399" tvg-name="Now Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 4.png",Now Sports 4 (HK)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1110618&extension=ts&play_token=LJaIshGY2f
-#EXTINF:-1,tvg-id="410400" tvg-name="Now Sports 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 5.png",Now Sports 5 (HK)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1110619&extension=ts&play_token=szMikCTQiE
-#EXTINF:-1,tvg-id="410401" tvg-name="Now Sports 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 6.png",Now Sports 6 (HK)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1110620&extension=ts&play_token=tMrypRySdw
-#EXTINF:-1,tvg-id="410402" tvg-name="Now Sports 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Now Sports 7.png",Now Sports 7 (HK)
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1110621&extension=ts&play_token=5tgCf7z04R
-
-
-#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Premier%20League%201.png",Astro Premier League
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1016544&extension=ts&play_token=usiT5RZyhg
-#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Premier%20League%201.png",Astro Premier League
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=918986&extension=ts&play_token=7EpM23Hc0Z
-#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro Premier League 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Premier%20League%202.png",Astro Premier League 2
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=918985&extension=ts&play_token=7QB8Zi321E
-#EXTINF:-1 tvg-id="AstroFootball" tvg-name="Astro Football" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Football.png",Astro Football
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1016545&extension=ts&play_token=oEnBl9zEmt
-#EXTINF:-1 tvg-id="AstroFootball" tvg-name="Astro Football" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Football.png",Astro Football
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=918983&extension=ts&play_token=CmW9UfJOmw
-#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro Grandstand" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Grandstand.png",Astro Grandstand
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=918984&extension=ts&play_token=aZPzCjccTB
-
-
-#EXTINF:-1 tvg-id="1616586" tvg-name="EPL| PREMIERE LEAGUE 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png",EPL| PREMIERE LEAGUE 1
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1616586&extension=ts&play_token=4TL56YYxS3
-#EXTINF:-1 tvg-id="1616585" tvg-name="EPL| PREMIERE LEAGUE 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png",EPL| PREMIERE LEAGUE 2
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1616585&extension=ts&play_token=0vQOVilllj
-#EXTINF:-1 tvg-id="1616584" tvg-name="EPL| PREMIERE LEAGUE 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png",EPL| PREMIERE LEAGUE 3
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1616584&extension=ts&play_token=RQXZmRhQxw
-#EXTINF:-1 tvg-id="1616583" tvg-name="EPL| PREMIERE LEAGUE 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png",EPL| PREMIERE LEAGUE 4
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1616583&extension=ts&play_token=xOV4OusaXc
-#EXTINF:-1 tvg-id="1616582" tvg-name="EPL| PREMIERE LEAGUE 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png",EPL| PREMIERE LEAGUE 5
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1616582&extension=ts&play_token=UzvoftaFvi
-#EXTINF:-1 tvg-id="1616581" tvg-name="EPL| PREMIERE LEAGUE 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png",EPL| PREMIERE LEAGUE 6
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1616581&extension=ts&play_token=metusEX1DH
-#EXTINF:-1 tvg-id="1616580" tvg-name="EPL| PREMIERE LEAGUE 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png",EPL| PREMIERE LEAGUE 7
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1616580&extension=ts&play_token=cR8y4Smvno
-#EXTINF:-1 tvg-id="1616579" tvg-name="EPL| PREMIERE LEAGUE 8" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png",EPL| PREMIERE LEAGUE 8
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1616579&extension=ts&play_token=8VCh2bIAaA
-#EXTINF:-1 tvg-id="1616578" tvg-name="EPL| PREMIERE LEAGUE 9" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png",EPL| PREMIERE LEAGUE 9
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1616578&extension=ts&play_token=pwEeesdgVn
-#EXTINF:-1 tvg-id="1616577" tvg-name="EPL| PREMIERE LEAGUE 10" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EPL.png",EPL| PREMIERE LEAGUE 10
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1616577&extension=ts&play_token=oS7mTjSjkU
-
-
-#EXTINF:-1 tvg-id="369784" tvg-name="Hub Premier 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%201.png",HUB PREMIER 1
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032529&extension=ts&play_token=9wXM7zeYLM
-#EXTINF:-1 tvg-id="369822" tvg-name="Hub Premier 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%202.png",HUB PREMIER 2
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032528&extension=ts&play_token=swGP76o6Ih
-#EXTINF:-1 tvg-id="369793" tvg-name="Hub Premier 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%203.png",HUB PREMIER 3
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032527&extension=ts&play_token=J8YiiDKFZ9
-#EXTINF:-1 tvg-id="369775" tvg-name="Hub Premier 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%204",HUB PREMIER 4
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032526&extension=ts&play_token=86TXcKGgP8
-#EXTINF:-1 tvg-id="452962" tvg-name="Hub Premier 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%205.png",HUB PREMIER 5
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032525&extension=ts&play_token=7VXm5QWP1J
-#EXTINF:-1 tvg-id="455186" tvg-name="Hub Premier 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%206.png",HUB PREMIER 6
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032524&extension=ts&play_token=QGhzSVFx1m
-#EXTINF:-1 tvg-id="1032523" tvg-name="UK| HUB PREMIER 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%207.png",HUB PREMIER 7
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032523&extension=ts&play_token=5y3cOcimRn
-#EXTINF:-1 tvg-id="450710" tvg-name="Hub Premier 8" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%208.png",HUB PREMIER 8
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032522&extension=ts&play_token=yT92pFAx4G
-#EXTINF:-1 tvg-id="1032521" tvg-name="UK| HUB PREMIER 9" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%209.png",HUB PREMIER 9
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032521&extension=ts&play_token=Masa99s4np
-#EXTINF:-1 tvg-id="1032520" tvg-name="UK| HUB PREMIER 10" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%2010.png",HUB PREMIER 10
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032520&extension=ts&play_token=3L2znlmGCY
-#EXTINF:-1 tvg-id="1032519" tvg-name="UK| HUB PREMIER 11" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%2011.png",HUB PREMIER 11
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1032519&extension=ts&play_token=voY0eMbE3Q
-
-
-#EXTINF:-1 tvg-id="1700266" tvg-name="UK: NETFLIX PPV 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Netflix.png",NETFLIX PPV 1
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1700266&extension=ts&play_token=F4q8jfXDGX
-#EXTINF:-1 tvg-id="1700265" tvg-name="UK: NETFLIX PPV 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Netflix.png",NETFLIX PPV 2
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1700265&extension=ts&play_token=3Y2ZxZedUo
-#EXTINF:-1 tvg-id="1700264" tvg-name="UK: NETFLIX PPV 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Netflix.png",NETFLIX PPV 3
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1700264&extension=ts&play_token=vrVeGSNLSF
-#EXTINF:-1 tvg-id="1700263" tvg-name="UK: NETFLIX PPV 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Netflix.png",NETFLIX PPV 4
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1700263&extension=ts&play_token=wMZKw2tAfi
-#EXTINF:-1 tvg-id="1700262" tvg-name="UK: NETFLIX PPV 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Netflix.png",NETFLIX PPV 5
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1700262&extension=ts&play_token=IgvxymRbGo
-#EXTINF:-1 tvg-id="1700261" tvg-name="UK: NETFLIX PPV 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Netflix.png",NETFLIX PPV 6
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1700261&extension=ts&play_token=AFdgXf31KK
-#EXTINF:-1 tvg-id="1700260" tvg-name="UK: NETFLIX PPV 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Netflix.png",NETFLIX PPV 7
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1700260&extension=ts&play_token=MLdwbE2DPD
-#EXTINF:-1 tvg-id="1700259" tvg-name="UK: NETFLIX PPV 8" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Netflix.png",NETFLIX PPV 8
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1700259&extension=ts&play_token=RuP9I3Wdzu
-#EXTINF:-1 tvg-id="1700258" tvg-name="UK: NETFLIX PPV 9" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Netflix.png",NETFLIX PPV 9
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1700258&extension=ts&play_token=5vC8wg01FC
-#EXTINF:-1 tvg-id="1700257" tvg-name="UK: NETFLIX PPV 10" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Netflix.png",NETFLIX PPV 10
-http://23232.top:80/play/live.php?mac=00:1a:79:bc:4f:40&stream=1700257&extension=ts&play_token=3eCgNhBLnD
