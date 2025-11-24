@@ -1,77 +1,77 @@
 #EXTINF:-1 tvg-id="464754" tvg-name="beIN Sports USA HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/beIN%20Sports%20USA.png",beIN Sports USA
-http://192.168.2.98:5050/play?id=Bein-Sports-USA
+http://192.168.2.98:5050/?id=Bein-Sports-USA
 #EXTINF:-1 tvg-id="464754" tvg-name="beIN Sports USA HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/beIN%20Sports%20USA.png",beIN Sports USA [備線]
-http://192.168.2.98:5050/play?id=BEIN-SPORT-USA-BU
-#EXTINF:-1 tvg-id="94061" tvg-name="BeIN Sports 1 EN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%201.png",Bein Sports English 1
-http://192.168.2.98:5050/play?id=Bein-Sports-English-1
-#EXTINF:-1 tvg-id="93994" tvg-name="BeIN Sports 2 EN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%202.png",Bein Sports English 2
-http://192.168.2.98:5050/play?id=Bein-Sports-English-2
-#EXTINF:-1 tvg-id="412014" tvg-name="beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%203.png",Bein Sports English 3
-http://192.168.2.98:5050/play?id=Bein-Sports-English-3
+http://192.168.2.98:5050/?id=BEIN-SPORT-USA-BU
+#EXTINF:-1 tvg-id="94061" tvg-name="BeIN Sports 1 EN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%201.png",beIN Sports English 1
+http://192.168.2.98:5050/?id=Bein-Sports-English-1
+#EXTINF:-1 tvg-id="93994" tvg-name="BeIN Sports 2 EN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%202.png",beIN Sports English 2
+http://192.168.2.98:5050/?id=Bein-Sports-English-2
+#EXTINF:-1 tvg-id="412014" tvg-name="beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/beIN%20Sports%203.png",beIN Sports English 3
+http://192.168.2.98:5050/?id=Bein-Sports-English-3
 #EXTINF:-1 tvg-id="465198" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN.png",ESPN
-http://192.168.2.98:5050/play?id=ESPN
+http://192.168.2.98:5050/?id=ESPN
 #EXTINF:-1 tvg-id="465373" tvg-name="ESPN2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN%202.png",ESPN 2
-http://192.168.2.98:5050/play?id=ESPN-2
+http://192.168.2.98:5050/?id=ESPN-2
 #EXTINF:-1 tvg-id="465410" tvg-name="ESPNEWS HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN%20News.png",ESPN News
-http://192.168.2.98:5050/play?id=ESPN-News
+http://192.168.2.98:5050/?id=ESPN-News
 #EXTINF:-1 tvg-id="465108" tvg-name="ESPNU HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN%20U.png",ESPN U
-http://192.168.2.98:5050/play?id=ESPN-U
+http://192.168.2.98:5050/?id=ESPN-U
 #EXTINF:-1 tvg-id="464949" tvg-name="ESPN Deportes HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN%20Deportes.png",ESPN Deportes
-http://192.168.2.98:5050/play?id=ESPN-Deportes
+http://192.168.2.98:5050/?id=ESPN-Deportes
 #EXTINF:-1 tvg-id="464949" tvg-name="ESPN Deportes HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN%20Deportes.png",ESPN Deportes [備線]
-http://192.168.2.98:5050/play?id=ESPN-Deportes-BU
+http://192.168.2.98:5050/?id=ESPN-Deportes-BU
 #EXTINF:-1 tvg-id="464937" tvg-name="CBS Sports Network HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/CBS%20Sports%20Network.png",CBS Sports Network
-http://192.168.2.98:5050/play?id=CBS-Sports-Network
+http://192.168.2.98:5050/?id=CBS-Sports-Network
 #EXTINF:-1 tvg-id="465291" tvg-name="FS1 Fox Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/FS1.png",Fox Sports 1
-http://192.168.2.98:5050/play?id=Fox-Sports-1
+http://192.168.2.98:5050/?id=Fox-Sports-1
 #EXTINF:-1 tvg-id="465355" tvg-name="FS2 Fox Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/FS2.png",Fox Sports 2
-http://192.168.2.98:5050/play?id=Fox-Sports-2
+http://192.168.2.98:5050/?id=Fox-Sports-2
 #EXTINF:-1 tvg-id="465214" tvg-name="Fox Soccer Plus HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20Soccer%20Plus.png",Fox Soccer Plus
-http://192.168.2.98:5050/play?id=Fox-Soccer-Plus
+http://192.168.2.98:5050/?id=Fox-Soccer-Plus
 #EXTINF:-1 tvg-id="465156" tvg-name="Fox Deportes HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20Deportes.png",Fox Deportes
-http://192.168.2.98:5050/play?id=FOX-DEPORTES
+http://192.168.2.98:5050/?id=FOX-DEPORTES
 #EXTINF:-1 tvg-id="465156" tvg-name="Fox Deportes HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20Deportes.png",Fox Deportes [備線]
-http://192.168.2.98:5050/play?id=FOX-DEPORTES-BU
+http://192.168.2.98:5050/?id=FOX-DEPORTES-BU
 #EXTINF:-1 tvg-id="465236" tvg-name="Tennis Channel HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Tennis%20Channel.png",Tennis Channel
-http://192.168.2.98:5050/play?id=Tennis-Channel
+http://192.168.2.98:5050/?id=Tennis-Channel
 #EXTINF:-1 tvg-id="464783" tvg-name="Golf Channel HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Golf%20Channel.png",Golf Channel
-http://192.168.2.98:5050/play?id=Golf-Channel
-#EXTINF:-1 tvg-id="465239" tvg-name="MLB Network HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/MLB%20Network.png",MLB Network
-http://192.168.2.98:5050/play?id=MLB-Network
-#EXTINF:-1 tvg-id="465311" tvg-name="NFL Network HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NFL%20Network.png",NFL Network
-http://192.168.2.98:5050/play?id=NFL-Network
-#EXTINF:-1 tvg-id="465401" tvg-name="NFL RedZone HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NFL%20RedZone.png",NFL RedZone
-http://192.168.2.98:5050/play?id=NFL-REDZONE
-#EXTINF:-1 tvg-id="465344" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/WWE.png",WWE
-http://192.168.2.98:5050/play?id=WWE
+http://192.168.2.98:5050/?id=Golf-Channel
 #EXTINF:-1 tvg-id="465010" tvg-name="Willow Cricket HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Willow%20Cricket.png",Willow Cricket
-http://192.168.2.98:5050/play?id=Willow-Cricket
+http://192.168.2.98:5050/?id=Willow-Cricket
 #EXTINF:-1 tvg-id="465022" tvg-name="Willow Xtra" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Willow%20Xtra.png",Willow Extra
-http://192.168.2.98:5050/play?id=Willow-Extra
+http://192.168.2.98:5050/?id=Willow-Extra
+#EXTINF:-1 tvg-id="465239" tvg-name="MLB Network HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/MLB%20Network.png",MLB Network
+http://192.168.2.98:5050/?id=MLB-Network
+#EXTINF:-1 tvg-id="465311" tvg-name="NFL Network HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NFL%20Network.png",NFL Network
+http://192.168.2.98:5050/?id=NFL-Network
+#EXTINF:-1 tvg-id="465401" tvg-name="NFL RedZone HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NFL%20RedZone.png",NFL RedZone
+http://192.168.2.98:5050/?id=NFL-REDZONE
 #EXTINF:-1 tvg-id="465348" tvg-name="NHL Network HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NHL%20Network.png",NHL Network
-http://192.168.2.98:5050/play?id=NHL-Network
+http://192.168.2.98:5050/?id=NHL-Network
 #EXTINF:-1 tvg-id="465154" tvg-name="Fight Network" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fight%20Network.png",Fight Network
-http://192.168.2.98:5050/play?id=Fight-Network
+http://192.168.2.98:5050/?id=Fight-Network
+#EXTINF:-1 tvg-id="465344" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/WWE.png",WWE
+http://192.168.2.98:5050/?id=WWE
 #EXTINF:-1 tvg-id="465358" tvg-name="World Fishing Network HD (US)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/World%20Fishing%20Network.png",World Fishing Network
-http://192.168.2.98:5050/play?id=World-Fishing-Network
+http://192.168.2.98:5050/?id=World-Fishing-Network
 #EXTINF:-1 tvg-id="464879" tvg-name="ACC Network" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ACC%20Network.png",ACC Network
-http://192.168.2.98:5050/play?id=ACC-Network
+http://192.168.2.98:5050/?id=ACC-Network
 #EXTINF:-1 tvg-id="465249" tvg-name="HBO (Pacific)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO1.png",HBO 1
-http://192.168.2.98:5050/play?id=HBO
+http://192.168.2.98:5050/?id=HBO
 #EXTINF:-1 tvg-id="465146" tvg-name="HBO2 (Pacific)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO2.png",HBO 2
-http://192.168.2.98:5050/play?id=HBO-2
-#EXTINF:-1 tvg-id="465364" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Discovery.png",Discovery Channel
-http://192.168.2.98:5050/play?id=Discovery-Channel
-#EXTINF:-1 tvg-id="464838" tvg-name="Discovery Life Channel" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Discovery%20Life.png",Discovery Life
-http://192.168.2.98:5050/play?id=Discovery-Life
+http://192.168.2.98:5050/?id=HBO-2
 #EXTINF:-1 tvg-id="465388" tvg-name="Cinemax (Pacific)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Cinemax.png",Cinemax West
-http://192.168.2.98:5050/play?id=Cinemax-West
+http://192.168.2.98:5050/?id=Cinemax-West
+#EXTINF:-1 tvg-id="465364" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Discovery.png",Discovery Channel
+http://192.168.2.98:5050/?id=Discovery-Channel
+#EXTINF:-1 tvg-id="464838" tvg-name="Discovery Life Channel" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Discovery%20Life.png",Discovery Life
+http://192.168.2.98:5050/?id=Discovery-Life
 #EXTINF:-1 tvg-id="465372" tvg-name="Fox News Channel HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20News.png",Fox News
-http://192.168.2.98:5050/play?id=FOX-NEWS
+http://192.168.2.98:5050/?id=FOX-NEWS
 #EXTINF:-1 tvg-id="464791" tvg-name="CNBC HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/CNBC.png",CNBC
-http://192.168.2.98:5050/play?id=CNBC
+http://192.168.2.98:5050/?id=CNBC
 #EXTINF:-1 tvg-id="465329" tvg-name="UNIVERSO HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NBC%20Universo.png",NBC Universo
-http://192.168.2.98:5050/play?id=NBC-UNIVERSO
+http://192.168.2.98:5050/?id=NBC-UNIVERSO
 
 
 
