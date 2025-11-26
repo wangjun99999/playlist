@@ -1,3 +1,5 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml" tvg-shift=+8
+
 #EXTINF:-1 tvg-id="400477" tvg-name="TNT Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png",TNT Sports 1
 http://192.168.2.98:5050/?id=TNT-Sports-1
 #EXTINF:-1 tvg-id="400477" tvg-name="TNT Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png",TNT Sports 1 [備線]
