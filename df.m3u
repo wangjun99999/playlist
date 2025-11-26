@@ -1,17 +1,3 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgziyong.xml"
-
-
-#EXTINF:-1 tvg-id="476376" tvg-name="青岛新闻综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/QTV-1.png", group-title="青岛频道",青岛新闻综合QTV-1
-http://39.77.79.109:85/tsfile/live/1000_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="476274" tvg-name="青岛影视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/QTV-3.png" group-title="青岛频道",青岛影视QTV-3
-http://39.77.79.109:85/tsfile/live/1002_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="476285" tvg-name="青岛财经资讯" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/QTV-4.png" group-title="青岛频道",青岛财经资讯QTV-4
-http://39.77.79.109:85/tsfile/live/1004_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="476361" tvg-name="青岛教育" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/QTV-5.png" group-title="青岛频道",青岛教育QTV-5
-http://39.77.79.109:85/tsfile/live/0002_1.m3u8?key=txiptv
-
-
-
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/东方卫视.png" group-title="上海频道",东方卫视4K
 http://cdn.jdshipin.com/kkxw.php?id=1
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/东方卫视.png" group-title="上海频道",东方卫视
