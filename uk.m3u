@@ -44,9 +44,9 @@ http://192.168.2.98:5050/?id=Sky-Sports-F1
 http://192.168.2.98:5050/?id=Sky-Sports-Golf
 #EXTINF:-1 tvg-id="12200" tvg-name="SkySp Racing HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Racing.png",Sky Sports Racing
 http://192.168.2.98:5050/?id=Sky-Sports-Racing
-#EXTINF:-1 tvg-id="408613" tvg-name="Premier Sports 1 [UK]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%201.png",Premier Sports 1
+#EXTINF:-1 tvg-id="219100" tvg-name="Premier Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%201.png",Premier Sports 1
 http://192.168.2.98:5050/?id=Premier-Sports-1
-#EXTINF:-1 tvg-id="408658" tvg-name="Premier Sports 2 [UK]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%202.png",Premier Sports 2
+#EXTINF:-1 tvg-id="219104" tvg-name="Premier Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%202.png",Premier Sports 2
 http://192.168.2.98:5050/?id=Premier-Sports-2
 #EXTINF:-1 tvg-id="12534" tvg-name="Racing TV HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Racing%20TV.png",Racing TV
 http://192.168.2.98:5050/?id=Racing-TV
