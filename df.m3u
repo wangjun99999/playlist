@@ -8,13 +8,13 @@ https://cdn3.163189.xyz/163189/wxty
 http://192.168.2.98:5678/kankanews.php?id=wxty
 #EXTINF:-1 tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/上海新闻综合.png" group-title="上海频道",上海新闻综合
 http://192.168.2.98:5678/kankanews.php?id=shxwzh
-#EXTINF:-1 tvg-id="458370" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/上海都市.png" group-title="上海频道",上海都市
+#EXTINF:-1 tvg-id="都市频道" tvg-name="都市频道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/上海都市.png" group-title="上海频道",上海都市
 http://192.168.2.98:5678/kankanews.php?id=shds
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/第一财经.png" group-title="上海频道",第一财经
 http://192.168.2.98:5678/kankanews.php?id=dycj
 #EXTINF:-1 tvg-id="" tvg-name="魔都眼" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/魔都眼.png" group-title="上海频道",魔都眼
 http://192.168.2.98:5678/kankanews.php?id=mdy
-#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/新纪实.png" group-title="上海频道",新纪实
+#EXTINF:-1 tvg-id="457774" tvg-name="上海纪实人文" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/新纪实.png" group-title="上海频道",新纪实
 http://192.168.2.98:5678/kankanews.php?id=jsrw
 
 
