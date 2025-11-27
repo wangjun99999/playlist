@@ -1,154 +1,154 @@
-#EXTINF:-1 tvg-id="afbb24171439e254a1b95e939eee3fd9" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CJ%EC%98%A8%EC%8A%A4%ED%83%80%EC%9D%BC%2B.png" group-title="未分类",CJ온스타일
+#EXTINF:-1 tvg-id="CJ ONSTYLE.kr" tvg-name="CJ ONSTYLE.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CJ%EC%98%A8%EC%8A%A4%ED%83%80%EC%9D%BC%2B.png" group-title="购物频道",CJ온스타일
 http://211.177.153.171:2981/stream/channelid/388283311?profile=pass
-#EXTINF:-1 tvg-id="9327a790fb6d8c811601b76eedaaada4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CJ%EC%98%A8%EC%8A%A4%ED%83%80%EC%9D%BC%2B.png" group-title="购物频道",CJ온스타일+
+#EXTINF:-1 tvg-id="CJ ONSTYLE+.kr" tvg-name="CJ ONSTYLE+.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CJ%EC%98%A8%EC%8A%A4%ED%83%80%EC%9D%BC%2B.png" group-title="购物频道",CJ온스타일+
 http://211.177.153.171:2981/stream/channelid/279390099?profile=pass
-#EXTINF:-1 tvg-id="48d8f3226237fc30f31f7d04b68059d2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/E%EC%B1%84%EB%84%90.png" group-title="娱乐频道",E채널
+#EXTINF:-1 tvg-id="E채널.kr" tvg-name="E채널.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/E%EC%B1%84%EB%84%90.png" group-title="娱乐频道",E채널
 http://211.177.153.171:2981/stream/channelid/586405960?profile=pass
-#EXTINF:-1 tvg-id="c2169c069464c0f25fbf7bdefb3b2dbe" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/GS%20%EB%A7%88%EC%9D%B4%EC%83%B51.png" group-title="购物频道",GS 마이샵
+#EXTINF:-1 tvg-id="GS SHOP.kr" tvg-name="GS SHOP.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/GS%20%EB%A7%88%EC%9D%B4%EC%83%B51.png" group-title="购物频道",GS 마이샵
 http://211.177.153.171:2981/stream/channelid/110892738?profile=pass
-#EXTINF:-1 tvg-id="1b8a9f07c118df075f4b9abb051d5af1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/GS%20%EB%A7%88%EC%9D%B4%EC%83%B5.png" group-title="购物频道",GS 마이샵 
+#EXTINF:-1 tvg-id="GS MY SHOP.kr" tvg-name="GS MY SHOP.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/GS%20%EB%A7%88%EC%9D%B4%EC%83%B5.png" group-title="购物频道",GS 마이샵 
 http://211.177.153.171:2981/stream/channelid/127896091?profile=pass
-#EXTINF:-1 tvg-id="829cb7656f2155190c26bfb4ae338561" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/KTV.png" group-title="综合频道",KTV
+#EXTINF:-1 tvg-id="KTV.kr" tvg-name="KTV.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/KTV.png" group-title="综合频道",KTV
 http://211.177.153.171:2981/stream/channelid/1706531970?profile=pass
-#EXTINF:-1 tvg-id="00c92c0fe53398973c83ded1b6bc9448" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/NS%ED%99%88%EC%87%BC%ED%95%91.png" group-title="购物频道",NS홈쇼핑
+#EXTINF:-1 tvg-id="NS홈쇼핑.kr" tvg-name="NS홈쇼핑.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/NS%ED%99%88%EC%87%BC%ED%95%91.png" group-title="购物频道",NS홈쇼핑
 http://211.177.153.171:2981/stream/channelid/254593280?profile=pass
-#EXTINF:-1 tvg-id="f031b8f283304148d9da3a797062192f" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/OBS.png" group-title="购物频道",OBS
+#EXTINF:-1 tvg-id="OBS.kr" tvg-name="OBS.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/OBS.png" group-title="购物频道",OBS
 http://211.177.153.171:2981/stream/channelid/1924674032?profile=pass
-#EXTINF:-1 tvg-id="a205b252cfe524f7defe55ac80b87cea" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/OBS%20W.png" group-title="购物频道",OBS W
+#EXTINF:-1 tvg-id="HD OBS W.kr" tvg-name="HD OBS W.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/OBS%20W.png" group-title="购物频道",OBS W
 http://211.177.153.171:2981/stream/channelid/1387398562?profile=pass
-#EXTINF:-1 tvg-id="8fe2d5bb031030dfff042d89feeb104e" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/OCN%20Movies.png" group-title="影视频道",OCN Movies
+#EXTINF:-1 tvg-id="OCN Movies.kr" tvg-name="OCN Movies.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/OCN%20Movies.png" group-title="影视频道",OCN Movies
 http://211.177.153.171:2981/stream/channelid/1003872911?profile=pass
-#EXTINF:-1 tvg-id="d32dfd703f8aa2b53604f7959a114ae4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/SK%EC%8A%A4%ED%86%A0%EC%95%84.png" group-title="购物频道",SK스토아
+#EXTINF:-1 tvg-id="SK stoa.kr" tvg-name="SK stoa.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/SK%EC%8A%A4%ED%86%A0%EC%95%84.png" group-title="购物频道",SK스토아
 http://211.177.153.171:2981/stream/channelid/1895640531?profile=pass
-#EXTINF:-1 tvg-id="c44f3ae9ece09afe26c02bf1e9c9a9a6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/SpoTV%20Golf%20%26%20Health.png" group-title="体育频道",SpoTV Golf & Health
+#EXTINF:-1 tvg-id="SPOTV Golf and Health.kr" tvg-name="SPOTV Golf and Health.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/SpoTV%20Golf%20%26%20Health.png" group-title="体育频道",SpoTV Golf & Health
 http://211.177.153.171:2981/stream/channelid/1765429188?profile=pass
-#EXTINF:-1 tvg-id="066d84cf3dc3cf4b8fd3cf67bfa0d8d6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/W%EC%87%BC%ED%95%91.png" group-title="购物频道",W쇼핑
+#EXTINF:-1 tvg-id="W쇼핑.kr" tvg-name="W쇼핑.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/W%EC%87%BC%ED%95%91.png" group-title="购物频道",W쇼핑
 http://211.177.153.171:2981/stream/channelid/1334078726?profile=pass
-#EXTINF:-1 tvg-id="b54cabb2a46ee864a8ffeb5f80d944b1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EA%B5%AD%ED%9A%8C%EB%B0%A9%EC%86%A1.png" group-title="综合频道",국회방송
+#EXTINF:-1 tvg-id="국회방송.kr" tvg-name="국회방송.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EA%B5%AD%ED%9A%8C%EB%B0%A9%EC%86%A1.png" group-title="综合频道",국회방송
 http://211.177.153.171:2981/stream/channelid/850087093?profile=pass
-#EXTINF:-1 tvg-id="b37ca3acb0c9d208e82c7d2686932eba" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EB%93%9C%EB%9D%BC%EB%A7%88%ED%81%90%EB%B8%8C.png" group-title="影视频道",드라마큐브
+#EXTINF:-1 tvg-id="드라마큐브.kr" tvg-name="드라마큐브.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EB%93%9C%EB%9D%BC%EB%A7%88%ED%81%90%EB%B8%8C.png" group-title="影视频道",드라마큐브
 http://211.177.153.171:2981/stream/channelid/748911795?profile=pass
-#EXTINF:-1 tvg-id="d152695d4e7a930b85e6104c498b9e4c" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EB%A1%AF%EB%8D%B0%ED%99%88%EC%87%BC%ED%95%91.png" group-title="购物频道",롯데홈쇼핑
+#EXTINF:-1 tvg-id="롯데홈쇼핑.kr" tvg-name="롯데홈쇼핑.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EB%A1%AF%EB%8D%B0%ED%99%88%EC%87%BC%ED%95%91.png" group-title="购物频道",롯데홈쇼핑
 http://211.177.153.171:2981/stream/channelid/1567183569?profile=pass
-#EXTINF:-1 tvg-id="0f4b4cf22debb562cc347b877e79a15b" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EC%87%BC%ED%95%91%EC%97%94%ED%8B%B0.png" group-title="购物频道",쇼핑엔티
+#EXTINF:-1 tvg-id="쇼핑엔티.kr" tvg-name="쇼핑엔티.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EC%87%BC%ED%95%91%EC%97%94%ED%8B%B0.png" group-title="购物频道",쇼핑엔티
 http://211.177.153.171:2981/stream/channelid/1917602575?profile=pass
-#EXTINF:-1 tvg-id="911f149912baa67b35b827a0ba586be5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EC%8B%A0%EC%84%B8%EA%B3%84%EC%87%BC%ED%95%91.png" group-title="购物频道",신세계쇼핑
+#EXTINF:-1 tvg-id="신세계쇼핑.kr" tvg-name="신세계쇼핑.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EC%8B%A0%EC%84%B8%EA%B3%84%EC%87%BC%ED%95%91.png" group-title="购物频道",신세계쇼핑
 http://211.177.153.171:2981/stream/channelid/420749201?profile=pass
-#EXTINF:-1 tvg-id="aa03e319336397a83d93e99aa352c93d" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EC%BD%94%EB%A9%94%EB%94%94TV.png" group-title="娱乐频道",코메디TV
+#EXTINF:-1 tvg-id="코미디TV.kr" tvg-name="코미디TV.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EC%BD%94%EB%AF%B8%EB%94%94TV.png" group-title="娱乐频道",코미디TV
 http://211.177.153.171:2981/stream/channelid/434308010?profile=pass
-#EXTINF:-1 tvg-id="0f279d92a4b262bcdbe716dec946b041" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%ED%99%88%EC%95%A4%EC%87%BC%ED%95%91.png" group-title="购物频道",홈앤쇼핑
+#EXTINF:-1 tvg-id="홈and쇼핑" tvg-name="홈and쇼핑" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%ED%99%88%EC%95%A4%EC%87%BC%ED%95%91.png" group-title="购物频道",홈앤쇼핑
 http://211.177.153.171:2981/stream/channelid/312289039?profile=pass
-#EXTINF:-1 tvg-id="137e9ef3b98979aee67c140af229e0c2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CPBC.png" group-title="宗教频道",CPBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CPBC.png" group-title="宗教频道",CPBC
 http://211.177.153.171:2981/stream/channelid/1939766803?profile=pass
-#EXTINF:-1 tvg-id="4d60d6aaf75a63c8c3e293cc8a585133" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/ENA%20STORY.png" group-title="影视频道",ENA STORY
+#EXTINF:-1 tvg-id="ENA STORY.kr" tvg-name="ENA STORY.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/ENA%20STORY.png" group-title="影视频道",ENA STORY
 http://211.177.153.171:2981/stream/channelid/718692429?profile=pass
-#EXTINF:-1 tvg-id="4e8f257da1d4cbecefa3d4ab5de3eafc" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/ENA.png" group-title="影视频道",ENA
+#EXTINF:-1 tvg-id="ENA.kr" tvg-name="ENA.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/ENA.png" group-title="影视频道",ENA
 http://211.177.153.171:2981/stream/channelid/2099613518?profile=pass
-#EXTINF:-1 tvg-id="71ad3386c243d44022ce2ad5d1a913f2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/NOW.png" group-title="娱乐频道",NOW
+#EXTINF:-1 tvg-id="Now제주TV.kr" tvg-name="Now제주TV.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/NOW.png" group-title="娱乐频道",NOW
 http://211.177.153.171:2981/stream/channelid/104050033?profile=pass
-#EXTINF:-1 tvg-id="1bc79b8aee1d4be105c81ccd41a01507" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/YTN.png" group-title="综合频道",YTN
+#EXTINF:-1 tvg-id="YTN.kr" tvg-name="YTN.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/YTN.png" group-title="综合频道",YTN
 http://211.177.153.171:2981/stream/channelid/177981211?profile=pass
-#EXTINF:-1 tvg-id="2272485b2b2c18f28317a5ee4dd4c303" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EC%B1%84%EB%84%90%EC%B0%A8%EC%9D%B4%EB%82%98.png" group-title="影视频道",채널차이나
+#EXTINF:-1 tvg-id="채널차이나.kr" tvg-name="채널차이나.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EC%B1%84%EB%84%90%EC%B0%A8%EC%9D%B4%EB%82%98.png" group-title="影视频道",채널차이나
 http://211.177.153.171:2981/stream/channelid/1531474466?profile=pass
-#EXTINF:-1 tvg-id="c0bf6a9dc380cd2036de01a0313121c8" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/EBS1.png" group-title="记录频道",EBS1
+#EXTINF:-1 tvg-id="EBS.kr" tvg-name="EBS.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/EBS1.png" group-title="记录频道",EBS1
 http://211.177.153.171:2981/stream/channelid/493535168?profile=pass
-#EXTINF:-1 tvg-id="da5c214d44fc249de5356b6db63489b5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/SBS.png" group-title="综合频道",SBS
+#EXTINF:-1 tvg-id="SBS.kr" tvg-name="SBS.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/SBS.png" group-title="综合频道",SBS
 http://211.177.153.171:2981/stream/channelid/1294032090?profile=pass
-#EXTINF:-1 tvg-id="abd323da8579de18291d5157804c6208" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/KBS1.png" group-title="综合频道",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-name="KBS1.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/KBS1.png" group-title="综合频道",KBS1
 http://211.177.153.171:2981/stream/channelid/1512297387?profile=pass
-#EXTINF:-1 tvg-id="80dff52d7604d2b76fb7127443c563dc" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/KBS2.png" group-title="综合频道",KBS2
+#EXTINF:-1 tvg-id="KBS2.kr" tvg-name="KBS2.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/KBS2.png" group-title="综合频道",KBS2
 http://211.177.153.171:2981/stream/channelid/771088256?profile=pass
-#EXTINF:-1 tvg-id="73b2e06dac1960e1119bfc48aac78d8d" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/MBC.png" group-title="综合频道",MBC
+#EXTINF:-1 tvg-id="MBC.kr" tvg-name="MBC.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/MBC.png" group-title="综合频道",MBC
 http://211.177.153.171:2981/stream/channelid/1843442291?profile=pass
-#EXTINF:-1 tvg-id="2c3158011c053adea5ad9b5deb4f72ea" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/Channel%20A.png" group-title="综合频道",Channel A
+#EXTINF:-1 tvg-id="채널A.kr" tvg-name="채널A.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/Channel%20A.png" group-title="综合频道",Channel A
 http://211.177.153.171:2981/stream/channelid/22556972?profile=pass
-#EXTINF:-1 tvg-id="617514379faabfd772cdd0f5f62fb171" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/EBSi.png" group-title="教育频道",EBSi
+#EXTINF:-1 tvg-id="EBS PLUS1.kr" tvg-name="EBS PLUS1.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/EBSi.png" group-title="教育频道",EBSi
 http://211.177.153.171:2981/stream/channelid/924087649?profile=pass
-#EXTINF:-1 tvg-id="f711e19116139d6ae1af632d04345e6d" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/EBS%20Plus%202.png" group-title="教育频道",EBS+2
+#EXTINF:-1 tvg-id="EBS PLUS2.kr" tvg-name="EBS PLUS2.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/EBS%20Plus%202.png" group-title="教育频道",EBS+2
 http://211.177.153.171:2981/stream/channelid/299962871?profile=pass
-#EXTINF:-1 tvg-id="140d54b7e0604acb7e75b58b58eedebb" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/ENA%20%ED%94%8C%EB%A0%88%EC%9D%B4.png" group-title="娱乐频道",ENA 플레이
+#EXTINF:-1 tvg-id="ENA PLAY.kr" tvg-name="ENA PLAY.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/ENA%20%ED%94%8C%EB%A0%88%EC%9D%B4.png" group-title="娱乐频道",ENA 플레이
 http://211.177.153.171:2981/stream/channelid/928255252?profile=pass
-#EXTINF:-1 tvg-id="6599077fe22a6ec5f08942008b1cc6d5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/JTBC.png" group-title="综合频道",JTBC
+#EXTINF:-1 tvg-id="JTBC.kr" tvg-name="JTBC.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/JTBC.png" group-title="综合频道",JTBC
 http://211.177.153.171:2981/stream/channelid/2131204453?profile=pass
-#EXTINF:-1 tvg-id="da4e95fac1279b2f47bd82e75e1e41ce" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/MBC%20ON.png" group-title="影视频道",MBC ON
+#EXTINF:-1 tvg-id="MBC ON.kr" tvg-name="MBC ON.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/MBC%20ON.png" group-title="影视频道",MBC ON
 http://211.177.153.171:2981/stream/channelid/2056605402?profile=pass
-#EXTINF:-1 tvg-id="87fcec60f29e9ebef348a2744fc4683e" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/MBC%20%EC%97%90%EB%B8%8C%EB%A6%AC%EC%9B%90.png" group-title="娱乐频道",MBC 에브리원
+#EXTINF:-1 tvg-id="MBC Every1.kr" tvg-name="MBC Every1.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/MBC%20%EC%97%90%EB%B8%8C%EB%A6%AC%EC%9B%90.png" group-title="娱乐频道",MBC 에브리원
 http://211.177.153.171:2981/stream/channelid/1626143879?profile=pass
-#EXTINF:-1 tvg-id="24e119c7f3f805bfa019c6926e5053f5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CineF.png" group-title="影视频道",CineF
+#EXTINF:-1 tvg-id="씨네프.kr" tvg-name="씨네프.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CineF.png" group-title="影视频道",CineF
 http://211.177.153.171:2981/stream/channelid/1192878372?profile=pass
-#EXTINF:-1 tvg-id="a6d42d35e7a6418457325db4235ff57a" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/SBS%20Plus.png" group-title="影视频道",SBS Plus
+#EXTINF:-1 tvg-id="SBS Plus.kr" tvg-name="SBS Plus.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/SBS%20Plus.png" group-title="影视频道",SBS Plus
 http://211.177.153.171:2981/stream/channelid/892196006?profile=pass
-#EXTINF:-1 tvg-id="931e9d95d783c2c1e39726df278193a8" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/TV%EC%A1%B0%EC%84%A02.png" group-title="综合频道",TV조선2
+#EXTINF:-1 tvg-id="TVCHOSUN2.kr" tvg-name="TVCHOSUN2.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/TV%EC%A1%B0%EC%84%A02.png" group-title="综合频道",TV조선2
 http://211.177.153.171:2981/stream/channelid/362618515?profile=pass
-#EXTINF:-1 tvg-id="08249f6f6fe776a4e5a5be2c529560f0" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/tvN%20%EB%93%9C%EB%9D%BC%EB%A7%88.png" group-title="影视频道",tvN 드라마
+#EXTINF:-1 tvg-id="tvN DRAMA.kr" tvg-name="tvN DRAMA.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/tvN%20%EB%93%9C%EB%9D%BC%EB%A7%88.png" group-title="影视频道",tvN 드라마
 http://211.177.153.171:2981/stream/channelid/1872700424?profile=pass
-#EXTINF:-1 tvg-id="55762ac840c4f945d7cbab994f481fc0" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/MBC%20Sports%2B.png" group-title="体育频道",MBC Sports+
+#EXTINF:-1 tvg-id="MBC SPORTS+.kr" tvg-name="MBC SPORTS+.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/MBC%20Sports%2B.png" group-title="体育频道",MBC Sports+
 http://211.177.153.171:2981/stream/channelid/1210742357?profile=pass
-#EXTINF:-1 tvg-id="df2bd248a0c02ee64ee80186c095020d" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EC%B1%84%EB%84%90%20B%20tv.png" group-title="娱乐频道",채널 B tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EC%B1%84%EB%84%90%20B%20tv.png" group-title="娱乐频道",채널 B tv
 http://211.177.153.171:2981/stream/channelid/1221733343?profile=pass
-#EXTINF:-1 tvg-id="eff75f17816ebc96e591e287260bb6e9" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%ED%98%84%EB%8C%80%ED%99%88%EC%87%BC%ED%95%91%2B%EC%83%B5.png" group-title="购物频道",현대홈쇼핑+샵
+#EXTINF:-1 tvg-id="현대홈쇼핑+샵.kr" tvg-name="현대홈쇼핑+샵.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%ED%98%84%EB%8C%80%ED%99%88%EC%87%BC%ED%95%91%2B%EC%83%B5.png" group-title="购物频道",현대홈쇼핑+샵
 http://211.177.153.171:2981/stream/channelid/392165359?profile=pass
-#EXTINF:-1 tvg-id="7c91cbf7ec0553ca0e51b69b7bfbe3f8" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CBS%20KR.png" group-title="宗教频道",CBS
+#EXTINF:-1 tvg-id="CBS.kr" tvg-name="CBS.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CBS%20KR.png" group-title="宗教频道",CBS
 http://211.177.153.171:2981/stream/channelid/2009829756?profile=pass
-#EXTINF:-1 tvg-id="f5b090ad2f57c44f8502b636280b7540" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CH%20ever.png" group-title="影视频道",CH. ever
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CH%20ever.png" group-title="影视频道",CH. ever
 http://211.177.153.171:2981/stream/channelid/764457205?profile=pass
-#EXTINF:-1 tvg-id="33f681586ddc64e19dbd335d73e41db2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CMC.png" group-title="娱乐频道",CMC
+#EXTINF:-1 tvg-id="CMCTV.kr" tvg-name="CMCTV.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CMC.png" group-title="娱乐频道",CMC
 http://211.177.153.171:2981/stream/channelid/1484912179?profile=pass
-#EXTINF:-1 tvg-id="d9dd89f056d59681a4456666f5e1dd54" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CNTV_History_Drama.png" group-title="影视频道",CNTV History Drama
+#EXTINF:-1 tvg-id="CNTV.kr" tvg-name="CNTV.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CNTV_History_Drama.png" group-title="影视频道",CNTV History Drama
 http://211.177.153.171:2981/stream/channelid/1888083417?profile=pass
-#EXTINF:-1 tvg-id="98308f031de21fb1e22c216ff3fb62e5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/Dramax.png" group-title="影视频道",Dramax
+#EXTINF:-1 tvg-id="Dramax.kr" tvg-name="Dramax.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/Dramax.png" group-title="影视频道",Dramax
 http://211.177.153.171:2981/stream/channelid/59715736?profile=pass
-#EXTINF:-1 tvg-id="d6107fb56e0d39bfc124347fea639d27" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/ENA%20%EB%93%9C%EB%9D%BC%EB%A7%88.png" group-title="影视频道",ENA 드라마
+#EXTINF:-1 tvg-id="ENA DRAMA.kr" tvg-name="ENA DRAMA.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/ENA%20%EB%93%9C%EB%9D%BC%EB%A7%88.png" group-title="影视频道",ENA 드라마
 http://211.177.153.171:2981/stream/channelid/897519830?profile=pass
-#EXTINF:-1 tvg-id="9c6eb4d87e25017960e3276a73a1e308" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/GTV.png" group-title="娱乐频道",GTV
+#EXTINF:-1 tvg-id="GTV.kr" tvg-name="GTV.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/GTV.png" group-title="娱乐频道",GTV
 http://211.177.153.171:2981/stream/channelid/1488219804?profile=pass
-#EXTINF:-1 tvg-id="d65614945e0985966fa2d7068c12c9fd" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/MBC%20%EB%93%9C%EB%9D%BC%EB%A7%88.png" group-title="影视频道",MBC 드라마
+#EXTINF:-1 tvg-id="MBC Dramanet.kr" tvg-name="MBC Dramanet.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/MBC%20%EB%93%9C%EB%9D%BC%EB%A7%88.png" group-title="影视频道",MBC 드라마
 http://211.177.153.171:2981/stream/channelid/336877270?profile=pass
-#EXTINF:-1 tvg-id="3df40c16eab2b94dda28a208943e4067" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/MBN.png" group-title="综合频道",MBN
+#EXTINF:-1 tvg-id="MBN.kr" tvg-name="MBN.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/MBN.png" group-title="综合频道",MBN
 http://211.177.153.171:2981/stream/channelid/369947709?profile=pass
-#EXTINF:-1 tvg-id="1242b8176066dcbf9c46f13aa2a0ce35" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/Mnet.png" group-title="娱乐频道",Mnet
+#EXTINF:-1 tvg-id="Mnet.kr" tvg-name="Mnet.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/Mnet.png" group-title="娱乐频道",Mnet
 http://211.177.153.171:2981/stream/channelid/397951506?profile=pass
-#EXTINF:-1 tvg-id="871ce92c5743e247bce071058ed4addd" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/Mplex.png" group-title="影视频道",Mplex
+#EXTINF:-1 tvg-id="mplex.kr" tvg-name="mplex.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/Mplex.png" group-title="影视频道",Mplex
 http://211.177.153.171:2981/stream/channelid/753474695?profile=pass
-#EXTINF:-1 tvg-id="f57ec2ee5ee0cf8ed7ba56af49fa11e6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/MX.png" group-title="娱乐频道",MX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/MX.png" group-title="娱乐频道",MX
 http://211.177.153.171:2981/stream/channelid/1858240245?profile=pass
-#EXTINF:-1 tvg-id="be4d938feab642bd00a347b5ece120aa" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/SPOTV.png" group-title="体育频道",SPOTV
+#EXTINF:-1 tvg-id="SPOTV.kr" tvg-name="SPOTV.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/SPOTV.png" group-title="体育频道",SPOTV
 http://211.177.153.171:2981/stream/channelid/261311934?profile=pass
-#EXTINF:-1 tvg-id="2bb0074d4e79161a0a80764839e11425" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/tvN.png" group-title="娱乐频道",tvN
+#EXTINF:-1 tvg-id="tvN.kr" tvg-name="tvN.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/tvN.png" group-title="娱乐频道",tvN
 http://211.177.153.171:2981/stream/channelid/1292349483?profile=pass
-#EXTINF:-1 tvg-id="b8017342fc95478ae28fd85863588308" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EC%95%A0%EB%8B%88%EB%A7%A5%EC%8A%A4.png" group-title="影视频道",애니맥스
+#EXTINF:-1 tvg-id="ANIMAX.kr" tvg-name="ANIMAX.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EC%95%A0%EB%8B%88%EB%A7%A5%EC%8A%A4.png" group-title="影视频道",애니맥스
 http://211.177.153.171:2981/stream/channelid/1114833336?profile=pass
-#EXTINF:-1 tvg-id="7cd67cb21c60a335d9e7d9034b864f4f" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/JTBC2.png" group-title="娱乐频道",JTBC 2
+#EXTINF:-1 tvg-id="JTBC2.kr" tvg-name="JTBC2.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/JTBC2.png" group-title="娱乐频道",JTBC 2
 http://211.177.153.171:2981/stream/channelid/847042172?profile=pass
-#EXTINF:-1 tvg-id="5f23572a78d5fe777a86de5040bffbcb" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/KBS%20N%20Sports.png" group-title="体育频道",KBS N Sports
+#EXTINF:-1 tvg-id="KBS N Sports.kr" tvg-name="KBS N Sports.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/KBS%20N%20Sports.png" group-title="体育频道",KBS N Sports
 http://211.177.153.171:2981/stream/channelid/710353759?profile=pass
-#EXTINF:-1 tvg-id="e564a7ce7c70b59b36a1da88ef56999b" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/KT%EC%95%8C%ED%8C%8C%EC%87%BC%ED%95%91.png" group-title="购物频道",KT알파쇼핑
+#EXTINF:-1 tvg-id="kt알파쇼핑.kr" tvg-name="kt알파쇼핑.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/KT%EC%95%8C%ED%8C%8C%EC%87%BC%ED%95%91.png" group-title="购物频道",KT알파쇼핑
 http://211.177.153.171:2981/stream/channelid/1319593189?profile=pass
-#EXTINF:-1 tvg-id="72cb608aaff0231564b406a8ecd6abf6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/NXT.png" group-title="影视频道",NXT
+#EXTINF:-1 tvg-id="AXN.kr" tvg-name="AXN.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/NXT.png" group-title="影视频道",NXT
 http://211.177.153.171:2981/stream/channelid/174115698?profile=pass
-#EXTINF:-1 tvg-id="83ed5aefa38b018bc748c550cf089785" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/SBS%20funE.png" group-title="娱乐频道",SBS FunE
+#EXTINF:-1 tvg-id="SBS funE.kr" tvg-name="SBS funE.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/SBS%20funE.png" group-title="娱乐频道",SBS FunE
 http://211.177.153.171:2981/stream/channelid/1868230019?profile=pass
-#EXTINF:-1 tvg-id="3fbc37801ff782f3bb9da4702803bb37" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/SBS%20Golf.png" group-title="体育频道",SBS Golf
+#EXTINF:-1 tvg-id="SBSGOLF.kr" tvg-name="SBSGOLF.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/SBS%20Golf.png" group-title="体育频道",SBS Golf
 http://211.177.153.171:2981/stream/channelid/3652671?profile=pass
-#EXTINF:-1 tvg-id="98d930abb8ee6be9961ad15e5d722401" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EA%B3%B5%EC%98%81%EC%87%BC%ED%95%91.png" group-title="购物频道",공영쇼핑
+#EXTINF:-1 tvg-id="공영쇼핑.kr" tvg-name="공영쇼핑.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EA%B3%B5%EC%98%81%EC%87%BC%ED%95%91.png" group-title="购物频道",공영쇼핑
 http://211.177.153.171:2981/stream/channelid/724621720?profile=pass
-#EXTINF:-1 tvg-id="938d12a50c54c2376f200e506ed93290" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EB%A1%AF%EB%8D%B0ONETV.png" group-title="购物频道",롯데ONETV
+#EXTINF:-1 tvg-id="LOTTE OneTV.kr" tvg-name="LOTTE OneTV.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EB%A1%AF%EB%8D%B0ONETV.png" group-title="购物频道",롯데ONETV
 http://211.177.153.171:2981/stream/channelid/621972883?profile=pass
-#EXTINF:-1 tvg-id="05d71a3849ff0acfd62ac8db6ddab5b0" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9C.png" group-title="综合频道",한국경제
+#EXTINF:-1 tvg-id="한국경제TV.kr" tvg-name="한국경제TV.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9C.png" group-title="综合频道",한국경제
 http://211.177.153.171:2981/stream/channelid/941283077?profile=pass
-#EXTINF:-1 tvg-id="aa0e318255f3197221e9e0dddf1d2667" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/BTN.png" group-title="宗教频道",BTN
+#EXTINF:-1 tvg-id="BTN불교TV.kr" tvg-name="BTN불교TV.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/BTN.png" group-title="宗教频道",BTN
 http://211.177.153.171:2981/stream/channelid/36769450?profile=pass
-#EXTINF:-1 tvg-id="6f639e7b7807a79cb5ee5f9e91277434" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/EBSe.png" group-title="教育频道",EBSe
+#EXTINF:-1 tvg-id="EBS English.kr" tvg-name="EBS English.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/EBSe.png" group-title="教育频道",EBSe
 http://211.177.153.171:2981/stream/channelid/2073977711?profile=pass
-#EXTINF:-1 tvg-id="1cace81cb3b5b059d2b394064343114d" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/inet%20TV.png" group-title="娱乐频道",inet TV
+#EXTINF:-1 tvg-id="아이넷TV.kr" tvg-name="아이넷TV.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/inet%20TV.png" group-title="娱乐频道",inet TV
 http://211.177.153.171:2981/stream/channelid/485010460?profile=pass
-#EXTINF:-1 tvg-id="6590c4e009f93b5393c6117afee2eeb5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/OCN.png" group-title="影视频道",OCN
+#EXTINF:-1 tvg-id="OCN.kr" tvg-name="OCN.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/OCN.png" group-title="影视频道",OCN
 http://211.177.153.171:2981/stream/channelid/1623494757?profile=pass
-#EXTINF:-1 tvg-id="a86471ecfe39ecd4f5ba306ef9dd3e23" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/ONT.png" group-title="综合频道",ONT
+#EXTINF:-1 tvg-id="ONT.kr" tvg-name="ONT.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/ONT.png" group-title="综合频道",ONT
 http://211.177.153.171:2981/stream/channelid/1819370664?profile=pass
-#EXTINF:-1 tvg-id="91f788f2a89a7d5b82af76a39c4db88e" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/TV%EC%A1%B0%EC%84%A0.png" group-title="综合频道",TV조선
+#EXTINF:-1 tvg-id="TV조선.kr" tvg-name="TV조선.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/TV%EC%A1%B0%EC%84%A0.png" group-title="综合频道",TV조선
 http://211.177.153.171:2981/stream/channelid/1921578897?profile=pass
-#EXTINF:-1 tvg-id="c252016ab5ec0cf5e641135476ed46f8" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4.png" group-title="综合频道",연합뉴스
+#EXTINF:-1 tvg-id="연합뉴스TV.kr" tvg-name="연합뉴스TV.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4.png" group-title="综合频道",연합뉴스
 http://211.177.153.171:2981/stream/channelid/1778471618?profile=pass
-#EXTINF:-1 tvg-id="f7ff9bc9696438e1a433da477f81c5ef" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/EBS2.png" group-title="教育频道",EBS2
+#EXTINF:-1 tvg-id="EBS2.kr" tvg-name="EBS2.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/EBS2.png" group-title="教育频道",EBS2
 http://211.177.153.171:2981/stream/channelid/1234960375?profile=pass
