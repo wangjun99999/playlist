@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml" tvg-shift=+8
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml.gz" tvg-shift=+8
 
 #EXTINF:-1 tvg-id="464754" tvg-name="beIN Sports USA HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/beIN%20Sports%20USA.png",beIN Sports USA
 http://192.168.2.98:5050/?id=Bein-Sports-USA
