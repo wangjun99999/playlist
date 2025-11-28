@@ -1,6 +1,3 @@
-#EXTM3U
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgziyong.xml"
-
 #EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV1.png",龍華電影
 http://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV2.png",龍華洋片
@@ -16,12 +13,24 @@ http://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV4.png",龍華戲劇
 http://cdn8.163189.xyz/163189/lhxj
 
+#EXTINF:-1 tvg-id="Now爆谷星影台" tvg-name="Now爆谷星影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%E6%98%9F%E5%BD%B1.png",Now 爆谷星影台
+http://bxtv.3a.ink/api.php?id=xingying
+#EXTINF:-1 tvg-id="爆谷台" tvg-name="爆谷台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%E7%88%86%E8%B0%B7.png",Now 爆谷台
+http://bxtv.3a.ink/api.php?id=baogu
+#EXTINF:-1 tvg-id="now財經" tvg-name="now財經" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%20%E8%B2%A1%E7%B6%93%E5%8F%B0.png",Now 財經台
+http://hls.168.us.kg/u/333/master.m3u8
+#EXTINF:-1 tvg-id="now直播" tvg-name="now直播" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%20%E7%9B%B4%E6%92%AD%E5%8F%B0.png",Now 直播台
+http://hls.168.us.kg/u/331/master.m3u8
+#EXTINF:-1 tvg-id="now新聞" tvg-name="now新聞" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/now%E6%96%B0%E8%81%9E%E5%8F%B0.png",Now 新聞台
+https://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-id="Now Sports Premier" tvg-name="Now Sports Premier" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%20Sports%20Prime.png",Now Sports Prime
+http://hls.168.us.kg/u/630/master.m3u8
+#EXTINF:-1 tvg-id="Now Sports 英超TV" tvg-name="Now Sports 英超TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%201.png",Now Sports Premier 1
+http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
 
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png",美亞電影台HK
-http://bxtv.3a.ink/api.php?id=meiya
-#EXTINF:-1 tvg-id="美亞電影HD" tvg-name="美亞電影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png",美亞電影台TW
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-id="天映频道马来西亚" tvg-name="天映频道马来西亚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png",天映频道MY
+#EXTINF:-1 tvg-id="天映频道马来西亚" tvg-name="天映频道马来西亚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png",天映频道IS
 http://php.jdshipin.com/smt.php?id=Celestial
 #EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png",天映經典頻道MY
 http://php.jdshipin.com/smt.php?id=Celestial2
@@ -51,11 +60,11 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="spot on news" tvg-name="spot on news" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/spot%20on%20news.png",HOY740 Spot on news
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TDGHWR1Q2FLL5PEG33BE/hls3/now,-1m/m.m3u8
 
-#EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK31.png",RTHKTV 31
+#EXTINF:-1 tvg-id="香港電台31" tvg-name="香港電台31" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK31.png",RTHKTV 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK32.png",RTHKTV 32
+#EXTINF:-1 tvg-id="香港電台32" tvg-name="香港電台32" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK32.png",RTHKTV 32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 tvg-id="港台电视33" tvg-name="港台电视33" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK33.png",RTHKTV 33
+#EXTINF:-1 tvg-id="香港電台33" tvg-name="香港電台33" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK33.png",RTHKTV 33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 #EXTINF:-1 tvg-id="港台电视34" tvg-name="港台电视34" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK34.png",RTHKTV 34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
@@ -73,8 +82,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 #EXTINF:-1 tvg-id="TVB生活台" tvg-name="TVB生活台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%E7%94%9F%E6%B4%BB%E5%8F%B0.png",TVB生活台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-#EXTINF:-1 tvg-id="now新聞" tvg-name="now新聞" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/now%E6%96%B0%E8%81%9E%E5%8F%B0.png",now新聞台
-https://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png",翡翠台4K
 https://cdn6.163189.xyz/163189/fct4k
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png",翡翠台
