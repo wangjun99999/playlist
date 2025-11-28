@@ -1,3 +1,7 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Korean_Central_Television_2005.svg/250px-Korean_Central_Television_2005.svg.png" group-title="朝鲜频道",Korea Central TV
+https://tv.intchoson.com/kctv/index.m3u8
+
+
 #EXTINF:-1 tvg-id="CJ ONSTYLE.kr" tvg-name="CJ ONSTYLE.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CJ%EC%98%A8%EC%8A%A4%ED%83%80%EC%9D%BC%2B.png" group-title="购物频道",CJ온스타일
 http://211.177.153.171:2981/stream/channelid/388283311?profile=pass
 #EXTINF:-1 tvg-id="CJ ONSTYLE+.kr" tvg-name="CJ ONSTYLE+.kr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/KR/CJ%EC%98%A8%EC%8A%A4%ED%83%80%EC%9D%BC%2B.png" group-title="购物频道",CJ온스타일+
