@@ -52,7 +52,7 @@ https://tzh911.qzz.io/play-smt.php?id=videolandyule
 https://tzh911.qzz.io/play-smt.php?id=sanlitaiwan
 #EXTINF:-1 tvg-id="三立都會台" tvg-name="三立都會台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%89%E7%AB%8B%E9%83%BD%E4%BC%9A%E5%8F%B0.png",三立都會台
 https://tzh911.qzz.io/play-smt.php?id=sanlidouhui
-#EXTINF:-1 tvg-id="三立戲劇台" tvg-name="三立戲劇台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/三立戏剧台.png",三立戲劇台
+#EXTINF:-1 tvg-id="三立戲劇台HD" tvg-name="三立戲劇台HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/三立戏剧台.png",三立戲劇台
 https://tzh911.qzz.io/play-smt.php?id=sanlixiju_twn
 #EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/三立综合台.png",三立綜合台
 https://tzh911.qzz.io/play-smt.php?id=sanlizhonghe
@@ -104,19 +104,19 @@ https://tzh911.qzz.io/play-smt.php?id=cinemax_twn
 https://tzh911.qzz.io/play-smt.php?id=hbohd_twn
 #EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/好莱坞电影台.png",Hollywood Movies 好萊塢電影台
 https://tzh911.qzz.io/play-smt.php?id=hollywoodmovies_twn
-#EXTINF:-1 tvg-id="171864" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Thrill.png",Thrill
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Thrill.png",Thrill
 https://tzh911.qzz.io/play-smt.php?id=Thrill
 #EXTINF:-1 tvg-id="天映频道马来西亚" tvg-name="天映频道马来西亚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png",天映频道MY
 https://tzh911.qzz.io/play-smt.php?id=Celestialindo
 #EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png",天映經典頻道MY
 https://tzh911.qzz.io/play-smt.php?id=Celestial2
-#EXTINF:-1 tvg-id="CatchPlay電影台" tvg-name="CatchPlay電影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/CatchPlay%E9%9B%BB%E5%BD%B1%E5%8F%B0.png",CatchPlay電影台
+#EXTINF:-1 tvg-id="CATCHPLAY電影台" tvg-name="CATCHPLAY電影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/CatchPlay%E9%9B%BB%E5%BD%B1%E5%8F%B0.png",CatchPlay電影台
 https://tzh911.qzz.io/play-smt.php?id=catchplay_twn
 #EXTINF:-1,tvg-id="美亞電影HD" tvg-name="美亞電影HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/美亚电影台.png",美亞電影台
 https://tzh911.qzz.io/play-smt.php?id=meiyamovie_twn
 #EXTINF:-1,tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Crime%20%26%20Investigation.png",CI 罪案偵查頻道
 https://tzh911.qzz.io/play-smt.php?id=ci_twn
-#EXTINF:-1,tvg-id="EYE TV戲劇台" tvg-name="EYE TV戲劇台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/EYETV戏剧台.jpg",EYETV 戲劇台
+#EXTINF:-1,tvg-id="EYE TV戲劇台HD" tvg-name="EYE TV戲劇台HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/EYETV戏剧台.jpg",EYETV 戲劇台
 https://tzh911.qzz.io/play-smt.php?id=eyetvtravel_twn
 #EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/八大第一台.png",八大第一台
 https://tzh911.qzz.io/play-smt.php?id=badafirst
@@ -128,13 +128,13 @@ https://tzh911.qzz.io/play-smt.php?id=badadrama
 https://tzh911.qzz.io/play-smt.php?id=badaentertain
 #EXTINF:-1,tvg-id="動物星球頻道" tvg-name="動物星球頻道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/动物星球台.png",Animal Planet 動物星球頻道
 https://tzh911.qzz.io/play-smt.php?id=animalplanet_twn
-#EXTINF:-1,tvg-id=""Discovery Asia" tvg-name=""Discovery Asia" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/Discovery Asia.png",Discovery Asia 探索亚洲
+#EXTINF:-1,tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/Discovery Asia.png",Discovery Asia 探索亚洲
 https://tzh911.qzz.io/play-smt.php?id=discoverytwn_twn
-#EXTINF:-1,tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%20Earth.png",BBC Earth
+#EXTINF:-1,tvg-id="BBC EARTH" tvg-name="BBC EARTH" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%20Earth.png",BBC Earth
 https://tzh911.qzz.io/play-smt.php?id=bbcearth_twn
-#EXTINF:-1,tvg-id="BBC Lifestyle Channel" tvg-name="BBC Lifestyle Channel" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC Lifestyle.png",BBC Lifestyle
+#EXTINF:-1,tvg-id="BBC LIFESTYLE" tvg-name="BBC LIFESTYLE" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC Lifestyle.png",BBC Lifestyle
 https://tzh911.qzz.io/play-smt.php?id=bbclifestyle_twn
-#EXTINF:-1,tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/MTVLive.png",MTV Live
+#EXTINF:-1,tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/MTVLive.png",MTV Live
 https://tzh911.qzz.io/play-smt.php?id=mtvhd_twn
 #EXTINF:-1 tvg-id="Asian Food Network 亞洲美食頻道" tvg-name="Asian Food Network 亞洲美食頻道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/AFC亚洲美食.png",AFN 亞洲美食頻道
 https://tzh911.qzz.io/play-smt.php?id=afc_twn
@@ -208,7 +208,7 @@ http://xtvantsc.xyz/litv_ts.php?id=litv-longturn05
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn06
 #EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast1.png",博斯運動I
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn07
-#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast2.png",博斯運動II
+#EXTINF:-1 tvg-id="博斯運動二台HD" tvg-name="博斯運動二台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast2.png",博斯運動II
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn08
 #EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast5.png",博斯網球
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn09
