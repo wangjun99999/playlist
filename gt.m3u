@@ -31,6 +31,11 @@ https://cdn.163189.xyz/163189/now
 http://hls.168.us.kg/u/630/master.m3u8
 #EXTINF:-1 tvg-id="Now Sports 英超TV" tvg-name="Now Sports 英超TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%201.png",Now Sports Premier 1
 http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
+#EXTINF:-1 tvg-id="Now Sports 英超TV" tvg-name="Now Sports 英超TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%201.png",Now Sports Premier 1
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:D9:72:46&stream=1032487&extension=ts&play_token=2psC6GVPo6
+#EXTINF:-1 tvg-id="Now Sports 英超TV" tvg-name="Now Sports 英超TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%201.png",Now Sports Premier 1
+http://lunar.pm:8080/melodyg/uQnLQnTkRj/117457
+
 
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png",美亞電影台HK
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
