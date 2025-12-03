@@ -1,98 +1,96 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml.gz" tvg-shift=+8
-
-#EXTINF:-1 tvg-id="400477" tvg-name="TNT Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png",TNT Sports 1
+#EXTINF:-1 tvg-id="TNT Sports 1.uk" tvg-name="TNT Sports 1.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png",TNT Sports 1
 http://192.168.2.98:5050/?id=TNT-Sports-1
-#EXTINF:-1 tvg-id="400477" tvg-name="TNT Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png",TNT Sports 1 [備線]
+#EXTINF:-1 tvg-id="TNT Sports 1.uk" tvg-name="TNT Sports 1.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png",TNT Sports 1 [備線]
 http://192.168.2.98:5050/?id=TNT-Sports-1-BU
-#EXTINF:-1 tvg-id="400480" tvg-name="TNT Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%202.png",TNT Sports 2
+#EXTINF:-1 tvg-id="TNT Sports 2.uk" tvg-name="TNT Sports 2.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%202.png",TNT Sports 2
 http://192.168.2.98:5050/?id=TNT-Sports-2
-#EXTINF:-1 tvg-id="400480" tvg-name="TNT Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%202.png",TNT Sports 2 [備線]
+#EXTINF:-1 tvg-id="TNT Sports 2.uk" tvg-name="TNT Sports 2.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%202.png",TNT Sports 2 [備線]
 http://192.168.2.98:5050/?id=TNT-Sports-2-BU
-#EXTINF:-1 tvg-id="400479" tvg-name="TNT Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%203.png",TNT Sports 3
+#EXTINF:-1 tvg-id="TNT Sports 3.uk" tvg-name="TNT Sports 3.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%203.png",TNT Sports 3
 http://192.168.2.98:5050/?id=TNT-Sports-3
-#EXTINF:-1 tvg-id="400479" tvg-name="TNT Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%203.png",TNT Sports 3 [備線]
+#EXTINF:-1 tvg-id="TNT Sports 3.uk" tvg-name="TNT Sports 3.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%203.png",TNT Sports 3 [備線]
 http://192.168.2.98:5050/?id=TNT-Sports-3-BU
-#EXTINF:-1 tvg-id="400478" tvg-name="TNT Sports 4 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%204.png",TNT Sports 4
+#EXTINF:-1 tvg-id="TNT Sports 4.uk" tvg-name="TNT Sports 4.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%204.png",TNT Sports 4
 http://192.168.2.98:5050/?id=TNT-Sports-4
-#EXTINF:-1 tvg-id="400478" tvg-name="TNT Sports 4 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%204.png",TNT Sports 4 [備線]
+#EXTINF:-1 tvg-id="TNT Sports 4.uk" tvg-name="TNT Sports 4.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%204.png",TNT Sports 4 [備線]
 http://192.168.2.98:5050/?id=TNT-Sports-4-BU
-#EXTINF:-1 tvg-id="12191" tvg-name="SkySp F'ball HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Football.png",Sky Sports Football
+#EXTINF:-1 tvg-id="SkySp Fball HD.uk" tvg-name="SkySp Fball HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Football.png",Sky Sports Football
 http://192.168.2.98:5050/?id=Sky-Sports-Football
-#EXTINF:-1 tvg-id="12191" tvg-name="SkySp F'ball HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Football.png",Sky Sports Football [備線]
+#EXTINF:-1 tvg-id="SkySp Fball HD.uk" tvg-name="SkySp Fball HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Football.png",Sky Sports Football [備線]
 http://192.168.2.98:5050/?id=Sky-Sports-Football-BU
-#EXTINF:-1 tvg-id="9415" tvg-name="SkySpMainEvHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png",Sky Sports Main Event
 http://192.168.2.98:5050/?id=Sky-Sports-Main-Event
-#EXTINF:-1 tvg-id="9415" tvg-name="SkySpMainEvHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png",Sky Sports Main Event [備線]
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png",Sky Sports Main Event [備線]
 http://192.168.2.98:5050/?id=Sky-Sports-Main-Event-BU
-#EXTINF:-1 tvg-id="12453" tvg-name="SkySp PL HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Premier%20League.png",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySp PL HD.uk" tvg-name="SkySp PL HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Premier%20League.png",Sky Sports Premier League
 http://192.168.2.98:5050/?id=Sky-Sports-Premier-League
-#EXTINF:-1 tvg-id="12453" tvg-name="SkySp PL HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Premier%20League.png",Sky Sports Premier League [備線]
+#EXTINF:-1 tvg-id="SkySp PL HD.uk" tvg-name="SkySp PL HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Premier%20League.png",Sky Sports Premier League [備線]
 http://192.168.2.98:5050/?id=Sky-Sports-Premier-League-BU
-#EXTINF:-1 tvg-id="12562" tvg-name="SkySp Mix" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Mix.png",Sky Sports Mix
+#EXTINF:-1 tvg-id="SkySp Mix.uk" tvg-name="SkySp Mix.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Mix.png",Sky Sports Mix
 http://192.168.2.98:5050/?id=Sky-Sports-Mix
-#EXTINF:-1 tvg-id="12024" tvg-name="SkySp ActionHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Action.png",Sky Sports Action
+#EXTINF:-1 tvg-id="SkySp NFL HD.uk" tvg-name="SkySp NFL HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Action.png",Sky Sports Action
 http://192.168.2.98:5050/?id=Sky-Sports-Arena
-#EXTINF:-1 tvg-id="12337" tvg-name="SkySp News" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20News.png",Sky Sports News
+#EXTINF:-1 tvg-id="SkySp News HD.uk" tvg-name="SkySp News HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20News.png",Sky Sports News
 http://192.168.2.98:5050/?id=Sky-Sports-News
-#EXTINF:-1 tvg-id="12434" tvg-name="SkySpCricket HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Cricket.png",Sky Sports Cricket
+#EXTINF:-1 tvg-id="SkySpCricket HD.uk" tvg-name="SkySpCricket HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Cricket.png",Sky Sports Cricket
 http://192.168.2.98:5050/?id=Sky-Sports-Cricket
-#EXTINF:-1 tvg-id="212145" tvg-name="SkySp Tennis HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Tennis.png",Sky Sports Tennis
+#EXTINF:-1 tvg-id="SkySp Tennis HD.uk" tvg-name="SkySp Tennis HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Tennis.png",Sky Sports Tennis
 http://192.168.2.98:5050/?id=Sky-Sports-Tennis
-#EXTINF:-1 tvg-id="12190" tvg-name="SkySp F1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",Sky Sports F1
+#EXTINF:-1 tvg-id="SkySp F1 HD.uk" tvg-name="SkySp F1 HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",Sky Sports F1
 http://192.168.2.98:5050/?id=Sky-Sports-F1
-#EXTINF:-1 tvg-id="12022" tvg-name="SkySp Golf HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Golf.png",Sky Sports Golf
+#EXTINF:-1 tvg-id="SkySp Golf HD.uk" tvg-name="SkySp Golf HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Golf.png",Sky Sports Golf
 http://192.168.2.98:5050/?id=Sky-Sports-Golf
-#EXTINF:-1 tvg-id="12200" tvg-name="SkySp Racing HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Racing.png",Sky Sports Racing
+#EXTINF:-1 tvg-id="SkySp Racing HD.uk" tvg-name="SkySp Racing HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Racing.png",Sky Sports Racing
 http://192.168.2.98:5050/?id=Sky-Sports-Racing
-#EXTINF:-1 tvg-id="219100" tvg-name="Premier Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%201.png",Premier Sports 1
+#EXTINF:-1 tvg-id="Premier Sports 1.ie" tvg-name="Premier Sports 1.ie" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%201.png",Premier Sports 1
 http://192.168.2.98:5050/?id=Premier-Sports-1
-#EXTINF:-1 tvg-id="219104" tvg-name="Premier Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%202.png",Premier Sports 2
+#EXTINF:-1 tvg-id="Premier Sports 2.ie" tvg-name="Premier Sports 2.ie" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%202.png",Premier Sports 2
 http://192.168.2.98:5050/?id=Premier-Sports-2
-#EXTINF:-1 tvg-id="12534" tvg-name="Racing TV HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Racing%20TV.png",Racing TV
+#EXTINF:-1 tvg-id="Racing TV HD.uk" tvg-name="Racing TV HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Racing%20TV.png",Racing TV
 http://192.168.2.98:5050/?id=Racing-TV
-#EXTINF:-1 tvg-id="76632" tvg-name="DAZN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/DAZN.png",DAZN
+#EXTINF:-1 tvg-id="DAZN 1.es" tvg-name="DAZN 1.es" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/DAZN.png",DAZN
 http://192.168.2.98:5050/?id=DAZN-TV
-#EXTINF:-1 tvg-id="406588" tvg-name="DAZN LALIGA [ES]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20TV.png",LALIGA TV
+#EXTINF:-1 tvg-id="DAZN LALIGA.es" tvg-name="DAZN LALIGA.es" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20TV.png",LALIGA TV
 http://192.168.2.98:5050/?id=La-Liga-TV
-#EXTINF:-1 tvg-id="406588" tvg-name="DAZN LALIGA [ES]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20TV.png",LALIGA TV [備線]
+#EXTINF:-1 tvg-id="DAZN LALIGA.es" tvg-name="DDAZN LALIGA.es" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20TV.png",LALIGA TV [備線]
 http://192.168.2.98:5050/?id=LA-LIGA-TV-BU
-#EXTINF:-1 tvg-id="76744" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%202.png",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport 2.uk" tvg-name="Eurosport 2.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%202.png",Eurosport 2
 http://192.168.2.98:5050/?id=Eurosport-2
-#EXTINF:-1 tvg-id="12258" tvg-name="MUTV HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/MUTV.png",MUTV
+#EXTINF:-1 tvg-id="MUTV HD.uk" tvg-name="MUTV HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/MUTV.png",MUTV
 http://192.168.2.98:5050/?id=MUTV
-#EXTINF:-1 tvg-id="12202" tvg-name="LFCTV HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/LFC.png",LFC TV
+#EXTINF:-1 tvg-id="LFCTV HD.uk" tvg-name="LFCTV HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/LFC.png",LFC TV
 http://192.168.2.98:5050/?id=LFC-TV
-#EXTINF:-1 tvg-id="9158" tvg-name="Sky Comedy Cinema" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Comedy.png",Sky Cinema Comedy
+#EXTINF:-1 tvg-id="Sky Cinema Comedy HD.uk" tvg-name="Sky Cinema Comedy HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Comedy.png",Sky Cinema Comedy
 http://192.168.2.98:5050/?id=UK-Sky-Cinema-Comedy
-#EXTINF:-1 tvg-id="12449" tvg-name="Sky Family HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Family.png",Sky Cinema Family
+#EXTINF:-1 tvg-id="Sky Cinema Family HD.uk" tvg-name="Sky Cinema Family HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Family.png",Sky Cinema Family
 http://192.168.2.98:5050/?id=UK-Sky-Cinema-Family
-#EXTINF:-1 tvg-id="12457" tvg-name="Sky Action HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Action.png",Sky Cinema Action
+#EXTINF:-1 tvg-id="Sky Cinema Action HD.uk" tvg-name="Sky Cinema Action HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Action.png",Sky Cinema Action
 http://192.168.2.98:5050/?id=Sky-Cinema-Action
-#EXTINF:-1 tvg-id="12122" tvg-name="SkyAnimationHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Animation.png",Sky Cinema Animation
+#EXTINF:-1 tvg-id="Sky Cinema Animation.uk" tvg-name="Sky Cinema Animation.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Animation.png",Sky Cinema Animation
 http://192.168.2.98:5050/?id=Sky-Cinema-Animation
-#EXTINF:-1 tvg-id="9419" tvg-name="GREAT! movies" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/GREAT!%20movies.png",Great Movies
+#EXTINF:-1 tvg-id="GREAT! movies.uk" tvg-name="GREAT! movies.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/GREAT!%20movies.png",Great Movies
 http://192.168.2.98:5050/?id=UK-Great-Movies
-#EXTINF:-1 tvg-id="9478" tvg-name="Cartoon Net HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Cartoon%20Network.png",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Net HD.uk" tvg-name="Cartoon Net HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Cartoon%20Network.png",Cartoon Network
 http://192.168.2.98:5050/?id=UK-Cartoon-Network
-#EXTINF:-1 tvg-id="9206" tvg-name="BBC NEWS HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%20News.png",BBC News
+#EXTINF:-1 tvg-id="BBC News HD.uk" tvg-name="BBC News HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%20News.png",BBC News
 http://192.168.2.98:5050/?id=BBC-News
-#EXTINF:-1 tvg-id="76657" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%201.png",BBC One
+#EXTINF:-1 tvg-id="BBC One Lon HD.uk" tvg-name="BBC One Lon HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%201.png",BBC One
 http://192.168.2.98:5050/?id=BBC-1
-#EXTINF:-1 tvg-id="9459" tvg-name="BBC Two HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%202.png",BBC Two
+#EXTINF:-1 tvg-id="BBC Two HD.uk" tvg-name="BBC Two HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%202.png",BBC Two
 http://192.168.2.98:5050/?id=BBC-2
-#EXTINF:-1 tvg-id="9507" tvg-name="BBC Three HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%203.png",BBC Three
+#EXTINF:-1 tvg-id="BBC Three HD.uk" tvg-name="BBC Three HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%203.png",BBC Three
 http://192.168.2.98:5050/?id=BBC-Three
-#EXTINF:-1 tvg-id="9474" tvg-name="BBC Four HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%204.png",BBC Four
+#EXTINF:-1 tvg-id="BBC Four HD.uk" tvg-name="BBC Four HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%204.png",BBC Four
 http://192.168.2.98:5050/?id=BBC-FOUR
-#EXTINF:-1 tvg-id="9460" tvg-name="BBC RB 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%20Red%20Button.png",BBC Red Button
+#EXTINF:-1 tvg-id="BBC RB 1 HD.uk" tvg-name="BBC RB 1 HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC%20Red%20Button.png",BBC Red Button
 http://192.168.2.98:5050/?id=BBC-Red-Button
-#EXTINF:-1 tvg-id="12086" tvg-name="ITV1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/ITV%201.png",ITV 1
+#EXTINF:-1 tvg-id="ITV1 HD.uk" tvg-name="ITV1 HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/ITV%201.png",ITV 1
 http://192.168.2.98:5050/?id=ITV-1
-#EXTINF:-1 tvg-id="12203" tvg-name="ITV2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/ITV%202.png",ITV 2
+#EXTINF:-1 tvg-id="ITV2 HD.uk" tvg-name="ITV2 HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/ITV%202.png",ITV 2
 http://192.168.2.98:5050/?id=ITV-2
-#EXTINF:-1 tvg-id="12274" tvg-name="ITV3 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/ITV%203.png",ITV 3
+#EXTINF:-1 tvg-id="ITV3 HD.uk" tvg-name="ITV3 HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/ITV%203.png",ITV 3
 http://192.168.2.98:5050/?id=ITV-3
-#EXTINF:-1 tvg-id="12271" tvg-name="ITV4 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/ITV%204.png",ITV 4
+#EXTINF:-1 tvg-id="ITV4 HD.uk" tvg-name="ITV4 HD.uk" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/ITV%204.png",ITV 4
 http://192.168.2.98:5050/?id=ITV-4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Virgin%201.png",Virgin 1
 http://192.168.2.98:5050/?id=UK-Virgin-1
