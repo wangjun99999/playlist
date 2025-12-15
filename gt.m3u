@@ -1,14 +1,14 @@
-#EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV1.png",龍華電影
+#EXTINF:-1 tvg-id="龍華電影HD" tvg-name="龍華電影HD" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV1.png",龍華電影
 http://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV2.png",龍華洋片
 http://cdn8.163189.xyz/163189/lhyp
-#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV7.png",龍華經典
+#EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV7.png",龍華經典
 http://cdn8.163189.xyz/163189/lhjd
 #EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV8.png",龍華卡通
 http://cdn8.163189.xyz/163189/lhkt
 #EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV6.png",龍華偶像
 http://cdn8.163189.xyz/163189/lhox
-#EXTINF:-1 tvg-id="龍華日韩台" tvg-name="龍華日韩台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV5.png",龍華日韩
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV5.png",龍華日韩
 http://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV4.png",龍華戲劇
 http://cdn8.163189.xyz/163189/lhxj
