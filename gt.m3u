@@ -80,28 +80,28 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 
 #EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%8A%9F%E5%A4%AB%E5%8F%B0.png",TVB功夫台
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%E6%98%9F%E6%B2%B3%E5%8F%B0.png",TVB星河台
-http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%E6%98%9F%E6%B2%B3%E5%8F%B0.png",TVB星河台(多音轨字幕)
+https://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-id="娛樂新聞台 (免費)" tvg-name="娛樂新聞台 (免費)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%A8%9B%E6%A8%82%E6%96%B0%E8%81%9E%E5%8F%B0.png",娛樂新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 tvg-id="無綫新聞台 (免費)" tvg-name="無綫新聞台 (免費)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png",無綫新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 #EXTINF:-1 tvg-id="TVB生活台" tvg-name="TVB生活台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%E7%94%9F%E6%B4%BB%E5%8F%B0.png",TVB生活台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-#EXTINF:-1 tvg-id="460917" tvg-name="TVB 翡翠台" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png",翡翠台4K
-https://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1 tvg-id="460917" tvg-name="TVB 翡翠台" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png",翡翠台
-https://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-id="460917" tvg-name="TVB 翡翠台" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png",翡翠台4K(多音轨字幕)
+https://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1 tvg-id="460917" tvg-name="TVB 翡翠台" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png",翡翠台(字幕)
+http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-id="TVB翡翠劇集臺(TVB Drama)" tvg-name="TVB翡翠劇集臺(TVB Drama)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20Drama.png",TVB Drama 翡翠劇集臺
 https://6.cdn.loc.cc/163189.php?id=tvbd
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%8D%83%E7%A6%A7%E7%B6%93%E5%85%B8%E5%8F%B0.png",千禧經典台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 tvg-id="460932" tvg-name="TVB Pearl" tvg-logo="https://epg-1.iill.top/logo/明珠台.png",明珠台
-https://mytv.cdn.loc.cc/o12.php?id=mzt
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 tvg-id="460932" tvg-name="TVB Pearl" tvg-logo="https://epg-1.iill.top/logo/明珠台.png",明珠台(多音轨字幕)
+https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20J1.png",TVB J1 翡翠台北美版
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 tvg-id="TVB Plus (免費)" tvg-name="TVB Plus (免費)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20Plus.png",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-id="TVB Plus (免費)" tvg-name="TVB Plus (免費)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20Plus.png",TVB Plus(多音轨字幕)
+https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="翡翠一臺(TVB1)" tvg-name="翡翠一臺(TVB1)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%201.png",TVB1 翡翠一臺
 https://6.cdn.loc.cc/163189.php?id=tvb1
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ViuTV.png",ViuTV
