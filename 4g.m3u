@@ -66,8 +66,6 @@ http://141.11.87.241:20013/4gtv-4gtv034/index.m3u8
 http://141.11.87.241:20013/4gtv-4gtv058/index.m3u8
 #EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv045_mobile.png" group-title="電影戲劇",靖洋戲劇台
 http://141.11.87.241:20013/4gtv-4gtv045/index.m3u8
-#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_TVBS台劇台_mobile-.png" group-title="電影戲劇",TVBS台劇台
-http://141.11.87.241:20013/4gtv-live088/index.m3u8
 #EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="電影戲劇",經典電影台
 http://141.11.87.241:20013/4gtv-live021/index.m3u8
 
