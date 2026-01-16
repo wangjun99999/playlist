@@ -15,19 +15,19 @@ http://192.168.2.98:5678/kankanews.php?id=mdy
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/新纪实.png" group-title="上海频道",新纪实
 http://192.168.2.98:5678/kankanews.php?id=jsrw
 
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视[官方 16M 2160P HEVC AC3 5.1 音视频分离]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="上海频道",东方卫视[官方 16M 2160P HEVC AC3 5.1 音视频分离]
 http://bp-live4ktc.bestv.cn/live/dfws4k.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视[16M 2160P HEVC AC3 5.1]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="上海频道",东方卫视[16M 2160P HEVC AC3 5.1]
 http://bp-live4ktc.bestv.cn/live/dfws4k_4k265p.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视[16M 2160P H264 AC3 5.1]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="上海频道",东方卫视[16M 2160P H264 AC3 5.1]
 http://bp-live4ktc.bestv.cn/264ts/dfws4k264.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视[16M 1080P H264 AC3 5.1]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="上海频道",东方卫视[16M 1080P H264 AC3 5.1]
 http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视[ 8M 2160P H264 AAC 5.1]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="上海频道",东方卫视[ 8M 2160P H264 AAC 5.1]
 http://bp-live4ktc.bestv.cn/264ts/dfws4k264_4k264pts.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视[ 8M 1080P H264 AAC 5.1]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="上海频道",东方卫视[ 8M 1080P H264 AAC 5.1]
 http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264_4k1080p.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视[16M 1080P HEVC AAC 5.1 音视频分离]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="上海频道",东方卫视[16M 1080P HEVC AAC 5.1 音视频分离]
 http://bp-live4ktc.bestv.cn/ch/dfws4k1080p.m3u8
 
 
@@ -56,7 +56,7 @@ http://192.168.2.98:5678/BJ.php?id=jskj
 http://192.168.2.98:5678/BJ.php?id=kkse
 
 
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="浙江频道",浙江卫视4K
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/浙江卫视4K.png" group-title="浙江频道",浙江卫视4K
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="浙江频道",浙江卫视
 http://ali-xwl.cztv.com/live/channel011080Pnew.m3u8
