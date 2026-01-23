@@ -76,10 +76,6 @@ http://ali-xwl.cztv.com/live/channel021080Pnew.m3u8
 http://ali-xwl.cztv.com/live/channel101080Pnew.m3u8
 #EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Zhejiang8.png" group-title="浙江频道",之江纪录
 http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
-#EXTINF:-1 tvg-id="杭州青少体育" tvg-name="杭州青少体育" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%9D%AD%E5%B7%9E%E9%9D%92%E5%B0%91.png" group-title="浙江频道",杭州青少
-http://www.jeremyoto.com:82/rtp/233.50.201.177:5140
-#EXTINF:-1 tvg-id="杭州青少体育" tvg-name="杭州青少体育" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%9D%AD%E5%B7%9E%E9%9D%92%E5%B0%91.png" group-title="浙江频道",杭州青少
-http://www.flyskyman.cn:4022/rtp/233.50.201.177:5140
 
 
 #EXTINF:-1 tvg-id="山东体育休闲" tvg-name="山东体育休闲" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/山东体育.png" group-title="山东频道",山东体育
