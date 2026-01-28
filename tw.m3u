@@ -1,186 +1,180 @@
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png",民視
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv155
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png",民視第一台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv003
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png",民視台灣台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv001
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png",民視新聞台
-http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13
+http://litv.msbot.dpdns.org/li.php?id=litv-ftv13
 #EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png",民視綜藝台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv004
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv004
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png",民視旅遊台
-http://xtvantsc.xyz/litv_ts.php?id=litv-ftv07
+http://litv.msbot.dpdns.org/li.php?id=litv-ftv07
 #EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png",民視影劇台
-http://xtvantsc.xyz/litv_ts.php?id=litv-ftv09
+http://litv.msbot.dpdns.org/li.php?id=litv-ftv09
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png",中天新聞台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv009
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png",中天亞洲台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv109
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv109
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png",東森新聞台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv152
 #EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png",東森財經新聞台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv153
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv153
+#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_mobile.png",三立新聞iNEWS
+http://litv.msbot.dpdns.org/li.php?id=iNEWS
 #EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png",非凡新聞台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv010
 #EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png",非凡商業台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv048
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv048
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png",寰宇新聞台
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
+http://litv.msbot.dpdns.org/li.php?id=litv-longturn14
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png",寰宇新聞台灣台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv156
 #EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png",寰宇財經台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
-#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png",鏡電視新聞台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv158
 #EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png",第1商業台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv104
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv104
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png",中視
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv040
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv040
 #EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png",中視新聞台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv074
-#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png",中視菁采台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv064
-#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png",中視經典台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv080
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv074
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png",華視
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv041
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv041
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png",華視新聞台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv052
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png",台視
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv066
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv066
 #EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png",台視新聞台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv051
 #EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png",台視財經台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv056
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png",TVBS
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
-#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/TVBS%E6%96%B0%E9%97%BB%E5%8F%B0.png",TVBS新聞台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png",TVBS精采台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
-#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png",TVBS歡樂台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv068
-#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png",amc 電影台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv017
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv056
+#EXTINF:-1 tvg-id="倪珍播新聞" tvg-name="倪珍播新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_mobile.png",倪珍播新聞
+http://litv.msbot.dpdns.org/li.php?id=nnews-zh
 #EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png",采昌影劇台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv049
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv049
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png",影迷數位電影台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv011
 #EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png",影迷數位紀實台
-http://xtvantsc.xyz/litv_ts.php?id=litv-ftv15
+http://litv.msbot.dpdns.org/li.php?id=litv-ftv15
 #EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png",視納華仁紀實頻道
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv013
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv013
 #EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MyCinema.png",歐洲光影
-http://xtvantsc.xyz/litv_ts.php?id=litv-ftv10
-#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png",ELTA娛樂台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv070
+http://litv.msbot.dpdns.org/li.php?id=litv-ftv10
+#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png",愛爾達娛樂台
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv070
 #EXTINF:-1 tvg-id="台灣戲劇HD" tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png",台灣戲劇台
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn22
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang22
 #EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png",公視戲劇
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv042
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv042
 #EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png",八大綜藝台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv039
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv039
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png",八大精彩台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv034
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv034
 #EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png",龍華卡通台
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn01
-#EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png",龍華電影台
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn03
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang01
+#EXTINF:-1 tvg-id="龍華電影HD" tvg-name="龍華電影HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png",龍華電影台
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang03
 #EXTINF:-1 tvg-id="龍華日韩台" tvg-name="龍華日韩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png",龍華日韓台
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn11
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang11
 #EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png",龍華偶像台
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn12
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang12
 #EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png",龍華戲劇台
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn18
-#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png",龍華經典台
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn21
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang18
+#EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png",龍華經典台
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang21
+#EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn02_mobile.png",龍華洋片台
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang02
 
 #EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png",靖天映畫台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv055
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv055
 #EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png",靖天電影台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv061
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv061
 #EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png",靖天綜合台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv046
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv046
 #EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png",靖天日本台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv047
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv047
 #EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png",靖天卡通台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv044
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv044
 #EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png",靖天育樂台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv062
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv062
 #EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png",靖天國際台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv063
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv063
 #EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png",靖天歡樂台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv054
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv054
 #EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png",靖天戲劇台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv058
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv058
 #EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png",靖天資訊台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv065
 #EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png",靖洋卡通台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv057
-#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png",靖洋戲劇台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv045
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv057
 
 #EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png",智林體育台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv101
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv101
 #EXTINF:-1 tvg-id="博斯魅力網" tvg-name="博斯魅力網" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast6.png",博斯魅力
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn04
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang04
 #EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast3.png",博斯高球I
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn05
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang05
 #EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast4.png",博斯高球II
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn06
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang06
 #EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast1.png",博斯運動I
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn07
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang07
 #EXTINF:-1 tvg-id="博斯運動二台HD" tvg-name="博斯運動二台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast2.png",博斯運動II
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn08
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang08
 #EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast5.png",博斯網球
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn09
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang09
 #EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast7.png",博斯無限I
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn10
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang10
 #EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast8.png",博斯無限II
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn13
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang13
 
-
+#EXTINF:-1 tvg-id="Focus歡樂綜合台" tvg-name="Focus歡樂綜合台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/litv-fast1223_mobile.png",Focus歡樂綜合台
+http://litv.msbot.dpdns.org/li.php?id=litv-fast1223
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/litv-fast1224_mobile.png",Focus風采戲劇台
+http://litv.msbot.dpdns.org/li.php?id=litv-fast1224
+#EXTINF:-1 tvg-id="黃金八點檔" tvg-name="黃金八點檔" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/litv-fast1225_mobile.png",黃金八點檔
+http://litv.msbot.dpdns.org/li.php?id=litv-fast1225
+#EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv110_mobile.png",Pet Club TV
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv110
+#EXTINF:-1 tvg-id="DayStar" tvg-name="DayStar" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/Daystar_214x120.png",DayStar
+http://litv.msbot.dpdns.org/li.php?id=daystar
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png",ELTV生活英語台
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn20
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang20
 #EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png",Smart知識台
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn19
+http://litv.msbot.dpdns.org/li.php?id=litv-xinchuang19
 #EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png",韓國娛樂台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv016
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv016
 #EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png",達文西頻道
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv018
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv018
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png",亞洲旅遊台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv076
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv076
 #EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png",時尚運動X
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv014
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv014
 #EXTINF:-1 tvg-id="GINX Esports TV" tvg-name="GINX Esports TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/GINX%20Esports%20TV.png",GINX Esports TV 電競頻道
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv053
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv053
 #EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png",TRACE Sport Stars
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv077
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv077
 #EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png",TRACE Urban
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv082
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv082
 #EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png",客家電視
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv043
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv043
 #EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png",CLASSICA 古典樂
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv059
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv059
 #EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png",Mezzo Live
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv083
-#EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png",VOA 美國之音
-http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv083
 #EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png",Arirang TV 阿里郎頻道
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv079
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv079
 #EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png",國會頻道1
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv084
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv084
 #EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png",國會頻道2
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv085
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv085
 #EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png",好消息
-http://xtvantsc.xyz/litv_ts.php?id=litv-ftv16
+http://litv.msbot.dpdns.org/li.php?id=litv-ftv16
 #EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png",好消息2台
-http://xtvantsc.xyz/litv_ts.php?id=litv-ftv17
+http://litv.msbot.dpdns.org/li.php?id=litv-ftv17
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png",豬哥亮歌廳秀
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv006
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv006
 #EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png",東森購物一台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv102
-#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png",東森購物二台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv103
+http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv102
+
 
 
