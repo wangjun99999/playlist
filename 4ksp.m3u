@@ -275,3 +275,11 @@ https://012v4.goiptv.us.ci/stream/starhub/hubpremier8hd/
 
 
 
+#EXTINF:-1 tvg-id="399720" tvg-name="Cgnl Nba" tvg-logo="https://i.imgur.com/x1ZG71v.png" group-title="NBA", NBA TV Philippines
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
+
+
