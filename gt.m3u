@@ -83,6 +83,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j1
 https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="翡翠一臺(TVB1)" tvg-name="翡翠一臺(TVB1)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%201.png" group-title="TVB",TVB1 翡翠一臺
 https://6.cdn.loc.cc/163189.php?id=tvb1
+#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" group-title="TVB",TVB1 华丽翡翠台(硬字幕)
+http://cdn6.163189.xyz/163189/jade
 
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ViuTV.png" group-title="Viu",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
