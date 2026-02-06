@@ -1442,6 +1442,11 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBO)/master
 #EXTINF:-1 tvg-id="401.unifi" ch-number="401" tvg-logo="https://playtv.unifi.com.my:7218/CP...logo/202308/20230809/20230809082222536837.png" group-logo="" group-title="unifi",Asianfoodnetwork
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(asianfoodnetwork)/master.mpd
 
-
+#EXTINF:-1 tvg-id="Asian.Food.Network.HD.my" tvg-logo="" group-title="Unifi",Asian Food Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6f69611e9e94a1cba591f855b191362:bbd319d36c1728a8e4cc6bb4a8ad12f4
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(asianfoodnetwork)/master.mpd
 
 
