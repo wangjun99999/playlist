@@ -1414,3 +1414,34 @@ https://livedashmx.cdn.startv.tv/bpk-tv/universal_crime/vmx/index.mpd
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="1" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="HBO",venus
 https://livedashmx.cdn.startv.tv/bpk-tv/venus/vmx/index.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
+#EXTINF:-1 tvg-id="401.unifi" ch-number="401" tvg-logo="https://playtv.unifi.com.my:7218/CP...logo/202308/20230809/20230809082222536837.png" group-logo="" group-title="unifi",HBO
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBO)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6f69611e9e94a1cba591f855b191362:bbd319d36c1728a8e4cc6bb4a8ad12f4
+#EXTINF:-1 tvg-id="401.unifi" ch-number="401" tvg-logo="https://playtv.unifi.com.my:7218/CP...logo/202308/20230809/20230809082222536837.png" group-logo="" group-title="unifi",Asianfoodnetwork
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(asianfoodnetwork)/master.mpd
+
+
+
+
