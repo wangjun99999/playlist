@@ -967,44 +967,44 @@ https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1HDH265/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
 https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd
 
-#EXTINF:-1 group-title="SKY Sports" tvg-id="Sky.Sport.1.de" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SKY Event 1 🇩🇪
+#EXTINF:-1 group-title="SKY Sports" tvg-id="Sky.Sport.1.de" tvg-name="Sky Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SKY Event 1 🇩🇪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
 https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd
 
-#EXTINF:-1 group-title="SKY Sports" tvg-id="Sky.Sport.2.de" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SKY Event 2 🇩🇪
+#EXTINF:-1 group-title="SKY Sports" tvg-id="Sky.Sport.2.de" tvg-name="Sky Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SKY Event 2 🇩🇪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
 https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYLIVEEVENT2HD/default.mpd
 
-#EXTINF:-1 group-title="SKY Sports" tvg-id="Sky.Sport.3.de" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SKY Event 3 🇩🇪
+#EXTINF:-1 group-title="SKY Sports" tvg-id="Sky.Sport.3.de" tvg-name="Sky Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SKY Event 3 🇩🇪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
 https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT3HD/default.mpd
 
-#EXTINF:-1 group-title="SKY Sports" tvg-id="Sky.Sport.4.de" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SKY Event 4 🇩🇪
+#EXTINF:-1 group-title="SKY Sports" tvg-id="Sky.Sport.4.de" tvg-name="Sky Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SKY Event 4 🇩🇪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
 https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT4HD/default.mpd
 
-#EXTINF:-1 group-title="SKY Sports" tvg-id="Sky.Sport.5.de" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SKY Event 5 🇩🇪
+#EXTINF:-1 group-title="SKY Sports" tvg-id="Sky.Sport.5.de" tvg-name="Sky Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SKY Event 5 🇩🇪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKYLIVEEVENT5HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
-#EXTINF:-1 tvg-id="Sky.Sport.6.de" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Jonjoni123/logo/refs/heads/main/sky-sports.jpg" group-title="SKY Sports",SKY Evento 6 🇩🇪
+#EXTINF:-1 tvg-id="Sky.Sport.6.de" tvg-name="Sky Sport 6" tvg-logo="https://raw.githubusercontent.com/Jonjoni123/logo/refs/heads/main/sky-sports.jpg" group-title="SKY Sports",SKY Evento 6 🇩🇪
 https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT6HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
-#EXTINF:-1 tvg-id="Sky.Sport.7.de" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Jonjoni123/logo/refs/heads/main/sky-sports.jpg" group-title="SKY Sports",SKY Evento 7 🇩🇪
+#EXTINF:-1 tvg-id="Sky.Sport.7.de" tvg-name="Sky Sport 7" tvg-logo="https://raw.githubusercontent.com/Jonjoni123/logo/refs/heads/main/sky-sports.jpg" group-title="SKY Sports",SKY Evento 7 🇩🇪
 https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYLIVEEVENT7HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
-#EXTINF:-1 tvg-id="Sky.Sport.8.de" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Jonjoni123/logo/refs/heads/main/sky-sports.jpg" group-title="SKY Sports",SKY Evento 8 🇩🇪
+#EXTINF:-1 tvg-id="Sky.Sport.8.de" tvg-name="Sky Sport 8" tvg-logo="https://raw.githubusercontent.com/Jonjoni123/logo/refs/heads/main/sky-sports.jpg" group-title="SKY Sports",SKY Evento 8 🇩🇪
 https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
@@ -1490,17 +1490,56 @@ https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
 https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 #EXTINF:-1 tvg-id="PSN5.mn" tvg-name="PSN4" tvg-logo="https://s3.aynaott.com/storage/3c3b41f4c5f83f82011b90203c813508" group-title="Premier Sports Network",PSN 5 Sports 🇲🇳
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+#EXTINF:-1 tvg-id="PSN5.mn" tvg-name="PSN4" tvg-logo="https://s3.aynaott.com/storage/3c3b41f4c5f83f82011b90203c813508" group-title="Premier Sports Network",MNBSport 🇲🇳
+https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
+#EXTINF:-1 tvg-id="PSN5.mn" tvg-name="PSN4" tvg-logo="https://s3.aynaott.com/storage/3c3b41f4c5f83f82011b90203c813508" group-title="Premier Sports Network",Warner TV 🇲🇳
+https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Premier Sports Network",BBC News Asia Pacific 🇲🇳
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Premier Sports Network",Discovery Asia 🇲🇳
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Premier Sports Network",Lotus 🇲🇳
+https://cdn4.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Premier Sports Network",MOVIE BOX 🇲🇳
+https://cdn4.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Premier Sports Network",Cartoon Network 🇲🇳
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Premier Sports Network",Cartoonito 🇲🇳
+https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Premier Sports Network",Parlament 🇲🇳
+https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
 
 
 
+Vremya,https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
+MNB World,https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8
+NHK World Premium,https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+ZooMoo,https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
+PeretzInternational,https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+Central TV,https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8
+CBeebies,https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
+Ren TV International,https://ccdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+STS International,https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+DomashniyInternational,https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+CarouselInternational,https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+FridayInternational,https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+STSInternational,https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+TНТ4 International,https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+ТНТ International,https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+Eagle News,https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8
+Nei Monggol TV,https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
+Bloomberg,https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
+AsianBOX,https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
+C1,https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8
+Channel11,https://cdn4.skygo.mn/live/disk1/Channel11/HLSv3-FTA/Channel11.m3u8
+CinemaTV,https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
+DreamTV,https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
+ETV,https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8
+MalchinTV,https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8
+GlobalTV,https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8
+GTV,https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8
 
-
-
-
-
-
-
-
+SoyonGegeeruulegch,https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/HLSv3-FTA/SoyonGegeeruulegch.m3u8
 
 
 
@@ -1571,3 +1610,39 @@ https://ww.dooballfree.vip/live/sporttv4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://ww.dooballfree.vip/live/sporttv5/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="Sports",811 Premier League HD (( ⏳ Not 24H ))
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+https://live.aqfadtv.xyz/premierleague/index.mpd
+
+
+
+
+
+
+
+
+
+
