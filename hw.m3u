@@ -833,17 +833,17 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
 #EXTINF:-1 group-title="starzplayarabia" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/Abu%20Dhabi%20Sports%202.png",Abu Dhabi Sports 2 🇦🇪
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
-#EXTINF:-1 group-title="starzplayarabia" tvg-id="Abu.Dhabi.HD.ae" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/Abu%20Dhabi%20TV.png",Abu Dhabi TV 🇦🇪
+#EXTINF:-1 group-title="starzplayarabia" tvg-id="Abu.Dhabi.HD.ae" tvg-name="Abu Dhabi HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/Abu%20Dhabi%20TV.png",Abu Dhabi TV 🇦🇪
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8
-#EXTINF:-1 group-title="starzplayarabia" tvg-id="Emarat.HD.ae" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/Al%20Emarat%20TV.png",Al Emarat TV 🇦🇪
+#EXTINF:-1 group-title="starzplayarabia" tvg-id="Emarat.HD.ae" tvg-name="Emarat HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/Al%20Emarat%20TV.png",Al Emarat TV 🇦🇪
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
 #EXTINF:-1 group-title="starzplayarabia" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/Majid%20TV.png",Majid TV 🇦🇪
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
-#EXTINF:-1 group-title="starzplayarabia" tvg-id="Yas.TV.HD.ae" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/Yas%20TV.png",Yas TV 🇦🇪
+#EXTINF:-1 group-title="starzplayarabia" tvg-id="Yas.TV.HD.ae" tvg-name="Yas TV HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/Yas%20TV.png",Yas TV 🇦🇪
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/yas_1/yas_1_hls_nd/index.m3u8
-#EXTINF:-1 group-title="starzplayarabia" tvg-id="Baynounah.TV.HD.ae" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/Baynounah%20TV.png",Baynounah TV 🇦🇪
+#EXTINF:-1 group-title="starzplayarabia" tvg-id="Baynounah.TV.HD.ae" tvg-name="Baynounah TV HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/Baynounah%20TV.png",Baynounah TV 🇦🇪
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/baynounah/baynounah_hls_nd/index.m3u8
-#EXTINF:-1 group-title="starzplayarabia" tvg-id="Nat.Geo.Abu.Dhabi.HD.ae" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/National%20Geographic%20Abu%20Dhabi.png",National Geographic Abu Dhabi 🇦🇪
+#EXTINF:-1 group-title="starzplayarabia" tvg-id="Nat.Geo.Abu.Dhabi.HD.ae" tvg-name="Nat Geo Abu Dhabi HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/National%20Geographic%20Abu%20Dhabi.png",National Geographic Abu Dhabi 🇦🇪
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
 
 
