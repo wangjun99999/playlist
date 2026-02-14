@@ -1492,19 +1492,19 @@ https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 #EXTINF:-1 tvg-id="MNB.Sport.mn" tvg-name="MNB Sport" tvg-logo="" group-title="skygo",MNB Sport 🇲🇳
 https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",Warner TV 🇲🇳
+#EXTINF:-1 tvg-id="Warner.TV.HD.my" tvg-name="Warner TV HD" tvg-logo="" group-title="skygo",Warner TV 🇲🇳
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",BBC News Asia Pacific 🇲🇳
+#EXTINF:-1 tvg-id="BBC.News.hk" tvg-name="BBC News" tvg-logo="" group-title="skygo",BBC News Asia Pacific 🇲🇳
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",Discovery Asia 🇲🇳
+#EXTINF:-1 tvg-id="Discovery.Asia.hk" tvg-name="Discovery Asia" tvg-logo="" group-title="skygo",Discovery Asia 🇲🇳
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",Lotus 🇲🇳
+#EXTINF:-1 tvg-id="Lotusmacau.Prd.ph" tvg-name="Lotusmacau Prd" tvg-logo="" group-title="skygo",Lotus 🇲🇳
 https://cdn4.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="MovieBox.mn" tvg-name="MovieBox" tvg-logo="" group-title="skygo",MovieBox 🇲🇳
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",Cartoon Network 🇲🇳
+#EXTINF:-1 tvg-id="Cartoon.Network.(HD).sg" tvg-name="Cartoon Network (HD)" tvg-logo="" group-title="skygo",Cartoon Network 🇲🇳
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",Cartoonito 🇲🇳
+#EXTINF:-1 tvg-id="Cartoonito.(HD).sg" tvg-name="Cartoonito (HD)" tvg-logo="" group-title="skygo",Cartoonito 🇲🇳
 https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",Parlament 🇲🇳
 https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
@@ -1522,19 +1522,19 @@ https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
 https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
 #EXTINF:-1 tvg-id="ETV.HD.mn" tvg-name="ETV HD" tvg-logo="" group-title="skygo",ETV 🇲🇳
 https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",NHK World Premium 🇲🇳
+#EXTINF:-1 tvg-id="NHK.World.Premium.my" tvg-name="NHK World Premium" tvg-logo="" group-title="skygo",NHK World Premium 🇲🇳
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",ZooMoo 🇲🇳
+#EXTINF:-1 tvg-id="ZooMoo.us2" tvg-name="ZooMoo" tvg-logo="" group-title="skygo",ZooMoo 🇲🇳
 https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",SoyonGegeeruulegch 🇲🇳
 https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/HLSv3-FTA/SoyonGegeeruulegch.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",Vremya 🇲🇳
+#EXTINF:-1 tvg-id="Vremya.cz" tvg-name="Vremya" tvg-logo="" group-title="skygo",Vremya 🇲🇳
 https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",MNB World 🇲🇳
 https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",PeretzInternational 🇲🇳
 https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",CBeebies 🇲🇳
+#EXTINF:-1 tvg-id="CBeebies.(HD).sg" tvg-name="CBeebies (HD)" tvg-logo="" group-title="skygo",CBeebies 🇲🇳
 https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",Ren TV International 🇲🇳
 https://ccdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
@@ -1542,7 +1542,7 @@ https://ccdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",DomashniyInternational 🇲🇳
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",CarouselInternational 🇲🇳
+#EXTINF:-1 tvg-id="Carousel.cz" tvg-name="Carousel" tvg-logo="" group-title="skygo",CarouselInternational 🇲🇳
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",FridayInternational 🇲🇳
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
@@ -1560,7 +1560,7 @@ https://cdn4.skygo.mn/live/disk1/Channel11/HLSv3-FTA/Channel11.m3u8
 https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",GlobalTV 🇲🇳
 https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="skygo",GTV 🇲🇳
+#EXTINF:-1 tvg-id="GTV.ph" tvg-name="GTV" tvg-logo="" group-title="skygo",GTV 🇲🇳
 https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8
 
 
