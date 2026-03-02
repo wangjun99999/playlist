@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_SA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_SPORTKLUB1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BG1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_SA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_SPORTKLUB1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BG1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="影视频道",HBO
 #EXTVLCOPT:http-referrer=https://github.com/
@@ -463,37 +463,26 @@ https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/eurosport1spain.
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1711566136.png" group-title="体育频道",Eurosport 2 | Spain
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/eurosport2spain.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-espn1.png" group-title="体育频道",ESPN1
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-espn2.png" group-title="体育频道",ESPN2
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-espn3.png" group-title="体育频道",ESPN3
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-espn4.png" group-title="体育频道",ESPN4
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/au-fox501.png" group-title="体育频道",Fox Sport 501
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/au-fox501.png" group-title="体育频道",Fox Sports 501 🇦🇺
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport501.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/au-fox502.png" group-title="体育频道",Fox Sport 502
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/au-fox502.png" group-title="体育频道",Fox Sports 502 🇦🇺
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport502.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/au-fox503.png" group-title="体育频道",Fox Sport 503
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="FoxSports503" tvg-logo="https://api.bigwifegang.org/images/png/au-fox503.png" group-title="体育频道",Fox Sports 503 🇦🇺
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport503.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/au-fox504.png" group-title="体育频道",Fox Sport 504
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/au-fox504.png" group-title="体育频道",Fox Sports 504 🇦🇺
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport504.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/au-fox505.png" group-title="体育频道",Fox Sport 505
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="FoxSports505" tvg-logo="https://api.bigwifegang.org/images/png/au-fox505.png" group-title="体育频道",Fox Sports 505 🇦🇺
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport505.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/au-fox506.png" group-title="体育频道",Fox Sport 506
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="FoxSports506" tvg-logo="https://api.bigwifegang.org/images/png/au-fox506.png" group-title="体育频道",Fox Sports 506 🇦🇺
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport506.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/au-fox507.png" group-title="体育频道",Fox Sport 507
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/au-fox507.png" group-title="体育频道",Fox Sports 507 🇦🇺
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport507.m3u8
 
@@ -852,5 +841,18 @@ https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/ziggosport5.m3u8
 #EXTINF:-1 tvg-id="Ziggo.Sport.6.nl" tvg-name="Ziggo Sport 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/Ziggo%20Sport%206.png" group-title="体育频道",Ziggo Sport 6 🇳🇱
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/ziggosport6.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.1.nl" tvg-name="ESPN 1" tvg-logo="https://api.bigwifegang.org/images/png/nl-espn1.png" group-title="体育频道",ESPN1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn1.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.nl" tvg-name="ESPN 2" tvg-logo="https://api.bigwifegang.org/images/png/nl-espn2.png" group-title="体育频道",ESPN2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn2.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.nl" tvg-name="ESPN 3" tvg-logo="https://api.bigwifegang.org/images/png/nl-espn3.png" group-title="体育频道",ESPN3
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn3.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.nl" tvg-name="ESPN 4" tvg-logo="https://api.bigwifegang.org/images/png/nl-espn4.png" group-title="体育频道",ESPN4
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn4.m3u8
 
 
