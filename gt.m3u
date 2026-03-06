@@ -1,11 +1,7 @@
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV1.png" group-title="龍華",龍華電影
 http://cdn8.163189.xyz/163189/lhdy
-#EXTINF:-1 tvg-id="龍華洋片台" tvg-name="龍華洋片台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV2.png" group-title="龍華",龍華洋片
-http://cdn8.163189.xyz/163189/lhyp
 #EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV7.png" group-title="龍華",龍華經典
 http://cdn8.163189.xyz/163189/lhjd
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV8.png" group-title="龍華",龍華卡通
-http://cdn8.163189.xyz/163189/lhkt
 #EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV6.png" group-title="龍華",龍華偶像
 http://cdn8.163189.xyz/163189/lhox
 #EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV5.png" group-title="龍華",龍華日韩
@@ -13,9 +9,9 @@ http://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV4.png" group-title="龍華",龍華戲劇
 http://cdn8.163189.xyz/163189/lhxj
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="天映",天映频道(新加坡)
+#EXTINF:-1 tvg-id="天映频道新加坡" tvg-name=""天映频道新加坡 tvg-logo="" group-title="天映",天映频道(新加坡)
 https://cdn10.163189.xyz/stream/163189/typd/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="天映",天映经典
+#EXTINF:-1 tvg-id="天映经典新加坡" tvg-name="天映经典新加坡" tvg-logo="" group-title="天映",天映经典(新加坡)
 https://cdn10.163189.xyz/stream/163189/ccm/
 
 #EXTINF:-1 tvg-id="now財經" tvg-name="now財經" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%20%E8%B2%A1%E7%B6%93%E5%8F%B0.png" group-title="Now",Now 財經台
@@ -49,11 +45,11 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="spot on news" tvg-name="spot on news" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/spot%20on%20news.png" group-title="HOY",HOY740 Spot on news
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TDGHWR1Q2FLL5PEG33BE/hls3/now,-1m/m.m3u8
 
-#EXTINF:-1 tvg-id="368550" tvg-name="港台电视31" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK31.png" group-title="RTHK",RTHKTV 31
+#EXTINF:-1 tvg-id="香港電台31" tvg-name="香港電台31" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK31.png" group-title="RTHK",RTHKTV 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-id="368551" tvg-name="港台电视32" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK32.png" group-title="RTHK",RTHKTV 32
+#EXTINF:-1 tvg-id="香港電台32" tvg-name="香港電台32" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK32.png" group-title="RTHK",RTHKTV 32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 tvg-id="368552" tvg-name="港台电视33" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK33.png" group-title="RTHK",RTHKTV 33
+#EXTINF:-1 tvg-id="香港電台33" tvg-name="香港電台33" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK33.png" group-title="RTHK",RTHKTV 33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 #EXTINF:-1 tvg-id="368553" tvg-name="港台电视34" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK34.png" group-title="RTHK",RTHKTV 34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
@@ -63,8 +59,6 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 
 #EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%8A%9F%E5%A4%AB%E5%8F%B0.png" group-title="TVB",TVB功夫台
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%E6%98%9F%E6%B2%B3%E5%8F%B0.png" group-title="TVB",TVB星河台(多音轨字幕)
-https://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%E6%98%9F%E6%B2%B3%E5%8F%B0.png" group-title="TVB",TVB星河台(国语)
 https://cdn10.163189.xyz/stream/163189/xinghe/
 #EXTINF:-1 tvg-id="娛樂新聞台 (免費)" tvg-name="娛樂新聞台 (免費)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%A8%9B%E6%A8%82%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="TVB",娛樂新聞台
@@ -74,15 +68,15 @@ https://php.jdshipin.com:2096/TVOD/iptv.php?id=wxxw
 #EXTINF:-1 tvg-id="TVB生活台" tvg-name="TVB生活台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%E7%94%9F%E6%B4%BB%E5%8F%B0.png" group-title="TVB",TVB生活台
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbsh
 #EXTINF:-1 tvg-id="翡翠台 (免費)" tvg-name="翡翠台 (免費)" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png" group-title="TVB",翡翠台4K(多音轨字幕)
-https://o11.163189.xyz/stream/tvb/fct4k/
+https://cdn6.163189.xyz/163189/fct4k
 #EXTINF:-1 tvg-id="翡翠台 (免費)" tvg-name="翡翠台 (免費)" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png" group-title="TVB",翡翠台(字幕)
-http://mytv.cdn.loc.cc/o12.php?id=fct
+https://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-id="TVB翡翠劇集臺(TVB Drama)" tvg-name="TVB翡翠劇集臺(TVB Drama)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20Drama.png" group-title="TVB",TVB Drama 翡翠劇集台
 https://6.cdn.loc.cc/163189.php?id=tvbd
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%8D%83%E7%A6%A7%E7%B6%93%E5%85%B8%E5%8F%B0.png" group-title="TVB",千禧經典台
-https://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 tvg-id="明珠台 (免費)" tvg-name="明珠台 (免費)" tvg-logo="https://epg-1.iill.top/logo/明珠台.png" group-title="TVB",明珠台(多音轨字幕)
-https://o11.163189.xyz/stream/tvb/mzt/
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 tvg-id="明珠台 (免費)" tvg-name="明珠台 (免費)" tvg-logo="https://epg-1.iill.top/logo/明珠台.png" group-title="TVB",明珠台(字幕)
+https://mytv.cdn.loc.cc/o12.php?id=mzt
 #EXTINF:-1 tvg-id="TVB翡翠綜合臺(TVBJ1)" tvg-name="TVB翡翠綜合臺(TVBJ1)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20J1.png" group-title="TVB",TVB J1 翡翠綜合台
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-id="TVB Plus (免費)" tvg-name="TVB Plus (免費)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20Plus.png" group-title="TVB",TVB Plus(多音轨字幕)
@@ -90,12 +84,12 @@ https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="翡翠一臺(TVB1)" tvg-name="翡翠一臺(TVB1)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%201.png" group-title="TVB",TVB1 翡翠一臺
 https://6.cdn.loc.cc/163189.php?id=tvb1
 #EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" group-title="TVB",TVB1 华丽翡翠台(硬字幕)
-http://cdn6.163189.xyz/163189/jade
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=huali
 
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ViuTV.png" group-title="Viu",ViuTV
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=viutv2
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ViuTV.png" group-title="Viu",ViuTV
-https://php.jdshipin.com:2096/stream/163189/viu/
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 tvg-id="viu6" tvg-name="viu6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ViuTV96.png" group-title="Viu",ViuTVSix
 https://php.jdshipin.com:2096/smt.php?id=viusix_twn
 #EXTINF:-1 tvg-id="viu6" tvg-name="viu6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ViuTV96.png" group-title="Viu",ViuTVSix
@@ -110,15 +104,15 @@ https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk
 
 
 #EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="https://epg-1.iill.top/logo/澳门Macau.png" group-title="澳門",澳門Macau
-https://cdn6.163189.xyz/163189/as
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=as
 #EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://epg-1.iill.top/logo/澳视澳门.png" group-title="澳門",澳視澳門
-https://cdn6.163189.xyz/163189/asam
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=asam
 #EXTINF:-1 tvg-id="澳門葡萄牙" tvg-name="澳門葡萄牙" tvg-logo="https://epg-1.iill.top/logo/澳视葡文.png" group-title="澳門",澳門葡文
 https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳門資訊" tvg-name="澳門資訊" tvg-logo="https://epg-1.iill.top/logo/澳门资讯.png" group-title="澳門",澳門資訊
 https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-logo="https://epg-1.iill.top/logo/澳门体育.png" group-title="澳門",澳門體育
-https://cdn6.163189.xyz/163189/amty
+http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-logo="https://epg-1.iill.top/logo/澳门综艺.png" group-title="澳門",澳門綜藝
 http://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MO/%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1.png" group-title="澳門",澳門蓮花
