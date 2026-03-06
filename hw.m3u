@@ -373,8 +373,13 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7
 
 #EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.2.es" tvg-name="LALIGA TV HYPERMOTION 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20TV%20Hypermotion.png" group-title="Cable TV",Dazn Laliga Hypermotion 2 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29cd88140a812a06a8b7545c258235c9:e7cac95c5c591af733ab6e13892abc81
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tdk3bssrpb/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.3.es" tvg-name="LALIGA TV HYPERMOTION 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20TV%20Hypermotion.png" group-title="Cable TV",Dazn Laliga Hypermotion 3 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
 #EXTINF:-1 tvg-id="FOX.SPORTS.mx" tvg-name="FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%20Sports.png" group-title="Cable TV",Fox Sports 🇲🇽
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
