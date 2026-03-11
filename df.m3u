@@ -1,16 +1,16 @@
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="东方卫视",东方卫视[官方 16M 2160P HEVC AC3 5.1 音视频分离]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="东方卫视",东方卫视[官方 16M 2160P HEVC AC3 5.1 音视频分离]
 http://bp-live4ktc.bestv.cn/live/dfws4k.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="东方卫视",东方卫视[16M 2160P HEVC AC3 5.1]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="东方卫视",东方卫视[16M 2160P HEVC AC3 5.1]
 http://bp-live4ktc.bestv.cn/live/dfws4k_4k265p.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="东方卫视",东方卫视[16M 2160P H264 AC3 5.1]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="东方卫视",东方卫视[16M 2160P H264 AC3 5.1]
 http://bp-live4ktc.bestv.cn/264ts/dfws4k264.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="东方卫视",东方卫视[16M 1080P H264 AC3 5.1]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="东方卫视",东方卫视[16M 1080P H264 AC3 5.1]
 http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="东方卫视",东方卫视[ 8M 2160P H264 AAC 5.1]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="东方卫视",东方卫视[ 8M 2160P H264 AAC 5.1]
 http://bp-live4ktc.bestv.cn/264ts/dfws4k264_4k264pts.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="东方卫视",东方卫视[ 8M 1080P H264 AAC 5.1]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="东方卫视",东方卫视[ 8M 1080P H264 AAC 5.1]
 http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264_4k1080p.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="东方卫视",东方卫视[16M 1080P HEVC AAC 5.1 音视频分离]
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="东方卫视",东方卫视[16M 1080P HEVC AAC 5.1 音视频分离]
 http://bp-live4ktc.bestv.cn/ch/dfws4k1080p.m3u8
 
 
@@ -56,7 +56,7 @@ http://192.168.2.98:5678/BJ.php?id=jskj
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/Beijing8.png" group-title="北京频道",北京卡酷少儿
 http://192.168.2.98:5678/BJ.php?id=kkse
 
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="湖南频道",湖南卫视4K
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="湖南频道",湖南卫视4K
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/浙江卫视4K.png" group-title="浙江频道",浙江卫视4K
