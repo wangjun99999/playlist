@@ -238,20 +238,150 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
+#EXTINF:-1 tvg-id="Arena.Sport.1.cz" tvg-name="Arena Sport 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Arena%20Sport%201.png" group-title="Czech",Arena Sport 1 🇨🇿
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-id="Arena.Sport.2.cz" tvg-name="Arena Sport 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Arena%20Sport%202.png"group-title="Czech",Arena Sport 2 🇨🇿
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="Czech",JOJ Sport 🇨🇿
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="Czech",JOJ Cinema 🇨🇿
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_joj_cinema/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="Czech",Disney Channel 🇨🇿
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_disney_channel/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="Czech",Disney JR 🇨🇿
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="Czech",Nickelodeon 🇨🇿
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_nickelodeon/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="Czech",Nick JR 🇨🇿
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_nick_jr/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="Czech",JimJam 🇨🇿
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_jimjam/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="Czech",CT Sport 🇨🇿
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 
+#EXTINF:-1 tvg-id="Erox.HD.sk" tvg-name="Erox HD" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/erox-hd.png" video-track="1024x576" group-title="Czech",Erox
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_erox/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-id="Eroxxx.HD.sk" tvg-name="Eroxxx HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/eroxxx.png" video-track="1024x576" group-title="Czech",Eroxxx
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_eroxxx/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-id="Dorcel.TV.cz" tvg-name="Dorcel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/1280px-Dorcel_TV.svg.png" video-track="1024x576" group-title="Czech",Dorcel
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_dorcel/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-id="Dorcel.XXX.cz" tvg-name="Dorcel XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo-Dorcelxxx.png/800px-Logo-Dorcelxxx.png" video-track="1024x576" group-title="Czech",Dorcel XXX
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_dorcel_xxx/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-id="Brazzers.TV.Europe.sk" tvg-name="Brazzers TV Europe" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/1/18/Brazzers_TV_%282014-.n.v.%29.png" video-track="1024x576" group-title="Czech",Brazzers TV Europe
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_brazzers_europe/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="True.Amateurs.HD.sk" tvg-name="True Amateurs HD" tvg-logo="https://i.imgur.com/MbXypW8.jpeg" video-track="1024x576" group-title="Czech",True Amateurs
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_true_amateurs/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="LEO.TV.sk" tvg-name="Leo TV" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/leo-tv.png" video-track="1024x576" group-title="Czech",Leo TV
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_leo_tv/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Leo.TV.Gold.HD.sk" tvg-name="Loe TV Gold" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/03/leo-tv-gold.png" video-track="1024x576" group-title="Czech",Leo TV Gold
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_leo_gold/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Extasy.cz" tvg-name="Extasy" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/extasy.png" video-track="1024x576" group-title="Czech",Extasy
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_extasy/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Dusk.TV.sk" tvg-name="Dusk TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dusk_TV.svg/1280px-Dusk_TV.svg.png" video-track="1024x576" group-title="Czech",Dusk TV
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_dusk/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Babes.TV.cz" tvg-name="Babes TV" tvg-logo="https://www.poda.cz/wp-content/uploads/2024/04/babes-tv-2024.png" video-track="1024x576" group-title="Czech",Babes TV
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Pure.Babes.hr" tvg-name="Pure Babes" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/babes-pure-tv.png" video-track="1024x576" group-title="Czech",Pure Babes
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_pure_babes/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Desire.TV.cz" tvg-name="Desire TV" tvg-logo="https://adult-tv-channels.click/assets/images/desire-tv.png" video-track="1024x576" group-title="Czech",Desire TV
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_desire/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Bang.U.hr" tvg-name="Bang U" tvg-logo="https://www.supernovabih.ba/wp-content/uploads/2022/07/TV_bang-u.png" video-track="1024x576" group-title="Czech",Bang U
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_bang_u/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/passionxxx.png" video-track="1024x576" group-title="Czech",Passion XXX
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_passion_xxx/playlist_cbcs.mpd
 
 
 
@@ -643,6 +773,82 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/
 
 
 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/xjuw11dfold3/7D9R6Lt76cBTPyRRpV9eit/64aba6ff966a6b286cbadd55aaf2d0ab/BBC-client-logo-256x256.png" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", BBC Treasures
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f94bae425abea0ccacec08b2e72b7d07:8eea02108392c61aa79663bc064fc600
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aczgdiuxsu/out/v1/31374ef324ce4bd2bd278b78f4a97d60/cenc.mpd?encoding=segmentBase
+
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.VQ2RmdAc6P8YH0t2oQ46CAAAAA?pid=Api&P=0&h=220" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", PBS Travel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a37ce8d3160b036da8fd40ccf583ac41:0b82dcfa0995bbc6f382a3d8ef066ab9
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mxbsynqple/out/v1/5d9a60deddcd460d8eb8d685dfe5e148/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.NWvjf8zFNnoeOkK2Iq0HcgAAAA?pid=Api&P=0&h=220" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", How To
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6faaa019c4750430494f30858cd0174d:fff6edbf610f765d2deed97572ffaae4
+https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/1jfeesd7iv/out/v1/90757ad6933344b78ea6da676a8b8c97/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.PMArrX9lhtWOJctkwV4GuQAAAA?pid=Api&P=0&h=220" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Nat Geo Sharks
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7800bfe7a7b4f5c983c9dc3c500b0357:2be6d286bb03f70e43e4019f9d7c1d34
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.qpCRZnwwrLMKXibj7ArtIAAAAA?pid=Api&P=0&h=220" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Curiosity Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9a561b6adad89952415120e7061782d:09ac42a44dfc17aa31c160052bb1834c
+https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/out/v1/40523cc41143492b9995faf2d6f97ab6/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.ocBX400A_5VZxBpuQWEHxgAAAA?pid=Api&P=0&h=220" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Dinos 24/7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c0a1b444fe06383801eb7e6c3d42c5b:49020a53f5703243d2c25dc090e83faf
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/x3nmcouwjh/out/v1/1afd49d8a5a4498680e97b0206006811/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.GbxpueTR7vz3Tu6UOZfLjgAAAA?pid=Api&P=0&h=220" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", PBS Genealogy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a1319db5711198dbbcef15051cd7ed4:fa19bbf85c39454ae1fe1044d9499e39
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3qnbo1nztd/out/v1/2d032a09cb444d2b9fab58faf40db397/cenc.mpd?encoding=segmentBase
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.U-Tx-Twz2OYq7L7SAk4qywAAAA?pid=Api&P=0&h=220" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", EarthDay 365
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e4f091aa3f162f2b37bb9bfc22d67e2:868caee53170b0b75804f4463ecd80d5
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6ovm8kpzl0/out/v1/2c07bb80f1c241b3828ce427530e9741/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.KVERGecu761hdl7s9t2AywAAAA?pid=Api&P=0&h=220" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Mysterious World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d264da818cdcc2b79aed140c7513d30:f72e7aee419cfb474ee38ba664c5edef
+https://a51aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/9w8aklof7x/out/v1/9d30f39ba2464bb4a764e337ba0f03ad/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.CG90vXqsmAY7SdAXE2cgOQAAAA?pid=Api&P=0&h=220" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Love Nature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cec4c3c055a7f7e496cbe3abe06ae7c3:6b96bdc30b53ae19d40b4e17c66e5afd
+https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.wE5Xvtmbix9SPeBu8ruVPwAAAA?pid=Api&P=0&h=220" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Combat War Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f61f911fcd0a2eb37ce0b1d9629dc56:dd6abd1f533209d1bbcf50a61ec23cc2
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/il20sicd8s/out/v1/d2bfb9b1f48a4929a61507d03620a681/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.kXZK_T3DwtdNyrdwn2E0yQAAAA?pid=Api&P=0&h=220" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84bb2e1d9e7d6eecf3983ad25612f171:effff701c5df21107721deb4a4e3dae0
+https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/jepxe7swiw/out/v1/83d03bb3d80d428789975e8adfae61d1/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.EB1PZ3NAw2zwsdHoL-fS0AAAAA?pid=Api&P=0&h=180" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", HBO 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fafc24484004893326a8354fe889767:01a4a713abdc5803f4816831ee27906f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xrs2ntety1/out/v1/31355dd2ffc64c9dae72ac6fc37dde5a/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.XAB9wuV5L_ooxDRwf8vIpwAAAA?pid=Api&P=0&h=180" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", HBO 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8c6a262b77b153530a6caaf2e07944a:81071cf5808c0387adab93d8ff9b1f09
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
+
+
+
 
 
 
@@ -699,6 +905,584 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ftwsljN.png" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", A2Z
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f6d8a2c1b7e4c9f8d52a7e1b0c6f93d:4019f9269b9054a2b9e257b114ebbaf2
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.vu199B6XGbsAbx5IX3spLgAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", ABCAUSTRALIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6f1a8c29b7e4d5a8f332c1e9d7b6a90:790bd17b9e623e832003a993a2de1d87
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/abc_aus/default/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.AHBMYnkzfdMli7C4UBPWvgAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", ALJAZEERA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f3d900a04d84492b31fe9f79ac614e3:d33ff14f50beac42969385583294b8f2
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_aljazeera/default/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.FCghjtCMWzXtll4NNYt3WAAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", ANIMALPLANET
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c9f7a6d3b2e4e5d8a61f4d0c2b9e813:b8f52451c67a2b54f272543eef45b621
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.J1SwxsPso36fe3EmtoRaEgAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", ANIMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e7b9d2c6a4f4d8c9f33b5c1a8d7e260:67336c0c5b24fb4b8caac248dad3c55d
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.KZ3tgHOorJlMOmNntj5IRwAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", ARIRANG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/arirang_sd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.lULAZb8aP1YfkoWif7oTUQAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", ASIANFOODNETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.yqzg050CpQbS9134r8LwrAAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a6c2f1e9d7b4c5aa1f04d2b7e9c1f88:05e6bfa4b6805c46b772f35326b26b36
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.XWlCZ_kD-en3qMTMLO4m1wAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", BBCEARTH HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.cPE52TjPCjeHR-aqXAmn9wAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", BBCWORLDNEWS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f59650be475e4c34a844d4e2062f71f3:119639e849ddee96c4cec2f2b6b09b40
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/bbcworld_news_sd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.T4dPNR1YnB1rS86PVrIUSwAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", BILYONARYO CH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.Lkl7TT-UaTDR3vx-VSq8OAAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", BLOOMBERG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b8e6d1f2c9a4f7d9a556c1e7b2d8f90:09f0bd803966c4befbd239cfa75efe23
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bloomberg_sd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.7khTSYEBEyQSzhEVZCHlRQAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", BLUEANTEXTREME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d2a6f1c9b7e4c3da5f01e7b9c6d2f44:23841651ebf49fa03fdfcd7b43337f87
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockextreme/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.rtRHS4R1d-9r91BnrsWN7gAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", CARTOONNET HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1BVTrB47erypG3tevi1U9Fv6BbNUBEiuiX:cdd48fa884dc0c3a3f85aeebca13d444
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.TI_tBQJ07ZljhTXlItVQ3QAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", CELESTIALMOVIEPINOY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f8537d8412b11edb8780242ac120002:2ffd7230416150fd5196fd7ea71c36f3
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/celmovie_pinoy_sd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.0xKjwb1IMfHWzKOAHPpbRgAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", CGTNENGLISH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f854ee4412b11edb8780242ac120002:9f2c82a74e727deadbda389e18798d55
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgtn/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.Ln3eZH1pkrLraHYeFj-Q1wAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", CHANNELNEWSASIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b259df9987364dd3b778aa5d42cb9acd:753e3dba96ab467e468269e7e33fb813
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/channelnewsasia/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.F8kjJTY4Qls52rRH2CMeWgAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", CINEMAX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.b6BCpdmzrHBjLNUr0hvsggAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", CNN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.2EhJKEuTX2JuFeyqIQtrxQAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", CRIMEINVESTIGATION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21BVTrB47erypG3tevi1U9Fv6BbNUBEiuiX:db6bb638ccdfc1ad1a3e98d728486801
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.3q7lGfl9-vFqj48bi5o10QAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", DEPEDCHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/depedch_sd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.mh3AnywtZzH6LXsK36x3FQAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", DISCOVERY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/discovery/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.OcDBrVE4M_l8Ok4kDc7nSAAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", DREAMWORKS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b1e9c4d5a2f4d8c9f106d3a8b2c1e77:8b2904224c6cee13d2d4e06c0a3b2887
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.OcDBrVE4M_l8Ok4kDc7nSAAAAA?pid=Api&P=0&h=220"group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", DREAMWORKS TAGALIZED
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.XS6CuFWNyDhGLzl9z3odUQAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", FASHIONTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d7c1f2a6b4e4a8d8f33c1e5b7d2a960:3a18c535c52db7c79823f59036a9d195
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/fashiontvhd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.suDpKuzOoKuepQKds2EUXAAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", FOODNETWORK HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a9d2f7c1e6b4c8d8a55d7b1e3f0c926:2e62531bdb450480a18197b14f4ebc77
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.JBIOlX0YhdKJr_EEM_1eAwAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", FRANCE24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=257f9fdeb39d41bdb226c2ae1fbdaeb6:e80ead0f4f9d6038ab34f332713ceaa5
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/france24/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.4RO75t9J3rZtYShSQKsAmgAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", GLOBALTREKKER
+#KODIPROP:inputstream.adaptive.license_type=clear key
+#KODIPROP:inputstream.adaptive.license_key=b7a6c5d23f1e4a9d8c721e5d9f4a6b13:63ca9ad0d88fccb8c667b028f47287ba
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/globaltrekker/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.lzKh8kOWnzzhbbelbxkKOQAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", HBO FAMILY HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.i4KrlkFIyyOAKde4bgdAugAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2b7a1e95d4f4c3a8e617f9d0a2b6c18:27fca1ab042998b0c2f058b0764d7ed4
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.S8_RYU37EWSJaBQDfLJM5gAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", HBO HITS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.AwxZ8ilAC--G-Tr8_YjtOQAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", HBO SIGNATURE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.VwmdTU1dCqH05cgMR1IjqQAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", HGTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1e8c2d97a3b4f5d8c669d1a2b7e4c30:03aaa7dcf893e6b934aeb3c46f9df5b9
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.st29WJKwK3nQtVXyyK5l-wAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", HISTORY HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a8c7d15b9f4d6a9c101f7e3b2d8a44:397ca914a73b1e00bc94ed9eccf9c258
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.fOdy2v06DnimaMzrhtytvgAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", HITS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d2f8a1c9b5e4c7da1f03e7b9d6c2a55:37c9835795779f8d848a6119d3270c69
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.8Q6RBi04FI8OaIOF6J-fCQAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", HITSMOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c8a5f1e7b9d4c6a9e55f1d7b2a8c360:c9f622dff27e9e1c1f78617ba3b81a62
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_hitsmovies/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP._VxAjZMLZzkk2MLhKp-Z9QAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", HITSNOW	
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c3d6b18a2e4d7f9e453b1a8c6d2f70:ce8874347ec428c624558dcdc3575dd4
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.lSiUhbP55zxUZTghuyKVFAAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", IBC13	
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16ecd238c0394592b8d3559c06b1faf5:05b47ae3be1368912ebe28f87480fc84
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/ibc13_sd_new/default1/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.x7CI4tFzctTy72qiW2KxbwAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", KAPATID HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=045d103180f64562b1db7c932741c3ba:c3380548b9075c767a6ae2006ef4bff8
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kapatid_hd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.rZ-YUZD-IzC_SvlTNKQfBgAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", KBSWORLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.FnJVF3l6urwvvjqAbDvaCwAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", KIX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9d4b7a18e2f4d6c9a103f5b7e1c2d88:7f3139092bf87d8aa51ee40e6294d376
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.4K_L6B6UtbykVRdkmjJ4wQAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", KNOWLEDGECHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7d2b1e94f8a4d6c8a106b3d1f9c2e55:2052f6b844aa53144bb32f0e41295106
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/knowledge_channel/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.LSLDJUVPgJLA624v3e_EnwAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", LIFETIME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.lwbjCqFf12uzgFaTaNM7uAAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", LOTUSMACAU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a7c2d1f4e8b4a6d8f301b5c9e7d2a44:ca88469cabc18aa33d1f2e46a6efb4f7
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.3ldjk2oseYmyoh1x8uOVUQAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", MOONBUGKIDS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.ZWPrfF7JibFbZk5sFwrirgAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", NBA TV PHILIPPINES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1f8a0c97b3d4e529a6f2c4b8d7e1f90:58ab331d14b66bf31aca4284e0a3e536
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.I9qy4f2zS7s0Nch-gzJiWgAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", NBN4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.yimneuzNOIOhvXHexF43DwAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", NHKJAPAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d6e9d4de7d7449aadd846b7a684e564:0800fff80980f47f7ac6bc60b361b0cf
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nhk_japan/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.0f0ufRYTUwt2FZfg3quOZwAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", NICKELODEON
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickelodeon/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.bEAyjHYMocgyXeB1RDDN7gAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", NICKJR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bab5c1BVTrB47erypG3tevi1U9Fv6BbNUBEiuiX:0ac679aad3b9d619ac39ad634ec76bc8
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickjr/default/index.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.OQV1ojllbctHkIEahjYjJgAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", ONENEWS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e6a9d7c1f4b4c8a8d33c7b1f0a5e924:4c71e178d090332fbfe72e023b59f6d2
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.jTbCONVufqWc2jH6QYAJFAAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", ONEPH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1c7e9d24f8a4d6c9e337a2f1c5b8d60:8ff2e524cc1e028f2a4d4925e860c796
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.3vemTo7fYKMOggIPdLMZLAAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", ONESPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.3vemTo7fYKMOggIPdLMZLAAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", ONESPORTSPLUS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f00bd0122a8a4da1a49ea6c49f7098ad:a4079f3667ba4c2bcfdeb13e45a6e9c6
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.qfD648AQ5yA_8IR7WonKYQAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", PBARUSH HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7f1a9c36b2e4f8d9a441c5e7b2d8f60:fb83c86f600ab945e7e9afed8376eb1e
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.0Rw8bhz8AeYYd_yd_cOV6gAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", PBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31BVTrB47erypG3tevi1U9Fv6BbNUBEiuiX
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pbo_sd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.tfoYiSkmnVPIS7TEjoCT2wAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", PREMIERSPORTS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8b595299fdf41c1a3481fddeb0b55e4:cd2b4ad0eb286239a4a022e6ca5fd007
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.ybdFK1oKzQmNs6M2jWUOygAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", PREMIERTENNIS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/premiersports2hd/default/index.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.WX0sZSxXmAl7FXs5aRykFwAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", ROCKENTERTAINMENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8b2d6f14c9e4d7a8f552c1e9b7d6a30:b61BVTrB47erypG3tevi1U9Fv6BbNUBEiuiX
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.B34GCckDFRGYb6pJg3qtywAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", RPTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.dCaRks-6Yog-UqsF1G1hswAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", SARISARI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.mj3ElEWPie4PqZtM6SItZAAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", SPOTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.soErAGys0QT9G1w-Q0vGhQAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", SPOTVHD2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.Y_Em7_1LKMjDaK84Nvur3wAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", TAGALOG MOVIE CHANNEL TMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96701BVTrB47erypG3tevi1U9Fv6BbNUBEiuiX:ca2931211c1a261f082a3a2c4fd9f91b
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.O78k1z7FUSUujumr7DuYlwAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", TAPMOVIES HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.ha4Iy1fkVB3xf15Aj7FIHgAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", TAPSPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e7c1b9a2d8f4a6c9f30b1d6e2a8c744:6178d9d177689eec5028e2dd608ae7b6
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index.mpd		
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.WL9slwag8YwS9PAy1eUPSQAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", THRILL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_thrill_sd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.40yKLGcukZl3dGV8wMJcEgAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", TRAVELCHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.qJfE0D-pXuPHjBcE5d1t8AAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", TRUEFMTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4e2b9d61c754f3a8d109b6c2f1e7a55:1d8d975f0bc2ed90eda138bd31f173f4
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.S3iQx5GNJyIQV_xXACvEagAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", TV5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.aSwOZj7Zb0eDTQ9UqeZhcAAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", TV5MONDE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.5ofa4rS5GyvjhCF-vbhy0QAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", TVMARIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa3998b9a4de40659725ebc5151250d6:998f1294b122bbf1a96c1ddc0cbb229f
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvmaria_prd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.ovVT78O1G3UCVHiQ9Mj5aQAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", TVN MOVIES PINOY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.24Wke1zWocVv2Vwqg_tB_QAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", TVN PREMIUM HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mpd		
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.Umfb5iH7d1H4YKNK_Y4fKQAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", UAAPVARSITY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.1ZO_ntW2rTGulfPQOQ77NgAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", VIVA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.b4b_5CNoztfA9SwUKb9hhwAAAA?pid=Api&P=0&h=220"  group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", WARNERTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f2a9c6d1e5b4c8a8d10a2b7e1c9f344:ae3d135d5ddd9e8f3a7bbfbfae0e40d1
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_warnerhd/default/index.mpd	
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.xqsuGtdJ0D1U96iSKYIEYwAAAA?pid=Api&P=0&h=220" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMUQDgwqVE-6aMBLYLbQv6i5N5y7bC5SajqSjHPzt8UJUqbZ8a_aem_bwCjbjg5M0372sYj8YRTjg", WIL TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1773d6f982242cdb0f694546a3db26f:ae9a90dbea78f564eb98fe817909ec9a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.vu199B6XGbsAbx5IX3spLgAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", ABC AUSTRALIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a09a73ec1dc348584e2f130e27da667:06f8d1a6feaffbdab92adf347e7b469c
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd		
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.EZ20qKaAGh4_ibvraV8n_QAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", ANIMAL PLANET
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.yqzg050CpQbS9134r8LwrAAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.HB2M__RHAmn1YWQujxoazAAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", BBC EARTH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5014941a2c42379880b5edf72304c165:f3fa0fe3cd39a52f4eefd36ff7161e89
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.QHqPenlpVkwUCg5MtJpskQAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", BBC LIFESTYLE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58b949986ed13294bc01b0f330abc527:23e8c5f2fe202906ac2d6554d9527299
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.Yg-0Dxhh52xH6vKYyC8UzAAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", BBC NEWS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7ba46086dda345a929e29bf155e459c:d374b8f39904bf572689ea347ae86591
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.aYC89tiU0XfvHnJ7FrzpwwAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", BLOOMBERG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1071393f8fc237f3a9a28028142110f7:7a0f8c3c72e0ffff811d534c929c57c2
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.QPHOcpzvWeu5uQKuIr1NnAAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c20166660a93a75ac77db81567389f7:3cc1add43aecce3fe31c9c6a2a5b8c21
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.GGAcRM1C4WATNn-ehn7qMwAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", CBEEBIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cca73a006b4b39a595207ceb5ed9ca0a:b833d1f40c261ef78896f97e06f80cdc
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.eD5_LYU-QVQhmxO9XGcl2gAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", CINEMA WORLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee7915564d7439d09bd3556ffccc87a4:b35e12a75a42a6f9184723a90ff42d9c
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.u9Kt2HeAwhGUDAeHHxYCLAAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=acb4c23471063327adc732e283c0847f:e9868f5f473d0fd8699ede48d531c2b0
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.frXQ_bTI09m6kaBfMyDGywAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", CNN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=714cc8ed05a03abb9ac61bd4bbd1d8a0:1acf58ff8d4cd87c2d3c12d22248efb1
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.GYmDMLTl5YuXJmqJalQSdgAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", DREAMWORKS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67dae20527c63dadaaae609aa91577cb:59328f621d56767bc5ff9404a8940683
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.XS6CuFWNyDhGLzl9z3odUQAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", FASHION TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.7Pk70J6YuMMUMI8D9LKByQAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd	
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.bMK6rpjazBOVzpA7i255xwAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", TLC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
+		
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.x0fKxUaz2qbNsMb9e55WKwAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", VTV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/vtv1.smil/manifest.mpd
+		
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.MCZNLYDaikW8FXMulqERjQAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="MyTV", WARNER TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=086d09a40bff3a00aa6dd4dbaf9c13b2:34f1908cfe2e05ee060046d40f14aec9
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+
+
+
 
 
 
