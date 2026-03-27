@@ -1,4 +1,4 @@
-赛事咪咕,#genre#
+赛事咪咕1,#genre#
 赛事至臻视界,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015686&/PLTV/&$32M UHD 
 赛事咪咕播4K,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000005180&/PLTV/&$32M UHD 
 赛事咪咕播01,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000005308&/PLTV/&$8M FHD
@@ -38,3 +38,42 @@
 赛事咪咕播35,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011520&/PLTV/&$8M FHD 
 赛事咪咕播36,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011521&/PLTV/&$8M FHD 
 赛事咪咕播37,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011522&/PLTV/&$8M FHD 
+
+赛事咪咕2,#genre#
+至臻视界,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000015686
+咪视界4K,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000005180
+咪视界 1,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000005308
+咪视界 2,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000005969
+咪视界 3,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000007218
+咪视界 4,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000008001
+咪视界 5,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000008176
+咪视界 6,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000008379
+咪视界 7,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000010129
+咪视界 8,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000010948
+咪视界 9,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000028638
+咪视界 10,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000031494
+咪视界 11,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000000097
+咪视界 12,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000002019
+咪视界 13,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000002809
+咪视界 14,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000003915
+咪视界 15,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000004193
+咪视界 16,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000005837
+咪视界 17,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000006077
+咪视界 18,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000006658
+咪视界 19,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000009788
+咪视界 20,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000010833
+咪视界 21,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000011297
+咪视界 22,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000011518
+咪视界 23,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000012558
+咪视界 24,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000012616
+咪视界 26,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000015560
+咪视界 28,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000019839
+咪视界 29,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000021904
+咪视界 30,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000023434
+咪视界 31,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000025380
+咪视界 33,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000031669
+咪视界 34,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011518
+咪视界 35,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011519
+咪视界 36,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011520
+咪视界 37,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000027691
+咪视界 38,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011522
