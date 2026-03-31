@@ -2423,7 +2423,7 @@ http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&
 #KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
-#EXTINF:-1 tvg-name="体育电视 3" tvg-id="体育电视 3" tvg-chno="22" tvg-logo=" https://3038.images-vfp2.ott.kaltur...id/9966cfdee0a04619b2be74ecf4119e25/version/0 “group-title =“葡萄牙”，SportTV 3
+#EXTINF:-1 tvg-name="体育电视 3" tvg-id="体育电视 3" tvg-chno="22" tvg-logo=" https://3038.images-vfp2.ott.kaltur...id/9966cfdee0a04619b2be74ecf4119e25/version/0 group-title="葡萄牙"，SportTV 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
@@ -2523,16 +2523,6 @@ https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3
 
 
 
-
-
-#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://epg.iill.top/logo/三立綜合台.png" http-user-agent="okhttp/1.9.89" group-title="🏖️四季歡樂",三立綜合「4gTV」
-http://tv123.vvvv.ee/live.php/?ch=cde467a5245
-#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://epg.iill.top/logo/ROCK-Action.png" http-user-agent="okhttp/1.9.89" group-title="🏖️四季歡樂",ROCK Action「4gTV」
-http://tv123.vvvv.ee/live.php/?ch=73705cc8281
-#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://epg.iill.top/logo/ROCK-Entertainment.png" http-user-agent="okhttp/1.9.89" group-title="🏖️四季歡樂",ROCK Entertainment「4gTV」
-http://tv123.vvvv.ee/live.php/?ch=74d2853a282
-#EXTINF:-1 tvg-id="ROCK Xstream搖滾極限頻道" tvg-name="ROCK Xstream搖滾極限頻道" tvg-logo="https://epg.iill.top/logo/ROCK-Xstream.png" http-user-agent="okhttp/1.9.89" group-title="🏖️四季歡樂",ROCK Xstream「4gTV」
-http://tv123.vvvv.ee/live.php/?ch=0eb5b1fd283
 
 
 
