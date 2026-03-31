@@ -2528,5 +2528,176 @@ https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3
 
 
 
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="HongKong",HBO
+https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
+#EXTINF:-1 tvg-name="Now 爆谷台" tvg-logo="https://live.fanmingming.com/tv/Now 爆谷台.png" group-title="HongKong",Now爆谷台
+https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
+#EXTINF:-1 tvg-name="Now爆谷星影台" tvg-logo="https://live.fanmingming.com/tv/Now爆谷星影台.png" group-title="HongKong",Now爆谷星影台
+https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
+#EXTINF:-1 tvg-name="Now直播台" tvg-logo="https://live.fanmingming.com/tv/Now直播台.png" group-title="HongKong",Now直播台
+https://dko29we9nm1rd.cloudfront.net/hls/CH331/index.m3u8
+#EXTINF:-1 tvg-name="Now新聞台" tvg-logo="https://live.fanmingming.com/tv/Now新聞台.png" group-title="HongKong",Now新聞台
+https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
+#EXTINF:-1 tvg-name="Now財經台" tvg-logo="https://live.fanmingming.com/tv/Now財經台.png" group-title="HongKong",Now財經台
+https://dko29we9nm1rd.cloudfront.net/hls/CH333/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超1台" tvg-logo="https://live.fanmingming.com/tv/Now Sports 英超1台.png" group-title="HongKong",Now Sports 英超1台
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超2台" tvg-logo="https://live.fanmingming.com/tv/Now Sports 英超2台.png" group-title="HongKong",Now Sports 英超2台
+https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超3台" tvg-logo="https://live.fanmingming.com/tv/Now Sports 英超3台.png" group-title="HongKong",Now Sports 英超3台
+https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超4台" tvg-logo="https://live.fanmingming.com/tv/Now Sports 英超4台.png" group-title="HongKong",Now Sports 英超4台
+https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超5台" tvg-logo="https://live.fanmingming.com/tv/Now Sports 英超5台.png" group-title="HongKong",Now Sports 英超5台
+https://dko29we9nm1rd.cloudfront.net/hls/CH625/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超6台" tvg-logo="https://live.fanmingming.com/tv/Now Sports 英超6台.png" group-title="HongKong",Now Sports 英超6台
+https://dko29we9nm1rd.cloudfront.net/hls/CH626/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超7台" tvg-logo="https://live.fanmingming.com/tv/Now Sports 英超7台.png" group-title="HongKong",Now Sports 英超7台
+https://dko29we9nm1rd.cloudfront.net/hls/CH627/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 精選" tvg-logo="https://live.fanmingming.com/tv/Now Sports 精選.png" group-title="HongKong",Now Sports 精選
+https://dko29we9nm1rd.cloudfront.net/hls/CH630/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 1" tvg-logo="https://live.fanmingming.com/tv/Now Sports 1.png" group-title="HongKong",Now Sports 1
+https://dko29we9nm1rd.cloudfront.net/hls/CH631/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 2" tvg-logo="https://live.fanmingming.com/tv/Now Sports 2.png" group-title="HongKong",Now Sports 2
+https://dko29we9nm1rd.cloudfront.net/hls/CH632/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 3" tvg-logo="https://live.fanmingming.com/tv/Now Sports 3.png" group-title="HongKong",Now Sports 3
+https://dko29we9nm1rd.cloudfront.net/hls/CH633/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 4" tvg-logo="https://live.fanmingming.com/tv/Now Sports 4.png" group-title="HongKong",Now Sports 4
+https://dko29we9nm1rd.cloudfront.net/hls/CH634/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 6" tvg-logo="https://live.fanmingming.com/tv/Now Sports 6.png" group-title="HongKong",Now Sports 6
+https://dko29we9nm1rd.cloudfront.net/hls/CH636/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 7" tvg-logo="https://live.fanmingming.com/tv/Now Sports 7.png" group-title="HongKong",Now Sports 7
+https://dko29we9nm1rd.cloudfront.net/hls/CH637/index.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-logo="https://live.fanmingming.com/tv/beIN SPORTS 1.png" group-title="HongKong",beIN SPORTS 1
+https://dko29we9nm1rd.cloudfront.net/hls/CH638/index.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-logo="https://live.fanmingming.com/tv/beIN SPORTS 2.png" group-title="HongKong",beIN SPORTS 2
+https://dko29we9nm1rd.cloudfront.net/hls/CH639/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 641" tvg-logo="https://live.fanmingming.com/tv/Now Sports 641.png" group-title="HongKong",Now Sports 641
+https://dko29we9nm1rd.cloudfront.net/hls/CH641/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH108
+https://dko29we9nm1rd.cloudfront.net/hls/CH108/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH155
+https://dko29we9nm1rd.cloudfront.net/hls/CH155/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH220
+https://dko29we9nm1rd.cloudfront.net/hls/CH220/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH502
+https://dko29we9nm1rd.cloudfront.net/hls/CH502/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH517
+https://dko29we9nm1rd.cloudfront.net/hls/CH517/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH525
+https://dko29we9nm1rd.cloudfront.net/hls/CH525/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH611
+https://dko29we9nm1rd.cloudfront.net/hls/CH611/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH612
+https://dko29we9nm1rd.cloudfront.net/hls/CH612/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH613
+https://dko29we9nm1rd.cloudfront.net/hls/CH613/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH620
+https://dko29we9nm1rd.cloudfront.net/hls/CH620/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH621
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH622
+https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH623
+https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH624
+https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH625
+https://dko29we9nm1rd.cloudfront.net/hls/CH625/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH626
+https://dko29we9nm1rd.cloudfront.net/hls/CH626/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH627
+https://dko29we9nm1rd.cloudfront.net/hls/CH627/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH630
+https://dko29we9nm1rd.cloudfront.net/hls/CH630/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH631
+https://dko29we9nm1rd.cloudfront.net/hls/CH631/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH632
+https://dko29we9nm1rd.cloudfront.net/hls/CH632/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH633
+https://dko29we9nm1rd.cloudfront.net/hls/CH633/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH634
+https://dko29we9nm1rd.cloudfront.net/hls/CH634/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH635
+https://dko29we9nm1rd.cloudfront.net/hls/CH635/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH636
+https://dko29we9nm1rd.cloudfront.net/hls/CH636/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH637
+https://dko29we9nm1rd.cloudfront.net/hls/CH637/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH638
+https://dko29we9nm1rd.cloudfront.net/hls/CH638/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH639
+https://dko29we9nm1rd.cloudfront.net/hls/CH639/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH640
+https://dko29we9nm1rd.cloudfront.net/hls/CH640/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH641
+https://dko29we9nm1rd.cloudfront.net/hls/CH641/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",NBATV
+https://dko29we9nm1rd.cloudfront.net/hls/CH642/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH644
+https://dko29we9nm1rd.cloudfront.net/hls/CH644/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH645
+https://dko29we9nm1rd.cloudfront.net/hls/CH645/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH646
+https://dko29we9nm1rd.cloudfront.net/hls/CH646/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH647
+https://dko29we9nm1rd.cloudfront.net/hls/CH647/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",Now Sports 651
+https://dko29we9nm1rd.cloudfront.net/hls/CH651/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",Now Sports 652
+https://dko29we9nm1rd.cloudfront.net/hls/CH652/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH668
+https://dko29we9nm1rd.cloudfront.net/hls/CH668/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH674
+https://dko29we9nm1rd.cloudfront.net/hls/CH674/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",Premier Sports
+https://dko29we9nm1rd.cloudfront.net/hls/CH679/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",Now Sports PLUS
+https://dko29we9nm1rd.cloudfront.net/hls/CH680/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH683
+https://dko29we9nm1rd.cloudfront.net/hls/CH683/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HongKong",CH684
+https://dko29we9nm1rd.cloudfront.net/hls/CH684/index.m3u8
 
