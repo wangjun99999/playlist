@@ -1482,112 +1482,112 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561002/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561004/index.mpd
 
-EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/561205.png" group-title="Lithuania 🇱🇹",Fight Sports
+EXTINF:-1 tvg-id="FIGHT.SPORTS.HD.lv" tvg-name="FIGHT SPORTS HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Fight%20Sports.png" group-title="Lithuania 🇱🇹",Fight Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9e3bdb344af427b90e4681174e41c97:de6bcb2bef4f1c7968296c1cde182494
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561205/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Lithuania 🇱🇹",Extreme Sports
+#EXTINF:-1 tvg-id="Extreme.Sports.cz" tvg-name="Extreme Sports" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/LT/Extreme%20Sports.png" group-title="Lithuania 🇱🇹",Extreme Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4293507d592df040f2186f1ce82a712:fcda490bfd8148179b0e93c5ef0d80e3
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561206/index.mpd
 
-#EXTINF:-1 tvg-id="Blue.Hustler.lt" group-title="Lithuania 🇱🇹" tvg-logo="",Blue Hustler Adult
+#EXTINF:-1 tvg-id="Blue.Hustler.lt" tvg-name="Blue Hustler" group-title="Lithuania 🇱🇹" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/LT/Blue%20Hustler.png",Blue Hustler🔞
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560601/index.mpd
 
-#EXTINF:-1 tvg-id="Barely.Legal.pl" tvg-logo="" group-title="Lithuania 🇱🇹",Barely Legal Adult
+#EXTINF:-1 tvg-id="Barely.Legal.pl" tvg-name="Barely Legal" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/LT/Barely%20Legal.png" group-title="Lithuania 🇱🇹",Barely Legal🔞
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560910/index.mpd
 
-#EXTINF:-1 tvg-id="CNN.lt" tvg-logo="" group-title="Lithuania 🇱🇹",CNN International
+#EXTINF:-1 tvg-id="CNN.lt" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/CNN%20International.png" group-title="Lithuania 🇱🇹",CNN International
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f4052e0dcb740b28b8fd49ee4ecd35a:e2e0d07b2767e46581c82cf87614e750
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560404/index.mpd
 
-#EXTINF:-1 tvg-id="AMC.lt" tvg-logo="" group-title="Lithuania 🇱🇹",AMC
+#EXTINF:-1 tvg-id="AMC.lt" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/LT/AMC.png" group-title="Lithuania 🇱🇹",AMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34c1715a9fd24e7d8497da043669ad66:e3ce21758f33b38413d7cfecfddcb289
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560908/index.mpd
 
-#EXTINF:-1 tvg-id="Discovery.lt" tvg-logo="" group-title="Lithuania 🇱🇹",Discovery
+#EXTINF:-1 tvg-id="Discovery.lt" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/VN/Discovery.png" group-title="Lithuania 🇱🇹",Discovery
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e5b4f0f0bf641029b2b2000665a8b49:152408adb88d19b5bfac04ccb6c493bb
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/562104/index.mpd
 
-#EXTINF:-1 tvg-id="Investigation.Discovery.lt" tvg-logo="" group-title="Lithuania 🇱🇹",Investigation Discovery
+#EXTINF:-1 tvg-id="Investigation.Discovery.lt" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Discovery%20ID.png" group-title="Lithuania 🇱🇹",Investigation Discovery
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f500790fc198489bac7a5937cc5e2312:16ebfccee4852e9d63676106c11773bb
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561805/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lithuania 🇱🇹",Baby TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Baby%20TV.png" group-title="Lithuania 🇱🇹",Baby TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7707f7fb0c84c8ba54619f514eee4ec:fd2ceae6cddde71895e4718f00f34275
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561306/index.mpd
 
-#EXTINF:-1 tvg-id="Cartoon.Network.lt" tvg-logo="" group-title="Lithuania 🇱🇹",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.Network.lt" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/VN/Cartoon%20Network.png" group-title="Lithuania 🇱🇹",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5cebda34393a4b20b0748445ba89e8c4:2c125f88407aff752517ffc485436043
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560401/index.mpd
 
-#EXTINF:-1 tvg-id="Nicktoons.lt" tvg-logo="" group-title="Lithuania 🇱🇹",Nicktoons
+#EXTINF:-1 tvg-id="Nicktoons.lt" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Nick%20Toons.png" group-title="Lithuania 🇱🇹",Nicktoons
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lithuania 🇱🇹",Stingray Concerts
+#EXTINF:-1 tvg-id="Stingray.iConcerts.ch" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/LT/Stingray%20iConcerts.png" group-title="Lithuania 🇱🇹",Stingray iConcerts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa806baddc384a168eff4f95f06ad289:eb65e4b92473ed6e33ff05a56343dbab
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561101/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lithuania 🇱🇹",FAST AND FUN BOX
+#EXTINF:-1 tvg-id="FAST.AND.FUN.HD.tr" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/LT/Fast%26FunBox.png" group-title="Lithuania 🇱🇹",Fast&FunBox
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6bd9264f24444c9a1bea842ba0bc33d:00c737b67ab210796510463a99b0b00d
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561203/index.mpd
 
-#EXTINF:-1 tvg-id="FX.Life.lt" tvg-logo="" group-title="Lithuania 🇱🇹",FX Life
+#EXTINF:-1 tvg-id="FX.Life.lt" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/LT/FX%20Life.png" group-title="Lithuania 🇱🇹",FX Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a75f9a2300f448089c6cdebeb97bbbd:606ae417e0e6cf4b0d353764e3140dbc
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561301/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lithuania 🇱🇹",MTV Live
+#EXTINF:-1 tvg-id="MTV.Live.cz" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/LT/MTV%20Live.png" group-title="Lithuania 🇱🇹",MTV Live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1041d72f861c4e60a87a4e828250ded6:c75b1640bc83ec0c653902a775e5bb1a
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560701/index.mpd
 
-#EXTINF:-1 tvg-id="MTV.Hits.lt" tvg-logo="" group-title="Lithuania 🇱🇹",MTV Hits
+#EXTINF:-1 tvg-id="MTV.Hits.lt" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/LT/MTV%20Hits.png" group-title="Lithuania 🇱🇹",MTV Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c75b1640bc83ec0c653902a775e5bb1a:1041d72f861c4e60a87a4e828250ded6
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560612/index.mpd
 
-#EXTINF:-1 tvg-id="MTV.'00s.lt" tvg-logo="" group-title="Lithuania 🇱🇹",MTV 00s
+#EXTINF:-1 tvg-id="MTV.'00s.lt" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/LT/MTV%2000s.png" group-title="Lithuania 🇱🇹",MTV 00s
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba29ad1cfb7c4a8b95cca44cf4641e78:b5db7930ad42ca8e7eff680ffba8a713
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560410/index.mpd
 
-#EXTINF:-1 tvg-id="National.Geographic.lt" tvg-logo="" group-title="Lithuania 🇱🇹",National Geographic
+#EXTINF:-1 tvg-id="National.Geographic.lt" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/LT/National%20Geographic.png" group-title="Lithuania 🇱🇹",National Geographic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
 
-#EXTINF:-1 tvg-id="National.Geographic.Wild.lt" tvg-logo="" group-title="Lithuania 🇱🇹",Nat Geo Wild
+#EXTINF:-1 tvg-id="National.Geographic.Wild.lt" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/LT/National%20Geographic%20Wild.png" group-title="Lithuania 🇱🇹",National Geographic Wild
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffa7c3ca6020428c919e13b817b7e31b:adf163c6c1729e6f77668d4e49f32352
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561201/index.mpd
 
-#EXTINF:-1 tvg-id="Animal.Planet.lt" tvg-logo="" group-title="Lithuania 🇱🇹",Animal Planet
+#EXTINF:-1 tvg-id="Animal.Planet.lt" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/VN/Animal%20Planet.png" group-title="Lithuania 🇱🇹",Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=999c783c19f6412fbd874ed21e17c9c2:494421f360d98a7fdda924130d662272
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561803/index.mpd
 
-#EXTINF:-1 tvg-id="Viasat.Kino.Action.lt" tvg-logo="" group-title="Lithuania 🇱🇹",Viasat Kino Action
+#EXTINF:-1 tvg-id="Viasat.Kino.Action.lt" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/LT/Viasat%20Kino%20Action.png" group-title="Lithuania 🇱🇹",Viasat Kino Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3d36e39d7a348b8baefe91d766502fd:c7dbd70b01503a82d081f373bfb872a3
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560902/index.mpd
 
-#EXTINF:-1 tvg-id="Viasat.Kino.Comedy.lt" tvg-logo="" group-title="Lithuania 🇱🇹",Viasat Kino Comedy
+#EXTINF:-1 tvg-id="Viasat.Kino.Comedy.lt" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/LT/Viasat%20Kino%20Comedy.png" group-title="Lithuania 🇱🇹",Viasat Kino Comedy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc75aa7946574c98ba16581c6fcb482c:0067607f24eed00bbf50155760f8c6b3
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561404/index.mpd
@@ -1644,7 +1644,7 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561404/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Signature-180x180_2025_11_05_12_57_49.jpg" group-title="indihometv",HBO Signature U 🇮🇩
+#EXTINF:-1 tvg-id="HBO.Signature.HD.id" tvg-name="HBO Signature HD" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Signature-180x180_2025_11_05_12_57_49.jpg" group-title="indihometv",HBO Signature U 🇮🇩
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -1652,7 +1652,7 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561404/index.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg" group-title="indihometv",Cinemax U 🇮🇩
+#EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-name="Cinemax HD" tvg-logo="https://images.indihometv.com/images/channels/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg" group-title="indihometv",Cinemax U 🇮🇩
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -1660,16 +1660,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
-#EXTINF:-1 tvg-id="473.unifi" ch-number="473" tvg-name="" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" group-logo="" group-title="indihometv",Rock Entertainment 🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
-https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_ROCKENTERTAINMENT_2025_03_17_15_03_43.png" group-title="indihometv",Rock Entertainment
+#EXTINF:-1 tvg-id="Rock.Entertainment.id" tvg-name="Rock Entertainment" tvg-logo="https://images.indihometv.com/assets/88_ROCKENTERTAINMENT_2025_03_17_15_03_43.png" group-title="indihometv",Rock Entertainment
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
@@ -2086,7 +2077,7 @@ https://andro.okan11gote12sokan.cfd/checklist/androstreamlivetrtsy.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Alkass_1_EN.bein" tvg-name="Alkass_1_EN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%201.png" group-title="Qatar 🇶🇦",Alkass 1
+#EXTINF:-1 tvg-id="Alkass_1_AR.bein" tvg-name="Alkass_1_AR" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%201.png" group-title="Qatar 🇶🇦",Alkass 1
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 #EXTINF:-1 tvg-id="Alkass_2_EN.bein" tvg-name="Alkass_2_EN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%202.png" group-title="Qatar 🇶🇦",Alkass 2
 https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
@@ -2405,103 +2396,39 @@ http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v8
 
 
 
-#EXTINF:-1 tvg-name="Sport TV +" tvg-id="Sport TV +" group-title="葡萄牙" tvg-logo=" https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a3dd495ded2d4e30a6edb51a5147572e/version/0 ",Sport TV +
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e83b99991d21444b96c2413c02533006:1096aaaa4c1eb6b7a6b6f64a1b945bb9
-http://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$408/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-name="Sport TV 1" tvg-id="Sport TV 1" tvg-chno="20" tvg-logo=" https://3038.images-vfp2.ott.kaltur...id/e3a7169255414c35b01973e333e762e5/version/0 " group-title="葡萄牙", SportTV 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b
-http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-name="Sport TV 2" tvg-id="Sport TV 2" tvg-chno="21" tvg-logo=" https://3038.images-vfp2.ott.kaltur...id/886565c7d7714745880d938025a1610b/version/0 " group-title="葡萄牙", SportTV 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-name="体育电视 3" tvg-id="体育电视 3" tvg-chno="22" tvg-logo=" https://3038.images-vfp2.ott.kaltur...id/9966cfdee0a04619b2be74ecf4119e25/version/0 group-title="葡萄牙"，SportTV 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
-http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-name="Sport TV 4" tvg-id="Sport TV 4" tvg-chno="23" tvg-logo=" https://3038.images-vfp2.ott.kaltur...id/a2aabacfc9a54ce3ad64acf33e161b14/version/0 " group-title="葡萄牙", SportTV 4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c
-http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-name="Sport TV 5" tvg-id="Sport TV 5" tvg-chno="24" tvg-logo=" https://3038.images-vfp2.ott.kaltur...id/adfc9e4d07124034bcf3a440eb1e1179/version/0 " group-title="葡萄牙", SportTV 5
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5
-http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-name="Sport TV 6" tvg-id="Sport TV 6" tvg-chno="25" tvg-logo=" https://3038.images-vfp2.ott.kaltur...id/3ba84ea044f7493b9f4f82a7735aa1fb/version/0 " group-title="葡萄牙", SportTV 6
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d319aab02a8342248cceb0fdf060bc54:b36668a836b15055be1f04b8d8a8cc70
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$566/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-name="Sport TV 7" tvg-id="Sport TV 7" tvg-chno="26" tvg-logo=" https://3038.images-vfp2.ott.kaltur...id/11b05c45e5e54609b5a6515d6b0ffdb7/version/2 " group-title="葡萄牙", SportTV 7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=400957ac68d549fbbbbc668d3a9eb709:3dd351f1875b0dd40a4e392f06a29b29
-http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$597/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="ziggosportnl" tvg-logo="https://cdn.aptoide.com/imgs/c/4/7/c47f3187ae8f955a18b130ba84a1f1f8_fgraphic.png" group-title="荷兰",ZIGGO SPORT (NL)
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/Ziggo%20Sport.png" group-title="Netherlands 🇳🇱",Ziggo Sport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
 
-#EXTINF:-1 tvg-id="ziggosport2nl" tvg-logo="https://cdn.aptoide.com/imgs/c/4/7/c47f3187ae8f955a18b130ba84a1f1f8_fgraphic.png" group-title="荷兰",ZIGGO SPORT 2 (NL)
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/Ziggo%20Sport%202.png" group-title="Netherlands 🇳🇱",Ziggo Sport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf319​​1df0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EOhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8%7E1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013140%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013140%2C3103_SP1V%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205500296&RTS=1717205500&from=11&hms_devid=579&online=1717205500&mag_hms=579
 
-#EXTINF:-1 tvg-id="ziggosport3nl" tvg-logo="https://cdn.aptoide.com/imgs/c/4/7/c47f3187ae8f955a18b130ba84a1f1f8_fgraphic.png" group-title="荷兰",ZIGGO SPORT 3 (NL)
+#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/Ziggo%20Sport%203.png" group-title="Netherlands 🇳🇱",Ziggo Sport 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EyVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4%7E2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013401%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013401%2C3103_SP1G%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205641752&RTS=1717205641&from=16&hms_devid=538&online=1717205641&mag_hms=538
 
-#EXTINF:-1 tvg-id="ziggosport4nl" tvg-logo="https://cdn.aptoide.com/imgs/c/4/7/c47f3187ae8f955a18b130ba84a1f1f8_fgraphic.png" group-title="荷兰",ZIGGO SPORT 4 (NL)
+#EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/Ziggo%20Sport%204.png" group-title="Netherlands 🇳🇱",Ziggo Sport 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7Eu0jaHTa0MTNW18tBSpXw1Ad47f31195be578ee163e34a9e557d481%7E-tEuN4yI47Z49lA_lxVw3r26rEF-eIM-4N-YRBTnBjXeDlL3yoAcCSTfh367bmnJfe93264045ad9787422349ffe59c4e2f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013557%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013557%2C3103_SP1T%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205757900&RTS=1717205758&from=11&hms_devid=538&online=1717205758&mag_hms=538
 
-#EXTINF:-1 tvg-id="ziggosport5nl" tvg-logo="https://cdn.aptoide.com/imgs/c/4/7/c47f3187ae8f955a18b130ba84a1f1f8_fgraphic.png" group-title="荷兰",ZIGGO SPORT 5 (NL)
+#EXTINF:-1 tvg-id="Ziggo.Sport.5.nl" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/Ziggo%20Sport%205.png" group-title="Netherlands 🇳🇱",Ziggo Sport 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7ELNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932%7EBZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601014139%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601014139%2C3103_S1E1%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717206099&from=11&hms_devid=538&online=1717206099&mag_hms=538&_=1717206113039
 
-#EXTINF:-1 tvg-id="ziggosport6nl" tvg-logo="https://cdn.aptoide.com/imgs/c/4/7/c47f3187ae8f955a18b130ba84a1f1f8_fgraphic.png" group-title="荷兰",ZIGGO SPORT 6 (NL)
+#EXTINF:-1 tvg-id="Ziggo.Sport.6.nl" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/Ziggo%20Sport%206.png" group-title="Netherlands 🇳🇱",Ziggo Sport 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
