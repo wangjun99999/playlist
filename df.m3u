@@ -1,18 +1,3 @@
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="东方卫视",东方卫视[官方 16M 2160P HEVC AC3 5.1 音视频分离]
-http://bp-live4ktc.bestv.cn/live/dfws4k.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="东方卫视",东方卫视[16M 2160P HEVC AC3 5.1]
-http://bp-live4ktc.bestv.cn/live/dfws4k_4k265p.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="东方卫视",东方卫视[16M 2160P H264 AC3 5.1]
-http://bp-live4ktc.bestv.cn/264ts/dfws4k264.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="东方卫视",东方卫视[16M 1080P H264 AC3 5.1]
-http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="东方卫视",东方卫视[ 8M 2160P H264 AAC 5.1]
-http://bp-live4ktc.bestv.cn/264ts/dfws4k264_4k264pts.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="东方卫视",东方卫视[ 8M 1080P H264 AAC 5.1]
-http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264_4k1080p.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="东方卫视",东方卫视[16M 1080P HEVC AAC 5.1 音视频分离]
-http://bp-live4ktc.bestv.cn/ch/dfws4k1080p.m3u8
-
 
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/东方卫视.png" group-title="上海频道",东方卫视
@@ -77,7 +62,7 @@ http://ali-xwl.cztv.com/live/channel031080Pnew.m3u8
 http://ali-xwl.cztv.com/live/channel021080Pnew.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/Zhejiang7.png" group-title="浙江频道",浙江国际
 http://ali-xwl.cztv.com/live/channel101080Pnew.m3u8
-#EXTINF:-1 tvg-id="207" tvg-name="之江纪录" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Zhejiang8.png" group-title="浙江频道",之江纪录
+#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Zhejiang8.png" group-title="浙江频道",之江纪录
 http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
 
 
@@ -126,9 +111,9 @@ http://192.168.2.98:5678/SD.php?id=sdse
 http://192.168.2.98:5678/CD.php?id=cdtv1
 #EXTINF:-1 tvg-id="成都经济" tvg-name="成都经济" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/Chengdu2.png" group-title="成都频道",成都经济资讯CDTV2
 http://192.168.2.98:5678/CD.php?id=cdtv2
-#EXTINF:-1 tvg-id="470" tvg-name="成都都市生活" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/Chengdu3.png" group-title="成都频道",成都都市生活CDTV3
+#EXTINF:-1 tvg-id="成都都市生活" tvg-name="成都都市生活" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/Chengdu3.png" group-title="成都频道",成都都市生活CDTV3
 http://192.168.2.98:5678/CD.php?id=cdtv3
-#EXTINF:-1 tvg-id="471" tvg-name="成都影视文艺" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/Chengdu4.png" group-title="成都频道",成都影视CDTV4
+#EXTINF:-1 tvg-id="成都影视文艺" tvg-name="成都影视文艺" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/Chengdu4.png" group-title="成都频道",成都影视CDTV4
 http://192.168.2.98:5678/CD.php?id=cdtv4
 #EXTINF:-1 tvg-id="成都公共" tvg-name="成都公共" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/Chengdu5.png" group-title="成都频道",成都公共CDTV5
 http://192.168.2.98:5678/CD.php?id=cdtv5
@@ -143,9 +128,9 @@ http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
 #EXTINF:-1 tvg-id="南京十八频道" tvg-name="南京十八频道" tvg-logo="https://tvax2.sinaimg.cn/crop.116.8.867.867.1024/63ac56fdly8fmg53oipvuj20sg0oc400.jpg" group-title="南京频道",南京十八生活
 http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
-#EXTINF:-1 tvg-id="458" tvg-name="南京文旅纪录" tvg-logo="https://i0.hdslb.com/bfs/new_dyn/28a8e392440b5c941e7dfd56871c9be5560495114.jpg@1192w.webp" group-title="南京频道",南京文旅纪录
+#EXTINF:-1 tvg-id="南京文旅纪录" tvg-name="南京文旅纪录" tvg-logo="https://i0.hdslb.com/bfs/new_dyn/28a8e392440b5c941e7dfd56871c9be5560495114.jpg@1192w.webp" group-title="南京频道",南京文旅纪录
 http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
-#EXTINF:-1 tvg-id="460" tvg-name="南京少儿" tvg-logo="https://img1.baidu.com/it/u=1313002427,3153998907&fm=253&fmt=auto&app=138&f=JPEG?w=543&h=306" group-title="南京频道",南京少儿
+#EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://img1.baidu.com/it/u=1313002427,3153998907&fm=253&fmt=auto&app=138&f=JPEG?w=543&h=306" group-title="南京频道",南京少儿
 http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 
 
@@ -156,7 +141,7 @@ https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 #EXTINF:-1 tvg-id="云南影视" tvg-name="云南影视" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/Yunnan7.png" group-title="云南频道",云南影视
 https://hwapi.yntv.net/62hdvf/utrat7.m3u8
-#EXTINF:-1 tvg-id="341" tvg-name="云南康旅" tvg-logo="https://bkimg.cdn.bcebos.com/pic/0dd7912397dda144ad347e8e9eefc7a20cf431ad28cd?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536" group-title="云南频道",云南康旅
+#EXTINF:-1 tvg-id="云南康旅" tvg-name="云南康旅" tvg-logo="https://bkimg.cdn.bcebos.com/pic/0dd7912397dda144ad347e8e9eefc7a20cf431ad28cd?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536" group-title="云南频道",云南康旅
 https://hwapi.yntv.net/62hdvf/227q43.m3u8
 
 
