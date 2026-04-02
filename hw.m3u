@@ -274,7 +274,10 @@ https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 
 
 
-
+#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky Sport Top Event" tvg-logo="" group-title="Cable TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Top%20Event.png",Sky Sport Top Event 🇩🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1
+https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd
 
 #EXTINF:-1 tvg-id="plex.tv.Fubo.Sports.Network.plex" tvg-name="Fubo Sports Network" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/fubo%20Sports%201.png" group-title="Cable TV",Fubo Sports 1 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
