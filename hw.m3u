@@ -2427,10 +2427,20 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH684/index.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="Taiwan",三立綜合台1
+http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-live207/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="Taiwan",三立綜合台2
+三立綜合台,https://mao.ffmking888.dpdns.org/?id=5LiJ56uL57ac5ZCI5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+#EXTINF:-1 tvg-logo="" group-title="Taiwan",采昌影劇台1
+https://mao.ffmking888.dpdns.org/?id=6YeH5piM5b2x5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+#EXTINF:-1 tvg-logo="" group-title="Taiwan",采昌影劇台2
+http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv049
+#EXTINF:-1 tvg-logo="" group-title="Taiwan",采昌影劇台3
+https://cdn12.178.indevs.in/163189/0a6204ed0261460c
+#EXTINF:-1 tvg-logo="" group-title="Taiwan",采昌影劇台4
+http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv049
+#EXTINF:-1 tvg-logo="" group-title="Taiwan",采昌影劇台5
+https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv049
 
 
 
