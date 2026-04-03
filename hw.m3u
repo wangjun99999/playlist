@@ -29,11 +29,11 @@ https://7pal.short.gy/HPremier1
 https://7pal.short.gy/HPremier2
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="Hub Premier 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%203.png" group-title="7pal",Hub Premier 3
 https://7pal.short.gy/HPremier3
-#EXTINF:-1,tvg-id="Now.Sports.Premier.League.1.hk" tvg-name="Now Sports Premier League 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 1.png" group-title="7pal",Now Sports Premier League 1
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-name="Now Sports Premier League 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 1.png" group-title="7pal",Now Sports Premier League 1
 https://7pal.short.gy/nowhkp1
-#EXTINF:-1,tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now Sports Premier League 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 2.png" group-title="7pal",Now Sports Premier League 2
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now Sports Premier League 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 2.png" group-title="7pal",Now Sports Premier League 2
 https://7pal.short.gy/nowhkp2
-#EXTINF:-1,tvg-id="Now.Sports.Premier.League.3.hk" tvg-name="Now Sports Premier League 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 3.png" group-title="7pal",Now Sports Premier League 3
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-name="Now Sports Premier League 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 3.png" group-title="7pal",Now Sports Premier League 3
 https://7pal.short.gy/nowhkp3
 #EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-name="Astro Premier League" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Premier%20League%201.png" group-title="7pal",Astro Premier League
 https://7pal.short.gy/astross1
@@ -100,9 +100,9 @@ https://a1xs.vip/9000013
 https://a1xs.vip/14001
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="New England Sports Network HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NESN.png" group-title="a1xs",NESN 4K
 https://a1xs.vip/4000080
-#EXTINF:-1,tvg-id="Now.Sports.Premier.League.1.hk" tvg-name="Now Sports Premier League 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 1.png" group-title="a1xs",Now Sports Premier League 1
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-name="Now Sports Premier League 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 1.png" group-title="a1xs",Now Sports Premier League 1
 https://a1xs.vip/1100001
-#EXTINF:-1,tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now Sports Premier League 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 2.png" group-title="a1xs",Now Sports Premier League 2
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now Sports Premier League 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/NOW HK Premier League 2.png" group-title="a1xs",Now Sports Premier League 2
 https://a1xs.vip/1100002
 #EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-name="Astro Premier League" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/Astro%20Premier%20League%201.png" group-title="a1xs",Astro Premier League
 https://a1xs.vip/1100030
