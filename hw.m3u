@@ -1267,7 +1267,7 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561002/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561004/index.mpd
 
-EXTINF:-1 tvg-id="FIGHT.SPORTS.HD.lv" tvg-name="FIGHT SPORTS HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Fight%20Sports.png" group-title="Lithuania 🇱🇹",Fight Sports
+#EXTINF:-1 tvg-id="FIGHT.SPORTS.HD.lv" tvg-name="FIGHT SPORTS HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Fight%20Sports.png" group-title="Lithuania 🇱🇹",Fight Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9e3bdb344af427b90e4681174e41c97:de6bcb2bef4f1c7968296c1cde182494
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561205/index.mpd
