@@ -87,7 +87,6 @@ http://192.168.2.98:5678/js.php?id=jsjy
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/山东体育.png" group-title="山东频道",山东体育
 http://192.168.2.98:5678/SD.php?id=sdty
 #EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/山东新闻.png" group-title="山东频道",山东新闻
-#extvlcopt:http-referrer=https://v.iqilu.com
 http://192.168.2.98:5678/SD.php?id=sdxw
 #EXTINF:-1 tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/山东齐鲁.png" group-title="山东频道",山东齐鲁
 http://192.168.2.98:5678/SD.php?id=sdql
@@ -100,7 +99,6 @@ http://192.168.2.98:5678/SD.php?id=sdnk
 #EXTINF:-1 tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/山东文旅.png" group-title="山东频道",山东文旅
 http://192.168.2.98:5678/SD.php?id=sdwl
 #EXTINF:-1 tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/山东少儿.png" group-title="山东频道",山东少儿
-#extvlcopt:http-referrer=https://v.iqilu.com
 http://192.168.2.98:5678/SD.php?id=sdse
 
 
@@ -139,7 +137,7 @@ https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 #EXTINF:-1 tvg-id="云南影视" tvg-name="云南影视" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/Yunnan7.png" group-title="云南频道",云南影视
 https://hwapi.yntv.net/62hdvf/utrat7.m3u8
-#EXTINF:-1 tvg-id="云南康旅" tvg-name="云南康旅" tvg-logo="https://bkimg.cdn.bcebos.com/pic/0dd7912397dda144ad347e8e9eefc7a20cf431ad28cd?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536" group-title="云南频道",云南康旅
+#EXTINF:-1 tvg-id="云南康旅" tvg-name="云南康旅" tvg-logo="" group-title="云南频道",云南康旅
 https://hwapi.yntv.net/62hdvf/227q43.m3u8
 
 
@@ -148,7 +146,7 @@ https://hwapi.yntv.net/62hdvf/227q43.m3u8
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdty
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png" group-title="广东频道",广东珠江
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdzj
-#EXTINF:-1 tvg-id="广州南国都市4K" tvg-name="广州南国都市4K" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/02/%E5%B9%BF%E5%B7%9E%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%824K%E8%B6%85%E9%AB%98%E6%B8%85.png/revision/latest/scale-to-width-down/1000?cb=20250913040846&path-prefix=vi" group-title="广东频道",广州南国都市4K
+#EXTINF:-1 tvg-id="广州南国都市4K" tvg-name="广州南国都市4K" tvg-logo="" group-title="广东频道",广州南国都市4K
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/广州综合.png" group-title="广东频道",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
