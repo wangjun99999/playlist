@@ -307,47 +307,43 @@ http://49.213.188.67:50007/litv-ftv15/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZ
 http://49.213.188.67:50007/4gtv-live026/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 
 
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f29e89470_TOZ4.png" tvg-id="TVBS" tvg-name="TVBS" group-title="smart",TVBS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/TVBS.png" tvg-id="TVBS" tvg-name="TVBS" group-title="smart",TVBS
 http://106.107.237.240:19890/trams/735/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f35d6bc9f_jpuU.png" tvg-id="TVBS新聞台" tvg-name="TVBS新聞台" group-title="smart",TVBS新聞台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/TVBS新闻台.png" tvg-id="TVBS新聞台" tvg-name="TVBS新聞台" group-title="smart",TVBS新聞台
 http://106.107.237.240:19890/trams/738/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5dbcf02b02fa1_KmYg.png" tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" group-title="smart",TVBS歡樂台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/TVBS欢乐台.png" tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" group-title="smart",TVBS歡樂台
 http://106.107.237.240:19890/trams/1936/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d864efce07b1_Cob7.jpg" tvg-id="中天新聞台" tvg-name="中天新聞台" group-title="smart",中天新聞台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/中天新闻台.png" tvg-id="中天新聞台" tvg-name="中天新聞台" group-title="smart",中天新聞台
 http://106.107.237.240:19890/trams/1923/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07a7ad3ce62_zGkW.png" tvg-id="中天娛樂台" tvg-name="中天娛樂台" group-title="smart",中天娛樂台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/中天娱乐台.png" tvg-id="中天娛樂台" tvg-name="中天娛樂台" group-title="smart",中天娛樂台
 http://106.107.237.240:19890/trams/529/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f3e9b6dc0_q9wh.png" tvg-id="中天綜合台" tvg-name="中天綜合台" group-title="smart",中天綜合台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/中天综合台.png" tvg-id="中天綜合台" tvg-name="中天綜合台" group-title="smart",中天綜合台
 http://106.107.237.240:19890/trams/741/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef34b78abae9_lcUh.png" tvg-id="中天亞洲台" tvg-name="中天亞洲台" group-title="smart",中天亞洲台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/中天亚洲台.png" tvg-id="中天亞洲台" tvg-name="中天亞洲台" group-title="smart",中天亞洲台
 http://106.107.237.240:19890/trams/1967/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f49783758_lqgU.png" tvg-id="台視HD" tvg-name="台視HD" group-title="smart",台視
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/台视.png" tvg-id="台視HD" tvg-name="台視HD" group-title="smart",台視
 http://106.107.237.240:19890/trams/744/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ae0be7ecef_8Xkk.png" tvg-id="台視綜合台" tvg-name="台視綜合台" group-title="smart",台視綜合台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/台视综合台.png" tvg-id="台視綜合台" tvg-name="台視綜合台" group-title="smart",台視綜合台
 http://106.107.237.240:19890/trams/745/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6207d2af93f01_C8ET.jpg" tvg-id="台視新聞台" tvg-name="台視新聞台" group-title="smart",台視新聞台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/台视新闻台.png" tvg-id="台視新聞台" tvg-name="台視新聞台" group-title="smart",台視新聞台
 http://106.107.237.240:19890/trams/2502/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e79e19933ef1_0gtF.png" tvg-id="中視" tvg-name="中視" group-title="smart",中視
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/中视.png" tvg-id="中視" tvg-name="中視" group-title="smart",中視
 http://106.107.237.240:19890/trams/1988/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e79e1c173ffc_Ffv5.png" tvg-id="中視新聞台" tvg-name="中視新聞台" group-title="smart",中視新聞台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/中视新闻台.png" tvg-id="中視新聞台" tvg-name="中視新聞台" group-title="smart",中視新聞台
 http://106.107.237.240:19890/trams/1989/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/61ab10a4ef588_0nFM.png" tvg-id="民視" tvg-name="民視" group-title="smart",民視
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/民视.png" tvg-id="民視" tvg-name="民視" group-title="smart",民視
 http://106.107.237.240:19890/trams/2479/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4863347815_LS6r.png" tvg-id="民視台灣台" tvg-name="民視台灣台" group-title="smart",民視台灣台
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" tvg-id="民視台灣台" tvg-name="民視台灣台" group-title="smart",民視台灣台
 http://106.107.237.240:19890/trams/2033/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f508d3945_OF2b.png" tvg-id="民視新聞台" tvg-name="民視新聞台" group-title="smart",民視新聞台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/民视新闻台.png" tvg-id="民視新聞台" tvg-name="民視新聞台" group-title="smart",民視新聞台
 http://106.107.237.240:19890/trams/746/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4850f9c41f_77SB.png" tvg-id="華視" tvg-name="華視" group-title="smart",華視
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/华视.png" tvg-id="華視" tvg-name="華視" group-title="smart",華視
 http://106.107.237.240:19890/trams/2032/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07a90142345_bUxd.jpg" tvg-id="公視" tvg-name="公視" group-title="smart",公視
-http://106.107.237.240:19890/trams/530/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66e2bf9c477d9_w9D1.jpg" tvg-id="公視" tvg-name="公視" group-title="smart",公视2
-http://106.107.237.240:19890/trams/2830/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f6ca5a321_y77x.png" tvg-id="八大第一台" tvg-name="八大第一台" group-title="smart",八大第一台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/八大第一台.png" tvg-id="八大第一台" tvg-name="八大第一台" group-title="smart",八大第一台
 http://106.107.237.240:19890/trams/752/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f74f4f446_3vV7.png" tvg-id="八大綜合台" tvg-name="八大綜合台" group-title="smart",八大綜合台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/八大综合台.png" tvg-id="八大綜合台" tvg-name="八大綜合台" group-title="smart",八大綜合台
 http://106.107.237.240:19890/trams/754/playlist.m3u8?token=abc123
-#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f714e7982_tpnp.png" tvg-id="八大戲劇台" tvg-name="八大戲劇台" group-title="smart",八大戲劇台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/八大戏剧台.png" tvg-id="八大戲劇台" tvg-name="八大戲劇台" group-title="smart",八大戲劇台
 http://106.107.237.240:19890/trams/753/playlist.m3u8?token=abc123
 #EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5971fac8acd85_1fyo.png" tvg-id="八大娛樂台" tvg-name="八大娛樂台" group-title="smart",八大娛樂台
 http://106.107.237.240:19890/trams/110/playlist.m3u8?token=abc123
