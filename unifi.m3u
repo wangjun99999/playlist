@@ -1,0 +1,86 @@
+#EXTM3U x-tvg-url="https://epg-my.netlify.app/unifi.xml"
+
+#EXTINF:-1 tvg-id="Inspirasi.my" tvg-name="Inspirasi" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/channels/my/inspirasi.png",Inspirasi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
+https://defense-budgets-males-studios.trycloudflare.com/inspirasi
+
+#EXTINF:-1 tvg-id="Sensasi.my" tvg-name="Sensasi" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/channels/my/sensasi.png",Sensasi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ba270026f0a4b29956ace51335fb1ac:edb6adbe31609226e737e515ba813169
+https://defense-budgets-males-studios.trycloudflare.com/sensasi
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/channels/my/tv1.png",TV1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fe3d74e8cbc4ee0b071a64257068e38:77ece75d9526f5beac0ab6bf1ee3bd89
+https://defense-budgets-males-studios.trycloudflare.com/tv1
+
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/channels/my/tv2.png",TV2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0749c883bbdb4d5a9483a65e719a13dc:24c0fce8e6c3bf6b43790b117e0e89e3
+https://defense-budgets-males-studios.trycloudflare.com/tv2
+
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/channels/my/tv3.png",TV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+https://defense-budgets-males-studios.trycloudflare.com/tv3
+
+#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/channels/my/8tv.png",8TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
+https://defense-budgets-males-studios.trycloudflare.com/8tv
+
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/channels/my/tv9.png",TV9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
+https://defense-budgets-males-studios.trycloudflare.com/tv9
+
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/channels/sg/hbo.png",HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
+https://defense-budgets-males-studios.trycloudflare.com/hbohd
+
+#EXTINF:-1 tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/channels/sg/hbohits.png",HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
+https://defense-budgets-males-studios.trycloudflare.com/hbohits
+
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/channels/sg/cinemax.png",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
+https://defense-budgets-males-studios.trycloudflare.com/cinemax
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/channels/us/cartoon-network.png",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2da2675c6da34253b376318ef350cf19:688c0015a6b4863f0663f25f42036800
+https://defense-budgets-males-studios.trycloudflare.com/cartoonnetwork
+
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/channels/us/nickelodeon.png",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
+https://defense-budgets-males-studios.trycloudflare.com/nickelodeon
+
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/channels/uk/bbc-world-news.png",BBC World News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0282f5cc38944bf58d8fdd9abc312339:f422861c29542fe34c866b1cd291f411
+https://defense-budgets-males-studios.trycloudflare.com/bbcworldnewshd
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/channels/jp/nhk-world-japan.png",NHK WORLD-JAPAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1e473b4fac4c13b6bd73014a14df4e:602617c77b787b240308567f1f04df20
+https://defense-budgets-males-studios.trycloudflare.com/nhkworldjapan
+
+#EXTINF:-1 tvg-id="beINSPORTS1.my" tvg-name="beIN SPORTS 1" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/channels/qa/bein-sports-1.png",beIN SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
+https://defense-budgets-males-studios.trycloudflare.com/beinsports
+
+#EXTINF:-1 tvg-id="beINSPORTS2.my" tvg-name="beIN SPORTS 2" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/channels/qa/bein-sports-2.png",beIN SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
+https://defense-budgets-males-studios.trycloudflare.com/beinsports2
+
+#EXTINF:-1 tvg-id="beINSPORTS3.my" tvg-name="beIN SPORTS 3" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/channels/qa/bein-sports-3.png",beIN SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
+https://defense-budgets-males-studios.trycloudflare.com/beinsports3
