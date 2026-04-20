@@ -2423,8 +2423,26 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH684/index.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-name="beIN Sport 1 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 1 8K🔥
+http://afcocafot.com:8080/bn14k/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 2 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 2 8K🔥
+http://afcocafot.com:8080/bn24k/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 3 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 3 8K🔥
+http://afcocafot.com:8080/bn34k/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 4 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 4 8K🔥
+http://afcocafot.com:8080/bn44k/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 5 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 5 8K🔥
+http://afcocafot.com:8080/bn54k/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 6 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 6 8K🔥
+http://afcocafot.com:8080/bn64k/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 7 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 7 8K🔥
+http://afcocafot.com:8080/bn74k/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 8 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 8 8K🔥
+http://afcocafot.com:8080/bn84k/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 9 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 9 8K🔥
+http://afcocafot.com:8080/bn94k/index.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="beIN Sports",BEIN SPORTS 1
+http://baskhd2.ddns.net:1935/live/stvsport/chunklist.m3u8
 
 
 
