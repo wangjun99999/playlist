@@ -2441,8 +2441,6 @@ http://afcocafot.com:8080/bn74k/index.m3u8
 http://afcocafot.com:8080/bn84k/index.m3u8
 #EXTINF:-1 tvg-name="beIN Sport 9 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 9 8K🔥
 http://afcocafot.com:8080/bn94k/index.m3u8
-#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="beIN Sports",BEIN SPORTS 1
-http://baskhd2.ddns.net:1935/live/stvsport/chunklist.m3u8
 
 
 
@@ -2452,3 +2450,202 @@ http://baskhd2.ddns.net:1935/live/stvsport/chunklist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://epg-1.iill.top/logo/Eurosport-1.png"  group-title="🤠国际体育", Eurosport 1
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Eurosport%201&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9NzZhYzUwYmQzODY=
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://epg-1.iill.top/logo/Eurosport-2.png"  group-title="🤠国际体育", Eurosport 2
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Eurosport%202&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9OTdjMjgyNDAzODc=
+#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png"  group-title="🤠国际体育", TNT Sport 1
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=TNT%20Sport%201&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9YjU1NjQ5YjIzODg=
+#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-2.png"  group-title="🤠国际体育", TNT Sport 2
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=TNT%20Sport%202&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9Nzc2MTgwYjIzODk=
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-3.png" group-title="🤠国际体育", TNT Sport 3
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=TNT%20Sport%203&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9OGE3NzdkMzMzOTA=
+#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-4.png" group-title="🤠国际体育", TNT Sport 4
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=TNT%20Sport%204&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9MTgyYmUwOTUzOTE=
+#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-1.png" group-title="🤠国际体育",beIN Sports 1
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=beIN%20Sports%201&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9NTcyMTVlMmIzOTI=
+#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-2.png" group-title="🤠国际体育",beIN Sports 2
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=beIN%20Sports%202&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9MzhjMzRlYjEzOTM=
+#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-3.png" group-title="🤠国际体育",beIN Sports 3
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=beIN%20Sports%203&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9YmM3Y2ExNGUzOTQ=
+#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-4.png" group-title="🤠国际体育",beIN Sports 4
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=beIN%20Sports%204&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9ZTgzYjA4NzYzOTU=
+#EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-5.png" group-title="🤠国际体育",beIN Sports 5
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=beIN%20Sports%205&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9YmZlODJkOTczOTY=
+#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-1.png" group-title="🤠国际体育",Hub Premier 1
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Hub%20Premier%201&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9YWVhZTAxMmIzOTc=
+#EXTINF:-1 tvg-id="Hub Premier 2 (HD)" tvg-name="Hub Premier 2 (HD)" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-2.png" group-title="🤠国际体育",Hub Premier 2
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Hub%20Premier%202&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9YmMxNjVjN2MzOTg=
+#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-3.png" group-title="🤠国际体育",Hub Premier 3
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Hub%20Premier%203&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9YmNkNDc4YTAzOTk=
+#EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-4.png" group-title="🤠国际体育",Hub Premier 4
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Hub%20Premier%204&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9MDUxMTM3MGM0MDA=
+#EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="Hub Premier 5" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-5.png" group-title="🤠国际体育",Hub Premier 5
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Hub%20Premier%205&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9M2YyYzgwMjE0MDE=
+#EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="Hub Premier 6" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-6.png" group-title="🤠国际体育",Hub Premier 6
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Hub%20Premier%206&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9MWQ4NjY4Zjk0MDI=
+#EXTINF:-1 tvg-id="Hub Premier 7" tvg-name="Hub Premier 7" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-7.png" group-title="🤠国际体育",Hub Premier 7
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Hub%20Premier%207&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9YTVjNTg5NmM0MDM=
+#EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-8.png" group-title="🤠国际体育",Hub Premier 8
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Hub%20Premier%208&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9MDU0MmM2OTE0MDQ=
+#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-1.png" group-title="🤠国际体育",Hub Sports 1
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Hub%20Sports%201&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9ZjZkYmFmMDM0MDU=
+#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-2.png" group-title="🤠国际体育",Hub Sports 2
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Hub%20Sports%202&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9ZDU3NWVmNzE0MDY=
+#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-3.png" group-title="🤠国际体育",Hub Sports 3
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Hub%20Sports%203&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9NjE4ODhmYzk0MDc=
+#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-4.png" group-title="🤠国际体育",Hub Sports 4
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Hub%20Sports%204&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9OWE5YTgwNTQ0MDg=
+#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="Hub Sports 5 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-5.png" group-title="🤠国际体育",Hub Sports 5
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Hub%20Sports%205&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9ZmMyNzY1YzU0MDk=
+#EXTINF:-1 tvg-id="Hub Sports 6" tvg-name="Hub Sports 6" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-6.png" group-title="🤠国际体育",Hub Sports 6
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Hub%20Sports%206&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9NjYyNWVhYWU0MTA=
+#EXTINF:-1 tvg-id="Hub Sports 7" tvg-name="Hub Sports 7" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-7.png" group-title="🤠国际体育",Hub Sports 7
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Hub%20Sports%207&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9N2UyNDBmMGE0MTE=
+#EXTINF:-1 tvg-id="Hub Sports 8" tvg-name="Hub Sports 8" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-8.png" group-title="🤠国际体育",Hub Sports 8
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Hub%20Sports%208&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9ODQyZDFlODQ0MTI=
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://epg-1.iill.top/logo/Spotv-1.png" group-title="🤠国际体育",Spotv 1
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Spotv%201&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9OGJhNWM4NzM0MTM=
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://epg-1.iill.top/logo/Spotv-2.png" group-title="🤠国际体育",Spotv 2
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Spotv%202&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9MTg4ZDU0MzA0MTQ=
+#EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://epg-1.iill.top/logo/Fight-Sports.png" group-title="🤠国际体育",Fight Sports
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Fight%20Sports&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9NTZmYWVjNmM0MTU=
+#EXTINF:-1 tvg-id="SkySp Cricket" tvg-name="SkySp Cricket" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Cricket.png" group-title="🤠国际体育",Sky Sports Cricket
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Sky%20Sports%20Cricket&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9ZmNkYjRjMGE0MTY=
+#EXTINF:-1 tvg-id="SkySp PL HD" tvg-name="SkySp PL HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Premier-League.png" group-title="🤠国际体育",Sky Sports Premier League
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Sky%20Sports%20Premier%20League&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9MWZmMzE5NTk0MTc=
+#EXTINF:-1 tvg-id="SkySp F1" tvg-name="SkySp F1" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-F1.png" group-title="🤠国际体育",Sky Sports F1
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Sky%20Sports%20F1&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9OGVlMGNkMDU0MTg=
+#EXTINF:-1 tvg-id="SkySp Mix HD" tvg-name="SkySp Mix HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Mix.png" group-title="🤠国际体育",Sky Sports Mix
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Sky%20Sports%20Mix&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9ZDJiYWQ2NTg0MTk=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="1788" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3db81b45be_Hh0H.png" tvg-name="Astro PL 1" group-title="體育",Astro PL 1
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Astro%20PL%201&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9NWEyN2M1YjYxNDA0
+#EXTINF:-1 tvg-id="2820" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687352fad593a_NYzy.png" tvg-name="Astro PL 1 (Back Up 1)" group-title="體育",Astro PL 1 (Back Up 1)
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Astro%20PL%201%20(Back%20Up%201)&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9ZTY4MWUyMmMxNDA1
+#EXTINF:-1 tvg-id="2839" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873530f773d3_901z.png" tvg-name="Astro PL 1 (Back Up 2)" group-title="體育",Astro PL 1 (Back Up 2)
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Astro%20PL%201%20(Back%20Up%202)&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9ZDY0NzkyZDgxNDA2
+#EXTINF:-1 tvg-id="2834" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6717d4ed62014_CLKW.jpeg" tvg-name="Astro W-Sports" group-title="體育",Astro W-Sports
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Astro%20W-Sports&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9OTkzNWMyMTgxNDA3
+#EXTINF:-1 tvg-id="2821" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687352e3bc356_Ze61.png" tvg-name="Astro PL 2" group-title="體育",Astro PL 2
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Astro%20PL%202&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9YjVjYzVmNDMxNDA4
+#EXTINF:-1 tvg-id="1922" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7e268145b2a_8D8s.png" tvg-name="WWE" group-title="體育",WWE
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=WWE&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9MWYwOTNjN2QxNDA5
+#EXTINF:-1 tvg-id="2085" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f32607f4a_wZ5H.png" tvg-name="博斯高球2 HD" group-title="體育",博斯高球2 HD
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%832%20HD&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9MmI1ZGFmNGMxNDEw
+#EXTINF:-1 tvg-id="2086" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f37b7740e_E2eC.png" tvg-name="博斯网球 HD" group-title="體育",博斯网球 HD
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=%E5%8D%9A%E6%96%AF%E7%BD%91%E7%90%83%20HD&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9YjFmY2FjZjExNDEx
+#EXTINF:-1 tvg-id="1694" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5c2e37740d88a_LHbt.png" tvg-name="NBA TV" group-title="體育",NBA TV
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=NBA%20TV&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9YzU0YWVhMTMxNDEy
+#EXTINF:-1 tvg-id="2651" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dbdc7d39e_Vd9U.png" tvg-name="Arena" group-title="體育",Arena
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Arena&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9NTUzMTA3ZDMxNDEz
+#EXTINF:-1 tvg-id="2710" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dbe7b03f2_4JBX.png" tvg-name="Arena 2" group-title="體育",Arena 2
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Arena%202&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9YjAyYmNhNjAxNDE0
+#EXTINF:-1 tvg-id="2781" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dc1dca270_C70Y.png" tvg-name="Arena Bola 2" group-title="體育",Arena Bola 2
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Arena%20Bola%202&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9NDRmYjkzMmYxNDE1
+#EXTINF:-1 tvg-id="2611" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6313d0823d489_cuuc.png" tvg-name="Astro Golf" group-title="體育",Astro Golf
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Astro%20Golf&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9NzYzZWYwMWUxNDE2
+#EXTINF:-1 tvg-id="1745" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ca85501a4694_01x0.jpg" tvg-name="RTM Sports HD" group-title="體育",RTM Sports HD
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=RTM%20Sports%20HD&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9M2UzZTE5NjcxNDE3
+#EXTINF:-1 tvg-id="2823" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687352f02420a_U9RC.png" tvg-name="Astro Football" group-title="體育",Astro Football
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Astro%20Football&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9YThhNDg3NDkxNDE4
+#EXTINF:-1 tvg-id="1791" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3daee1904e_K0Yv.png" tvg-name="Astro Football (Back Up 1)" group-title="體育",Astro Football (Back Up 1)
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Astro%20Football%20(Back%20Up%201)&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9OTk4NGI0OTUxNDE5
+#EXTINF:-1 tvg-id="2832" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873536f40b50_nnOO.png" tvg-name="Astro Badminton" group-title="體育",Astro Badminton
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Astro%20Badminton&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9ODkzOGYxYTkxNDIw
+#EXTINF:-1 tvg-id="2709" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/644eaba65a543_A0u6.png" tvg-name="SPOTV 1 HD" group-title="體育",SPOTV 1 HD
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=SPOTV%201%20HD&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9ZjllMjVlNmExNDIx
+#EXTINF:-1 tvg-id="2628" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/636ce992c5fb3_4XFa.png" tvg-name="SPO TV 2" group-title="體育",SPO TV 2
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=SPO%20TV%202&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9MDI0MjQ1MjkxNDIy
+#EXTINF:-1 tvg-id="1631" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ba76f63a5e4f_bnN4.png" tvg-name="CCTV-5 體育" group-title="體育",CCTV-5 體育
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=CCTV-5%20%E9%AB%94%E8%82%B2&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9NjE1ZGM4NmUxNDIz
+#EXTINF:-1 tvg-id="890" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21137727b90_Ay7G.png" tvg-name="CCTV-5+ 體育" group-title="體育",CCTV-5+ 體育
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=CCTV-5%2B%20%E9%AB%94%E8%82%B2&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9MTQ5Nzk2ZjkxNDI0
+#EXTINF:-1 tvg-id="1789" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5cdd7d464cc88_2Ong.jpg" tvg-name="Supersports 2" group-title="體育",Supersports 2
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Supersports%202&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9YWYwZjZlYzcxNDI1
+#EXTINF:-1 tvg-id="2822" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873520deb744_WA4y.png" tvg-name="Astro Grandstand" group-title="體育",Astro Grandstand
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Astro%20Grandstand&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9Y2MzMTYyODcxNDI2
+#EXTINF:-1 tvg-id="2653" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63b0f03b82a7a_ca4k.png" tvg-name="Astro Cricket" group-title="體育",Astro Cricket
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Astro%20Cricket&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9MTkyOGNiM2IxNDI3
+#EXTINF:-1 tvg-id="2764" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6951fec4a8044_bwpD.png" tvg-name="Tnt Sports 1" group-title="體育",Tnt Sports 1
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Tnt%20Sports%201&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9NjU4ZTU0MTIxNDI4
+#EXTINF:-1 tvg-id="1790" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dab338837_y8bs.png" tvg-name="Astro Grandstand (Back Up 1)" group-title="體育",Astro Grandstand (Back Up 1)
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Astro%20Grandstand%20(Back%20Up%201)&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9YjE0YzQzZTIxNDI5
+#EXTINF:-1 tvg-id="2765" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6951fed5dbbd6_2ez5.png" tvg-name="TNT Sports 2" group-title="體育",TNT Sports 2
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=TNT%20Sports%202&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9NDkwOGVhNzYxNDMw
+#EXTINF:-1 tvg-id="2766" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6951fee405567_7p3b.png" tvg-name="TNT Sports 3" group-title="體育",TNT Sports 3
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=TNT%20Sports%203&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9YWMxNDgzMzcxNDMx
+#EXTINF:-1 tvg-id="2767" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6951fef17a1b7_THvq.png" tvg-name="TNT Sports 4" group-title="體育",TNT Sports 4
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=TNT%20Sports%204&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9MTRhZmEwNjIxNDMy
+#EXTINF:-1 tvg-id="2610" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873535cc3304_c1LG.png" tvg-name="Astro Sports Plus" group-title="體育",Astro Sports Plus
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Astro%20Sports%20Plus&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9NmI4N2VlZGExNDMz
+#EXTINF:-1 tvg-id="2871" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937c66da8e5_u3ny.png" tvg-name="Elta体育1台" group-title="體育",Elta体育1台
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Elta%E4%BD%93%E8%82%B21%E5%8F%B0&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9ZWUyYjgwYTAxNDM0
+#EXTINF:-1 tvg-id="1541" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cf42c66b7_iSKc.png" tvg-name="Elta體育2台" group-title="體育",Elta體育2台
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Elta%E9%AB%94%E8%82%B22%E5%8F%B0&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9OWMwNzVjMWMxNDM1
+#EXTINF:-1 tvg-id="2578" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/628f3a3f9692d_U55i.png" tvg-name="Elta體育3台" group-title="體育",Elta體育3台
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Elta%E9%AB%94%E8%82%B23%E5%8F%B0&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9NGJkNTRlNzIxNDM2
+#EXTINF:-1 tvg-id="2695" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64007fee62c4f_Sk2S.png" tvg-name="Rugby Pass TV" group-title="體育",Rugby Pass TV
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Rugby%20Pass%20TV&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9N2Q5YjFiMmExNDM3
+#EXTINF:-1 tvg-id="2825" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66d49c6028713_cGsV.jpeg" tvg-name="Astro Beinsports 1" group-title="體育",Astro Beinsports 1
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Astro%20Beinsports%201&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9YTQ3YWE5YzcxNDM4
+#EXTINF:-1 tvg-id="2826" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66d49c8fe4e81_wV3l.jpeg" tvg-name="Astro Beinsports 2" group-title="體育",Astro Beinsports 2
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Astro%20Beinsports%202&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9Y2JjMjE1NGUxNDM5
+#EXTINF:-1 tvg-id="2827" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66d49ca8b4d0f_h999.jpeg" tvg-name="Astro Beinsports 3" group-title="體育",Astro Beinsports 3
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Astro%20Beinsports%203&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9MzQ5MmNhZGIxNDQw
+#EXTINF:-1 tvg-id="2861" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b83271dcd_Bwme.png" tvg-name="Skysports Cricket" group-title="體育",Skysports Cricket
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Skysports%20Cricket&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9NjRjZmQzNzgxNDQx
+#EXTINF:-1 tvg-id="2862" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b85b83d1f_l6Dz.png" tvg-name="Skysports EPL" group-title="體育",Skysports EPL
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Skysports%20EPL&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9ZGEwZTZiYTYxNDQy
+#EXTINF:-1 tvg-id="2863" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b87c2d727_E7CU.png" tvg-name="Skysports F1" group-title="體育",Skysports F1
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Skysports%20F1&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9MDgxMGY2OWMxNDQz
+#EXTINF:-1 tvg-id="2864" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b8a043a6f_1ZT6.png" tvg-name="Skysports Golf" group-title="體育",Skysports Golf
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Skysports%20Golf&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9ZDdmN2U4ZDIxNDQ0
+#EXTINF:-1 tvg-id="2865" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b8c44cc6f_ILRn.png" tvg-name="Skysports Main Event" group-title="體育",Skysports Main Event
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Skysports%20Main%20Event&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9NTI5MTBmNDQxNDQ1
+#EXTINF:-1 tvg-id="2866" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b8daa4763_e00V.png" tvg-name="Skysports Mix" group-title="體育",Skysports Mix
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Skysports%20Mix&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9ZWRiZThjNDIxNDQ2
+#EXTINF:-1 tvg-id="2867" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b9cd53a9b_MMsH.png" tvg-name="Skysports Racing" group-title="體育",Skysports Racing
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Skysports%20Racing&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9N2I0OTVkNTMxNDQ3
+#EXTINF:-1 tvg-id="2869" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a3c30070_7uCt.png" tvg-name="DAZN 1" group-title="體育",DAZN 1
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=DAZN%201&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9ZWRmNThhOTkxNDQ4
+#EXTINF:-1 tvg-id="2870" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a5570df2_vtEZ.png" tvg-name="DAZN 2" group-title="體育",DAZN 2
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=DAZN%202&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9YTJkY2U0ODExNDQ5
+#EXTINF:-1 tvg-id="2890" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcdd832b40_4793.png" tvg-name="Eurosport" group-title="體育",Eurosport
+https://virtual.anbox118.workers.dev/resolve?session=2828bcb0-40b4-49fa-9a62-24ce5b0aaefe&channel=Eurosport&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9ZWU3MTAyNzIxNDUw
