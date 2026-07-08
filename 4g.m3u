@@ -78,8 +78,6 @@ http://4.537224.xyz/live/4gtv-4gtv058
 http://4.537224.xyz/live/4gtv-4gtv045
 #EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="電影戲劇",經典電影台
 http://4.537224.xyz/live/4gtv-live021
-#EXTINF:-1 tvg-id="GagaOOLala 精選LGBTQ+好劇" tvg-name="GagaOOLala 精選LGBTQ+好劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live139_mobile.png" group-title="電影戲劇",GagaOOLala 精選LGBTQ+好劇
-http://4.537224.xyz/live/4gtv-live139
 
 
 #EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live080_mobile.png" group-title="音樂綜藝",ROCK Entertainment
@@ -158,13 +156,13 @@ http://4.537224.xyz/live/4gtv-live071
 #EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LiveABC互動英語頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live030_mobile.png" group-title="生活旅遊",LiveABC互動英語頻道
 http://4.537224.xyz/live/4gtv-live030
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.png" group-title="生活旅遊",ELTV生活英語台
-http://4.537224.xyz/live/4gtv-live132
+http://4.537224.xyz/live/litv-xinchuang20
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv07_mobile.png" group-title="生活旅遊",民視旅遊台
 http://4.537224.xyz/live/litv-ftv07
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="生活旅遊",亞洲旅遊台
 http://4.537224.xyz/live/4gtv-4gtv076
 #EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live206_mobile.png" group-title="生活旅遊",幸福空間居家台
-http://4.537224.xyz/live/4gtv-live206
+http://4.537224.xyz/live/4gtv-4gtv064
 #EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="生活旅遊",愛爾達生活旅遊台
 http://4.537224.xyz/live/4gtv-live120
 #EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="生活旅遊",滾動力rollor
@@ -176,6 +174,22 @@ http://4.537224.xyz/live/4gtv-live122
 #EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live110_mobile.png" group-title="生活旅遊",Pet Club TV
 http://4.537224.xyz/live/4gtv-4gtv110
 
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_litv-longturn07_pc.png" group-title="體育競技",博斯運動一台
+http://4.537224.xyz/live/litv-xinchuang07
+#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_litv-longturn08_pc.png" group-title="體育競技",博斯運動二台
+http://4.537224.xyz/live/litv-xinchuang08
+#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_litv-longturn09_pc.png" group-title="體育競技",博斯網球台
+http://4.537224.xyz/live/litv-xinchuang09
+#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_litv-longturn05_pc.png" group-title="體育競技",博斯高球台
+http://4.537224.xyz/live/litv-xinchuang05
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_litv-longturn06_pc.png" group-title="體育競技",博斯高球二台
+http://4.537224.xyz/live/litv-xinchuang06
+#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_litv-longturn10_pc.png" group-title="體育競技",博斯無限台
+http://4.537224.xyz/live/litv-xinchuang10
+#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_litv-longturn10_pc.png" group-title="體育競技",博斯無限二台
+http://4.537224.xyz/live/litv-xinchuang13
+#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_litv-longturn04_pc.png" group-title="體育競技",博斯魅力台
+http://4.537224.xyz/live/litv-xinchuang04
 #EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2%E5%8F%B0.png",緯來體育台
 https://cdn.qd.je/163189/wlty
 #EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv077_mobile.png" group-title="體育競技",TRACE Sport Stars
@@ -188,8 +202,6 @@ http://4.537224.xyz/live/4gtv-4gtv014
 http://4.537224.xyz/live/4gtv-live201
 #EXTINF:-1 tvg-id="GINX Esports TV" tvg-name="GINX Esports TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv053_mobile.png" group-title="體育競技",GINX Esports TV
 http://4.537224.xyz/live/4gtv-4gtv053
-#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_INULTRA_mobile.png" group-title="綜合其他",INULTRA
-http://4.537224.xyz/live/4gtv-live096
 
 
 
