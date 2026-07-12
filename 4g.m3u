@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml"
+
 #EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" group-title="綜合其他",三立綜合台
 http://4.537224.xyz/live/4gtv-live207
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="綜合其他",民視第一台
@@ -28,17 +30,17 @@ http://4.537224.xyz/live/4gtv-live138
 http://4.537224.xyz/live/4gtv-live124
 #EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" group-title="電影戲劇",采昌影劇台
 http://4.537224.xyz/live/4gtv-4gtv049
-#EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1%E5%8F%B0.png",緯來電影台
+#EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1%E5%8F%B0.png" group-title="電影戲劇",緯來電影台
 https://cdn.qd.je/163189/wldy
-#EXTINF:-1 tvg-id="緯來戲劇台" tvg-name="緯來戲劇台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%BA%AC%E6%9D%A5%E6%88%8F%E5%89%A7%E5%8F%B0.png",纬来戏剧台
+#EXTINF:-1 tvg-id="緯來戲劇台" tvg-name="緯來戲劇台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%BA%AC%E6%9D%A5%E6%88%8F%E5%89%A7%E5%8F%B0.png" group-title="電影戲劇",緯來戲劇台
 https://cdn.qd.je/163189/wlxj
-#EXTINF:-1 tvg-id="龍祥时代" tvg-name="龍祥时代" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E9%BE%99%E7%A5%A5%E6%97%B6%E4%BB%A3%E5%8F%B0.png",龍祥时代
+#EXTINF:-1 tvg-id="龍祥时代" tvg-name="龍祥时代" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E9%BE%99%E7%A5%A5%E6%97%B6%E4%BB%A3%E5%8F%B0.png" group-title="電影戲劇",龍祥时代
 https://cdn.qd.je/163189/lxsd
-#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1%E5%8F%B0.png",東森電影台
+#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1%E5%8F%B0.png" group-title="電影戲劇",東森電影台
 https://cdn.qd.je/163189/dsdy
-#EXTINF:-1 tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7%E5%8F%B0.png",東森戲劇台
+#EXTINF:-1 tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7%E5%8F%B0.png" group-title="電影戲劇",東森戲劇台
 https://cdn.qd.je/163189/dsxj
-#EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87%E5%8F%B0.png",東森洋片台
+#EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87%E5%8F%B0.png" group-title="電影戲劇",東森洋片台
 https://cdn.qd.je/163189/dsyp
 #EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="電影戲劇",靖天映畫
 http://4.537224.xyz/live/4gtv-4gtv055
@@ -190,7 +192,7 @@ http://4.537224.xyz/live/litv-xinchuang10
 http://4.537224.xyz/live/litv-xinchuang13
 #EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_litv-longturn04_pc.png" group-title="體育競技",博斯魅力台
 http://4.537224.xyz/live/litv-xinchuang04
-#EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2%E5%8F%B0.png",緯來體育台
+#EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2%E5%8F%B0.png" group-title="體育競技",緯來體育台
 https://cdn.qd.je/163189/wlty
 #EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv077_mobile.png" group-title="體育競技",TRACE Sport Stars
 http://4.537224.xyz/live/4gtv-4gtv077
