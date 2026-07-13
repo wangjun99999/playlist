@@ -1,25 +1,23 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml"
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/东方卫视.png" group-title="上海频道",东方卫视
-http://192.168.2.98:5678/kdf.php?id=2030
+http://192.168.2.98:5678/shtv.php?id=2030
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/五星体育.png" group-title="上海频道",五星体育
-https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+http://192.168.2.98:5678/shtv.php?id=1605
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/五星体育.png" group-title="上海频道",五星体育
-http://cdn3.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/五星体育.png" group-title="上海频道",五星体育
-http://192.168.2.98:5678/kdf.php?id=1605
+https://cdn.qd.je/163189/wxty
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/上海新闻综合.png" group-title="上海频道",上海新闻综合
-http://192.168.2.98:5678/kdf.php?id=20
+http://192.168.2.98:5678/shtv.php?id=20
 #EXTINF:-1 tvg-id="都市频道" tvg-name="都市频道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/上海都市.png" group-title="上海频道",上海都市
-http://192.168.2.98:5678/kdf.php?id=18
+http://192.168.2.98:5678/shtv.php?id=18
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/第一财经.png" group-title="上海频道",第一财经
-http://192.168.2.98:5678/kdf.php?id=21
+http://192.168.2.98:5678/shtv.php?id=21
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/新纪实.png" group-title="上海频道",新纪实
-http://192.168.2.98:5678/kdf.php?id=1600
+http://192.168.2.98:5678/shtv.php?id=1600
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/魔都眼.png" group-title="上海频道",魔都眼
-http://192.168.2.98:5678/kdf.php?id=1601
+http://192.168.2.98:5678/shtv.php?id=1601
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/爱上海.png" group-title="上海频道",爱上海
-http://192.168.2.98:5678/kdf.php?id=2029
+http://192.168.2.98:5678/shtv.php?id=2029
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K.png" group-title="北京频道",北京卫视4K
 http://192.168.2.98:5678/BJ.php?id=bjws4k
