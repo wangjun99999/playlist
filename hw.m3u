@@ -1343,12 +1343,15 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560410/index.mpd
 #EXTINF:-1 tvg-id="National.Geographic.lt" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/LT/National%20Geographic.png" group-title="Lithuania 🇱🇹",National Geographic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
+https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
 
 #EXTINF:-1 tvg-id="National.Geographic.Wild.lt" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/LT/National%20Geographic%20Wild.png" group-title="Lithuania 🇱🇹",National Geographic Wild
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffa7c3ca6020428c919e13b817b7e31b:adf163c6c1729e6f77668d4e49f32352
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561201/index.mpd
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561201/index.mpd
 
 #EXTINF:-1 tvg-id="Animal.Planet.lt" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/VN/Animal%20Planet.png" group-title="Lithuania 🇱🇹",Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
