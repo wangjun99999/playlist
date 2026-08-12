@@ -42,3 +42,200 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 
 
 
+
+#EXTINF: -1 tvg-chno="71.3" tvg-id="FS1.HD.us2" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82547_dark_360w_270h.png" group-title="🇺🇸 USA Sports 🇺🇸", Fox Sports 1 US HD
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/us_fs1/index.m3u8
+
+#EXTINF: -1 tvg-chno="71.4" tvg-id="FS2.HD.us2" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="🇺🇸 USA Sports 🇺🇸", Fox Sports 2 US HD
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/us_fs2/index.m3u8
+
+#EXTINF:-1 tvg-chno="71.24" tvg-id="CBS.Sports.Network.HD.us2"  tvg-logo="https://epg.iptvx.one/picons/cbs-sports-network-us.png" group-title="🇺🇸 USA Sports 🇺🇸", CBS Sports Network
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/us_cbssportsnetwork/index.m3u8
+
+#EXTINF:-1 tvg-chno="73" tvg-id="PT | DAZN 1" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="SPORTS PORTUGAL" , PT | DAZN 1
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-chno="73.1" tvg-id="PT | DAZN 2" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="SPORTS PORTUGAL" , PT | DAZN 2
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 tvg-chno="73.2" tvg-id="PT | DAZN 3" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" group-title="SPORTS PORTUGAL" , PT | DAZN 3
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 tvg-chno="73.3" tvg-id="PT | DAZN 4" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" group-title="SPORTS PORTUGAL" , PT | DAZN 4
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/pt_elevensport4/index.m3u8
+
+#EXTINF:-1 tvg-chno="73.4" tvg-id="PT | DAZN 5" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" group-title="SPORTS PORTUGAL" , PT | DAZN 5
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/pt_elevensport5/index.m3u8
+
+#EXTINF:-1 tvg-chno="73.5" tvg-id="PT | DAZN 6" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%206.png" group-title="SPORTS PORTUGAL"  , PT | DAZN 6
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/pt_elevensport6/index.m3u8
+
+#EXTINF:-1 tvg-chno="73.6" tvg-id="PT | Sport TV 1" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%201.png" group-title="SPORTS PORTUGAL" , PT | Sport TV 1
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/pt_sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-chno="73.7" tvg-id="PT | Sport TV 2" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%202.png" group-title="SPORTS PORTUGAL" , PT | Sport TV 2
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/pt_sporttv2/index.m3u8
+
+#EXTINF:-1 tvg-chno="73.8" tvg-id="PT | Sport TV 3" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%203.png" group-title="SPORTS PORTUGAL" , PT | Sport TV 3
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/pt_sporttv3/index.m3u8
+
+#EXTINF:-1 tvg-chno="73.9" tvg-id="PT | Sport TV 4" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%204.png" group-title="SPORTS PORTUGAL" ,PT | Sport TV 4
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/pt_sporttv4/index.m3u8
+
+#EXTINF:-1 tvg-chno="73.10" tvg-id="PT | Sport TV 5" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%205.png" group-title="SPORTS PORTUGAL" ,PT | Sport TV 5
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/pt_sporttv5/index.m3u8
+
+#EXTINF:-1 tvg-chno="73.11" tvg-id="PT | Sport TV 6" tvg-name="" logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/566/" group-title="SPORTS PORTUGAL" ,PT | Sport TV 6
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/pt_sporttvnba/index.m3u8
+
+#EXTINF:-1 tvg-chno="73.11" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%206.png" group-title="SPORTS PORTUGAL" ,PT | Sport TV NBA
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/pt_sporttvnba/index.m3u8
+
+#EXTINF:-1 tvg-chno="77.1" tvg-id="I1241.82450.schedulesdirect.org" tvg-name="TNT Sports 1"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" group-title="#🇬🇧 UK Sport 🇬🇧#",TNT Sports 1 🇬🇧
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/uk_bts1/index.m3u8
+
+#EXTINF:-1 tvg-chno="77.2" tvg-id="I1246.82451.schedulesdirect.org" tvg-name="TNT Sports 2"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" group-title="#🇬🇧 UK Sport 🇬🇧#",TNT Sports 2 🇬🇧
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/uk_bts2/index.m3u8
+
+#EXTINF:-1 tvg-chno="77.3" tvg-name="TNT Sports 3"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" group-title="#🇬🇧 UK Sport 🇬🇧#",TNT Sports 3 🇬🇧
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/uk_bts3/index.m3u8
+
+#EXTINF:-1 tvg-chno="77.4" tvg-name="TNT Sports 4"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%204.png" group-title="#🇬🇧 UK Sport 🇬🇧#",TNT Sports 4 🇬🇧
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/uk_bts4/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="77.6" tvg-id="sky-sports-football" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/sky-sports-football.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Football [UK]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/uk_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-chno="77.7" tvg-id="sky-sports-apl" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/sky-sports-apl.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Premier League [UK]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/uk_ssepl/index.m3u8
+
+#EXTINF:-1 tvg-chno="77.8" tvg-id="sky-sports-maine" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/sky-sports-maine.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Main Event [UK]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/uk_ssmain/index.m3u8
+
+#EXTINF:-1 tvg-chno="77.9" tvg-id="sky-sports-action" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/sky-sports-action.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Action / NFL [UK]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/uk_ssaction/index.m3u8
+
+#EXTINF:-1 tvg-chno="77.10" tvg-id="sky-sports-arena" tvg-name="Sky Sports+ HD" tvg-logo="https://epg.iptvx.one/picons/sky-sports-arena.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports + [UK]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/uk_ssarena/index.m3u8
+
+#EXTINF:-1 tvg-chno="77.10" tvg-id="sky-sports-mix" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/sky-sports-mix.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Mix [UK]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/uk_ssmix/index.m3u8
+
+#EXTINF:-1 tvg-chno="77.10" tvg-id="sky-sports-f1-uhd-uk" tvg-logo="https://epg.iptvx.one/picons/sky-sports-f1-uhd-uk.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports F1 UHD [UK]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/uk_ssf1/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-chno="100" tvg-id="Sky.Sports.Football.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104327_dark_360w_270h.png" group-title="TV",Sky Sports Football
+http://79.143.16.38:80/stream/236/ssfoothvec.ts
+
+#EXTINF:-1 tvg-chno="101" tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://images.open-epg.com/x468.png" group-title="TV",Sky Sports Main Event
+http://79.143.16.38:80/stream/234/ssmehvec.ts
+
+#EXTINF:-1 tvg-chno="102" tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027JYG2.png_dark_360w_270h.png" group-title="TV",Sky Sports News
+http://79.143.16.38:80/stream/242/ssnewsfhd.ts
+
+#EXTINF:-1 tvg-chno="103" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89362_gray_360w_270h.png" group-title="TV",Sky Sports Premier League
+http://79.143.16.38:80/stream/235/sspremhvec.ts
+
+#EXTINF:-1 tvg-chno="120" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97542_dark_360w_270h.png" group-title="TV",TNT Sports 1
+http://79.143.16.38:80/stream/243/tnt1fhd.ts
+
+#EXTINF:-1 tvg-chno="121" tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82449_dark_360w_270h.png" group-title="TV",TNT Sports 2
+http://79.143.16.38:80/stream/244/tnt2fhd.ts
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="TV",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Cinemax.Classics.us2" tvg-name="Cinemax Classics" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0029CS01.png?w=360&h=270" group-title="TV",Cinemax Classics
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+
+#EXTINF:-1 tvg-chno="35" tvg-id="Disney.Junior.HD.(Pacific).us2" tvg-name="Disney Jr" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60506_dark_360w_270h.png" group-title="TV",Disney Jr
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+
+#EXTINF:-1 tvg-chno="36" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="TV",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+
