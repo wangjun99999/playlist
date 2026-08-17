@@ -755,7 +755,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4
 #EXTINF:-1 tvg-id="stream-a37e464b-51e6-48bf-8d2b-890bfa0639c1" tvg-name="Sky Sports 2 UHD" group-title="英国频道",Sky Sports 2 UHD
 #EXTINF:-1 tvg-id="stream-4b53bd4f-5737-4ada-83b8-24901a462f97" tvg-name="TNT Sports Ultimate UHD" group-title="英国频道",TNT Sports Ultimate UHD
 #EXTINF:-1 tvg-id="stream-b703b588-fb18-446e-b016-b4861de930d1" tvg-name="Sky Sports Main Event UHD" group-title="英国频道",Sky Sports Main Event
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577997&extension=ts&play_token=TyULeMkK9O&sn2=
+http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577978&extension=ts&play_token=Z02y0Jzs4M&sn2=
 #EXTINF:-1 tvg-id="stream-dec42447-dd34-4756-8e48-4a59a5f9c66f" tvg-name="Sky Sports F1 UHD" group-title="英国频道",Sky Sports F1
 #EXTINF:-1 tvg-id="stream-190a7cb7-9a55-496e-888e-148a70cd7af3" tvg-name="Sky Sports Premier League" group-title="英国频道",Sky Sports Premier League
 #EXTINF:-1 tvg-id="stream-1900ccd9-9a38-4b45-88d0-74a23d8f880e" tvg-name="Sky Sports Football" group-title="英国频道",Sky Sports Football
