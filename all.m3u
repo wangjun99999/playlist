@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://192.168.2.98:9100/api/epg/aggregated.xml.gz?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da"
 
 #EXTINF:-1 tvg-id="stream-15ed3d5c-8c28-41f5-9b43-6e7d379d6dd4" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV1.png" group-title="央视卫视",CCTV1综合
 http://go.bkpcp.top/mg/cctv1
@@ -228,9 +228,8 @@ https://cdn.qd.je/163189/dsyp
 
 
 
-Love Nature 4K
+#EXTINF:-1 tvg-id="stream-ca621c99-80e1-4f77-a00c-56a182109fdd" tvg-name="Love Nature 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Love_Nature_4K_2025.svg/revision/latest?cb=20260611123236" group-title="海外频道",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
-
 
 #EXTINF:-1 tvg-id="stream-36ed5b9e-d3c2-4181-9396-6a61ef885017" tvg-name="FS1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/FS1.png" group-title="海外频道",FS1 🇺🇸
 http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3kremF5K0dsZGJuVE9SaHViVVFYVUdQZkxIZ3lGTllRLzZMOHYyNG81MGVPYQ
@@ -239,15 +238,15 @@ http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3krN25BZnRXT2JSbzBoVmFoaVJ
 #EXTINF:-1 tvg-id="stream-bf7542be-31a5-46c7-92f1-b51c4da45a1d" tvg-name="beIN Sports Xtra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/BeIN_Xtra.PNG/revision/latest/scale-to-width-down/1000?cb=20201108180437" group-title="海外频道",beIN Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
-beIN Sports MAX 1
+#EXTINF:-1 tvg-id="stream-41f968c7-a7ba-47b3-868b-4aa482b8721f" tvg-name="beIN Sports MAX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/BeIN_Sports_MAX_1_logo.svg" group-title="海外频道",beIN Sports MAX 1
 http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3kreUEvNjVLdDRXWFM0MjhyekczRitJTjZyMlIzYUpHOEhueVh2c1c0eGRIRw
-2
+#EXTINF:-1 tvg-id="stream-aa5f870a-5b04-4d67-93a6-33595bf94440" tvg-name="beIN Sports MAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/BeIN_Sports_MAX_2_logo.svg" group-title="海外频道",beIN Sports MAX 2
 http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3krd2hhTXN6RHhuVjUzbk1uakhQblEwdk84OHFCOVowSHJTY3YyNHJKQVZIeA
-3
+#EXTINF:-1 tvg-id="stream-ae875674-00dc-4969-ab19-ebd76962b00e" tvg-name="beIN Sports MAX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/BeIN_Sports_MAX_3_logo.svg" group-title="海外频道",beIN Sports MAX 3
 http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3krOWRYTXkyZGNjVGc0dThkUWRzSXVwS2laYkZxY2FBb1VXSzNLRUFMOEdBSw
-4
+#EXTINF:-1 tvg-id="stream-cd8288d8-ac54-4747-9695-357dda0cf910" tvg-name="beIN Sports MAX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/BeIN_Sports_MAX_4_logo.svg" group-title="海外频道",beIN Sports MAX 4
 http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3krMk9paHRUMU91Zjg4QmR6SlQ2Q1lNbUJIdExUWWhwYVhCQ2lHQTZXeXhrMA
-5
+#EXTINF:-1 tvg-id="stream-3f0f87b6-a0b5-484b-9737-69a6f5861a08" tvg-name="beIN Sports MAX 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/BeIN_Sports_MAX_5_logo.svg" group-title="海外频道",beIN Sports MAX 5
 http://a1.media1.london:8080/aUhtV1JFQVNsV3cyR25DSng1a3krL1pYM3lpSlJFZjk4YitpWk1mOFJ0UTRHVlphYjQwQXFzZkJiREJRNnpXZw
 
 #EXTINF:-1 tvg-id="stream-312b6a62-55f5-4011-9c1a-ff97ca849461" tvg-name="Eurosport1 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%201.png" group-title="海外频道",Eurosport 1 🇨🇿
@@ -682,66 +681,60 @@ https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 
 
 
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/X0_677459da6e859_2000.png" group-title="ABC Channels",ABC TV
+#EXTINF:-1 tvg-id="stream-c9b71e3f-ccc0-4864-809d-d80b42e0bcb1" tvg-name="ABC TV" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/X0_677459da6e859_2000.png" group-title="ABC频道",ABC TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c75465966be494a8b685a3bc1fea5b5:81c825e32de24449c770d1a120606939
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/1ead6af29a8c4434a70db196b8628580/index.mpd
 
-#EXTINF:-1#EXTINF:-1 tvg-logo="" group-title="ABC Channels",ABC News
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83b7c942bf0c4a2d80a299426da2d764:5b1dd642b5a6317e00335eda59dfb07e
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/7e1cd32d1ec24845bf7bf3d9c60704e6/index.mpd
-
-#EXTINF:-1#EXTINF:-1 tvg-logo="" group-title="ABC Channels",ABC Cartoons
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ABC Channels",ABC Cartoons
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aec51cf82ef14226a097a4ff91b7b32e:652bcaec397fb789fa5138fd3461333c
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7d3261703c4a29/index.mpd
 
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/X0_6699ec6dd9d1a_2000.png" group-title="ABC Channels",ABC Entertains
+#EXTINF:-1 tvg-id="stream-ca1d5848-4c9c-464f-b182-ed7169919eab" tvg-name="ABC Entertains" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/X0_6699ec6dd9d1a_2000.png" group-title="ABC频道",ABC Entertains
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ffe9e9a5e6648e884d741b536d34e72:86dead7608ebf2d8028416add9b8769b
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/4e08e6a57a334d0bb1cb2fc80532861c/index.mpd
 
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/X0_6699ecb28b272_2000.png" group-title="ABC Channels",ABC Family
+#EXTINF:-1 tvg-id="stream-fb51611a-fe92-47c9-ad22-b07e9a2272ba" tvg-name="ABC Family" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/X0_6699ecb28b272_2000.png" group-title="ABC频道",ABC Family
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=561611703c4b4749973a73e7bb1d0af2:f90bd049ac3734d46fe66f89f02f1f0f
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/37140e68f8124d45a0dc673d3a34af11/index.mpd
 
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://cdn.iview.abc.net.au/thumbs/144/X0_6699ed498cfe3_2000.png" group-title="ABC Channels",ABC Kids
+#EXTINF:-1 tvg-id="stream-35f3fb4b-9a8d-4906-b80d-6150664641dd" tvg-name="ABC Kids" tvg-logo="https://cdn.iview.abc.net.au/thumbs/144/X0_6699ed498cfe3_2000.png" group-title="ABC频道",ABC Kids
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b70a4c3a102b47ec832d11da8a024161:8bd84110abda56e41511c16feaa2de69
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e44289312adb342b0f7ad/index.mpd
 
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://cdn.iview.abc.net.au/thumbs/144/X0_67c4f12f67a22_2000.png" group-title="ABC Channels",ABC Kids All Aussie
+#EXTINF:-1 tvg-id="stream-c552f661-f7b5-4064-9819-0f8433eb3e55" tvg-name="ABC Kids All Aussie" tvg-logo="https://cdn.iview.abc.net.au/thumbs/144/X0_67c4f12f67a22_2000.png" group-title="ABC频道",ABC Kids All Aussie
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5adc6dfdcbcf42638a64858190992fab:c036a7b9963ac34d89bbebe3ed071cc0
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8da66660000f4c05921b166bb4cee65e/index.mpd
 
-#EXTINF:-1#EXTINF:-1 tvg-logo="" group-title="ABC Channels",ABC Big Kids All Aussie
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ABC Channels",ABC Big Kids All Aussie
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c13253f2ed45318e5b6e5d799c5956:38ddb989dfb05091db949ce404de52e5
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/94adcb14be98408cbda4b7b404e94fb4/index.mpd
 
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://cdn.iview.abc.net.au/thumbs/144/X0_67c4f1b64674b_2000.png" group-title="ABC Channels",ABC Kids Play School
+#EXTINF:-1 tvg-id="stream-cd3a9067-da6b-4215-b4b0-1d8b75eca4f0" tvg-name="ABC Kids Play School" tvg-logo="https://cdn.iview.abc.net.au/thumbs/144/X0_67c4f1b64674b_2000.png" group-title="ABC频道",ABC Kids Play School
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=593adcf2ed594c2ba2aeee9539b43f5c:b47e01622b87a37374dae5fb3645e4a8
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8ca49b4e0bec4bbb84f14c4f18e88697/index.mpd
 
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://cdn.iview.abc.net.au/thumbs/144/X0_67c4f22fb251f_2000.png" group-title="ABC Channels",ABC Kids Play Music
+#EXTINF:-1 tvg-id="stream-226ccd98-39c8-49ef-8238-843456985475" tvg-name="ABC Kids Play Music" tvg-logo="https://cdn.iview.abc.net.au/thumbs/144/X0_67c4f22fb251f_2000.png" group-title="ABC频道",ABC Kids Play Music
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ceeaf88efed649d898646d151439b6bd:e35e2727d4d8618247c1b2f223ed9cfa
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af9f49e29e7b352/index.mpd
 
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Wfc6jYSfCQ3ojDHVTbAgDG8bdh88XAcHs7hvU4SB0B5HMrS59vFPNAho9UR612crpBe6egt2=s900-c-k-c0x00ffffff-no-rj" group-title="ABC Channels",ABC Big Kids
+#EXTINF:-1 tvg-id="stream-3bd93759-35da-4a93-a7b6-e2bd52b7c200" tvg-name="ABC Big Kids" tvg-logo="https://yt3.googleusercontent.com/Wfc6jYSfCQ3ojDHVTbAgDG8bdh88XAcHs7hvU4SB0B5HMrS59vFPNAho9UR612crpBe6egt2=s900-c-k-c0x00ffffff-no-rj" group-title="ABC频道",ABC Big Kids
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab4a24725b1c47e7ae3c0f17ab020905:214f5979b5a30a0b3cda03085006a77f
