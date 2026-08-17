@@ -1,52 +1,52 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV1.png" group-title="央视卫视",CCTV1综合
+#EXTINF:-1 tvg-id="stream-15ed3d5c-8c28-41f5-9b43-6e7d379d6dd4" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV1.png" group-title="央视卫视",CCTV1综合
 http://go.bkpcp.top/mg/cctv1
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV2.png" group-title="央视卫视",CCTV2财经
+#EXTINF:-1 tvg-id="stream-e69e9a49-ef2a-4778-a315-5368b8f21236" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV2.png" group-title="央视卫视",CCTV2财经
 http://go.bkpcp.top/mg/cctv2
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV3.png" group-title="央视卫视",CCTV3综艺
+#EXTINF:-1 tvg-id="stream-2163ed82-84cc-4344-9db5-b46d90a1b427" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV3.png" group-title="央视卫视",CCTV3综艺
 http://go.bkpcp.top/mg/cctv3
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV4.png" group-title="央视卫视",CCTV4中文国际
+#EXTINF:-1 tvg-id="stream-d6e5efee-cef2-479a-ad9c-898bfebb6349" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV4.png" group-title="央视卫视",CCTV4中文国际
 http://go.bkpcp.top/mg/cctv4
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV4欧洲.png" group-title="央视卫视",CCTV4欧洲
 http://go.bkpcp.top/mg/cctv4o
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV4美洲.png" group-title="央视卫视",CCTV4美洲
 http://go.bkpcp.top/mg/cctv4m
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV5.png" group-title="央视卫视",CCTV5体育
+#EXTINF:-1 tvg-id="stream-27af2822-36ea-4e57-8f0c-afccbdf93950" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV5.png" group-title="央视卫视",CCTV5体育
 http://go.bkpcp.top/mg/cctv5
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV5+.png" group-title="央视卫视",CCTV5+体育赛事
+#EXTINF:-1 tvg-id="stream-41d519f4-297e-4ea5-a869-fe3a31105e3d" tvg-name="CCTV5+ tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV5+.png" group-title="央视卫视",CCTV5+体育赛事
 http://go.bkpcp.top/mg/cctv5p
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV6.png" group-title="央视卫视",CCTV6电影
+#EXTINF:-1 tvg-id="stream-1957b10d-79e5-406e-9307-fa6b36b63a74" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV6.png" group-title="央视卫视",CCTV6电影
 http://go.bkpcp.top/mg/cctv6
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV7.png" group-title="央视卫视",CCTV7国防军事
+#EXTINF:-1 tvg-id="stream-abda77dc-1778-4bbb-8f0b-691602b00711" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV7.png" group-title="央视卫视",CCTV7国防军事
 http://go.bkpcp.top/mg/cctv7
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV8.png" group-title="央视卫视",CCTV8电视剧
+#EXTINF:-1 tvg-id="stream-54d868a7-2d23-4be8-a775-71ebbbc5e5d3" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV8.png" group-title="央视卫视",CCTV8电视剧
 http://go.bkpcp.top/mg/cctv8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV9.png" group-title="央视卫视",CCTV9记录
+#EXTINF:-1 tvg-id="stream-671939c8-af6d-4874-8551-b50669c3fd10" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV9.png" group-title="央视卫视",CCTV9记录
 http://go.bkpcp.top/mg/cctv9
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV10.png" group-title="央视卫视",CCTV10科教
+#EXTINF:-1 tvg-id="stream-4a94f082-514a-4a1e-97c4-06ec121a66a7" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV10.png" group-title="央视卫视",CCTV10科教
 http://go.bkpcp.top/mg/cctv10
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV11.png" group-title="央视卫视",CCTV11戏曲
+#EXTINF:-1 tvg-id="stream-66ce4fee-d87b-4286-a493-15f281f12ba4" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV11.png" group-title="央视卫视",CCTV11戏曲
 http://go.bkpcp.top/mg/cctv11
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV12.png" group-title="央视卫视",CCTV12社会与法
+#EXTINF:-1 tvg-id="stream-85d0383c-db27-4175-971f-b0c65c783e59" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV12.png" group-title="央视卫视",CCTV12社会与法
 http://go.bkpcp.top/mg/cctv12
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV13.png" group-title="央视卫视",CCTV13新闻
+#EXTINF:-1 tvg-id="stream-c98ca3a1-35d8-4d57-85f5-7ec69b44f804" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV13.png" group-title="央视卫视",CCTV13新闻
 http://go.bkpcp.top/mg/cctv13
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV14.png" group-title="央视卫视",CCTV14少儿
+#EXTINF:-1 tvg-id="stream-4b4ff7db-8dba-42cc-b2d3-6c9e1884ef59" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV14.png" group-title="央视卫视",CCTV14少儿
 http://go.bkpcp.top/mg/cctv14
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV15.png" group-title="央视卫视",CCTV15音乐
+#EXTINF:-1 tvg-id="stream-532d9388-725e-4785-b9e7-ce12576dc1d7" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV15.png" group-title="央视卫视",CCTV15音乐
 http://go.bkpcp.top/mg/cctv15
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV16.png" group-title="央视卫视",CCTV16奥林匹克
+#EXTINF:-1 tvg-id="stream-408d255e-de32-4fc6-941c-c896687128f8" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV16.png" group-title="央视卫视",CCTV16奥林匹克
 http://go.bkpcp.top/mg/cctv16
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV17.png" group-title="央视卫视",CCTV17农业农村
+#EXTINF:-1 tvg-id="stream-192b1ce7-7860-4ce6-991b-b50ff5afb97c" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV17.png" group-title="央视卫视",CCTV17农业农村
 http://go.bkpcp.top/mg/cctv17
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="央视卫视",湖南卫视4K
+#EXTINF:-1 tvg-id="stream-03083b06-eaf3-41e2-a442-d0d866e7b8a1" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="央视卫视",湖南卫视4K
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="央视卫视",浙江卫视4K
+#EXTINF:-1 tvg-id="stream-0cc8684f-8154-4037-9ded-ff95fa86111f" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="央视卫视",浙江卫视4K
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K.png" group-title="央视卫视",江苏卫视4K
+#EXTINF:-1 tvg-id="stream-7419afa1-d228-4c7a-b810-0b05fa1565ff" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K.png" group-title="央视卫视",江苏卫视4K
 http://192.168.2.98:5678/js.php?id=jsws4k
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/东方卫视.png" group-title="央视卫视",东方卫视
+#EXTINF:-1 tvg-id="stream-3f19a0f7-294b-48e8-8215-9d6b12e96951" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/东方卫视.png" group-title="央视卫视",东方卫视
 http://go.bkpcp.top/mg/dfws
 #EXTINF:-1 tvg-id="重温经典频道" tvg-name="重温经典频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png" group-title="央视卫视",重温经典
 https://cdn.qd.je/163189/cwjd
@@ -54,85 +54,79 @@ https://cdn.qd.je/163189/cwjd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%E6%98%9F%E5%BD%B1.png" group-title="香港频道",Now星影台
+#EXTINF:-1 tvg-id="stream-f9216e9f-caad-4110-a335-9e329a0b6bea" tvg-name="Now爆谷星影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%E6%98%9F%E5%BD%B1.png" group-title="香港频道",Now星影台
 http://173.208.223.226:82/live/nowxy.m3u8?jsbt=1786943022&jsbk=c992d61520a54dd1239df1f6b8c4f63c&from=zbdq6
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUprjpez8QnvR52--XWU48weWe0I3SmTbrbzekJV6nKQXuFhSMZJXCKkqcgT8VSsSpkJEqCHtVmseSJOblTmm0CQc8dK14Jv-HtuAHiSRX2j-ui-0TyrXUGAonYnIkoTpg8KN7QJCBU5Yk3Ra04uVhpWYxxlwSEhOTR36AQJfcgETeH5KWYFyvA1Qn7_NKyiNzUFFYGlDBCddNHT6P99LoHiU.m3u8?u=1756878715
 http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=9Yd1yK&tk=SLK5QjnsRiya
 https://iptv.707626.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2lwdHYuODUyODUxLnh5ei9sL3F1WDRZdGFNSnVUSzA5ZjZTZGJVQ1I5WUh5MWw1eXJpM2c0dnhRa1YyZEpWTlJYNVcxcC1MNHZkT01MMXF5WFovaW5kZXgubTN1OA==
 http://iptv.852851.xyz/l/quX4YtaMJuTK09f6SdbUCR9YHy1l5yri3g4vxQkV2dJVNRX5W1p-L4vdOML1qyXZ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%E7%88%86%E8%B0%B7.png" group-title="香港频道",Now爆谷台
+#EXTINF:-1 tvg-id="stream-cf25c4a2-b26e-4c1b-86ea-4a492d5ecc29" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%E7%88%86%E8%B0%B7.png" group-title="香港频道",Now爆谷台
 http://173.208.223.226:82/live/nowbg.m3u8?jsbt=1786943043&jsbk=ac5c085107d3fba2ee2eefeca653573d&from=zbdq6
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
 http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=Dum9sK&tk=SLK5QjnsRiya
 https://iptv.707626.xyz/ch/68527adcbbc4f6f0c815314a24d71aaf/master.m3u8
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2lwdHYuODUyODUxLnh5ei9sLzVYR25LalZTYUp4eWtqMnZmQjc5Z0ExcW1PeDUwaEd2czFjMnpLSFZRd1dEMWZkeVlSV2FfQ1RvUEltMW12aksvaW5kZXgubTN1OA==
 http://iptv.852851.xyz/l/5XGnKjVSaJxykj2vfB79gA1qmOx50hGvs1c2zKHVQwWD1fdyYRWa_CToPIm1mvjK/index.m3u8
-#EXTINF:-1 tvg-id="天映频道新加坡" tvg-name="天映频道新加坡" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/Celestial_Movies_logo_screenbug_2015.png/revision/latest?cb=20230327101136&path-prefix=vi" group-title="香港频道",天映频道(新加坡)
+#EXTINF:-1 tvg-id="stream-f0bdb9f3-3ba5-4c02-a431-0077068afc17" tvg-name="天映频道(新加坡)" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/Celestial_Movies_logo_screenbug_2015.png/revision/latest?cb=20230327101136&path-prefix=vi" group-title="香港频道",天映频道(新加坡)
 https://cdn.qd.je/163189/typd
 #EXTINF:-1 tvg-id="天映经典新加坡" tvg-name="天映经典新加坡" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/CCM_b%E1%BA%A3n_3.png/revision/latest?cb=20240529033552&path-prefix=vi" group-title="香港频道",天映经典(新加坡)
 https://cdn.qd.je/163189/ccm
-#EXTINF:-1 tvg-name="天映马来西亚" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/Celestial_Movies_logo_screenbug_2015.png/revision/latest?cb=20230327101136&path-prefix=vi" group-title="香港频道",天映频道(马来西亚）
+#EXTINF:-1 tvg-id="stream-b5257c66-1eb8-4525-8025-227525fc47ac" tvg-name="天映频道(马来西亚）" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/Celestial_Movies_logo_screenbug_2015.png/revision/latest?cb=20230327101136&path-prefix=vi" group-title="香港频道",天映频道(马来西亚）
 https://cdn.qd.je/163189/typd2
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/CCM_b%E1%BA%A3n_3.png/revision/latest?cb=20240529033552&path-prefix=vi" group-title="香港频道",天映经典(马来西亚)
 https://cdn.qd.je/163189/ccm2
-#EXTINF:-1 tvg-id="now新聞" tvg-name="now新聞" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/now%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="香港频道",Now新聞台
+#EXTINF:-1 tvg-id="stream-823d77b2-7092-4916-99a7-9a4a3f3aaac3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/now%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="香港频道",Now新聞台
 https://cdn.qd.je/163189/now
-#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E5%9C%8B%E9%9A%9B%E8%B2%A1%E7%B6%93%E5%8F%B0.png" group-title="香港频道",HOY76 國際財經台
+#EXTINF:-1 tvg-id="stream-add5a198-59cc-4dbf-a2a9-6f7dd3184d30" tvg-name="HOY 國際財經台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E5%9C%8B%E9%9A%9B%E8%B2%A1%E7%B6%93%E5%8F%B0.png" group-title="香港频道",HOY 國際財經台
 https://cdn.qd.je/163189/hoy76
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E9%96%8B%E9%9B%BB%E8%A6%96.png" group-title="香港频道",HOY77
+#EXTINF:-1 tvg-id="stream-44e3f371-496d-433b-b910-a2e6f721b8c0" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E9%96%8B%E9%9B%BB%E8%A6%96.png" group-title="香港频道",HOY TV
 https://cdn.qd.je/163189/hoy
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E9%96%8B%E9%9B%BB%E8%A6%96.png" group-title="香港频道",HOY77
 https://cdn.qd.je/163189/hoy2
-#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E8%B3%87%E8%A8%8A%E5%8F%B0.png" group-title="香港频道",HOY78 資訊台
+#EXTINF:-1 tvg-id="stream-461ebf62-d47b-4b3c-bfb1-307f54be01d4" tvg-name="HOY 資訊台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY%E8%B3%87%E8%A8%8A%E5%8F%B0.png" group-title="香港频道",HOY 資訊台
 https://cdn.qd.je/163189/hoy78
-#EXTINF:-1 tvg-id="香港電台31" tvg-name="香港電台31" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK31.png" group-title="香港频道",RTHKTV 31
+#EXTINF:-1 tvg-id="stream-3027dab8-8ba5-4790-8fa5-c0524af38414" tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK31.png" group-title="香港频道",RTHKTV 31
 https://cdn.qd.je/163189/rthk31
-#EXTINF:-1 tvg-id="香港電台32" tvg-name="香港電台32" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK32.png" group-title="香港频道",RTHKTV 32
+#EXTINF:-1 tvg-id="stream-f1936026-a9e9-4aa6-a0d5-7426e57fa02d" tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK32.png" group-title="香港频道",RTHKTV 32
 https://cdn.qd.je/163189/rthk32
-#EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%8A%9F%E5%A4%AB%E5%8F%B0.png" group-title="香港频道",TVB功夫台
+#EXTINF:-1 tvg-id="stream-e75b6f7a-1777-42a9-b96f-ba7712660d41" tvg-name="功夫台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%8A%9F%E5%A4%AB%E5%8F%B0.png" group-title="香港频道",TVB功夫台
 https://cdn.qd.je/163189/yzwx
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%E6%98%9F%E6%B2%B3%E5%8F%B0.png" group-title="香港频道",TVB星河台
+#EXTINF:-1 tvg-id="stream-0086ff08-21d0-4f04-88a0-017838d00baf" tvg-name="TVB 星河台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%E6%98%9F%E6%B2%B3%E5%8F%B0.png" group-title="香港频道",TVB星河台
 https://cdn.qd.je/163189/tvbxh
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%E6%98%9F%E6%B2%B3%E5%8F%B0.png" group-title="香港频道",TVB星河台
 https://cdn.qd.je/163189/xinghe
-#EXTINF:-1 tvg-id="娛樂新聞台 (免費)" tvg-name="娛樂新聞台 (免費)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%A8%9B%E6%A8%82%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="香港频道",娛樂新聞台
+#EXTINF:-1 tvg-id="stream-8a83958b-2e52-40e6-8262-ec9ebd22d061" tvg-name="娛樂新聞台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%A8%9B%E6%A8%82%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="香港频道",娛樂新聞台
 https://cdn.qd.je/163189/ylxw
-#EXTINF:-1 tvg-id="無綫新聞台 (免費)" tvg-name="無綫新聞台 (免費)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="香港频道",無綫新聞台
+#EXTINF:-1 tvg-id="stream-52725c78-1d9e-4521-9350-a8c269dd67bc" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="香港频道",無綫新聞台
 https://cdn.qd.je/163189/wxxw
-#EXTINF:-1 tvg-id="無綫新聞台 (免費)" tvg-name="無綫新聞台 (免費)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="香港频道",無綫新聞台
 https://cdn.qd.je/163189/wxxwt
 #EXTINF:-1 tvg-id="TVB生活台" tvg-name="TVB生活台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%E7%94%9F%E6%B4%BB%E5%8F%B0.png" group-title="香港频道",TVB生活台
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbsh
-#EXTINF:-1 tvg-id="翡翠台 (免費)" tvg-name="翡翠台 (免費)" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png" group-title="香港频道",翡翠台4K(字幕)
+#EXTINF:-1 tvg-id="stream-ae44f04e-6871-4524-a172-4d05582ab8d8" tvg-name="翡翠台4K" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png" group-title="香港频道",翡翠台4K(字幕)
 https://cdn.qd.je/163189/fct4k
-#EXTINF:-1 tvg-id="翡翠台 (免費)" tvg-name="翡翠台 (免費)" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png" group-title="香港频道",翡翠台(字幕)
+#EXTINF:-1 tvg-id="stream-ae44f04e-6871-4524-a172-4d05582ab8d8" tvg-name="翡翠台" tvg-logo="https://epg-1.iill.top/logo/翡翠台.png" group-title="香港频道",翡翠台(字幕)
 https://cdn.qd.je/163189/fct2
-#EXTINF:-1 tvg-id="TVB翡翠劇集臺(TVB Drama)" tvg-name="TVB翡翠劇集臺(TVB Drama)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20Drama.png" group-title="香港频道",TVB Drama 翡翠劇集台
+#EXTINF:-1 tvg-id="stream-8e7872b6-b013-4720-a781-e667eb93f136" tvg-name="TVB Drama 翡翠劇集台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20Drama.png" group-title="香港频道",TVB Drama 翡翠劇集台
 https://cdn.qd.je/163189/tvbd
-#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%8D%83%E7%A6%A7%E7%B6%93%E5%85%B8%E5%8F%B0.png" group-title="香港频道",千禧經典台
+#EXTINF:-1 tvg-id="stream-ad702691-829b-4e57-9c83-4994aa890ae8" tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%8D%83%E7%A6%A7%E7%B6%93%E5%85%B8%E5%8F%B0.png" group-title="香港频道",千禧經典台
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 tvg-id="明珠台 (免費)" tvg-name="明珠台 (免費)" tvg-logo="https://epg-1.iill.top/logo/明珠台.png" group-title="香港频道",明珠台(字幕)
+#EXTINF:-1 tvg-id="stream-29c027b4-898f-44cf-b4a2-6932e7f24e26" tvg-name="明珠台"tvg-logo="https://epg-1.iill.top/logo/明珠台.png" group-title="香港频道",明珠台(字幕)
 https://cdn.qd.je/163189/mzt
 #EXTINF:-1 tvg-id="TVB翡翠綜合臺(TVBJ1)" tvg-name="TVB翡翠綜合臺(TVBJ1)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20J1.png" group-title="香港频道",TVB J1 翡翠綜合台
 https://cdn.qd.je/163189/j1
-#EXTINF:-1 tvg-id="TVB Plus (免費)" tvg-name="TVB Plus (免費)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20Plus.png" group-title="香港频道",TVB Plus(字幕)
+#EXTINF:-1 tvg-id="stream-6e7bc391-299d-4414-b1cc-479c0ab012e9" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20Plus.png" group-title="香港频道",TVB Plus(字幕)
 https://cdn.qd.je/163189/tvbp
 #EXTINF:-1 tvg-id="翡翠一臺(TVB1)" tvg-name="翡翠一臺(TVB1)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%201.png" group-title="香港频道",TVB1 翡翠一臺
 https://cdn.qd.je/163189/tvb1
-#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" group-title="香港频道",TVB1 华丽翡翠台
+#EXTINF:-1 tvg-id="stream-9109b444-92db-4274-9008-eead73b7c699" tvg-name="Astro華麗台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" group-title="香港频道",Astro華麗台
 https://cdn.qd.je/163189/hlfct
-#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" group-title="香港频道",TVB1 华丽翡翠台
 https://cdn.qd.je/163189/hlt
-#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" group-title="香港频道",TVB1 华丽翡翠台(硬字幕)
 https://cdn.qd.je/163189/jade
-#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" group-title="香港频道",TVB1 华丽翡翠台(新加坡)
 https://cdn.qd.je/163189/jade2
-#EXTINF:-1 tvg-name="黃金華劇台" group-title="香港频道",黄金华剧台(WebVTT字幕)
+#EXTINF:-1 tvg-id="stream-759de28e-9e92-44a3-ad65-37168faf6cf1" tvg-name="黃金華劇台" group-title="香港频道",黄金华剧台(WebVTT字幕)
 https://cdn.qd.je/163189/hjhjt
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ViuTV.png" group-title="香港频道",ViuTV
+#EXTINF:-1 tvg-id="stream-a3f962b2-2a40-4e1d-a369-6a962a818871" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ViuTV.png" group-title="香港频道",ViuTV
 https://cdn.qd.je/163189/viu
-#EXTINF:-1 tvg-id="viu6" tvg-name="viu6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ViuTV96.png" group-title="香港频道",ViuTVSix
+#EXTINF:-1 tvg-id="stream-5ec3f12d-bfb2-41cc-8ea6-5761dbbcf0d8" tvg-name="ViuTVsix" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ViuTV96.png" group-title="香港频道",ViuTVSix
 https://cdn.qd.je/163189/viu6
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0.png" group-title="香港频道",鳳凰中文
 https://cdn.qd.je/163189/fhzw
@@ -145,15 +139,15 @@ https://cdn.qd.je/163189/fhhk
 
 
 
-#EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="https://epg-1.iill.top/logo/澳门Macau.png" group-title="澳门频道",澳門Macau
+#EXTINF:-1 tvg-id="stream-18ccd783-ca47-423c-91c1-037374ce5b67" tvg-name="澳門Macau" tvg-logo="https://epg-1.iill.top/logo/澳门Macau.png" group-title="澳门频道",澳門Macau
 https://cdn.qd.je/163189/as
-#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://epg-1.iill.top/logo/澳视澳门.png" group-title="澳门频道",澳視澳門
+#EXTINF:-1 tvg-id="stream-27663da2-e05b-492d-97a8-38f1458d4c96" tvg-name="澳視澳門" tvg-logo="https://epg-1.iill.top/logo/澳视澳门.png" group-title="澳门频道",澳視澳門
 https://cdn.qd.je/163189/asam
-#EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-logo="https://epg-1.iill.top/logo/澳门体育.png" group-title="澳门频道",澳門體育
+#EXTINF:-1 tvg-id="stream-1636edbf-ba42-4367-b092-2056d68de346" tvg-name="澳門體育" tvg-logo="https://epg-1.iill.top/logo/澳门体育.png" group-title="澳门频道",澳門體育
 https://cdn.qd.je/163189/amty
-#EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-logo="https://epg-1.iill.top/logo/澳门综艺.png" group-title="澳门频道",澳門綜藝
+#EXTINF:-1 tvg-id="stream-917ce5aa-9514-4271-a1a2-75a10cca64ae" tvg-name="澳門綜藝" tvg-logo="https://epg-1.iill.top/logo/澳门综艺.png" group-title="澳门频道",澳門綜藝
 https://cdn.qd.je/163189/amzy
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MO/%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1.png" group-title="澳门频道",澳門蓮花
+#EXTINF:-1 tvg-id="stream-53c0016c-7fb9-4597-ac4c-e2453fcc9b67" tvg-name="澳門蓮花" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MO/%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1.png" group-title="澳门频道",澳門蓮花
 https://cdn.qd.je/163189/amlh
 
 
@@ -162,58 +156,58 @@ https://cdn.qd.je/163189/amlh
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",三立綜合台
+#EXTINF:-1 tvg-id="stream-d1c701d7-2f3b-450a-9993-9606b48ef88c" tvg-name="三立綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" group-title="台湾频道",三立綜合台
 https://4gtv.158.qzz.io/163189/3d610e6d-aa4f-48bf-8516-eb823977d10f/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",Catchplay电影台
+#EXTINF:-1 tvg-id="stream-d451ff00-4313-4de0-b168-30ef36c98269" tvg-name="CATCHPLAY電影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/CatchPlay%E9%9B%BB%E5%BD%B1%E5%8F%B0.png" group-title="台湾频道",Catchplay电影台
 https://rsmt.tv123.cc.cd/smt/2936/src/0/playlist.m3u8?token=tv123
 http://tv123.cc.cd/live.php?ch=2033&sid=918ff15dcbd6c5d1647ce54f71445a22&exp=1786985882&sig=28578187c88eaca7950012854a75c6e84c6761df00b0ae7da85b0c3394289647
-#EXTINF:-1 tvg-id="stream-d316be76-8afe-42d0-bc8c-16b69cd93474" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="台湾频道",愛爾達體育1台
+#EXTINF:-1 tvg-id="stream-bef0f2ed-b93d-43e6-9153-f35085256eb9" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="台湾频道",愛爾達體育1台
 http://iptv.852851.xyz/l/b-XL9DNeL8WtKl8la8mcYapUCZs2SvrEqACi-2M4px4j7_fH9vAl9ceiNKJDZHmE/index.m3u8
-#EXTINF:-1 tvg-id="stream-5e70f9d8-e375-4aa5-b9f0-54ea151c268f" tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="台湾频道",愛爾達體育2台
+#EXTINF:-1 tvg-id="stream-da5c77d1-48c3-4daa-a5e4-fec9e3ec0d1f" tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="台湾频道",愛爾達體育2台
 http://iptv.852851.xyz/l/pQsO4LdBR2oFZXMP2kjZveNthj4O1qkibLvrFpmWLr8WhpPTH7LMH1oRKXbttO8I/index.m3u8
-#EXTINF:-1 tvg-id="stream-973a506a-6df6-45a3-bf7e-8fef516e2a63" tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="台湾频道",愛爾達體育3台
+#EXTINF:-1 tvg-id="stream-85db4cfd-4b7a-4f29-bf1e-0dec21f9f64b" tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="台湾频道",愛爾達體育3台
 http://iptv.852851.xyz/l/FVnj6O6kjg-jzqTiari1v5VDIHfmm9I1BGib5oiUiv8ezoTH50bLPjY7Hfrt-2Um/index.m3u8
-#EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="台湾频道",龍華洋片台
+#EXTINF:-1 tvg-id="stream-be43aea2-7f27-4c7a-87d3-dbdebb8c21ff" tvg-name="龍華洋片台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="台湾频道",龍華洋片台
 https://cdn.qd.je/163189/lhyp
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="台湾频道",龍華電影台
+#EXTINF:-1 tvg-id="stream-916b99b3-f7f3-49b4-b109-e3e30d8f2eac" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="台湾频道",龍華電影台
 https://cdn.qd.je/163189/lhdy
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="台湾频道",龍華日韓台
+#EXTINF:-1 tvg-id="stream-a4020228-876a-420f-84a9-8fb6214470c8" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="台湾频道",龍華日韓台
 https://cdn.qd.je/163189/lhrh
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="台湾频道",龍華偶像台
+#EXTINF:-1 tvg-id="stream-e81a2104-519d-4b5d-b612-c0b5fa4b30f1" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="台湾频道",龍華偶像台
 https://cdn.qd.je/163189/lhox
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="台湾频道",龍華戲劇台
+#EXTINF:-1 tvg-id="stream-18a792c7-f225-4693-b1e3-f259d43d85ad" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="台湾频道",龍華戲劇台
 https://cdn.qd.je/163189/lhxj
-#EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="台湾频道",龍華經典台
+#EXTINF:-1 tvg-id="stream-be01f4bb-e3e3-449a-97ee-86d969372cf1" tvg-name="龍華經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="台湾频道",龍華經典台
 https://cdn.qd.je/163189/lhjd
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="台湾频道",龍華卡通台
+#EXTINF:-1 tvg-id="stream-deb803be-f7e1-45c6-99da-6578b7cb8253" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="台湾频道",龍華卡通台
 https://cdn.qd.je/163189/lhkt
 #EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv09_mobile.png" group-title="台湾频道",民視影劇台
 https://cdn.qd.je/163189/msyj
 #EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv042_mobile.png" group-title="台湾频道",公視戲劇台
 https://cdn.qd.je/163189/gsxj
-#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" group-title="台湾频道",采昌影劇台
+#EXTINF:-1 tvg-id="stream-11d9ad17-cc52-4edc-9ed5-a643e3a992b9" tvg-name="采昌影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" group-title="台湾频道",采昌影劇台
 https://cdn.qd.je/163189/ccyj
-#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="台湾频道",靖天映畫
+#EXTINF:-1 tvg-id="stream-9d1a1416-aee7-4b0e-bc2b-71aa27d7a09f" tvg-name="靖天映畫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="台湾频道",靖天映畫
 https://cdn.qd.je/163189/jtyh
-#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="台湾频道",靖天電影台
+#EXTINF:-1 tvg-id="stream-7de1a606-6005-40ed-bf06-b4a6a840f65e" tvg-name="靖天電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="台湾频道",靖天電影台
 https://cdn.qd.je/163189/jtdy
-#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png" group-title="台湾频道",靖天戲劇台
+#EXTINF:-1 tvg-id="stream-c80cb890-0bce-4082-838a-757a51c9fc18" tvg-name="靖天戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png" group-title="台湾频道",靖天戲劇台
 https://cdn.qd.je/163189/jtxj
-#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv045_mobile.png" group-title="台湾频道",靖洋戲劇台
+#EXTINF:-1 tvg-id="stream-0d3684b2-0a89-4852-b44f-b4aa785d2d3d" tvg-name="靖洋戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv045_mobile.png" group-title="台湾频道",靖洋戲劇台
 https://cdn.qd.je/163189/jyxj
-#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile-1.png" group-title="台湾频道",影迷數位電影台
+#EXTINF:-1 tvg-id="stream-d309a155-8b02-4d10-915b-631fb72e4d6d" tvg-name="影迷數位電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile-1.png" group-title="台湾频道",影迷數位電影台
 https://cdn.qd.je/163189/ymswdyt
-#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="台湾频道",amc電影台
+#EXTINF:-1 tvg-id="stream-c91fdeef-7c57-4062-8702-93fec6d638de" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="台湾频道",amc電影台
 https://cdn.qd.je/163189/amc
-#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="台湾频道",CinemaWorld
+#EXTINF:-1 tvg-id="stream-eabdfb56-32c4-441e-b040-471e328b0cfd" tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="台湾频道",CinemaWorld
 https://cdn.qd.je/163189/cinemaworld
-#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png" group-title="台湾频道",My Cinema Europe HD 我的歐洲電影
+#EXTINF:-1 tvg-id="stream-50685f2a-9768-4553-a6a3-fa4eb650c436" tvg-name="My Cinema Europe 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png" group-title="台湾频道",My Cinema Europe HD 我的歐洲電影
 https://cdn.qd.je/163189/mce
 #EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="台湾频道",經典電影台
 https://cdn.qd.je/163189/jddyt
-#EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="台湾频道",DreamWorks 夢工廠動畫
+#EXTINF:-1 tvg-id="stream-4823139d-708e-4a6d-9e34-6084f3f6b5ee" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="台湾频道",DreamWorks 夢工廠動畫
 https://cdn.qd.je/163189/dreamworks
-#EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1%E5%8F%B0.png" group-title="台湾频道",緯來電影台
+#EXTINF:-1 tvg-id="stream-22a0df92-62a9-4da0-8d5e-0031a607bba4" tvg-name="緯來電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland2.png" group-title="台湾频道",緯來電影台
 https://cdn.qd.je/163189/wldy
 #EXTINF:-1 tvg-id="緯來戲劇台" tvg-name="緯來戲劇台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%BA%AC%E6%9D%A5%E6%88%8F%E5%89%A7%E5%8F%B0.png" group-title="台湾频道",緯來戲劇台
 https://cdn.qd.je/163189/wlxj
@@ -221,7 +215,7 @@ https://cdn.qd.je/163189/wlxj
 https://cdn.qd.je/163189/wlty
 #EXTINF:-1 tvg-id="龍祥时代" tvg-name="龍祥时代" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E9%BE%99%E7%A5%A5%E6%97%B6%E4%BB%A3%E5%8F%B0.png" group-title="台湾频道",龍祥时代
 https://cdn.qd.je/163189/lxsd
-#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1%E5%8F%B0.png" group-title="台湾频道",東森電影台
+#EXTINF:-1 tvg-id="stream-27733f49-b962-4776-bc0a-d7bf9eb856d4" tvg-name="東森電影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1%E5%8F%B0.png" group-title="台湾频道",東森電影台
 https://cdn.qd.je/163189/dsdy
 #EXTINF:-1 tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7%E5%8F%B0.png" group-title="台湾频道",東森戲劇台
 https://cdn.qd.je/163189/dsxj
@@ -238,7 +232,7 @@ https://cdn.qd.je/163189/dsyp
 
 
 
-#EXTINF:-1 tvg-id="Eurosport.1.cz" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%201.png" group-title="海外频道",Eurosport 1 🇨🇿
+#EXTINF:-1 tvg-id="stream-312b6a62-55f5-4011-9c1a-ff97ca849461" tvg-name="Eurosport1 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%201.png" group-title="海外频道",Eurosport 1 🇨🇿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -246,7 +240,7 @@ https://cdn.qd.je/163189/dsyp
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="Eurosport.2.cz" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%202.png" group-title="海外频道",Eurosport 2 🇨🇿
+#EXTINF:-1 tvg-id="stream-feae6010-a017-4bff-b311-94d679a16cce" tvg-name="Eurosport2 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%202.png" group-title="海外频道",Eurosport 2 🇨🇿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -254,7 +248,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="Sport1.cz" tvg-name="Sport1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Sport1.png" group-title="海外频道",Sport1 🇨🇿
+#EXTINF:-1 tvg-id="stream-3983757e-f949-42ee-b3ce-e05c8742f2ec" tvg-name="Sport1 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Sport1.png" group-title="海外频道",Sport1 🇨🇿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -263,7 +257,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Sport2.png" group-title="海外频道",Sport2 🇨🇿
+#EXTINF:-1 tvg-id="stream-6b68c6ba-1b81-47c4-985a-71e677bd75f3" tvg-name="Sport2 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Sport2.png" group-title="海外频道",Sport2 🇨🇿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -290,7 +284,7 @@ https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_arena_sport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="Nova.Sport.1.cz" tvg-name="Nova Sport 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Nova%20Sport%201.png"group-title="海外频道",Nova Sport 1 🇨🇿
+#EXTINF:-1 tvg-id="stream-905f763b-68ec-41ce-b161-7d4f03e3658e" tvg-name="Nova Sport 1 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Nova%20Sport%201.png"group-title="海外频道",Nova Sport 1 🇨🇿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -299,7 +293,7 @@ https://dash2.antik.sk/stream/nvidia_arena_sport2/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="Nova.Sport.2.cz" tvg-name="Nova Sport 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Nova%20Sport%202.png"group-title="海外频道",Nova Sport 2 🇨🇿
+#EXTINF:-1 tvg-id="stream-bafe901b-ca66-43ad-81ce-9b6434d0f5af" tvg-name="Nova Sport 2 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Nova%20Sport%202.png"group-title="海外频道",Nova Sport 2 🇨🇿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -308,19 +302,19 @@ https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="plex.tv.Fubo.Sports.Network.plex" tvg-name="Fubo Sports Network" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/fubo%20Sports%201.png" group-title="海外频道",Fubo Sports 1 🇺🇸
+#EXTINF:-1 tvg-id="stream-2bb7144d-2fc0-47ae-a2be-5092235e8c16" tvg-name="Fubo Sports Network 1 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/fubo%20Sports%201.png" group-title="海外频道",Fubo Sports 1 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f 
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1 tvg-id="plex.tv.Fubo.Sports.Network.plex" tvg-name="Fubo Sports Network" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/fubo%20Sports%201.png" group-title="海外频道",Fubo Sports 2 🇺🇸
+#EXTINF:-1 tvg-id="stream-a2af80bd-5e8a-429c-9167-9102690bd125" tvg-name="Fubo Sports Network 2 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/fubo%20Sports%201.png" group-title="海外频道",Fubo Sports 2 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135 
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%20Sports.png" group-title="海外频道",Fox Sports 🇲🇽
+#EXTINF:-1 tvg-id="stream-ca53a262-d11c-45d4-bbed-e830afce9a68" tvg-name="Fox Sports 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%20Sports.png" group-title="海外频道",Fox Sports 🇲🇽
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -328,7 +322,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%20Sports%202.png" group-title="海外频道",Fox Sports 2 🇲🇽
+#EXTINF:-1 tvg-id="stream-7afe7d20-ec73-4ca6-a195-8306f96bc04c" tvg-name="Fox Sports 2 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%20Sports%202.png" group-title="海外频道",Fox Sports 2 🇲🇽
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -336,7 +330,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%20Sports%203.png" group-title="海外频道",Fox Sports 3 🇲🇽
+#EXTINF:-1 tvg-id="stream-2625af29-abe3-4b10-b32d-adbdef2b1c34" tvg-name="Fox Sports 3 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%20Sports%203.png" group-title="海外频道",Fox Sports 3 🇲🇽
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -344,7 +338,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%20Sports%20Premium.png" group-title="海外频道",Fox Sports Premium 🇲🇽
+#EXTINF:-1 tvg-id="stream-df14a8ca-1569-4291-9765-b6e513f10f9f" tvg-name="Fox Sports Premium 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%20Sports%20Premium.png" group-title="海外频道",Fox Sports Premium 🇲🇽
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -357,7 +351,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/
 #KODIPROP:inputstream.adaptive.license_key=4751472d3ac45e95e44b5e75480e53de:5f989e3de354630ec7973980f129ed01
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd
 
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/CBS%20Sports%20Network.png" group-title="海外频道",CBS Sports Network 🇺🇸
+#EXTINF:-1 tvg-id="stream-f8befc1d-430d-421a-ab66-d96d3a3100f4" tvg-name="CBS Sports Golazo Network 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/CBS%20Sports%20Network.png" group-title="海外频道",CBS Sports Network 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
@@ -387,24 +381,24 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%201.png" group-title="海外频道",Premier Sports 1 🇬🇧
+#EXTINF:-1 tvg-id="stream-a7a879e7-1966-4d8e-8741-677d1baa411c" tvg-name="Premier Sports 1 🇬🇧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%201.png" group-title="海外频道",Premier Sports 1 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 https://a166aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%202.png" group-title="海外频道",Premier Sports 2 🇬🇧
+#EXTINF:-1 tvg-id="stream-4094a13a-3028-4eba-9977-21c703482c8b" tvg-name="Premier Sports 2 🇬🇧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%202.png" group-title="海外频道",Premier Sports 2 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 https://a205aivottlinear-a.akamaihd.net/IAD/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="海外频道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png",Premiere Sports 1 🇧🇷
+#EXTINF:-1 tvg-id="stream-39cdb792-7bc5-4ecd-84c7-7866a980d430" tvg-name="Premiere 1 🇧🇷" group-title="海外频道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png",Premiere Sports 1 🇧🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.2.br" tvg-name="" group-title="海外频道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png",Premiere Sports 2 🇧🇷
+#EXTINF:-1 tvg-id="stream-8ff4a0b0-e735-485b-8cf7-21eeeb0c4f98" tvg-name="Premiere 2 🇧🇷" tvg-name="" group-title="海外频道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png",Premiere Sports 2 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -451,7 +445,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 
-#EXTINF:-1 tvg-id="sportdigital.Fussball.de" tvg-name="sportdigital Fussball" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sportdigital%20Fussball.png" group-title="海外频道",Sportdigital Fussball 🇩🇪
+#EXTINF:-1 tvg-id="stream-5de2544e-6990-460f-ac2e-2bf2826e3ab4" tvg-name="Sportdigital Fussball 🇩🇪" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sportdigital%20Fussball.png" group-title="海外频道",Sportdigital Fussball 🇩🇪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
@@ -466,13 +460,13 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/TSN1.png" group-title="海外频道",TSN 1 🇨🇦
+#EXTINF:-1 tvg-id="stream-19f81b8b-72f4-4690-a743-140e474b8ff6" tvg-name="TSN 1 🇨🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/TSN1.png" group-title="海外频道",TSN 1 🇨🇦
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20Sports%20Ultra.png" group-title="海外频道",Fox sports 4K 🇺🇸
+#EXTINF:-1 tvg-id="stream-63987c43-446a-4338-b489-f23fea8d4231" tvg-name="Fox Sports 4K 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20Sports%20Ultra.png" group-title="海外频道",Fox sports 4K 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
@@ -489,7 +483,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 
-#EXTINF:-1 tvg-id="beIN.Sports.HD.ae" group-title="海外频道" tvg-name="beIN Sports HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%201.png",beIN Sports 1 🇬🇧
+#EXTINF:-1 tvg-id="stream-e3425d00-9a38-4818-a864-ba4aba608420" tvg-name="beIN Sports 1 🇦🇺" group-title="海外频道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%201.png",beIN Sports 1 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -503,13 +497,13 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.2.my" tvg-name="beIN SPORTS 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%202.png" group-title="海外频道",beIN Sports 2 🇲🇾
+#EXTINF:-1 tvg-id="stream-b4b4058b-b682-4f2f-9795-c540fb5cddf8" tvg-name="beIN Sports 2 🇲🇾" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%202.png" group-title="海外频道",beIN Sports 2 🇲🇾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.3.my" tvg-name="beIN SPORTS 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%203.png" group-title="海外频道",beIN Sports 3 🇲🇾
+#EXTINF:-1 tvg-id="stream-1ad4f8c4-8eb1-454f-a0ae-85403923ba0f" tvg-name="beIN Sports 3 🇲🇾" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%203.png" group-title="海外频道",beIN Sports 3 🇲🇾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -612,9 +606,9 @@ https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/jepxe7swiw/out/v
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%201.png" group-title="新加坡体育",HUB Premier 1
+#EXTINF:-1 tvg-id="stream-8ada29bc-d21f-4a7d-b9f6-bdeefbed749f" tvg-name="Hub Premier 1 🇸🇬" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%201.png" group-title="新加坡体育",HUB Premier 1
 http://iptv.852851.xyz/l/BDxYOwAPP09R2P4TLnBiivaSjIZ7mnrwndv9fWZNI7X49ORZwyjjI-lmnrJhfqH2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%202.png" group-title="新加坡体育",HUB Premier 2
+#EXTINF:-1 tvg-id="stream-bfa53f37-37d7-46b0-adc9-5fc25b34eafc" tvg-name="Hub Premier 2 🇸🇬" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%202.png" group-title="新加坡体育",HUB Premier 2
 http://iptv.852851.xyz/l/OmGcQqkWxY1wzLv5QcAFpuxd_raUlS_hypjvPCty52613d_pMq0vKtjhqGruun2w/index.m3u8
 
 
@@ -626,13 +620,13 @@ http://iptv.852851.xyz/l/OmGcQqkWxY1wzLv5QcAFpuxd_raUlS_hypjvPCty52613d_pMq0vKtj
 
 
 
-#EXTINF:-1 tvg-id="Alkass_1_AR.bein" tvg-name="Alkass_1_AR" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%201.png" group-title="卡塔尔体育",Alkass 1 🇶🇦
+#EXTINF:-1 tvg-id="stream-e1855a02-a022-4f23-b94b-cb83c7e30c22" tvg-name="Alkass 1 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%201.png" group-title="卡塔尔体育",Alkass 1 🇶🇦
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-#EXTINF:-1 tvg-id="Alkass_2_EN.bein" tvg-name="Alkass_2_EN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%202.png" group-title="卡塔尔体育",Alkass 2 🇶🇦
+#EXTINF:-1 tvg-id="stream-0e51d459-0fa9-40b2-acc4-5e9ef1bb7494" tvg-name="Alkass 2 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%202.png" group-title="卡塔尔体育",Alkass 2 🇶🇦
 https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
-#EXTINF:-1 tvg-id="Alkass_3_EN.bein" tvg-name="Alkass_3_EN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%203.png" group-title="卡塔尔体育",Alkass 3 🇶🇦
+#EXTINF:-1 tvg-id="stream-ff403dc7-a090-4293-b80d-f14814b99584" tvg-name="Alkass 3 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%203.png" group-title="卡塔尔体育",Alkass 3 🇶🇦
 https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
-#EXTINF:-1 tvg-id="Alkass_4_EN.bein" tvg-name="Alkass_4_EN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%204.png" group-title="卡塔尔体育",Alkass 4 🇶🇦
+#EXTINF:-1 tvg-id="stream-ac75aef4-a724-4a35-bd16-301332a390f8" tvg-name="Alkass 4 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%204.png" group-title="卡塔尔体育",Alkass 4 🇶🇦
 https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 #EXTINF:-1 tvg-id="Alkass_5_EN.bein" tvg-name="Alkass_5_EN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%205.png" group-title="卡塔尔体育",Alkass 5 🇶🇦
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
