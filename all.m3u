@@ -768,6 +768,7 @@ http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577997&extension
 #EXTINF:-1 tvg-id="stream-848c8fdb-5d11-434f-8e17-91ea22244edd" tvg-name="Sky Sports Mix" group-title="英国频道",Sky Sports Mix
 #EXTINF:-1 tvg-id="stream-8530ad39-a4a2-4cea-84d0-4be354e28b97" tvg-name="Sky Sports+" group-title="英国频道",Sky Sports+
 #EXTINF:-1 tvg-id="stream-f9c539fa-46a9-4809-82ee-2e5217e5ff0c" tvg-name="TNT Sports 1" group-title="英国频道",TNT Sports 1
+http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=578001&extension=ts&play_token=oAQgeqHWzC&sn2=
 #EXTINF:-1 tvg-id="stream-a2955dcc-306f-4895-a517-29861961f781" tvg-name="TNT Sports 2" group-title="英国频道",TNT Sports 2
 #EXTINF:-1 tvg-id="stream-ed1a055b-12a6-4b4b-89df-17733b09b647" tvg-name="TNT Sports 3" group-title="英国频道",TNT Sports 3
 #EXTINF:-1 tvg-id="stream-35417c79-8205-4103-9866-3249b400c3ca" tvg-name="TNT Sports 4" group-title="英国频道",TNT Sports 4
