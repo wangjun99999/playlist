@@ -739,3 +739,69 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab4a24725b1c47e7ae3c0f17ab020905:214f5979b5a30a0b3cda03085006a77f
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4003d17d5a17a8/index.mpd
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="stream-b703b588-fb18-446e-b016-b4861de930d1" tvg-name="Sky Sports Main Event UHD" group-title="英国频道",Sky Sports Main Event UHD
+#EXTINF:-1 tvg-id="stream-dec42447-dd34-4756-8e48-4a59a5f9c66f" tvg-name="Sky Sports F1 UHD" group-title="英国频道",Sky Sports F1 UHD
+#EXTINF:-1 tvg-id="stream-ce9a3909-76a7-41e9-b8ac-646c41a94775" tvg-name="Sky Sports 1 UHD" group-title="英国频道",Sky Sports 1 UHD
+#EXTINF:-1 tvg-id="stream-a37e464b-51e6-48bf-8d2b-890bfa0639c1" tvg-name="Sky Sports 2 UHD" group-title="英国频道",Sky Sports 2 UHD
+#EXTINF:-1 tvg-id="stream-4b53bd4f-5737-4ada-83b8-24901a462f97" tvg-name="TNT Sports Ultimate UHD" group-title="英国频道",TNT Sports Ultimate UHD
+#EXTINF:-1 tvg-id="stream-b703b588-fb18-446e-b016-b4861de930d1" tvg-name="Sky Sports Main Event UHD" group-title="英国频道",Sky Sports Main Event
+#EXTINF:-1 tvg-id="stream-dec42447-dd34-4756-8e48-4a59a5f9c66f" tvg-name="Sky Sports F1 UHD" group-title="英国频道",Sky Sports F1
+#EXTINF:-1 tvg-id="stream-190a7cb7-9a55-496e-888e-148a70cd7af3" tvg-name="Sky Sports Premier League" group-title="英国频道",Sky Sports Premier League
+#EXTINF:-1 tvg-id="stream-1900ccd9-9a38-4b45-88d0-74a23d8f880e" tvg-name="Sky Sports Football" group-title="英国频道",Sky Sports Football
+#EXTINF:-1 tvg-id="stream-b50a1982-e6b1-45bd-87e7-9ee608bae6f4" tvg-name="Sky Sports Cricket" group-title="英国频道",Sky Sports Cricket
+#EXTINF:-1 tvg-id="stream-33e4cfbd-caac-41aa-aa2e-44fec4a8229d" tvg-name="Sky Sports Golf" group-title="英国频道",Sky Sports Golf
+#EXTINF:-1 tvg-id="stream-5b714d14-5641-4901-9ebe-2b5b22c020e8" tvg-name="Sky Sports Tennis" group-title="英国频道",Sky Sports Tennis
+#EXTINF:-1 tvg-id="stream-120dd471-49b4-4e03-8528-4a6461c376f3" tvg-name="Sky Sports News" group-title="英国频道",Sky Sports News
+#EXTINF:-1 tvg-id="stream-90b40d15-250b-4ffa-9ba2-d4d106d9e75b" tvg-name="Sky Sports Action" group-title="英国频道",Sky Sports Action
+#EXTINF:-1 tvg-id="stream-b4e7b7bc-a916-4036-90ff-119669dd6a08" tvg-name="Sky Sports Racing" group-title="英国频道",Sky Sports Racing
+#EXTINF:-1 tvg-id="stream-848c8fdb-5d11-434f-8e17-91ea22244edd" tvg-name="Sky Sports Mix" group-title="英国频道",Sky Sports Mix
+#EXTINF:-1 tvg-id="stream-8530ad39-a4a2-4cea-84d0-4be354e28b97" tvg-name="Sky Sports+" group-title="英国频道",Sky Sports+
+#EXTINF:-1 tvg-id="stream-f9c539fa-46a9-4809-82ee-2e5217e5ff0c" tvg-name="TNT Sports 1" group-title="英国频道",TNT Sports 1
+#EXTINF:-1 tvg-id="stream-a2955dcc-306f-4895-a517-29861961f781" tvg-name="TNT Sports 2" group-title="英国频道",TNT Sports 2
+#EXTINF:-1 tvg-id="stream-ed1a055b-12a6-4b4b-89df-17733b09b647" tvg-name="TNT Sports 3" group-title="英国频道",TNT Sports 3
+#EXTINF:-1 tvg-id="stream-35417c79-8205-4103-9866-3249b400c3ca" tvg-name="TNT Sports 4" group-title="英国频道",TNT Sports 4
+#EXTINF:-1 tvg-id="stream-a7a879e7-1966-4d8e-8741-677d1baa411c" tvg-name="Premier Sports 1 🇬🇧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%201.png" group-title="英国频道",Premier Sports 1
+#EXTINF:-1 tvg-id="stream-4094a13a-3028-4eba-9977-21c703482c8b" tvg-name="Premier Sports 2 🇬🇧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%202.png" group-title="英国频道",Premier Sports 2
+#EXTINF:-1 tvg-id="stream-3bca3b23-adc9-4bbf-b76a-6631e60a95c6" tvg-name="Sky Cinema Premiere" group-title="英国频道",Sky Cinema Premiere
+#EXTINF:-1 tvg-id="stream-90ad8c56-4361-47f4-8c0d-754c2807c6c7" tvg-name="Sky Cinema Select" group-title="英国频道",Sky Cinema Select
+#EXTINF:-1 tvg-id="stream-532e1d5a-c7dd-4f5c-b143-0316b6e4c177" tvg-name="Sky Cinema Hits" group-title="英国频道",Sky Cinema Hits
+#EXTINF:-1 tvg-id="stream-b396c59f-71c5-4da2-8795-8c423a0f676e" tvg-name="Sky Cinema Family" group-title="英国频道",Sky Cinema Family
+#EXTINF:-1 tvg-id="stream-20b2bdf2-7a40-47a1-8224-7ddc1e24f286" tvg-name="Sky Cinema Action" group-title="英国频道",Sky Cinema Action
+#EXTINF:-1 tvg-id="stream-229512e1-0131-4c3d-a4fd-ddb76b77b339" tvg-name="Sky Cinema Greats" group-title="英国频道",Sky Cinema Greats
+#EXTINF:-1 tvg-id="stream-e378e470-3895-4118-ae41-da1c5e67da55" tvg-name="Sky Cinema Comedy" group-title="英国频道",Sky Cinema Comedy
+#EXTINF:-1 tvg-id="stream-ae9cce3d-49fe-4f28-a432-9aba6f3254ad" tvg-name="Sky Cinema Thriller" group-title="英国频道",Sky Cinema Thriller
+#EXTINF:-1 tvg-id="stream-d967d4a5-0650-46cf-989c-32abcc050259" tvg-name="Sky Cinema Drama" group-title="英国频道",Sky Cinema Drama
+#EXTINF:-1 tvg-id="stream-1a1f00bf-b341-4215-91ef-7ce6344bdbac" tvg-name="Sky Cinema Sci-Fi & Horror" group-title="英国频道",Sky Cinema Sci-Fi & Horror
+#EXTINF:-1 tvg-id="stream-24600129-06b9-40c7-8bd6-622149aa947b" tvg-name="Now HK Now Sports 4K UHD" group-title="英国频道",Now HK Now Sports 4K UHD
+#EXTINF:-1 tvg-id="stream-bd83847d-9304-4114-b680-ebf157c02a02" tvg-name="Now HK Sports 4K 1 UHD" group-title="英国频道",Now HK Sports 4K 1 UHD
+#EXTINF:-1 tvg-id="stream-fba8d5c8-fd93-415f-ab93-e6fa7a79c545" tvg-name="Now HK Sports 4K 2 UHD" group-title="英国频道",Now HK Sports 4K 2 UHD
+#EXTINF:-1 tvg-id="stream-b53b934f-bd73-4667-bc3b-3720bf0b3cdd" tvg-name="Now HK Sports 4K 3 UHD" group-title="英国频道",Now HK Sports 4K 3 UHD
+#EXTINF:-1 tvg-id="stream-34d04bef-880d-405b-bd5a-009543d88da0" tvg-name="Now HK Premier Sports 1" group-title="英国频道",Now HK Premier Sports 1
+#EXTINF:-1 tvg-id="stream-82307302-44ab-4df4-9497-f2527ed83797" tvg-name="Now HK Premier Sports 2" group-title="英国频道",Now HK Premier Sports 2
+#EXTINF:-1 tvg-id="stream-a14bb398-7807-4564-9748-b79788544a8b" tvg-name="Now HK Premier Sports 3" group-title="英国频道",Now HK Premier Sports 3
+#EXTINF:-1 tvg-id="stream-b43ab7ac-8c2a-4d8c-a08f-d5ca0aaddf3b" tvg-name="Now HK Premier Sports 4" group-title="英国频道",Now HK Premier Sports 4
+#EXTINF:-1 tvg-id="stream-0229e770-3c59-48cd-978c-1754fc458b7f" tvg-name="Now HK Premier Sports 5" group-title="英国频道",Now HK Premier Sports 5
+#EXTINF:-1 tvg-id="stream-0700caca-fea4-4e06-b4cc-57b9584f3cdc" tvg-name="Now HK Premier Sports 6" group-title="英国频道",Now HK Premier Sports 6
+#EXTINF:-1 tvg-id="stream-4ab25518-b567-44f0-8661-d075d111ff10" tvg-name="Now HK Now Sports 1" group-title="英国频道",Now HK Now Sports 1
+#EXTINF:-1 tvg-id="stream-39ee3f9a-d86a-41ab-975e-2c88ddc1f45b" tvg-name="Now HK Now Sports 2" group-title="英国频道",Now HK Now Sports 2
+#EXTINF:-1 tvg-id="stream-9d21063f-3d17-4636-b23d-697f7405b2fd" tvg-name="Now HK Now Sports 3" group-title="英国频道",Now HK Now Sports 3
+#EXTINF:-1 tvg-id="stream-0ddf64a1-a0ae-453e-8f0b-6de1a925ab13" tvg-name="Now HK Now Sports 4" group-title="英国频道",Now HK Now Sports 4
+#EXTINF:-1 tvg-id="stream-e32a2a43-6969-4ed9-a003-3aeca125d4d7" tvg-name="Now HK Now Sports 4" group-title="英国频道",Now HK Now Sports 4
+#EXTINF:-1 tvg-id="stream-05ba9d2a-a36c-491e-91a6-24cdb29b0ed6" tvg-name="Now HK Now Sports 5" group-title="英国频道",Now HK Now Sports 5
+#EXTINF:-1 tvg-id="stream-7a40e448-9f78-474d-95b1-6da4310a6fd0" tvg-name="Now HK Now Sports 6" group-title="英国频道",Now HK Now Sports 6
+#EXTINF:-1 tvg-id="stream-08a0116b-8dfc-423c-a1a6-71b2c898eb02" tvg-name="Now HK Now Sports 7" group-title="英国频道",Now HK Now Sports 7
+#EXTINF:-1 tvg-id="stream-0bed14b1-4eda-4ad7-be66-43babc45a65e" tvg-name="Now HK Sports Plus" group-title="英国频道",Now HK Sports Plus
+#EXTINF:-1 tvg-id="stream-ede93057-2ff0-4e0b-bec7-cf1db38cf752" tvg-name="Now HK SPOTV" group-title="英国频道",Now HK SPOTV
+#EXTINF:-1 tvg-id="stream-32bed182-8b5d-4422-8c6e-be3e6e0e7314" tvg-name="Now HK SPOTV 2" group-title="英国频道",Now HK SPOTV 2
+#EXTINF:-1 tvg-id="stream-09928eff-a5d2-416b-b41c-af734ad28e4f" tvg-name="Now HK Golf 2" group-title="英国频道",Now HK Golf 2
+#EXTINF:-1 tvg-id="stream-84a206db-1469-4512-ba5f-b39b3e4adf66" tvg-name="Now HK Golf 3" group-title="英国频道",Now HK Golf 3
