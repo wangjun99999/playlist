@@ -330,7 +330,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135 
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
-#EXTINF:-1 tvg-id="Canal.5.(XHPNH).mx" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="海外频道",Canal 5 🇲🇽
+#EXTINF:-1 tvg-id="Canal.5.(XHPNH).mx" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Canal%205.png" group-title="海外频道",Canal 5 🇲🇽
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
@@ -368,10 +368,15 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" group-title="海外频道",Fox +
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%2B.png" group-title="海外频道",Fox+ 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
+
+#EXTINF:-1 tvg-id="stream-e87dad8a-1f82-4e7e-b3b0-07c32c6b7a96" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/TUDN.png" group-title="海外频道",TUDN 🇲🇽
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
 
 #EXTINF:-1 tvg-id="stream-644c3690-0443-4386-b0a3-a6c72571ef2e" tvg-name="Premier Sports Rugby" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%20Rugby.png" group-title="海外频道",Premier Sports Rugby 🇲🇾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -420,12 +425,12 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/dash/enc/vwq77hfgzw/
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 https://a205aivottlinear-a.akamaihd.net/IAD/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
-#EXTINF:-1 tvg-id="stream-39cdb792-7bc5-4ecd-84c7-7866a980d430" tvg-name="Premiere 1 🇧🇷" group-title="海外频道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png",Premiere Sports 1 🇧🇷
+#EXTINF:-1 tvg-id="stream-39cdb792-7bc5-4ecd-84c7-7866a980d430" tvg-name="Premiere 1 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png" group-title="海外频道",Premiere Sports 1 🇧🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 
-#EXTINF:-1 tvg-id="stream-8ff4a0b0-e735-485b-8cf7-21eeeb0c4f98" tvg-name="Premiere 2 🇧🇷" tvg-name="" group-title="海外频道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png",Premiere Sports 2 🇧🇷
+#EXTINF:-1 tvg-id="stream-8ff4a0b0-e735-485b-8cf7-21eeeb0c4f98" tvg-name="Premiere 2 🇧🇷" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png" group-title="海外频道",Premiere Sports 2 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -433,7 +438,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/
 #KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
 
-#EXTINF:-1 tvg-id="stream-64ce66f7-fd65-4828-b282-b0bab9b7f427" tvg-name="" group-title="海外频道" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png",Premiere Sports 3 🇧🇷
+#EXTINF:-1 tvg-id="stream-64ce66f7-fd65-4828-b282-b0bab9b7f427" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png" group-title="海外频道",Premiere Sports 3 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -441,7 +446,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/
 #KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
 
-#EXTINF:-1 group-title="海外频道" tvg-id="stream-58e91961-aea4-491e-8ee7-f1442ade1458" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png",Premiere Sports 4 🇧🇷
+#EXTINF:-1 tvg-id="stream-58e91961-aea4-491e-8ee7-f1442ade1458" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png" group-title="海外频道",Premiere Sports 4 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -449,7 +454,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/
 #KODIPROP:inputstream.adaptive.license_key=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
 
-#EXTINF:-1 group-title="海外频道" tvg-id="stream-968075c5-0de6-45c6-9fe3-205987633aa1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png",Premiere Sports 5 🇧🇷
+#EXTINF:-1 tvg-id="stream-968075c5-0de6-45c6-9fe3-205987633aa1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png" group-title="海外频道",Premiere Sports 5 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -472,12 +477,12 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomQwPJ-rO3y3cAmM-E0q1eF6au_QC6wpuVvI2DAPaCn3WymBkpBIxTVir&s=10" group-title="海外频道",CAZE TV 🇧🇷
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Caz%C3%A9TV.png" group-title="海外频道",CazéTV 🇧🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomQwPJ-rO3y3cAmM-E0q1eF6au_QC6wpuVvI2DAPaCn3WymBkpBIxTVir&s=10" group-title="海外频道",CAZE TV2 🇧🇷
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Caz%C3%A9TV.png" group-title="海外频道",CazéTV 2 🇧🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd
@@ -486,11 +491,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 tvg-id="stream-e87dad8a-1f82-4e7e-b3b0-07c32c6b7a96" tvg-name="TUDN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest?cb=20230127192854" group-title="海外频道",TUDN 🇺🇸
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
 
 #EXTINF:-1 tvg-id="stream-06b3a907-0fa4-4d3e-b9d2-aeccc0264f75" "tvg-name="Tennis Channel HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Tennis%20Channel.png" group-title="海外频道",Tennis Channel 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -530,18 +530,18 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
-#EXTINF: -1 tvg-id="FS1.HD.us2" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82547_dark_360w_270h.png" group-title="海外频道",Fox Sports 1 🇺🇸
+#EXTINF:-1 tvg-id="stream-36ed5b9e-d3c2-4181-9396-6a61ef885017" tvg-name="FS1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/FS1.png" group-title="海外频道",Fox Sports 1 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
 
-#EXTINF: -1 tvg-id="FS2.HD.us2" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="海外频道",Fox Sports 2 🇺🇸
+#EXTINF:-1 tvg-id="stream-f539c04e-3c3b-4baa-889f-ea1fcc8107c7" tvg-name="FS2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/FS2.png" group-title="海外频道",Fox Sports 2 🇺🇸
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 vg-id="I465.72189.schedulesdirect.org" tvg-name="Fox Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Fox_Deportes_2021.svg/revision/latest/scale-to-width-down/300?cb=20210601130410" group-title="海外频道",Fox Deportes
+#EXTINF:-1 vg-id="I465.72189.schedulesdirect.org" tvg-name="Fox Deportes" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20Deportes.png" group-title="海外频道",Fox Deportes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
@@ -579,27 +579,27 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="DSPORTS" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="海外频道",DSPORTS FHD
+#EXTINF:-1 tvg-id="DSPORTS" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/DSports.png" group-title="海外频道",DSports FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
 
-#EXTINF:-1 tvg-id="DSPORTS" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="海外频道",DSPORTS 
+#EXTINF:-1 tvg-id="DSPORTS" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/DSports.png" group-title="海外频道",DSports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="DSPORTS 2" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png" group-title="海外频道",DSPORTS 2
+#EXTINF:-1 tvg-id="DSPORTS 2" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/DSports2.png" group-title="海外频道",DSports2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="DSPORTS+" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png" group-title="海外频道",DSPORTS+
+#EXTINF:-1 tvg-id="DSPORTS+" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/DSports%2B.png" group-title="海外频道",DSports+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="DSPORTS Fight" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1615.png" group-title="海外频道",DSPORTS Fight
+#EXTINF:-1 tvg-id="DSPORTS Fight" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/DSports%20Fight.png" group-title="海外频道",DSports Fight
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","45bbd582f220f438f896450d8306a3f2":"582c6ba7f64bbc0f2d91c6b0c265760c"}
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
@@ -621,7 +621,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rckhgp0mdp/
 #KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO1.png" group-title="海外频道",HBO 1 🇺🇸
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO1.png" group-title="海外频道",HBO 1 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fafc24484004893326a8354fe889767:01a4a713abdc5803f4816831ee27906f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xrs2ntety1/out/v1/31355dd2ffc64c9dae72ac6fc37dde5a/cenc.mpd
@@ -632,87 +632,87 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xrs2ntety1/
 #KODIPROP:inputstream.adaptive.license_key=e8c6a262b77b153530a6caaf2e07944a:81071cf5808c0387adab93d8ff9b1f09
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
 
-#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="" tvg-logo="" group-title="海外频道",HBO Zone 🇺🇸
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
-
-#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="" tvg-logo="" group-title="海外频道",HBO SIGNATURE 🇺🇸 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
-
-#EXTINF:-1 tvg-id="HBO.West.us2"  tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_WEST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="海外频道",HBO West 🇺🇸 (audio eng-esp)
+#EXTINF:-1 tvg-id="HBO.West.us2"  tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO%20West_WHITE.png" group-title="海外频道",HBO West 🇺🇸 (audio eng-esp)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
 
-#EXTINF:-1 tvg-id="I506.59839.schedulesdirect.org" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="海外频道",HBO Comedy East 🇺🇸
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO%20Zone.png" group-title="海外频道",HBO Zone 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
+
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO%20Signature.png" group-title="海外频道",HBO Signature 🇺🇸 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
+
+#EXTINF:-1 tvg-id="I506.59839.schedulesdirect.org" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO%20Comedy.png" group-title="海外频道",HBO Comedy East 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
 
-#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/more-max-logo-png-transparent.png" group-title="海外频道",MoreMax 🇺🇸 
+#EXTINF:-1 tvg-id="" tvg-id="MoreMax.HD.us2" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Cinemax%20Hits.png" group-title="海外频道",MoreMax 🇺🇸 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC.png" group-title="海外频道",BBC Treasures
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC.png" group-title="海外频道",BBC Treasures
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f94bae425abea0ccacec08b2e72b7d07:8eea02108392c61aa79663bc064fc600
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aczgdiuxsu/out/v1/31374ef324ce4bd2bd278b78f4a97d60/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/PBS%20Travel.png" group-title="海外频道",PBS Travel
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/PBS%20Travel.png" group-title="海外频道",PBS Travel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a37ce8d3160b036da8fd40ccf583ac41:0b82dcfa0995bbc6f382a3d8ef066ab9
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mxbsynqple/out/v1/5d9a60deddcd460d8eb8d685dfe5e148/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/How%20To.png" group-title="海外频道",How To
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/How%20To.png" group-title="海外频道",How To
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6faaa019c4750430494f30858cd0174d:fff6edbf610f765d2deed97572ffaae4
 https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/1jfeesd7iv/out/v1/90757ad6933344b78ea6da676a8b8c97/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Nat%20Geo%20Sharks.png" group-title="海外频道",Nat Geo Sharks
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Nat%20Geo%20Sharks.png" group-title="海外频道",Nat Geo Sharks
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7800bfe7a7b4f5c983c9dc3c500b0357:2be6d286bb03f70e43e4019f9d7c1d34
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Curiosity%20Now.png" group-title="海外频道",Curiosity Now
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Curiosity%20Now.png" group-title="海外频道",Curiosity Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9a561b6adad89952415120e7061782d:09ac42a44dfc17aa31c160052bb1834c
 https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/out/v1/40523cc41143492b9995faf2d6f97ab6/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.ocBX400A_5VZxBpuQWEHxgAAAA?pid=Api&P=0&h=220" group-title="海外频道",Dinos 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Dinos%20247.png" group-title="海外频道",Dinos 24/7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c0a1b444fe06383801eb7e6c3d42c5b:49020a53f5703243d2c25dc090e83faf
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/x3nmcouwjh/out/v1/1afd49d8a5a4498680e97b0206006811/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.GbxpueTR7vz3Tu6UOZfLjgAAAA?pid=Api&P=0&h=220" group-title="海外频道",PBS Genealogy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/PBS%20Genealogy.png" group-title="海外频道",PBS Genealogy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a1319db5711198dbbcef15051cd7ed4:fa19bbf85c39454ae1fe1044d9499e39
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3qnbo1nztd/out/v1/2d032a09cb444d2b9fab58faf40db397/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.U-Tx-Twz2OYq7L7SAk4qywAAAA?pid=Api&P=0&h=220" group-title="海外频道",EarthDay 365
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EarthDay%20365.png" group-title="海外频道",EarthDay 365
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e4f091aa3f162f2b37bb9bfc22d67e2:868caee53170b0b75804f4463ecd80d5
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6ovm8kpzl0/out/v1/2c07bb80f1c241b3828ce427530e9741/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.KVERGecu761hdl7s9t2AywAAAA?pid=Api&P=0&h=220" group-title="海外频道",Mysterious World
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Mysterious%20World.png" group-title="海外频道",Mysterious World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d264da818cdcc2b79aed140c7513d30:f72e7aee419cfb474ee38ba664c5edef
 https://a51aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/9w8aklof7x/out/v1/9d30f39ba2464bb4a764e337ba0f03ad/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/Love%20Nature.png" group-title="海外频道",Love Nature
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/Love%20Nature.png" group-title="海外频道",Love Nature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cec4c3c055a7f7e496cbe3abe06ae7c3:6b96bdc30b53ae19d40b4e17c66e5afd
 https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.wE5Xvtmbix9SPeBu8ruVPwAAAA?pid=Api&P=0&h=220" group-title="海外频道",Combat War Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Combat%20War.png" group-title="海外频道",Combat War Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f61f911fcd0a2eb37ce0b1d9629dc56:dd6abd1f533209d1bbcf50a61ec23cc2
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/il20sicd8s/out/v1/d2bfb9b1f48a4929a61507d03620a681/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/VN/BBC%20Earth.png" group-title="海外频道",BBC Earth
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/VN/BBC%20Earth.png" group-title="海外频道",BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bb2e1d9e7d6eecf3983ad25612f171:effff701c5df21107721deb4a4e3dae0
 https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/jepxe7swiw/out/v1/83d03bb3d80d428789975e8adfae61d1/cenc.mpd?encoding=segmentBase
@@ -746,23 +746,21 @@ http://iptv.852851.xyz/l/7Asrbux_vkFdn5hVJiQQhZs5FTtomkUnk5ojX0itoET2Bev6EL8JRoN
 http://iptv.852851.xyz/l/Uy01rfKuQiU4z-ONg-ZLmom6uzR8e2C7WNo8gRRhZhndC0PPyTFgSVULrEzLH8xb/index.m3u8
 #EXTINF:-1 tvg-id="stream-815e8d0b-296e-4d6e-a537-8c14348ea002" tvg-name="Hub Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%203.png" group-title="新加坡体育",Hub Sports 3
 http://iptv.852851.xyz/l/SyPZe9lhdtytbFNTgPDoFv38SV8k7hwkIbNSM0VJvRZoskB7nyjqwxgx4Rd5Szdl/index.m3u8
-#EXTINF:-1 tvg-id="stream-1adb73d3-333f-4232-a09c-1f4279c68312" tvg-name="Hub Sports 4 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/224_1920x1080_HTV.png" group-title="新加坡体育",Hub Sports 4
+#EXTINF:-1 tvg-id="stream-1adb73d3-333f-4232-a09c-1f4279c68312" tvg-name="Hub Sports 4 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%204.png" group-title="新加坡体育",Hub Sports 4
 http://iptv.852851.xyz/l/3JtfwrCbFhfPvbIqulY6WfV5Z3iIi9NSYi_BMy6BczT00msdnP38w78LSiX5sloh/index.m3u8
-#EXTINF:-1 tvg-id="stream-ef063d8f-56ef-4e8f-901e-ec3f4c7fa9fa" tvg-name="Hub Sports 5 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/225_1920x1080_HTV.png" group-title="新加坡体育",Hub Sports 5
+#EXTINF:-1 tvg-id="stream-ef063d8f-56ef-4e8f-901e-ec3f4c7fa9fa" tvg-name="Hub Sports 5 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%205.png" group-title="新加坡体育",Hub Sports 5
 http://iptv.852851.xyz/l/ldUj71_iIMjWgejw0XJMp8NvGBkzGZ48NprxAS1dd1CSrqfddHeGSVUt4LGJZn3R/index.m3u8
-#EXTINF:-1 tvg-id="stream-932c7756-3f40-45aa-accb-e529e1380696" tvg-name="Hub Sports 6 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/226_1920x1080_HTV.png" group-title="新加坡体育",Hub Sports 6
+#EXTINF:-1 tvg-id="stream-932c7756-3f40-45aa-accb-e529e1380696" tvg-name="Hub Sports 6 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%206.png" group-title="新加坡体育",Hub Sports 6
 http://iptv.852851.xyz/l/7hJy2127ef1Vmt74_hwGhHVYpPb-3eeU2bsMbzEfV59jNk_0KvKAF33-_i6IgYpm/index.m3u8
-#EXTINF:-1 tvg-id="stream-90bed949-fc68-4027-9fd1-71290a8da597" tvg-name="Hub Sports 7 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/227_1920x1080_HTV.png" group-title="新加坡体育",Hub Sports 7
+#EXTINF:-1 tvg-id="stream-90bed949-fc68-4027-9fd1-71290a8da597" tvg-name="Hub Sports 7 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%207.png" group-title="新加坡体育",Hub Sports 7
 http://iptv.852851.xyz/l/VLDLTmPoT1RAwSb51hdY9oGlxSBbu96WgKSHbXnFpihIEu3AZpNO1OYYJqT4e4la/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hub Sports 8 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/228_1920x1080_HTV.png" group-title="新加坡体育",Hub Sports 8
-http://iptv.852851.xyz/l/CpuLizcXA7_zed1jCbf_wNJA_hoPPQ9nqaXHMnbqi-Fj2Xcmja__rl4RnH8J0KSZ/index.m3u8
-#EXTINF:-1 tvg-id="stream-3584129d-1aaf-4f27-83fe-5214c277e829" tvg-name="beIN Sports 2 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/211_1920x1080_HTV.png" group-title="新加坡体育",beIN Sports 2
+#EXTINF:-1 tvg-id="stream-3584129d-1aaf-4f27-83fe-5214c277e829" tvg-name="beIN Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/beIN%20Sports%202.png" group-title="新加坡体育",beIN Sports 2
 http://iptv.852851.xyz/l/dE1pPzuL3ViZSiTVb_LqyO-Q_PDboNPq8B2CYxSDoFEzKDOFyLNIaP-P0lL3RUXw/index.m3u8
-#EXTINF:-1 tvg-id="stream-726b591c-dbef-4531-b119-f75ab89832aa" tvg-name="beIN Sports 3 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/214_1920x1080_HTV.png" group-title="新加坡体育",beIN Sports 3
+#EXTINF:-1 tvg-id="stream-726b591c-dbef-4531-b119-f75ab89832aa" tvg-name="beIN Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/beIN%20Sports%203.png" group-title="新加坡体育",beIN Sports 3
 http://iptv.852851.xyz/l/sno3hLs99gTHi2hm_1MhHCCAKzPMkFph6l2r8rVEsnvxgYGfM7If3wAH92pPtCZm/index.m3u8
-#EXTINF:-1 tvg-id="stream-dda0d1a5-e085-4723-9656-1cd00ac98f1d" tvg-name="beIN Sports 4 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/215_1920x1080_HTV.png" group-title="新加坡体育",beIN Sports 4
+#EXTINF:-1 tvg-id="stream-dda0d1a5-e085-4723-9656-1cd00ac98f1d" tvg-name="beIN Sports 4 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/beIN%20Sports%204.png" group-title="新加坡体育",beIN Sports 4
 http://iptv.852851.xyz/l/ds2RE3fhPcKDhbY8gVwJ_iRx24Xp026f_SuhJNpu-J-A3qPQenl2Vf4VY8z4zKNO/index.m3u8
-#EXTINF:-1 tvg-id="stream-f7980a66-ea51-4e24-b156-b08fe94efbd9" tvg-name="beIN Sports 5 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/216_1920x1080_HTV.png" group-title="新加坡体育",beIN Sports 5
+#EXTINF:-1 tvg-id="stream-f7980a66-ea51-4e24-b156-b08fe94efbd9" tvg-name="beIN Sports 5 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/beIN%20Sports%205.png" group-title="新加坡体育",beIN Sports 5
 http://iptv.852851.xyz/l/0cMnhIXXvp0EMrqd4tyuxrMhFAQgsSzBnv5a00v1_nopYM67pgxHsUczk4jKE-Ld/index.m3u8
 
 
@@ -792,9 +790,9 @@ https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 #EXTINF:-1 tvg-id="Alkass_7_EN.bein" tvg-name="Alkass_7_EN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%207.png" group-title="卡塔尔体育",Alkass 7 🇶🇦
 https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Qatar/Shoof.png" group-title="卡塔尔体育",Shoof 1 🇶🇦
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Qatar/Shoof.png" group-title="卡塔尔体育",Shoof 1 🇶🇦
 https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Qatar/Shoof.png" group-title="卡塔尔体育",Shoof 2 🇶🇦
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Qatar/Shoof.png" group-title="卡塔尔体育",Shoof 2 🇶🇦
 https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 
 
@@ -1092,73 +1090,73 @@ https://liveua.cdnfly.click/us_fs1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/us_cbssportsnetwork/index.m3u8
 
-#EXTINF:-1 tvg-chno="73" tvg-id="eleven-sport1-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%201.png" group-title="AeSport",DAZN 1
+#EXTINF:-1 tvg-id="eleven-sport1-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%201.png" group-title="AeSport",DAZN 1
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_elevensport1/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.1" tvg-id="eleven-sport2-pt" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%202.png" group-title="AeSport",DAZN 2
+#EXTINF:-1 tvg-id="eleven-sport2-pt" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%202.png" group-title="AeSport",DAZN 2
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_elevensport2/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.2" tvg-id="eleven-sport3-pt" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%203.png" group-title="AeSport",DAZN 3
+#EXTINF:-1 tvg-id="eleven-sport3-pt" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%203.png" group-title="AeSport",DAZN 3
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_elevensport3/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.3" tvg-id="eleven-sport4-pt" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%204.png" group-title="AeSport",DAZN 4
+#EXTINF:-1 tvg-id="eleven-sport4-pt" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%204.png" group-title="AeSport",DAZN 4
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_elevensport4/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.4" tvg-id="eleven-sport5-pt" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%205.png" group-title="AeSport",DAZN 5
+#EXTINF:-1 tvg-id="eleven-sport5-pt" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%205.png" group-title="AeSport",DAZN 5
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_elevensport5/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.5" tvg-id="eleven-sport6-pt" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%206.png" group-title="AeSport",DAZN 6
+#EXTINF:-1 tvg-id="eleven-sport6-pt" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%206.png" group-title="AeSport",DAZN 6
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_elevensport6/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.6" tvg-id="sporttv1-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%201.png" group-title="AeSport",Sport TV 1
+#EXTINF:-1 tvg-id="sporttv1-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%201.png" group-title="AeSport",Sport TV 1
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_sporttv1/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.7" tvg-id="sporttv2-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%202.png" group-title="AeSport",Sport TV 2
+#EXTINF:-1 tvg-id="sporttv2-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%202.png" group-title="AeSport",Sport TV 2
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_sporttv2/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.8" tvg-id="sporttv3-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%203.png" group-title="AeSport",Sport TV 3
+#EXTINF:-1 tvg-id="sporttv3-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%203.png" group-title="AeSport",Sport TV 3
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_sporttv3/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.9" tvg-id="sporttv4-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%204.png" group-title="AeSport",Sport TV 4
+#EXTINF:-1 tvg-id="sporttv4-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%204.png" group-title="AeSport",Sport TV 4
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_sporttv4/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.10" tvg-id="sporttv5-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%205.png" group-title="AeSport",Sport TV 5
+#EXTINF:-1 tvg-id="sporttv5-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%205.png" group-title="AeSport",Sport TV 5
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_sporttv5/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.11" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%206.png" group-title="AeSport",Sport TV NBA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%206.png" group-title="AeSport",Sport TV NBA
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
