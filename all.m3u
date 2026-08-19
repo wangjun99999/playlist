@@ -1203,4 +1203,170 @@ https://liveua.cdnfly.click/pt_sporttvnba/index.m3u8
 
 
 
+#EXTINF:-1 group-title="beesports" tvg-id="stream-f9c539fa-46a9-4809-82ee-2e5217e5ff0c" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png",TNT Sports 1
+http://192.168.2.98:5678/bee.php?id=TNT-Sports-1
+http://192.168.2.98:5678/bee.php?id=TNT-Sports-1-BU
+http://192.168.2.98:5678/bee.php?id=TNT_Sports_1
+#EXTINF:-1 group-title="beesports" tvg-id="stream-a2955dcc-306f-4895-a517-29861961f781" tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%202.png",TNT Sports 2
+http://192.168.2.98:5678/bee.php?id=TNT-Sports-2
+http://192.168.2.98:5678/bee.php?id=TNT-Sports-2-BU
+#EXTINF:-1 group-title="beesports" tvg-id="stream-ed1a055b-12a6-4b4b-89df-17733b09b647" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%203.png",TNT Sports 3
+http://192.168.2.98:5678/bee.php?id=TNT-Sports-3
+http://192.168.2.98:5678/bee.php?id=TNT-Sports-3-BU
+#EXTINF:-1 group-title="beesports" tvg-id="stream-35417c79-8205-4103-9866-3249b400c3ca" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%204.png",TNT Sports 4
+http://192.168.2.98:5678/bee.php?id=TNT-Sports-4
+http://192.168.2.98:5678/bee.php?id=TNT-Sports-4-BU
+#EXTINF:-1 group-title="beesports" tvg-id="stream-b703b588-fb18-446e-b016-b4861de930d1" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png",Sky Sports Main Event
+http://192.168.2.98:5678/bee.php?id=Sky-Sports-Main-Event
+http://192.168.2.98:5678/bee.php?id=Sky-Sports-Main-Event-BU
+#EXTINF:-1 group-title="beesports" tvg-id="stream-1900ccd9-9a38-4b45-88d0-74a23d8f880e" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Football.png",Sky Sports Football
+http://192.168.2.98:5678/bee.php?id=Sky-Sports-Football
+http://192.168.2.98:5678/bee.php?id=Sky-Sports-Football-BU
+#EXTINF:-1 group-title="beesports" tvg-id="stream-190a7cb7-9a55-496e-888e-148a70cd7af3" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Premier%20League.png",Sky Sports Premier League
+http://192.168.2.98:5678/bee.php?id=Sky-Sports-Premier-League
+http://192.168.2.98:5678/bee.php?id=Sky-Sports-Premier-League-BU
+#EXTINF:-1 group-title="beesports" tvg-id="stream-848c8fdb-5d11-434f-8e17-91ea22244edd" tvg-name="Sky Sports Mix" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Mix.png",Sky Sports Mix
+http://192.168.2.98:5678/bee.php?id=Sky-Sports-Mix
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Arena.png",Sky Sports Arena
+http://192.168.2.98:5678/bee.php?id=Sky-Sports-Arena
+#EXTINF:-1 group-title="beesports" tvg-id="stream-120dd471-49b4-4e03-8528-4a6461c376f3" tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20News.png",Sky Sports News
+http://192.168.2.98:5678/bee.php?id=Sky-Sports-News
+#EXTINF:-1 group-title="beesports" tvg-id="stream-b50a1982-e6b1-45bd-87e7-9ee608bae6f4" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Cricket.png",Sky Sports Cricket
+http://192.168.2.98:5678/bee.php?id=Sky-Sports-Cricket
+#EXTINF:-1 group-title="beesports" tvg-id="stream-5b714d14-5641-4901-9ebe-2b5b22c020e8" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Tennis.png",Sky Sports Tennis
+http://192.168.2.98:5678/bee.php?id=Sky-Sports-Tennis
+#EXTINF:-1 group-title="beesports" tvg-id="stream-dec42447-dd34-4756-8e48-4a59a5f9c66f" tvg-name="Sky Sports F1 UHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png",Sky Sports F1
+http://192.168.2.98:5678/bee.php?id=Sky-Sports-F1
+#EXTINF:-1 group-title="beesports" tvg-id="stream-33e4cfbd-caac-41aa-aa2e-44fec4a8229d" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Golf.png",Sky Sports Golf
+http://192.168.2.98:5678/bee.php?id=Sky-Sports-Golf
+#EXTINF:-1 group-title="beesports" tvg-id="stream-b4e7b7bc-a916-4036-90ff-119669dd6a08" tvg-name="Sky Sports Racing" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Racing.png",Sky Sports Racing
+http://192.168.2.98:5678/bee.php?id=Sky-Sports-Racing
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/beIN%20Sports%20USA.png",beIN Sports USA
+http://192.168.2.98:5678/bee.php?id=Bein-Sports-USA
+http://192.168.2.98:5678/bee.php?id=BEIN-SPORT-USA-BU
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Racing%20TV.png",Racing TV
+http://192.168.2.98:5678/bee.php?id=Racing-TV
+#EXTINF:-1 group-title="beesports" tvg-id="stream-06b3a907-0fa4-4d3e-b9d2-aeccc0264f75" "tvg-name="Tennis Channel HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Tennis%20Channel.png",Tennis Channel
+http://192.168.2.98:5678/bee.php?id=Tennis-Channel
+#EXTINF:-1 group-title="beesports" tvg-id="stream-e378e470-3895-4118-ae41-da1c5e67da55" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Comedy.png",Sky Cinema Comedy
+http://192.168.2.98:5678/bee.php?id=UK-Sky-Cinema-Comedy
+#EXTINF:-1 group-title="beesports" tvg-id="stream-b396c59f-71c5-4da2-8795-8c423a0f676e" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Family.png",Sky Cinema Family
+http://192.168.2.98:5678/bee.php?id=UK-Sky-Cinema-Family
+#EXTINF:-1 group-title="beesports" tvg-id="stream-20b2bdf2-7a40-47a1-8224-7ddc1e24f286" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Action.png",Sky Cinema Action
+http://192.168.2.98:5678/bee.php?id=Sky-Cinema-Action
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Animation.png",Sky Cinema Animation
+http://192.168.2.98:5678/bee.php?id=Sky-Cinema-Animation
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/DAZN.png",DAZN
+http://192.168.2.98:5678/bee.php?id=DAZN-TV
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%201.png",beIN Sports English 1
+http://192.168.2.98:5678/bee.php?id=Bein-Sports-English-1
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%202.png",beIN Sports English 2
+http://192.168.2.98:5678/bee.php?id=Bein-Sports-English-2
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%203.png",beIN Sports English 3
+http://192.168.2.98:5678/bee.php?id=Bein-Sports-English-3
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%202.png",Eurosport 2
+http://192.168.2.98:5678/bee.php?id=Eurosport-2
+#EXTINF:-1 group-title="beesports" tvg-id="stream-a7a879e7-1966-4d8e-8741-677d1baa411c" tvg-name="Premier Sports 1 🇬🇧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%201.png",Premier Sports 1
+http://192.168.2.98:5678/bee.php?id=Premier-Sports-1
+#EXTINF:-1 group-title="beesports" tvg-id="stream-4094a13a-3028-4eba-9977-21c703482c8b" tvg-name="Premier Sports 2 🇬🇧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%202.png",Premier Sports 2
+http://192.168.2.98:5678/bee.php?id=Premier-Sports-2
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Golf%20Channel.png",Golf Channel
+http://192.168.2.98:5678/bee.php?id=Golf-Channel
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20TV.png",LaLiga TV
+http://192.168.2.98:5678/bee.php?id=La-Liga-TV
+http://192.168.2.98:5678/bee.php?id=LA-LIGA-TV-BU
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/MLB%20Network.png",MLB Network
+http://192.168.2.98:5678/bee.php?id=MLB-Network
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NFL%20Network.png",NFL Network
+http://192.168.2.98:5678/bee.php?id=NFL-Network
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NFL%20RedZone.png",NFL RedZone
+http://192.168.2.98:5678/bee.php?id=NFL-REDZONE
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/WWE.png",WWE
+http://192.168.2.98:5678/bee.php?id=WWE
+#EXTINF:-1 group-title="beesports" tvg-id="stream-4ab04731-f5b2-4f8d-9189-b889731b8d1b" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Willow%20Cricket.png",Willow Cricket
+http://192.168.2.98:5678/bee.php?id=Willow-Cricket
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Willow%20Xtra.png",Willow Extra
+http://192.168.2.98:5678/bee.php?id=Willow-Extra
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN.png",ESPN
+http://192.168.2.98:5678/bee.php?id=ESPN
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN%202.png",ESPN 2
+http://192.168.2.98:5678/bee.php?id=ESPN-2
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN%20News.png",ESPN News
+http://192.168.2.98:5678/bee.php?id=ESPN-News
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN%20U.png",ESPN U
+http://192.168.2.98:5678/bee.php?id=ESPN-U
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN%20Deportes.png",ESPN Deportes
+http://192.168.2.98:5678/bee.php?id=ESPN-Deportes
+http://192.168.2.98:5678/bee.php?id=ESPN-Deportes-BU
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/MUTV.png",MUTV
+http://192.168.2.98:5678/bee.php?id=MUTV
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/LFC.png",LFC TV
+http://192.168.2.98:5678/bee.php?id=LFC-TV
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fight%20Network.png",Fight Network
+http://192.168.2.98:5678/bee.php?id=Fight-Network
+#EXTINF:-1 group-title="beesports" tvg-id="stream-f8befc1d-430d-421a-ab66-d96d3a3100f4" tvg-name="CBS SportsNetwork 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/CBS%20Sports%20Network.png",CBS Sports Network
+http://192.168.2.98:5678/bee.php?id=CBS-Sports-Network
+#EXTINF:-1 group-title="beesports" tvg-id="stream-36ed5b9e-d3c2-4181-9396-6a61ef885017" tvg-name="FS1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/FS1.png",Fox Sports 1
+http://192.168.2.98:5678/bee.php?id=Fox-Sports-1
+#EXTINF:-1 group-title="beesports" tvg-id="stream-f539c04e-3c3b-4baa-889f-ea1fcc8107c7" tvg-name="FS2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/FS2.png",Fox Sports 2
+http://192.168.2.98:5678/bee.php?id=Fox-Sports-2
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20Soccer%20Plus.png",Fox Soccer Plus
+http://192.168.2.98:5678/bee.php?id=Fox-Soccer-Plus
+#EXTINF:-1 group-title="beesports" tvg-id="stream-87389908-b90e-43de-a022-5eab23ff396c" tvg-name="Fox Deportes" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20Deportes.png",Fox Deportes
+http://192.168.2.98:5678/bee.php?id=FOX-DEPORTES
+http://192.168.2.98:5678/bee.php?id=FOX-DEPORTES-BU
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ACC%20Network.png",ACC Network
+http://192.168.2.98:5678/bee.php?id=ACC-Network
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NHL%20Network.png",NHL Network
+http://192.168.2.98:5678/bee.php?id=NHL-Network
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/World%20Fishing%20Network.png",World Fishing Network
+http://192.168.2.98:5678/bee.php?id=World-Fishing-Network
+#EXTINF:-1 group-title="beesports" tvg-id="stream-861ee8b8-0efb-40d7-a6a6-559923cc54e1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO1.png",HBO 1
+http://192.168.2.98:5678/bee.php?id=HBO
+#EXTINF:-1 group-title="beesports" tvg-id="stream-9f3a625c-1222-4b86-a94b-6114195f24a3" tvg-name="HBO2 HD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO2.png",HBO 2
+http://192.168.2.98:5678/bee.php?id=HBO-2
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Discovery.png",Discovery Channel
+http://192.168.2.98:5678/bee.php?id=Discovery-Channel
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Discovery%20Life.png",Discovery Life
+http://192.168.2.98:5678/bee.php?id=Discovery-Life
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/waj-k6-w-wwz-x-np7-h573-ir-p-sj-x-ewjdwmvri-bfz-aimc1.png",Cinemax West
+http://192.168.2.98:5678/bee.php?id=Cinemax-West
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-r-yjt-u-b-a-hk-q-tvi-dbq-n5q-n7-a-a-rd0gxv-f-ks-l-j6-yml-s.png",Great Movies
+http://192.168.2.98:5678/bee.php?id=UK-Great-Movies
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-i-gsl2-n77-dpt-h-wdy-q-c-f-odhz-gf-x-a-h-sje4z3-q-a0-qn-o.png",Cartoon Network
+http://192.168.2.98:5678/bee.php?id=UK-Cartoon-Network
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://center.urlix.co/storage/images/uN6eIk65I2im0d4ojxIloksV9wyxbVshhM8Num6J.jpg",BBC News
+http://192.168.2.98:5678/bee.php?id=BBC-News
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/768px--fox_-news_-channel_logo.svg.png",FOX NEWS
+http://192.168.2.98:5678/bee.php?id=FOX-NEWS
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t-tgl-m-ns6-d-r6bcw3qf-il-l8a-rg-k-l-ll-dmc-p-v5h7-s-wg-d.png",CNBC
+http://192.168.2.98:5678/bee.php?id=CNBC
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://center.urlix.co/storage/images/PEoLnkz4lbWBN4A79dA6p1nOi15uD1VE8CN2mqT4.svg",NBC UNIVERSO
+http://192.168.2.98:5678/bee.php?id=NBC-UNIVERSO
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://center.urlix.co/storage/images/dMcVmNAd6ayvAw11IJi3LnMrftYrkM5VGoY3roDR.webp",BBC One
+http://192.168.2.98:5678/bee.php?id=BBC-1
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://center.urlix.co/storage/images/o8L1QWPS4sWAdPbaDiGKqqu5BspdchEK3l1834EQ.png",BBC Two
+http://192.168.2.98:5678/bee.php?id=BBC-2
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://center.urlix.co/storage/images/zK62gh9S9Z9TpM5RiSseKzM4hs9Wz3oTuaIqa8D4.jpg",BBC Three
+http://192.168.2.98:5678/bee.php?id=BBC-Three
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://center.urlix.co/storage/images/MUfPvwYCKrhk35p5BQ4qRBktD9iBALX4dMOqFV8q.jpg",BBC Four
+http://192.168.2.98:5678/bee.php?id=BBC-FOUR
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://center.urlix.co/storage/images/7N4k68afYicjhSWwU5Kx0yTlVY9A1Ob5iYPUmXPF.jpg",BBC Red Button
+http://192.168.2.98:5678/bee.php?id=BBC-Red-Button
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/c7-mg-r-w1l-p-k-cm-sc-rd-w-b-dhs-n90-b-uc-qozpi3-v-dwtmz-a.png",Virgin 1
+http://192.168.2.98:5678/bee.php?id=UK-Virgin-1
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/z-n1gy-tr71-xm1uia7-m8-jv-e-t0ygm-ql47v-h4-d5wu-t91.png",Virgin 3
+http://192.168.2.98:5678/bee.php?id=UK-Virgin-3
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t-t-zte39n-nu-a-z-cr-to-h-c7k5-shg-n-yaa9-ccl-iljf2onx.png",ITV 1
+http://192.168.2.98:5678/bee.php?id=ITV-1
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-pt-eo-s-rm-jk-n-b1-qg9v-b-x-n-l-la-m-z-vp6-i-w4-l-j-t7-j-g01-c.png",ITV 2
+http://192.168.2.98:5678/bee.php?id=ITV-2
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/3j3ra-qdk-rm3-cz-c9l-iyhrk-si82-oyshnipxl8os-sm-n.png",ITV 3
+http://192.168.2.98:5678/bee.php?id=ITV-3
+#EXTINF:-1 group-title="beesports" tvg-id="" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/d0-sx-p-n7-cb6-o-n-rdi-m-w-bnrzrrzgu-k-u-srs-h-d-b-q-gy-l5w.png",ITV 4
+http://192.168.2.98:5678/bee.php?id=ITV-4
+
+
+
+
 
