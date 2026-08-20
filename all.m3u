@@ -1201,9 +1201,10 @@ https://liveua.cdnfly.click/pt_sporttvnba/index.m3u8
 
 
 
-
-
 #EXTINF:-1 group-title="beesports" tvg-id="stream-f9c539fa-46a9-4809-82ee-2e5217e5ff0c" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png",TNT Sports 1
+#EXTVLCOPT:http-origin=https://beesports.site/
+#EXTVLCOPT:http-referrer=https://beesports.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 http://192.168.2.98:5678/bee.php?id=TNT-Sports-1
 http://192.168.2.98:5678/bee.php?id=TNT-Sports-1-BU
 http://192.168.2.98:5678/bee.php?id=TNT_Sports_1
@@ -1223,6 +1224,9 @@ http://192.168.2.98:5678/bee.php?id=Sky-Sports-Main-Event-BU
 http://192.168.2.98:5678/bee.php?id=Sky-Sports-Football
 http://192.168.2.98:5678/bee.php?id=Sky-Sports-Football-BU
 #EXTINF:-1 group-title="beesports" tvg-id="stream-190a7cb7-9a55-496e-888e-148a70cd7af3" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Premier%20League.png",Sky Sports Premier League
+#EXTVLCOPT:http-origin=https://beesports.site/
+#EXTVLCOPT:http-referrer=https://enewl.greenvora.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 http://192.168.2.98:5678/bee.php?id=Sky-Sports-Premier-League
 http://192.168.2.98:5678/bee.php?id=Sky-Sports-Premier-League-BU
 #EXTINF:-1 group-title="beesports" tvg-id="stream-848c8fdb-5d11-434f-8e17-91ea22244edd" tvg-name="Sky Sports Mix" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Mix.png",Sky Sports Mix
