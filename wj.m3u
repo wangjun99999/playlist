@@ -1,0 +1,619 @@
+#EXTM3U x-tvg-url="http://192.168.2.98:9100/api/epg/aggregated.xml.gz?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da"
+#EXTINF:-1 tvg-id="stream-0e7bae82-854b-4977-b93b-4f886a9e622e" tvg-name="CCTV1综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV1.png" group-title="央视卫视",CCTV1综合
+http://192.168.2.98:9100/c/0e7bae82-854b-4977-b93b-4f886a9e622e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-e5939384-397a-4332-b8ab-340d2d9fcfa6" tvg-name="CCTV2财经" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV2.png" group-title="央视卫视",CCTV2财经
+http://192.168.2.98:9100/c/e5939384-397a-4332-b8ab-340d2d9fcfa6/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-a34f9e56-da33-4e13-8c7e-d37f975c8787" tvg-name="CCTV3综艺" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV3.png" group-title="央视卫视",CCTV3综艺
+http://192.168.2.98:9100/c/a34f9e56-da33-4e13-8c7e-d37f975c8787/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-4feb9176-a50f-4928-a1fa-3838ceb1f4e7" tvg-name="CCTV4中文国际" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV4.png" group-title="央视卫视",CCTV4中文国际
+http://192.168.2.98:9100/c/4feb9176-a50f-4928-a1fa-3838ceb1f4e7/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-62376f9a-8cb2-4e31-9997-716578e1a24d" tvg-name="CCTV4欧洲" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV4欧洲.png" group-title="央视卫视",CCTV4欧洲
+http://192.168.2.98:9100/c/62376f9a-8cb2-4e31-9997-716578e1a24d/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-60d46fd2-a806-4dd0-bec0-1fae7e05f363" tvg-name="CCTV4美洲" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV4美洲.png" group-title="央视卫视",CCTV4美洲
+http://192.168.2.98:9100/c/60d46fd2-a806-4dd0-bec0-1fae7e05f363/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-7d9bedb4-72dd-4975-8c1c-3b287d757eb4" tvg-name="CCTV5体育" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV5.png" group-title="央视卫视",CCTV5体育
+http://192.168.2.98:9100/c/7d9bedb4-72dd-4975-8c1c-3b287d757eb4/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-181b10c6-774f-4fee-ae04-ab01d29978ef" tvg-name="CCTV5+体育赛事" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV5+.png" group-title="央视卫视",CCTV5+体育赛事
+http://192.168.2.98:9100/c/181b10c6-774f-4fee-ae04-ab01d29978ef/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-3e206f2f-7b70-4790-bc2e-04853b26b719" tvg-name="CCTV6电影" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV6.png" group-title="央视卫视",CCTV6电影
+http://192.168.2.98:9100/c/3e206f2f-7b70-4790-bc2e-04853b26b719/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-b60c5c0a-f646-4d56-ad94-398b35ed9e39" tvg-name="CCTV7国防军事" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV7.png" group-title="央视卫视",CCTV7国防军事
+http://192.168.2.98:9100/c/b60c5c0a-f646-4d56-ad94-398b35ed9e39/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-fa540650-2978-4ebd-a185-4c5c2fc2264d" tvg-name="CCTV8电视剧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV8.png" group-title="央视卫视",CCTV8电视剧
+http://192.168.2.98:9100/c/fa540650-2978-4ebd-a185-4c5c2fc2264d/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-b23eee04-0d4e-4f8e-a0ba-d56b390bf598" tvg-name="CCTV9记录" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV9.png" group-title="央视卫视",CCTV9记录
+http://192.168.2.98:9100/c/b23eee04-0d4e-4f8e-a0ba-d56b390bf598/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-9fb20558-5182-4b93-8f2f-b5161bd12763" tvg-name="CCTV10科教" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV10.png" group-title="央视卫视",CCTV10科教
+http://192.168.2.98:9100/c/9fb20558-5182-4b93-8f2f-b5161bd12763/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-e2e35863-e9a2-4343-9f2d-6d33526153b2" tvg-name="CCTV11戏曲" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV11.png" group-title="央视卫视",CCTV11戏曲
+http://192.168.2.98:9100/c/e2e35863-e9a2-4343-9f2d-6d33526153b2/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-71a91f44-afdc-4071-b2b5-af36dfda4213" tvg-name="CCTV12社会与法" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV12.png" group-title="央视卫视",CCTV12社会与法
+http://192.168.2.98:9100/c/71a91f44-afdc-4071-b2b5-af36dfda4213/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-0e5f668e-3539-4eb1-bdae-bb89d0da2e86" tvg-name="CCTV13新闻" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV13.png" group-title="央视卫视",CCTV13新闻
+http://192.168.2.98:9100/c/0e5f668e-3539-4eb1-bdae-bb89d0da2e86/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-bbfa25e9-57cd-4250-be78-93691c64fcab" tvg-name="CCTV14少儿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV14.png" group-title="央视卫视",CCTV14少儿
+http://192.168.2.98:9100/c/bbfa25e9-57cd-4250-be78-93691c64fcab/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-8d8754cb-d928-4d08-af05-63bcba892ef9" tvg-name="CCTV15音乐" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV15.png" group-title="央视卫视",CCTV15音乐
+http://192.168.2.98:9100/c/8d8754cb-d928-4d08-af05-63bcba892ef9/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-3eddd63b-ec14-46ad-b3af-5ea9cc57c0a5" tvg-name="CCTV16奥林匹克" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV16.png" group-title="央视卫视",CCTV16奥林匹克
+http://192.168.2.98:9100/c/3eddd63b-ec14-46ad-b3af-5ea9cc57c0a5/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-0c950b98-b6df-4f0b-8cb2-5dbccec1bfab" tvg-name="CCTV17农业农村" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV17.png" group-title="央视卫视",CCTV17农业农村
+http://192.168.2.98:9100/c/0c950b98-b6df-4f0b-8cb2-5dbccec1bfab/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-1d7a8c16-b11b-44f3-b0a7-a7352b585ae5" tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="央视卫视",湖南卫视4K
+http://192.168.2.98:9100/c/1d7a8c16-b11b-44f3-b0a7-a7352b585ae5/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-b459acf1-e527-4bd0-962a-cf116caece7c" tvg-name="浙江卫视4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="央视卫视",浙江卫视4K
+http://192.168.2.98:9100/c/b459acf1-e527-4bd0-962a-cf116caece7c/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-077d3bd5-3954-4b4c-a58d-86bcf52072f8" tvg-name="江苏卫视4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K.png" group-title="央视卫视",江苏卫视4K
+http://192.168.2.98:9100/c/077d3bd5-3954-4b4c-a58d-86bcf52072f8/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-6d388cee-718c-4d35-9628-f966a26788f5" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/东方卫视.png" group-title="央视卫视",东方卫视
+http://192.168.2.98:9100/c/6d388cee-718c-4d35-9628-f966a26788f5/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-d5b6aa8d-5bed-431d-9505-296cf5ed40d0" tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png" group-title="央视卫视",重温经典
+http://192.168.2.98:9100/c/d5b6aa8d-5bed-431d-9505-296cf5ed40d0/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-094d6e7d-f0d9-4acb-80c8-ccae8a13e9f2" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%E6%98%9F%E5%BD%B1.png" group-title="香港频道",Now星影台
+http://192.168.2.98:9100/c/094d6e7d-f0d9-4acb-80c8-ccae8a13e9f2/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-c398950b-309c-4d32-bfe1-296a22ef3891" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%E7%88%86%E8%B0%B7.png" group-title="香港频道",Now爆谷台
+http://192.168.2.98:9100/c/c398950b-309c-4d32-bfe1-296a22ef3891/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-6bb42d76-a6d8-4a92-8128-cbf44ed20711" tvg-name="天映频道(新加坡)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png" group-title="香港频道",天映频道(新加坡)
+http://192.168.2.98:9100/c/6bb42d76-a6d8-4a92-8128-cbf44ed20711/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-d1d68fce-029c-4ad8-b82d-a48bfa03446c" tvg-name="天映经典(新加坡)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png" group-title="香港频道",天映经典(新加坡)
+http://192.168.2.98:9100/c/d1d68fce-029c-4ad8-b82d-a48bfa03446c/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-0150af6e-4446-4a9a-bd62-ed08d6d6e9c3" tvg-name="天映频道(马来西亚）" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png" group-title="香港频道",天映频道(马来西亚）
+http://192.168.2.98:9100/c/0150af6e-4446-4a9a-bd62-ed08d6d6e9c3/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-23d4b321-9248-4736-8f9f-fac79c2ebb42" tvg-name="天映经典(马来西亚)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png" group-title="香港频道",天映经典(马来西亚)
+http://192.168.2.98:9100/c/23d4b321-9248-4736-8f9f-fac79c2ebb42/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-2d047310-d371-4654-9713-94f5c108af2b" tvg-name="Now新聞台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/now%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="香港频道",Now新聞台
+http://192.168.2.98:9100/c/2d047310-d371-4654-9713-94f5c108af2b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-3ed8ab44-994e-4c96-9c19-d86d19ef2f49" tvg-name="HOY 國際財經台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY76.png" group-title="香港频道",HOY 國際財經台
+http://192.168.2.98:9100/c/3ed8ab44-994e-4c96-9c19-d86d19ef2f49/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-9ecfaf1b-ade3-4ba8-b96a-15632c9e76ec" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY77.png" group-title="香港频道",HOY TV
+http://192.168.2.98:9100/c/9ecfaf1b-ade3-4ba8-b96a-15632c9e76ec/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-8eb71ea9-bcca-4586-9d0a-74905f0e00ba" tvg-name="HOY 資訊台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY78.png" group-title="香港频道",HOY 資訊台
+http://192.168.2.98:9100/c/8eb71ea9-bcca-4586-9d0a-74905f0e00ba/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-db71bea7-a84a-4448-8692-c8bf03d17db5" tvg-name="RTHKTV 31" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK31.png" group-title="香港频道",RTHKTV 31
+http://192.168.2.98:9100/c/db71bea7-a84a-4448-8692-c8bf03d17db5/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-4556afbe-6699-4a96-9e6e-94777ee5a7c4" tvg-name="RTHKTV 32" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK32.png" group-title="香港频道",RTHKTV 32
+http://192.168.2.98:9100/c/4556afbe-6699-4a96-9e6e-94777ee5a7c4/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-cddc2d48-7d06-4dce-81a8-2ea80ab2d34e" tvg-name="TVB功夫台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%8A%9F%E5%A4%AB%E5%8F%B0.png" group-title="香港频道",TVB功夫台
+http://192.168.2.98:9100/c/cddc2d48-7d06-4dce-81a8-2ea80ab2d34e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-4bb6e4ff-2b55-485c-8d07-59c135aaeb20" tvg-name="TVB星河台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%E6%98%9F%E6%B2%B3%E5%8F%B0.png" group-title="香港频道",TVB星河台
+http://192.168.2.98:9100/c/4bb6e4ff-2b55-485c-8d07-59c135aaeb20/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-3d4d93cb-eb45-4795-9b21-de9ef13c9324" tvg-name="娛樂新聞台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%A8%9B%E6%A8%82%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="香港频道",娛樂新聞台
+http://192.168.2.98:9100/c/3d4d93cb-eb45-4795-9b21-de9ef13c9324/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-a9c091ff-ac1d-4c5d-8765-e07e6aecb7bc" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="香港频道",無綫新聞台
+http://192.168.2.98:9100/c/a9c091ff-ac1d-4c5d-8765-e07e6aecb7bc/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-fe1c740a-697f-4af2-be61-37faae112264" tvg-name="翡翠台4K(字幕)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港频道",翡翠台4K(字幕)
+http://192.168.2.98:9100/c/fe1c740a-697f-4af2-be61-37faae112264/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-22168f10-c436-4f11-b25e-68a3ca20d310" tvg-name="翡翠台(字幕)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港频道",翡翠台(字幕)
+http://192.168.2.98:9100/c/22168f10-c436-4f11-b25e-68a3ca20d310/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-3baa0d09-3992-492a-b242-ae75ae52fb2c" tvg-name="TVB Drama 翡翠劇集台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20Drama%20%E7%BF%A1%E7%BF%A0%E5%8A%87%E9%9B%86%E5%8F%B0.png" group-title="香港频道",TVB Drama 翡翠劇集台
+http://192.168.2.98:9100/c/3baa0d09-3992-492a-b242-ae75ae52fb2c/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-3524bc8c-80dd-45c7-80c8-a1dda4a6d0e7" tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%8D%83%E7%A6%A7%E7%B6%93%E5%85%B8%E5%8F%B0.png" group-title="香港频道",千禧經典台
+http://192.168.2.98:9100/c/3524bc8c-80dd-45c7-80c8-a1dda4a6d0e7/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-10ce449e-6c6f-4592-994d-471029712ab4" tvg-name="明珠台(字幕)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="香港频道",明珠台(字幕)
+http://192.168.2.98:9100/c/10ce449e-6c6f-4592-994d-471029712ab4/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-ac900367-30cf-4a17-a656-2f5469418c5e" tvg-name="TVB J1 翡翠綜合台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20J1.png" group-title="香港频道",TVB J1 翡翠綜合台
+http://192.168.2.98:9100/c/ac900367-30cf-4a17-a656-2f5469418c5e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-73bdc2e2-ddc7-4fa8-9b8f-7bb3bbca2a6d" tvg-name="TVB Plus(字幕)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%20Plus.png" group-title="香港频道",TVB Plus(字幕)
+http://192.168.2.98:9100/c/73bdc2e2-ddc7-4fa8-9b8f-7bb3bbca2a6d/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-90b61c2a-b8a5-4cd5-967c-31470fded371" tvg-name="TVB1 翡翠一臺" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%201.png" group-title="香港频道",TVB1 翡翠一臺
+http://192.168.2.98:9100/c/90b61c2a-b8a5-4cd5-967c-31470fded371/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-e76a2a57-6180-41ce-ba0b-1d19dfedfe1e" tvg-name="華麗翡翠台(字幕)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Astro%E8%8F%AF%E9%BA%97%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港频道",華麗翡翠台(字幕)
+http://192.168.2.98:9100/c/e76a2a57-6180-41ce-ba0b-1d19dfedfe1e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-2c9325c8-e9ae-409f-8bf7-7d05eee9b42b" tvg-name="華麗翡翠台(新加坡)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Astro%E8%8F%AF%E9%BA%97%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港频道",華麗翡翠台(新加坡)
+http://192.168.2.98:9100/c/2c9325c8-e9ae-409f-8bf7-7d05eee9b42b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-f1ecf789-ed23-4393-bf82-3df17b0ece6d" tvg-name="黄金华剧台(字幕)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E9%BB%83%E9%87%91%E8%8F%AF%E5%8A%87%E5%8F%B0.png" group-title="香港频道",黄金华剧台(字幕)
+http://192.168.2.98:9100/c/f1ecf789-ed23-4393-bf82-3df17b0ece6d/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-af11207e-36a2-487d-890d-bf7559926ec3" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ViuTV.png" group-title="香港频道",ViuTV
+http://192.168.2.98:9100/c/af11207e-36a2-487d-890d-bf7559926ec3/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-104b85ef-171f-4b45-8067-28e7ba75ed29" tvg-name="ViuTVSix" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ViuTV96.png" group-title="香港频道",ViuTVSix
+http://192.168.2.98:9100/c/104b85ef-171f-4b45-8067-28e7ba75ed29/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-0588f694-f565-447d-a9c9-76de75b5f575" tvg-name="鳳凰中文" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0.png" group-title="香港频道",鳳凰中文
+http://192.168.2.98:9100/c/0588f694-f565-447d-a9c9-76de75b5f575/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-5429dac4-9fae-4bfc-9917-dc9bca1e766c" tvg-name="鳳凰資訊" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0.png" group-title="香港频道",鳳凰資訊
+http://192.168.2.98:9100/c/5429dac4-9fae-4bfc-9917-dc9bca1e766c/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-dad6ff12-befa-403e-9832-c9293d91eb5c" tvg-name="鳳凰香港" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0.png" group-title="香港频道",鳳凰香港
+http://192.168.2.98:9100/c/dad6ff12-befa-403e-9832-c9293d91eb5c/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-9afe359c-8438-4b1f-8f1f-18c461331e04" tvg-name="澳門Macau" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MO/%E6%BE%B3%E9%96%80Macau.png" group-title="澳门频道",澳門Macau
+http://192.168.2.98:9100/c/9afe359c-8438-4b1f-8f1f-18c461331e04/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-9fd02034-414a-45ec-81be-4a415266d735" tvg-name="澳視澳門" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MO/%E6%BE%B3%E8%A6%96%E6%BE%B3%E9%96%80.png" group-title="澳门频道",澳視澳門
+http://192.168.2.98:9100/c/9fd02034-414a-45ec-81be-4a415266d735/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-82f078f5-d0ee-48a0-a505-901231b7a80f" tvg-name="澳門體育" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MO/%E6%BE%B3%E9%96%80%E9%AB%94%E8%82%B2.png" group-title="澳门频道",澳門體育
+http://192.168.2.98:9100/c/82f078f5-d0ee-48a0-a505-901231b7a80f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-83cb8bfe-0a85-497c-84eb-664277e72ecc" tvg-name="澳門綜藝" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MO/%E6%BE%B3%E9%96%80%E7%B6%9C%E8%97%9D.png" group-title="澳门频道",澳門綜藝
+http://192.168.2.98:9100/c/83cb8bfe-0a85-497c-84eb-664277e72ecc/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-e0bfdd5d-0e71-4f60-9b5b-3b451be18c3b" tvg-name="澳門蓮花" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MO/%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1.png" group-title="澳门频道",澳門蓮花
+http://192.168.2.98:9100/c/e0bfdd5d-0e71-4f60-9b5b-3b451be18c3b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-d3426d8a-0763-4a6d-9a64-025e8af378f7" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/ROCK%20Action.png" group-title="台湾频道",ROCK Action
+http://192.168.2.98:9100/c/d3426d8a-0763-4a6d-9a64-025e8af378f7/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-86f97665-5d67-4866-a352-80094f7f1649" tvg-name="三立綜合台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88%E5%8F%B0.png" group-title="台湾频道",三立綜合台
+http://192.168.2.98:9100/c/86f97665-5d67-4866-a352-80094f7f1649/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-d999d77a-9663-4f10-8fe8-dad22ef3f739" tvg-name="Catchplay电影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/CatchPlay%E9%9B%BB%E5%BD%B1%E5%8F%B0.png" group-title="台湾频道",Catchplay电影台
+http://192.168.2.98:9100/c/d999d77a-9663-4f10-8fe8-dad22ef3f739/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-564a1f5a-5adb-4499-a1dd-11defd0451c0" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B21%E5%8F%B0.png" group-title="台湾频道",愛爾達體育1台
+http://192.168.2.98:9100/c/564a1f5a-5adb-4499-a1dd-11defd0451c0/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-768d6e29-689a-42f3-8409-7fb8268ec431" tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B22%E5%8F%B0.png" group-title="台湾频道",愛爾達體育2台
+http://192.168.2.98:9100/c/768d6e29-689a-42f3-8409-7fb8268ec431/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-4a4a85ec-1b89-4698-970d-bc03f4441e51" tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B23%E5%8F%B0.png" group-title="台湾频道",愛爾達體育3台
+http://192.168.2.98:9100/c/4a4a85ec-1b89-4698-970d-bc03f4441e51/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-58bf0b25-63c1-4a8b-bda7-3f1ec2bd1e09" tvg-name="龍華洋片台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="台湾频道",龍華洋片台
+http://192.168.2.98:9100/c/58bf0b25-63c1-4a8b-bda7-3f1ec2bd1e09/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-dddd5f84-22ab-4171-b89c-6e5ee9a6e5ec" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="台湾频道",龍華電影台
+http://192.168.2.98:9100/c/dddd5f84-22ab-4171-b89c-6e5ee9a6e5ec/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-942af6e0-3978-40cf-8656-363ca5b68516" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="台湾频道",龍華日韓台
+http://192.168.2.98:9100/c/942af6e0-3978-40cf-8656-363ca5b68516/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-e29fc893-81f3-4e31-b4df-296b487d8a6d" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="台湾频道",龍華偶像台
+http://192.168.2.98:9100/c/e29fc893-81f3-4e31-b4df-296b487d8a6d/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-55c156cb-4711-4506-b3d8-bd097dd833b4" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="台湾频道",龍華戲劇台
+http://192.168.2.98:9100/c/55c156cb-4711-4506-b3d8-bd097dd833b4/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-2f729888-a446-4445-9fb3-0d72ac722e50" tvg-name="龍華經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="台湾频道",龍華經典台
+http://192.168.2.98:9100/c/2f729888-a446-4445-9fb3-0d72ac722e50/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-174d0add-a3e1-4f7d-ac72-d247809bf86c" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="台湾频道",龍華卡通台
+http://192.168.2.98:9100/c/174d0add-a3e1-4f7d-ac72-d247809bf86c/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-ecc0dd92-e8ba-4a26-a0fc-e775d0ef72ec" tvg-name="民視影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv09_mobile.png" group-title="台湾频道",民視影劇台
+http://192.168.2.98:9100/c/ecc0dd92-e8ba-4a26-a0fc-e775d0ef72ec/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-e0c9f984-1ede-401d-ae87-fbefcc66b5f6" tvg-name="公視戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv042_mobile.png" group-title="台湾频道",公視戲劇台
+http://192.168.2.98:9100/c/e0c9f984-1ede-401d-ae87-fbefcc66b5f6/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-22ed862f-4b2e-477d-b892-951ca41e571b" tvg-name="采昌影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" group-title="台湾频道",采昌影劇台
+http://192.168.2.98:9100/c/22ed862f-4b2e-477d-b892-951ca41e571b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-8905be06-4b42-45e3-8b2d-95791c62883b" tvg-name="靖天映畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="台湾频道",靖天映畫
+http://192.168.2.98:9100/c/8905be06-4b42-45e3-8b2d-95791c62883b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-ac4bf044-d1b1-4ca9-8d1d-8065807d7401" tvg-name="靖天電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="台湾频道",靖天電影台
+http://192.168.2.98:9100/c/ac4bf044-d1b1-4ca9-8d1d-8065807d7401/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-d5913abf-68f8-40b8-8860-186d9b6e25d9" tvg-name="靖天戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png" group-title="台湾频道",靖天戲劇台
+http://192.168.2.98:9100/c/d5913abf-68f8-40b8-8860-186d9b6e25d9/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-b1d91294-fb99-4be7-a770-8ecc76ac6ef3" tvg-name="靖洋戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv045_mobile.png" group-title="台湾频道",靖洋戲劇台
+http://192.168.2.98:9100/c/b1d91294-fb99-4be7-a770-8ecc76ac6ef3/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-10a7859a-eeb9-424f-b1bc-a9d59a795188" tvg-name="影迷數位電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile-1.png" group-title="台湾频道",影迷數位電影台
+http://192.168.2.98:9100/c/10a7859a-eeb9-424f-b1bc-a9d59a795188/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-fee9277e-3f14-49da-b404-81584fc47938" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="台湾频道",amc電影台
+http://192.168.2.98:9100/c/fee9277e-3f14-49da-b404-81584fc47938/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-3aac0231-5d33-4794-9d50-b887d73d22dd" tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="台湾频道",CinemaWorld
+http://192.168.2.98:9100/c/3aac0231-5d33-4794-9d50-b887d73d22dd/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-42741382-9641-4c9c-8185-212ea4351613" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png" group-title="台湾频道",My Cinema Europe HD 我的歐洲電影
+http://192.168.2.98:9100/c/42741382-9641-4c9c-8185-212ea4351613/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-30242b24-a499-4a5d-9902-b752a01191dd" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="台湾频道",經典電影台
+http://192.168.2.98:9100/c/30242b24-a499-4a5d-9902-b752a01191dd/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-6e4a68c6-f20b-49c0-a750-eca6e3bd5d1f" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="台湾频道",DreamWorks 夢工廠動畫
+http://192.168.2.98:9100/c/6e4a68c6-f20b-49c0-a750-eca6e3bd5d1f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-551ad9a2-0eab-4c09-8728-27b15304990b" tvg-name="緯來電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland2.png" group-title="台湾频道",緯來電影台
+http://192.168.2.98:9100/c/551ad9a2-0eab-4c09-8728-27b15304990b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-8a4a0ac9-fe54-482f-90ac-893932f16262" tvg-name="緯來戲劇台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%BA%AC%E6%9D%A5%E6%88%8F%E5%89%A7%E5%8F%B0.png" group-title="台湾频道",緯來戲劇台
+http://192.168.2.98:9100/c/8a4a0ac9-fe54-482f-90ac-893932f16262/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-40491b77-0c26-4acf-aa47-523ff0df7315" tvg-name="緯來體育台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2%E5%8F%B0.png" group-title="台湾频道",緯來體育台
+http://192.168.2.98:9100/c/40491b77-0c26-4acf-aa47-523ff0df7315/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-4280b3bf-be60-47ca-93b2-b2b5e9a6f194" tvg-name="龍祥時代" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E9%BE%99%E7%A5%A5%E6%97%B6%E4%BB%A3%E5%8F%B0.png" group-title="台湾频道",龍祥時代
+http://192.168.2.98:9100/c/4280b3bf-be60-47ca-93b2-b2b5e9a6f194/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-6f0ed344-c9f5-4f4e-93db-3e09966c5fce" tvg-name="東森電影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1%E5%8F%B0.png" group-title="台湾频道",東森電影台
+http://192.168.2.98:9100/c/6f0ed344-c9f5-4f4e-93db-3e09966c5fce/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-e837a3ce-eab2-4ad9-b7e1-85cb54c2e90e" tvg-name="東森戲劇台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7%E5%8F%B0.png" group-title="台湾频道",東森戲劇台
+http://192.168.2.98:9100/c/e837a3ce-eab2-4ad9-b7e1-85cb54c2e90e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-36fe01ec-ad18-4302-b995-412c06f77477" tvg-name="東森洋片台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87%E5%8F%B0.png" group-title="台湾频道",東森洋片台
+http://192.168.2.98:9100/c/36fe01ec-ad18-4302-b995-412c06f77477/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-2c63843b-d9b9-4d83-904d-79fd507697be" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png" group-title="海外频道",TNT Sports 1
+http://192.168.2.98:9100/c/2c63843b-d9b9-4d83-904d-79fd507697be/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-9abcbe14-4564-4efa-9241-3c41cbefd01e" tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%202.png" group-title="海外频道",TNT Sports 2
+http://192.168.2.98:9100/c/9abcbe14-4564-4efa-9241-3c41cbefd01e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-a880b69b-e344-46ec-a600-31929e48efa4" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%203.png" group-title="海外频道",TNT Sports 3
+http://192.168.2.98:9100/c/a880b69b-e344-46ec-a600-31929e48efa4/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-14d046f1-853d-4702-a77d-63b45709f1c6" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%204.png" group-title="海外频道",TNT Sports 4
+http://192.168.2.98:9100/c/14d046f1-853d-4702-a77d-63b45709f1c6/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-7b01feff-7299-402c-bc9c-80c0a264935e" tvg-name="Eurosport 1 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%201.png" group-title="海外频道",Eurosport 1 🇨🇿
+http://192.168.2.98:9100/c/7b01feff-7299-402c-bc9c-80c0a264935e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-b5d9589c-af5d-4d3a-956d-efa5e2931ba2" tvg-name="Eurosport 2 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%202.png" group-title="海外频道",Eurosport 2 🇨🇿
+http://192.168.2.98:9100/c/b5d9589c-af5d-4d3a-956d-efa5e2931ba2/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-fe8f2204-3631-4795-91b9-56ccdf780a51" tvg-name="Sport1 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Sport1.png" group-title="海外频道",Sport1 🇨🇿
+http://192.168.2.98:9100/c/fe8f2204-3631-4795-91b9-56ccdf780a51/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-6dc2a76c-f4fe-40a0-af3c-001ab0d5a553" tvg-name="Sport2 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Sport2.png" group-title="海外频道",Sport2 🇨🇿
+http://192.168.2.98:9100/c/6dc2a76c-f4fe-40a0-af3c-001ab0d5a553/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-6cdc5476-2dbb-4db0-9a4b-98fb7b7a8b13" tvg-name="Arena Sport 1 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Arena%20Sport%201.png" group-title="海外频道",Arena Sport 1 🇨🇿
+http://192.168.2.98:9100/c/6cdc5476-2dbb-4db0-9a4b-98fb7b7a8b13/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-abb91f0b-fd92-44c7-a54a-55eab38f6069" tvg-name="Arena Sport 2 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Arena%20Sport%202.png" group-title="海外频道",Arena Sport 2 🇨🇿
+http://192.168.2.98:9100/c/abb91f0b-fd92-44c7-a54a-55eab38f6069/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-b4501008-4815-40f6-a699-a5252209e1cc" tvg-name="Nova Sport 1 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Nova%20Sport%201.png" group-title="海外频道",Nova Sport 1 🇨🇿
+http://192.168.2.98:9100/c/b4501008-4815-40f6-a699-a5252209e1cc/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-171d354e-0a36-432b-aad2-eaf912d9b1e8" tvg-name="Nova Sport 2 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Nova%20Sport%202.png" group-title="海外频道",Nova Sport 2 🇨🇿
+http://192.168.2.98:9100/c/171d354e-0a36-432b-aad2-eaf912d9b1e8/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-ed87a9b7-6ac5-4349-a947-0c8cfc3a509b" tvg-name="Fubo Sports 1 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/fubo%20Sports%201.png" group-title="海外频道",Fubo Sports 1 🇺🇸
+http://192.168.2.98:9100/c/ed87a9b7-6ac5-4349-a947-0c8cfc3a509b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-f16efe85-8e7a-439b-9eef-ce21c6e03759" tvg-name="Fubo Sports 2 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/fubo%20Sports%201.png" group-title="海外频道",Fubo Sports 2 🇺🇸
+http://192.168.2.98:9100/c/f16efe85-8e7a-439b-9eef-ce21c6e03759/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-141866b3-ac9e-49a8-839e-9d87b839c839" tvg-name="Canal 5 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Canal%205.png" group-title="海外频道",Canal 5 🇲🇽
+http://192.168.2.98:9100/c/141866b3-ac9e-49a8-839e-9d87b839c839/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-6d7f9f7a-8a85-4ca8-9552-2bfac5ce7818" tvg-name="Fox Sports 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%20Sports.png" group-title="海外频道",Fox Sports 🇲🇽
+http://192.168.2.98:9100/c/6d7f9f7a-8a85-4ca8-9552-2bfac5ce7818/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-a054cc54-8619-454d-98dc-ba520da002b3" tvg-name="Fox Sports 2 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%20Sports%202.png" group-title="海外频道",Fox Sports 2 🇲🇽
+http://192.168.2.98:9100/c/a054cc54-8619-454d-98dc-ba520da002b3/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-45ec70f2-990d-4c07-a02f-fa78275bf2e5" tvg-name="Fox Sports 3 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%20Sports%203.png" group-title="海外频道",Fox Sports 3 🇲🇽
+http://192.168.2.98:9100/c/45ec70f2-990d-4c07-a02f-fa78275bf2e5/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-2fec818e-e925-4587-974f-80818248c8ee" tvg-name="Fox Sports Premium 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%20Sports%20Premium.png" group-title="海外频道",Fox Sports Premium 🇲🇽
+http://192.168.2.98:9100/c/2fec818e-e925-4587-974f-80818248c8ee/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-95cb7b94-f0d4-44b0-817a-7b3e8ab33cb0" tvg-name="Fox+ 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%2B.png" group-title="海外频道",Fox+ 🇲🇽
+http://192.168.2.98:9100/c/95cb7b94-f0d4-44b0-817a-7b3e8ab33cb0/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-941f6df6-9af4-430f-9d15-d1f96ed7914a" tvg-name="TUDN 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/TUDN.png" group-title="海外频道",TUDN 🇲🇽
+http://192.168.2.98:9100/c/941f6df6-9af4-430f-9d15-d1f96ed7914a/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-b8ab75cb-d17c-4f75-a2a4-2cc291dbb30a" tvg-name="Premier Sports Rugby 🇲🇾" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%20Rugby.png" group-title="海外频道",Premier Sports Rugby 🇲🇾
+http://192.168.2.98:9100/c/b8ab75cb-d17c-4f75-a2a4-2cc291dbb30a/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-27ef0192-e61f-4285-931b-c345e4c8a87f" tvg-name="CBS Sports Network 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/CBS%20Sports%20Network.png" group-title="海外频道",CBS Sports Network 🇺🇸
+http://192.168.2.98:9100/c/27ef0192-e61f-4285-931b-c345e4c8a87f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-7cf2afd4-ad48-47c7-b5cc-27417427e42d" tvg-name="Dazn Laliga Hypermotion 1 🇪🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20TV%20Hypermotion.png" group-title="海外频道",Dazn Laliga Hypermotion 1 🇪🇸
+http://192.168.2.98:9100/c/7cf2afd4-ad48-47c7-b5cc-27417427e42d/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-a91d82e1-7414-4f3f-ab90-4619e5ae7c6f" tvg-name="Dazn Laliga Hypermotion 2 🇪🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20TV%20Hypermotion.png" group-title="海外频道",Dazn Laliga Hypermotion 2 🇪🇸
+http://192.168.2.98:9100/c/a91d82e1-7414-4f3f-ab90-4619e5ae7c6f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-62fc5030-d493-4d05-a3fa-265734999f80" tvg-name="Dazn Laliga Hypermotion 3 🇪🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20TV%20Hypermotion.png" group-title="海外频道",Dazn Laliga Hypermotion 3 🇪🇸
+http://192.168.2.98:9100/c/62fc5030-d493-4d05-a3fa-265734999f80/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-0e876f4e-c652-4396-bf53-4ce51b666488" tvg-name="HBO Boxing 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO%20Boxing.png" group-title="海外频道",HBO Boxing 🇺🇸
+http://192.168.2.98:9100/c/0e876f4e-c652-4396-bf53-4ce51b666488/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-7e3a9999-4c43-4118-bbee-52770c2a37f4" tvg-name="NBA TV 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NBA%20TV.png" group-title="海外频道",NBA TV 🇺🇸
+http://192.168.2.98:9100/c/7e3a9999-4c43-4118-bbee-52770c2a37f4/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-65e58d53-e229-490e-94ca-9f519f742efd" tvg-name="Premier Sports 1 🇬🇧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%201.png" group-title="海外频道",Premier Sports 1 🇬🇧
+http://192.168.2.98:9100/c/65e58d53-e229-490e-94ca-9f519f742efd/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-edf970a5-cf08-4566-af7b-d00aeba7bb41" tvg-name="Premier Sports 2 🇬🇧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%202.png" group-title="海外频道",Premier Sports 2 🇬🇧
+http://192.168.2.98:9100/c/edf970a5-cf08-4566-af7b-d00aeba7bb41/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-fb9ec2cc-0808-4d80-a755-57fea54efccb" tvg-name="Premiere Sports 1 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png" group-title="海外频道",Premiere Sports 1 🇧🇷
+http://192.168.2.98:9100/c/fb9ec2cc-0808-4d80-a755-57fea54efccb/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-b71555f7-cb04-4c8d-bd62-3c4d9091462a" tvg-name="Premiere Sports 2 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png" group-title="海外频道",Premiere Sports 2 🇧🇷
+http://192.168.2.98:9100/c/b71555f7-cb04-4c8d-bd62-3c4d9091462a/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-1948a247-3933-45e1-bdbb-8e54e849f14b" tvg-name="Premiere Sports 3 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png" group-title="海外频道",Premiere Sports 3 🇧🇷
+http://192.168.2.98:9100/c/1948a247-3933-45e1-bdbb-8e54e849f14b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-3a6fcc20-226b-4a8a-bbf7-4cd2cbafcae2" tvg-name="Premiere Sports 4 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png" group-title="海外频道",Premiere Sports 4 🇧🇷
+http://192.168.2.98:9100/c/3a6fcc20-226b-4a8a-bbf7-4cd2cbafcae2/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-06096d0a-ca73-4fab-abe5-b296917c476e" tvg-name="Premiere Sports 5 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png" group-title="海外频道",Premiere Sports 5 🇧🇷
+http://192.168.2.98:9100/c/06096d0a-ca73-4fab-abe5-b296917c476e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-7a6ded8c-9506-4a92-925f-4bafa403b801" tvg-name="SporTV 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/SporTV.png" group-title="海外频道",SporTV 🇧🇷
+http://192.168.2.98:9100/c/7a6ded8c-9506-4a92-925f-4bafa403b801/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-f5b1b3ac-08eb-4778-9489-ef2af13ceab7" tvg-name="SporTV 2 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/SporTV%202.png" group-title="海外频道",SporTV 2 🇧🇷
+http://192.168.2.98:9100/c/f5b1b3ac-08eb-4778-9489-ef2af13ceab7/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-a27a310b-9913-4f9f-9c0d-c82547e130cd" tvg-name="SporTV 3 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/SporTV%203.png" group-title="海外频道",SporTV 3 🇧🇷
+http://192.168.2.98:9100/c/a27a310b-9913-4f9f-9c0d-c82547e130cd/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-47e2c871-746c-4824-845d-02ad4e8b6551" tvg-name="CazéTV 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Caz%C3%A9TV.png" group-title="海外频道",CazéTV 🇧🇷
+http://192.168.2.98:9100/c/47e2c871-746c-4824-845d-02ad4e8b6551/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-71d71d49-db34-4ff6-be7f-1aca31de2606" tvg-name="CazéTV 2 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Caz%C3%A9TV.png" group-title="海外频道",CazéTV 2 🇧🇷
+http://192.168.2.98:9100/c/71d71d49-db34-4ff6-be7f-1aca31de2606/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-ad2d67d8-0c78-41d0-8e57-1e8117c4e6ba" tvg-name="Sportdigital Fussball 🇩🇪" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sportdigital%20Fussball.png" group-title="海外频道",Sportdigital Fussball 🇩🇪
+http://192.168.2.98:9100/c/ad2d67d8-0c78-41d0-8e57-1e8117c4e6ba/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-3b3ec330-aecf-42c0-bd7d-a362cb1abd08" tvg-name="Tennis Channel 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Tennis%20Channel.png" group-title="海外频道",Tennis Channel 🇺🇸
+http://192.168.2.98:9100/c/3b3ec330-aecf-42c0-bd7d-a362cb1abd08/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-a9c2a505-0939-4c37-bb3a-61df52ee2ed0" tvg-name="TSN 1 🇨🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/TSN1.png" group-title="海外频道",TSN 1 🇨🇦
+http://192.168.2.98:9100/c/a9c2a505-0939-4c37-bb3a-61df52ee2ed0/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-cfd7a0a5-e4b6-42f6-876c-f899d3967a0d" tvg-name="TSN 2 🇨🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/TSN2.png" group-title="海外频道",TSN 2 🇨🇦
+http://192.168.2.98:9100/c/cfd7a0a5-e4b6-42f6-876c-f899d3967a0d/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-2b4f209f-39aa-4a0b-bdb5-61ba81c8297d" tvg-name="TSN 3 🇨🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/TSN3.png" group-title="海外频道",TSN 3 🇨🇦
+http://192.168.2.98:9100/c/2b4f209f-39aa-4a0b-bdb5-61ba81c8297d/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-dfc44ef2-5c16-47d4-910c-3b6947d51b3f" tvg-name="TSN 4 🇨🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/TSN4.png" group-title="海外频道",TSN 4 🇨🇦
+http://192.168.2.98:9100/c/dfc44ef2-5c16-47d4-910c-3b6947d51b3f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-fe6bae35-55d7-42fc-b445-410b60349a24" tvg-name="TSN 5 🇨🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/TSN5.png" group-title="海外频道",TSN 5 🇨🇦
+http://192.168.2.98:9100/c/fe6bae35-55d7-42fc-b445-410b60349a24/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-3b4658c4-9f3f-492d-b75e-7fe12232058e" tvg-name="Fox sports 4K 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20Sports%20Ultra.png" group-title="海外频道",Fox sports 4K 🇺🇸
+http://192.168.2.98:9100/c/3b4658c4-9f3f-492d-b75e-7fe12232058e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-1888509c-f751-4224-a2e7-aab49aa6b4c6" tvg-name="Fox Sports 1 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/FS1.png" group-title="海外频道",Fox Sports 1 🇺🇸
+http://192.168.2.98:9100/c/1888509c-f751-4224-a2e7-aab49aa6b4c6/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-5310d7ba-7643-440d-aa61-8e824f8fa8b2" tvg-name="Fox Sports 2 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/FS2.png" group-title="海外频道",Fox Sports 2 🇺🇸
+http://192.168.2.98:9100/c/5310d7ba-7643-440d-aa61-8e824f8fa8b2/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-237a4cb8-cee4-4e20-9c35-243e465a9873" tvg-name="Fox Deportes" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20Deportes.png" group-title="海外频道",Fox Deportes
+http://192.168.2.98:9100/c/237a4cb8-cee4-4e20-9c35-243e465a9873/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-2c99275e-659f-408b-80a7-f1ca1cdfc26f" tvg-name="Willow Cricket 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Willow%20Cricket.png" group-title="海外频道",Willow Cricket 🇺🇸
+http://192.168.2.98:9100/c/2c99275e-659f-408b-80a7-f1ca1cdfc26f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-ca193cc5-222a-4096-b21d-8ec8e51de91b" tvg-name="DAZN Fast" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/DAZN%20Fast.png" group-title="海外频道",DAZN Fast
+http://192.168.2.98:9100/c/ca193cc5-222a-4096-b21d-8ec8e51de91b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-420eb2b1-ebb4-4ee8-bf93-9643d951e338" tvg-name="beIN Sports 1 🇦🇺" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%201.png" group-title="海外频道",beIN Sports 1 🇦🇺
+http://192.168.2.98:9100/c/420eb2b1-ebb4-4ee8-bf93-9643d951e338/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-85c6a07f-af54-4ec2-9942-1beee8c21c33" tvg-name="beIN Sports 2 🇦🇺" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%202.png" group-title="海外频道",beIN Sports 2 🇦🇺
+http://192.168.2.98:9100/c/85c6a07f-af54-4ec2-9942-1beee8c21c33/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-0f2aa464-e612-4253-823f-bc19613b1412" tvg-name="beIN Sports 3 🇦🇺" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%203.png" group-title="海外频道",beIN Sports 3 🇦🇺
+http://192.168.2.98:9100/c/0f2aa464-e612-4253-823f-bc19613b1412/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-dc3fd430-c86c-4594-bc3d-4b3af5cea1e1" tvg-name="DSports FHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/DSports.png" group-title="海外频道",DSports FHD
+http://192.168.2.98:9100/c/dc3fd430-c86c-4594-bc3d-4b3af5cea1e1/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-ca881002-736b-4f5e-b2b1-a1637e42eea1" tvg-name="DSports" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/DSports.png" group-title="海外频道",DSports
+http://192.168.2.98:9100/c/ca881002-736b-4f5e-b2b1-a1637e42eea1/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-40312987-5bb6-4336-b7a1-e20ea3d53c54" tvg-name="DSports2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/DSports2.png" group-title="海外频道",DSports2
+http://192.168.2.98:9100/c/40312987-5bb6-4336-b7a1-e20ea3d53c54/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-5cb006c4-0ae3-4a5f-9dea-3e44ae5f844b" tvg-name="DSports+" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/DSports%2B.png" group-title="海外频道",DSports+
+http://192.168.2.98:9100/c/5cb006c4-0ae3-4a5f-9dea-3e44ae5f844b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-386ce52d-58ce-4d56-86f1-a764e0bb8110" tvg-name="AMC 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/AMC.png" group-title="海外频道",AMC 🇺🇸
+http://192.168.2.98:9100/c/386ce52d-58ce-4d56-86f1-a764e0bb8110/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-49b26767-c059-4e1c-820a-209c09064b3f" tvg-name="Cinemax East 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Cinemax%20East.png" group-title="海外频道",Cinemax East 🇺🇸
+http://192.168.2.98:9100/c/49b26767-c059-4e1c-820a-209c09064b3f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-8a243668-2bd8-45e5-b41e-faca49fec4ff" tvg-name="Amazon Movies 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Amazon%20Movies.png" group-title="海外频道",Amazon Movies 🇺🇸
+http://192.168.2.98:9100/c/8a243668-2bd8-45e5-b41e-faca49fec4ff/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-d737dd85-173e-4f14-8f45-9673960ba04f" tvg-name="HBO 1 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO1.png" group-title="海外频道",HBO 1 🇺🇸
+http://192.168.2.98:9100/c/d737dd85-173e-4f14-8f45-9673960ba04f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-a89741a7-ca26-4394-9764-85153962c933" tvg-name="HBO 2 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO2.png" group-title="海外频道",HBO 2 🇺🇸
+http://192.168.2.98:9100/c/a89741a7-ca26-4394-9764-85153962c933/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-5a679908-714c-4688-a2ad-f18b2f80ed0f" tvg-name="HBO West 🇺🇸 (audio eng-esp)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO%20West_WHITE.png" group-title="海外频道",HBO West 🇺🇸 (audio eng-esp)
+http://192.168.2.98:9100/c/5a679908-714c-4688-a2ad-f18b2f80ed0f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-8b884a0d-c7bf-42c4-8664-dddaf8ea57c8" tvg-name="HBO Zone 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO%20Zone.png" group-title="海外频道",HBO Zone 🇺🇸
+http://192.168.2.98:9100/c/8b884a0d-c7bf-42c4-8664-dddaf8ea57c8/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-19b594ad-8fc8-4048-b22d-4081ddefaf92" tvg-name="HBO Signature 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO%20Signature.png" group-title="海外频道",HBO Signature 🇺🇸
+http://192.168.2.98:9100/c/19b594ad-8fc8-4048-b22d-4081ddefaf92/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-cff94e34-ac39-4e2c-b923-09296fd34331" tvg-name="HBO Comedy East 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO%20Comedy.png" group-title="海外频道",HBO Comedy East 🇺🇸
+http://192.168.2.98:9100/c/cff94e34-ac39-4e2c-b923-09296fd34331/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-633331c8-b933-4249-a4a3-4cdef115957a" tvg-name="MoreMax 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Cinemax%20Hits.png" group-title="海外频道",MoreMax 🇺🇸
+http://192.168.2.98:9100/c/633331c8-b933-4249-a4a3-4cdef115957a/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-2cdc641c-f5e2-4a10-ae7a-fa72eff783fa" tvg-name="BBC Treasures" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC.png" group-title="海外频道",BBC Treasures
+http://192.168.2.98:9100/c/2cdc641c-f5e2-4a10-ae7a-fa72eff783fa/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-19273397-ed44-4127-b78c-c47b309edab1" tvg-name="PBS Travel" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/PBS%20Travel.png" group-title="海外频道",PBS Travel
+http://192.168.2.98:9100/c/19273397-ed44-4127-b78c-c47b309edab1/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-33ce3884-b45b-4139-969d-6f3e759d7958" tvg-name="How To" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/How%20To.png" group-title="海外频道",How To
+http://192.168.2.98:9100/c/33ce3884-b45b-4139-969d-6f3e759d7958/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-17ddb17c-0efd-4770-a837-9d989643b306" tvg-name="Nat Geo Sharks" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Nat%20Geo%20Sharks.png" group-title="海外频道",Nat Geo Sharks
+http://192.168.2.98:9100/c/17ddb17c-0efd-4770-a837-9d989643b306/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-ab0497e7-2556-47a2-b08e-5421f62812e3" tvg-name="Curiosity Now" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Curiosity%20Now.png" group-title="海外频道",Curiosity Now
+http://192.168.2.98:9100/c/ab0497e7-2556-47a2-b08e-5421f62812e3/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-e4d4deef-7180-4b2b-ba4b-e3e90c31c3c7" tvg-name="Dinos 24/7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Dinos%20247.png" group-title="海外频道",Dinos 24/7
+http://192.168.2.98:9100/c/e4d4deef-7180-4b2b-ba4b-e3e90c31c3c7/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-f051d058-a5bb-438a-897e-54e60506df2a" tvg-name="PBS Genealogy" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/PBS%20Genealogy.png" group-title="海外频道",PBS Genealogy
+http://192.168.2.98:9100/c/f051d058-a5bb-438a-897e-54e60506df2a/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-7b88ac45-ccdf-4b12-a8a2-a691df1daa5a" tvg-name="EarthDay 365" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EarthDay%20365.png" group-title="海外频道",EarthDay 365
+http://192.168.2.98:9100/c/7b88ac45-ccdf-4b12-a8a2-a691df1daa5a/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-9edb33ba-de23-4567-b98d-fa4e30896757" tvg-name="Mysterious World" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Mysterious%20World.png" group-title="海外频道",Mysterious World
+http://192.168.2.98:9100/c/9edb33ba-de23-4567-b98d-fa4e30896757/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-78751191-7143-4cee-bab4-66757949c71e" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/Love%20Nature.png" group-title="海外频道",Love Nature
+http://192.168.2.98:9100/c/78751191-7143-4cee-bab4-66757949c71e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-3f28a740-8a9f-4821-9d80-19cefe4a9126" tvg-name="Combat War Channel" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Combat%20War.png" group-title="海外频道",Combat War Channel
+http://192.168.2.98:9100/c/3f28a740-8a9f-4821-9d80-19cefe4a9126/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-95b54e64-aea8-48cb-ba03-4495776a1d07" tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/VN/BBC%20Earth.png" group-title="海外频道",BBC Earth
+http://192.168.2.98:9100/c/95b54e64-aea8-48cb-ba03-4495776a1d07/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-4f77afc9-1c71-478b-83ff-fe507f9d3e14" tvg-name="MGM+" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/MGM%2B.png" group-title="海外频道",MGM+
+http://192.168.2.98:9100/c/4f77afc9-1c71-478b-83ff-fe507f9d3e14/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-ad066797-dd89-45c2-99cd-b6b5cfe2eef0" tvg-name="MGM+ Hits" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/MGM%2B%20Hits.png" group-title="海外频道",MGM+ Hits
+http://192.168.2.98:9100/c/ad066797-dd89-45c2-99cd-b6b5cfe2eef0/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-70ccb1bc-1528-44d7-9e17-0d13e213f319" tvg-name="MGM+ Drive-In" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/MGM%2B%20Drive-In.png" group-title="海外频道",MGM+ Drive-In
+http://192.168.2.98:9100/c/70ccb1bc-1528-44d7-9e17-0d13e213f319/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-44111297-0fba-4cb6-8fc1-36e19124f405" tvg-name="MGM+ Marquee" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/MGM%2B%20Marquee.png" group-title="海外频道",MGM+ Marquee
+http://192.168.2.98:9100/c/44111297-0fba-4cb6-8fc1-36e19124f405/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-a39389da-44ac-4cac-a943-bd00a687c616" tvg-name="HUB Premier 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%201.png" group-title="新加坡体育",HUB Premier 1
+http://192.168.2.98:9100/c/a39389da-44ac-4cac-a943-bd00a687c616/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-d9988085-b2f0-456e-bb34-08f47d6ac9de" tvg-name="HUB Premier 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%202.png" group-title="新加坡体育",HUB Premier 2
+http://192.168.2.98:9100/c/d9988085-b2f0-456e-bb34-08f47d6ac9de/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-b8afe83f-a1c2-4bd7-8ca6-bfc85f05794b" tvg-name="HUB Premier 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%203.png" group-title="新加坡体育",HUB Premier 3
+http://192.168.2.98:9100/c/b8afe83f-a1c2-4bd7-8ca6-bfc85f05794b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-4d3737b7-163e-44c1-9a1b-54cfc32b3a8b" tvg-name="HUB Premier 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%204.png" group-title="新加坡体育",HUB Premier 4
+http://192.168.2.98:9100/c/4d3737b7-163e-44c1-9a1b-54cfc32b3a8b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-f2f8efc6-ce5f-4931-8704-ac4c669d3acc" tvg-name="HUB Premier 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%205.png" group-title="新加坡体育",HUB Premier 5
+http://192.168.2.98:9100/c/f2f8efc6-ce5f-4931-8704-ac4c669d3acc/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-3d6cc9e9-e1b6-4087-b4b4-b17da2119743" tvg-name="HUB Premier 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%206.png" group-title="新加坡体育",HUB Premier 6
+http://192.168.2.98:9100/c/3d6cc9e9-e1b6-4087-b4b4-b17da2119743/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-1afe67a1-45c7-46e2-b65d-40b789c30700" tvg-name="HUB Premier 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%207.png" group-title="新加坡体育",HUB Premier 7
+http://192.168.2.98:9100/c/1afe67a1-45c7-46e2-b65d-40b789c30700/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-c359366d-7644-435d-9c43-afbe57dec56b" tvg-name="HUB Premier 8" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%208.png" group-title="新加坡体育",HUB Premier 8
+http://192.168.2.98:9100/c/c359366d-7644-435d-9c43-afbe57dec56b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-e0ba11fb-2019-4961-b940-26320a8494d4" tvg-name="Hub Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%201.png" group-title="新加坡体育",Hub Sports 1
+http://192.168.2.98:9100/c/e0ba11fb-2019-4961-b940-26320a8494d4/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-c1db57a5-9b3e-4e29-a4df-50b098a3bd29" tvg-name="Hub Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%202.png" group-title="新加坡体育",Hub Sports 2
+http://192.168.2.98:9100/c/c1db57a5-9b3e-4e29-a4df-50b098a3bd29/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-eb3f1d4b-8342-4c47-b163-da964d204175" tvg-name="Hub Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%203.png" group-title="新加坡体育",Hub Sports 3
+http://192.168.2.98:9100/c/eb3f1d4b-8342-4c47-b163-da964d204175/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-56344767-65ce-4c85-9459-7a6ff89173ff" tvg-name="Hub Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%204.png" group-title="新加坡体育",Hub Sports 4
+http://192.168.2.98:9100/c/56344767-65ce-4c85-9459-7a6ff89173ff/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-f917a310-c279-494f-b365-e75e67319eff" tvg-name="Hub Sports 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%205.png" group-title="新加坡体育",Hub Sports 5
+http://192.168.2.98:9100/c/f917a310-c279-494f-b365-e75e67319eff/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-079dec66-96f7-4e81-92e2-230ffc1320aa" tvg-name="Hub Sports 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%206.png" group-title="新加坡体育",Hub Sports 6
+http://192.168.2.98:9100/c/079dec66-96f7-4e81-92e2-230ffc1320aa/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-4419da8c-2b8f-4e1c-b85b-dc1a15ed749e" tvg-name="Hub Sports 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%207.png" group-title="新加坡体育",Hub Sports 7
+http://192.168.2.98:9100/c/4419da8c-2b8f-4e1c-b85b-dc1a15ed749e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-ff5c315b-0353-4870-8d32-9e0fc5e8d77d" tvg-name="beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/beIN%20Sports%202.png" group-title="新加坡体育",beIN Sports 2
+http://192.168.2.98:9100/c/ff5c315b-0353-4870-8d32-9e0fc5e8d77d/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-503a1110-c0a0-4764-8508-6eeac186f685" tvg-name="beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/beIN%20Sports%203.png" group-title="新加坡体育",beIN Sports 3
+http://192.168.2.98:9100/c/503a1110-c0a0-4764-8508-6eeac186f685/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-0fffffa5-270a-4680-a1e0-44cd8d2215f5" tvg-name="beIN Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/beIN%20Sports%204.png" group-title="新加坡体育",beIN Sports 4
+http://192.168.2.98:9100/c/0fffffa5-270a-4680-a1e0-44cd8d2215f5/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-40b16da1-f989-4a6a-85a5-777d4cbc5d25" tvg-name="beIN Sports 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/beIN%20Sports%205.png" group-title="新加坡体育",beIN Sports 5
+http://192.168.2.98:9100/c/40b16da1-f989-4a6a-85a5-777d4cbc5d25/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-30a1f51e-93a3-421d-be77-23436ff774c7" tvg-name="Alkass 1 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%201.png" group-title="卡塔尔体育",Alkass 1 🇶🇦
+http://192.168.2.98:9100/c/30a1f51e-93a3-421d-be77-23436ff774c7/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-338a7c9d-48c4-486e-a6e4-b36c750d74cc" tvg-name="Alkass 2 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%202.png" group-title="卡塔尔体育",Alkass 2 🇶🇦
+http://192.168.2.98:9100/c/338a7c9d-48c4-486e-a6e4-b36c750d74cc/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-f0583d9b-fd84-43ee-ba4c-3e83f8f086ad" tvg-name="Alkass 3 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%203.png" group-title="卡塔尔体育",Alkass 3 🇶🇦
+http://192.168.2.98:9100/c/f0583d9b-fd84-43ee-ba4c-3e83f8f086ad/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-d79f7224-5ed7-4521-bd32-b9fa113108ab" tvg-name="Alkass 4 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%204.png" group-title="卡塔尔体育",Alkass 4 🇶🇦
+http://192.168.2.98:9100/c/d79f7224-5ed7-4521-bd32-b9fa113108ab/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-7200ae9c-9744-48d2-921d-c89a72e28869" tvg-name="Alkass 5 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%205.png" group-title="卡塔尔体育",Alkass 5 🇶🇦
+http://192.168.2.98:9100/c/7200ae9c-9744-48d2-921d-c89a72e28869/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-d1c515a5-1aa7-46ab-9259-3cbd0f417914" tvg-name="Alkass 6 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%206.png" group-title="卡塔尔体育",Alkass 6 🇶🇦
+http://192.168.2.98:9100/c/d1c515a5-1aa7-46ab-9259-3cbd0f417914/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-21a0cad4-4674-47a5-8072-1f44efc17c55" tvg-name="Alkass 7 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%207.png" group-title="卡塔尔体育",Alkass 7 🇶🇦
+http://192.168.2.98:9100/c/21a0cad4-4674-47a5-8072-1f44efc17c55/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-54d9f6cd-10a1-4dcb-a573-dbf17ec02fab" tvg-name="Shoof 1 🇶🇦" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Qatar/Shoof.png" group-title="卡塔尔体育",Shoof 1 🇶🇦
+http://192.168.2.98:9100/c/54d9f6cd-10a1-4dcb-a573-dbf17ec02fab/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-e7269932-b829-44f8-beeb-8f95501785e7" tvg-name="Shoof 2 🇶🇦" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Qatar/Shoof.png" group-title="卡塔尔体育",Shoof 2 🇶🇦
+http://192.168.2.98:9100/c/e7269932-b829-44f8-beeb-8f95501785e7/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-f983d8c2-7dae-480f-84c6-ad58c7c0f79b" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png" group-title="AeSport",Sky Sports Main Event
+http://192.168.2.98:9100/c/f983d8c2-7dae-480f-84c6-ad58c7c0f79b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-4474c2bb-4eb0-41fe-8a90-4f998472e39c" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png" group-title="AeSport",Sky Sports F1
+http://192.168.2.98:9100/c/4474c2bb-4eb0-41fe-8a90-4f998472e39c/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-b83add54-ed07-47f7-b111-cd8c8205475b" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Premier%20League.png" group-title="AeSport",Sky Sports Premier League
+http://192.168.2.98:9100/c/b83add54-ed07-47f7-b111-cd8c8205475b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-6a06dd31-f5bb-41b3-a5a9-ada5ad78ddcb" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Football.png" group-title="AeSport",Sky Sports Football
+http://192.168.2.98:9100/c/6a06dd31-f5bb-41b3-a5a9-ada5ad78ddcb/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-f402d051-5c16-4252-b5cf-4ef4c5843190" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Action.png" group-title="AeSport",Sky Sports Action
+http://192.168.2.98:9100/c/f402d051-5c16-4252-b5cf-4ef4c5843190/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-ed015f39-302e-4f70-8639-82fc5f19271d" tvg-name="Sky Sports Mix" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Mix.png" group-title="AeSport",Sky Sports Mix
+http://192.168.2.98:9100/c/ed015f39-302e-4f70-8639-82fc5f19271d/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-1bed566f-ef3a-46f3-805a-432e4cd06f2e" tvg-name="Sky Sports+" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Plus.png" group-title="AeSport",Sky Sports+
+http://192.168.2.98:9100/c/1bed566f-ef3a-46f3-805a-432e4cd06f2e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-8cdeaa38-62a5-478a-8a6d-7f0d87d9cb32" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png" group-title="AeSport",TNT Sports 1
+http://192.168.2.98:9100/c/8cdeaa38-62a5-478a-8a6d-7f0d87d9cb32/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-ec8c7ccd-98d4-440f-8149-2a3d9d126fc2" tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%202.png" group-title="AeSport",TNT Sports 2
+http://192.168.2.98:9100/c/ec8c7ccd-98d4-440f-8149-2a3d9d126fc2/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-8ac6d833-75a6-4266-9567-7484f15af77c" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%203.png" group-title="AeSport",TNT Sports 3
+http://192.168.2.98:9100/c/8ac6d833-75a6-4266-9567-7484f15af77c/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-889b16bf-ab2f-4085-a823-2b683d295465" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%204.png" group-title="AeSport",TNT Sports 4
+http://192.168.2.98:9100/c/889b16bf-ab2f-4085-a823-2b683d295465/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-ab548298-b5e6-40b5-b993-9da82f91cbdd" tvg-name="FS1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/FS1.png" group-title="AeSport",FS1
+http://192.168.2.98:9100/c/ab548298-b5e6-40b5-b993-9da82f91cbdd/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-bb9b2697-c968-4560-9301-6f45c06bd750" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/CBS%20Sports%20Network.png" group-title="AeSport",CBS Sports Network
+http://192.168.2.98:9100/c/bb9b2697-c968-4560-9301-6f45c06bd750/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-8165633b-b582-4afd-a90f-85ceb0043ce5" tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%201.png" group-title="AeSport",DAZN 1
+http://192.168.2.98:9100/c/8165633b-b582-4afd-a90f-85ceb0043ce5/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-70d8ca2a-627d-4630-90eb-51c4c1c889ae" tvg-name="DAZN 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%202.png" group-title="AeSport",DAZN 2
+http://192.168.2.98:9100/c/70d8ca2a-627d-4630-90eb-51c4c1c889ae/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-71732f21-0ece-4996-bcbe-a99a0b31cec6" tvg-name="DAZN 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%203.png" group-title="AeSport",DAZN 3
+http://192.168.2.98:9100/c/71732f21-0ece-4996-bcbe-a99a0b31cec6/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-ed237c83-b3df-4c54-93b1-ecf332a4be64" tvg-name="DAZN 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%204.png" group-title="AeSport",DAZN 4
+http://192.168.2.98:9100/c/ed237c83-b3df-4c54-93b1-ecf332a4be64/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-19da92ef-f99e-49cb-a5c6-0ee18814ba54" tvg-name="DAZN 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%205.png" group-title="AeSport",DAZN 5
+http://192.168.2.98:9100/c/19da92ef-f99e-49cb-a5c6-0ee18814ba54/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-58953575-0b7e-4789-aa3a-eced5d5f4a45" tvg-name="DAZN 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%206.png" group-title="AeSport",DAZN 6
+http://192.168.2.98:9100/c/58953575-0b7e-4789-aa3a-eced5d5f4a45/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-f213dc1c-0959-4a86-a753-d5fc0c5a16bb" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%201.png" group-title="AeSport",Sport TV 1
+http://192.168.2.98:9100/c/f213dc1c-0959-4a86-a753-d5fc0c5a16bb/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-71fb6952-e237-4a27-8398-2ea828284591" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%202.png" group-title="AeSport",Sport TV 2
+http://192.168.2.98:9100/c/71fb6952-e237-4a27-8398-2ea828284591/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-fd97e00f-1f5d-40b2-b0cb-2fcd5a1d9445" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%203.png" group-title="AeSport",Sport TV 3
+http://192.168.2.98:9100/c/fd97e00f-1f5d-40b2-b0cb-2fcd5a1d9445/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-4a92d597-640b-4aec-8053-780d96eb4513" tvg-name="Sport TV 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%204.png" group-title="AeSport",Sport TV 4
+http://192.168.2.98:9100/c/4a92d597-640b-4aec-8053-780d96eb4513/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-64cf8621-339e-4a5a-aa13-003374a62794" tvg-name="Sport TV 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%205.png" group-title="AeSport",Sport TV 5
+http://192.168.2.98:9100/c/64cf8621-339e-4a5a-aa13-003374a62794/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-c68db7e0-3b93-4acb-8279-afbba41489b8" tvg-name="Sport TV NBA" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%206.png" group-title="AeSport",Sport TV NBA
+http://192.168.2.98:9100/c/c68db7e0-3b93-4acb-8279-afbba41489b8/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-c40d28e5-b2b2-4ed6-9f81-bb1f5a86f111" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png" group-title="beesports",TNT Sports 1
+http://192.168.2.98:9100/c/c40d28e5-b2b2-4ed6-9f81-bb1f5a86f111/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-94ab3a9d-3a40-4858-ae5c-566c209abc45" tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%202.png" group-title="beesports",TNT Sports 2
+http://192.168.2.98:9100/c/94ab3a9d-3a40-4858-ae5c-566c209abc45/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-d20b4904-33fb-410b-9c8d-411d594580ad" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%203.png" group-title="beesports",TNT Sports 3
+http://192.168.2.98:9100/c/d20b4904-33fb-410b-9c8d-411d594580ad/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-85a0faed-cf61-4974-8fcb-9baaf70d84e3" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%204.png" group-title="beesports",TNT Sports 4
+http://192.168.2.98:9100/c/85a0faed-cf61-4974-8fcb-9baaf70d84e3/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-df27e749-aa0b-4670-a90d-f50c666fac35" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png" group-title="beesports",Sky Sports Main Event
+http://192.168.2.98:9100/c/df27e749-aa0b-4670-a90d-f50c666fac35/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-a57335bf-07e4-417b-981f-c994bc0632ce" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Football.png" group-title="beesports",Sky Sports Football
+http://192.168.2.98:9100/c/a57335bf-07e4-417b-981f-c994bc0632ce/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-0ac562b1-3496-4625-81e2-abd7a4c6f3a0" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Premier%20League.png" group-title="beesports",Sky Sports Premier League
+http://192.168.2.98:9100/c/0ac562b1-3496-4625-81e2-abd7a4c6f3a0/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-1385bcd3-1af7-4034-91f1-b40e2fe36861" tvg-name="Sky Sports Mix" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Mix.png" group-title="beesports",Sky Sports Mix
+http://192.168.2.98:9100/c/1385bcd3-1af7-4034-91f1-b40e2fe36861/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-029109da-cb82-437d-8387-ce8539e07f6d" tvg-name="Sky Sports Arena" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Arena.png" group-title="beesports",Sky Sports Arena
+http://192.168.2.98:9100/c/029109da-cb82-437d-8387-ce8539e07f6d/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-9f6bb0ed-5663-4312-b1e4-21bbd4de1783" tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20News.png" group-title="beesports",Sky Sports News
+http://192.168.2.98:9100/c/9f6bb0ed-5663-4312-b1e4-21bbd4de1783/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-350c8a11-b8fe-4755-9411-b103c0c77d7b" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Cricket.png" group-title="beesports",Sky Sports Cricket
+http://192.168.2.98:9100/c/350c8a11-b8fe-4755-9411-b103c0c77d7b/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-3dd3d3be-cc84-4509-9a72-b8037ab6612c" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Tennis.png" group-title="beesports",Sky Sports Tennis
+http://192.168.2.98:9100/c/3dd3d3be-cc84-4509-9a72-b8037ab6612c/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-16ce80e8-e558-477f-a7d1-e861221d4aea" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png" group-title="beesports",Sky Sports F1
+http://192.168.2.98:9100/c/16ce80e8-e558-477f-a7d1-e861221d4aea/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-ce6a0dd4-09cb-4e4a-9f6d-86dd15a33c78" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Golf.png" group-title="beesports",Sky Sports Golf
+http://192.168.2.98:9100/c/ce6a0dd4-09cb-4e4a-9f6d-86dd15a33c78/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-b62df1c6-5b9b-4e14-b9b6-28a4aeae86e6" tvg-name="Sky Sports Racing" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Racing.png" group-title="beesports",Sky Sports Racing
+http://192.168.2.98:9100/c/b62df1c6-5b9b-4e14-b9b6-28a4aeae86e6/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-b7a9a5e3-e164-4e33-b1a5-586b5567dda5" tvg-name="beIN Sports USA" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/beIN%20Sports%20USA.png" group-title="beesports",beIN Sports USA
+http://192.168.2.98:9100/c/b7a9a5e3-e164-4e33-b1a5-586b5567dda5/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-72b9f1ea-ed90-4e0f-bfcd-2704c45b9416" tvg-name="Racing TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Racing%20TV.png" group-title="beesports",Racing TV
+http://192.168.2.98:9100/c/72b9f1ea-ed90-4e0f-bfcd-2704c45b9416/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-8a94e9be-d2be-485d-acd0-d38a07b81f86" tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Tennis%20Channel.png" group-title="beesports",Tennis Channel
+http://192.168.2.98:9100/c/8a94e9be-d2be-485d-acd0-d38a07b81f86/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-08fc8592-156d-4f19-a6e5-1bcc6716f3bb" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Comedy.png" group-title="beesports",Sky Cinema Comedy
+http://192.168.2.98:9100/c/08fc8592-156d-4f19-a6e5-1bcc6716f3bb/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-780c0e9f-bf3f-4a9e-bf3f-c4348aaa100d" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Family.png" group-title="beesports",Sky Cinema Family
+http://192.168.2.98:9100/c/780c0e9f-bf3f-4a9e-bf3f-c4348aaa100d/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-f086fb44-f998-4dd8-8a47-849c2a24c4a4" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Action.png" group-title="beesports",Sky Cinema Action
+http://192.168.2.98:9100/c/f086fb44-f998-4dd8-8a47-849c2a24c4a4/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-2af44da8-c2b0-4c0c-9b19-8c51d8130edf" tvg-name="Sky Cinema Animation" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Animation.png" group-title="beesports",Sky Cinema Animation
+http://192.168.2.98:9100/c/2af44da8-c2b0-4c0c-9b19-8c51d8130edf/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-0cf6ca11-13fd-4a41-a579-a910f475fc09" tvg-name="DAZN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/DAZN.png" group-title="beesports",DAZN
+http://192.168.2.98:9100/c/0cf6ca11-13fd-4a41-a579-a910f475fc09/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-d83b15a5-f605-4bc1-a798-82d556b20c5e" tvg-name="beIN Sports English 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%201.png" group-title="beesports",beIN Sports English 1
+http://192.168.2.98:9100/c/d83b15a5-f605-4bc1-a798-82d556b20c5e/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-e9d0efc8-250d-464d-a355-4f244dccedd8" tvg-name="beIN Sports English 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%202.png" group-title="beesports",beIN Sports English 2
+http://192.168.2.98:9100/c/e9d0efc8-250d-464d-a355-4f244dccedd8/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-08f3c126-60d9-4918-9f91-44c8f22723c9" tvg-name="beIN Sports English 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%203.png" group-title="beesports",beIN Sports English 3
+http://192.168.2.98:9100/c/08f3c126-60d9-4918-9f91-44c8f22723c9/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-21226a63-9b03-4f88-bf25-d177b24e55b2" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%202.png" group-title="beesports",Eurosport 2
+http://192.168.2.98:9100/c/21226a63-9b03-4f88-bf25-d177b24e55b2/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-ab27cf76-4d23-4b40-8295-e2e1039a45d8" tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%201.png" group-title="beesports",Premier Sports 1
+http://192.168.2.98:9100/c/ab27cf76-4d23-4b40-8295-e2e1039a45d8/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-08366a11-e820-47d3-9155-c34a687f99ec" tvg-name="Premier Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%202.png" group-title="beesports",Premier Sports 2
+http://192.168.2.98:9100/c/08366a11-e820-47d3-9155-c34a687f99ec/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-9a158000-ee82-453a-b06a-2b1f33d40e1d" tvg-name="Golf Channel" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Golf%20Channel.png" group-title="beesports",Golf Channel
+http://192.168.2.98:9100/c/9a158000-ee82-453a-b06a-2b1f33d40e1d/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-cc365b47-6aad-4bad-b00f-68281dd9d929" tvg-name="LaLiga TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20TV.png" group-title="beesports",LaLiga TV
+http://192.168.2.98:9100/c/cc365b47-6aad-4bad-b00f-68281dd9d929/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-673217ae-b8ba-41d8-af88-3137ca073ec2" tvg-name="MLB Network" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/MLB%20Network.png" group-title="beesports",MLB Network
+http://192.168.2.98:9100/c/673217ae-b8ba-41d8-af88-3137ca073ec2/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-360bae68-160f-4d6a-8cbf-7248c6464f96" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NFL%20Network.png" group-title="beesports",NFL Network
+http://192.168.2.98:9100/c/360bae68-160f-4d6a-8cbf-7248c6464f96/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-c60ed10d-42b1-4e36-9da7-6fa37659fb5d" tvg-name="NFL RedZone" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NFL%20RedZone.png" group-title="beesports",NFL RedZone
+http://192.168.2.98:9100/c/c60ed10d-42b1-4e36-9da7-6fa37659fb5d/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-2cc13b71-4ddf-4025-a134-5947fc92efd7" tvg-name="WWE" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/WWE.png" group-title="beesports",WWE
+http://192.168.2.98:9100/c/2cc13b71-4ddf-4025-a134-5947fc92efd7/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-dc35115d-1ed6-4218-9279-ba60f9fb5f9f" tvg-name="Willow Cricket" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Willow%20Cricket.png" group-title="beesports",Willow Cricket
+http://192.168.2.98:9100/c/dc35115d-1ed6-4218-9279-ba60f9fb5f9f/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-944b3f23-9b8e-47be-be8b-78a682446b06" tvg-name="Willow Extra" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Willow%20Xtra.png" group-title="beesports",Willow Extra
+http://192.168.2.98:9100/c/944b3f23-9b8e-47be-be8b-78a682446b06/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-889a4ceb-106a-4356-911a-f91c6f56f35f" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN.png" group-title="beesports",ESPN
+http://192.168.2.98:9100/c/889a4ceb-106a-4356-911a-f91c6f56f35f/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-6596cba3-035f-4fea-aae5-dbf70ea43acc" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN%202.png" group-title="beesports",ESPN 2
+http://192.168.2.98:9100/c/6596cba3-035f-4fea-aae5-dbf70ea43acc/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-2d8c7e61-4f72-4100-bafe-122b48adbdcb" tvg-name="ESPN News" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN%20News.png" group-title="beesports",ESPN News
+http://192.168.2.98:9100/c/2d8c7e61-4f72-4100-bafe-122b48adbdcb/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-3afde644-6b29-409d-a14a-1be82c0a16d7" tvg-name="ESPN U" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN%20U.png" group-title="beesports",ESPN U
+http://192.168.2.98:9100/c/3afde644-6b29-409d-a14a-1be82c0a16d7/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-0f0b0501-f6f0-4f71-9910-5dcb41cdc5fe" tvg-name="ESPN Deportes" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN%20Deportes.png" group-title="beesports",ESPN Deportes
+http://192.168.2.98:9100/c/0f0b0501-f6f0-4f71-9910-5dcb41cdc5fe/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-5619a901-b031-481e-9da0-799273ca675a" tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/MUTV.png" group-title="beesports",MUTV
+http://192.168.2.98:9100/c/5619a901-b031-481e-9da0-799273ca675a/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-a867c0a3-1a1b-43d9-b6a2-0e7e5138ebc8" tvg-name="LFC TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/LFC.png" group-title="beesports",LFC TV
+http://192.168.2.98:9100/c/a867c0a3-1a1b-43d9-b6a2-0e7e5138ebc8/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-721ff0bc-00bc-4418-95d8-2edd59533929" tvg-name="Fight Network" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fight%20Network.png" group-title="beesports",Fight Network
+http://192.168.2.98:9100/c/721ff0bc-00bc-4418-95d8-2edd59533929/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-7ec83391-62ae-42d9-93b5-4d3af4b7e53c" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/CBS%20Sports%20Network.png" group-title="beesports",CBS Sports Network
+http://192.168.2.98:9100/c/7ec83391-62ae-42d9-93b5-4d3af4b7e53c/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-6955ad40-9aff-4fba-9849-5412d67b1c16" tvg-name="Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/FS1.png" group-title="beesports",Fox Sports 1
+http://192.168.2.98:9100/c/6955ad40-9aff-4fba-9849-5412d67b1c16/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-b04450d1-4003-47ff-bb8e-0de3314c7829" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/FS2.png" group-title="beesports",Fox Sports 2
+http://192.168.2.98:9100/c/b04450d1-4003-47ff-bb8e-0de3314c7829/play?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-c9a8a6eb-4c16-49cf-b6c5-8aadeac5abd9" tvg-name="Fox Soccer Plus" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20Soccer%20Plus.png" group-title="beesports",Fox Soccer Plus
+http://192.168.2.98:9100/c/c9a8a6eb-4c16-49cf-b6c5-8aadeac5abd9/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-fff8b67a-a073-45ea-aee5-8911cddcd54b" tvg-name="Fox Deportes" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20Deportes.png" group-title="beesports",Fox Deportes
+http://192.168.2.98:9100/c/fff8b67a-a073-45ea-aee5-8911cddcd54b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-25d07506-ffca-4aca-ad93-352ca5bb546e" tvg-name="ACC Network" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ACC%20Network.png" group-title="beesports",ACC Network
+http://192.168.2.98:9100/c/25d07506-ffca-4aca-ad93-352ca5bb546e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-b5b5bd0e-c85e-43e7-9bca-cc8c3cb87556" tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NHL%20Network.png" group-title="beesports",NHL Network
+http://192.168.2.98:9100/c/b5b5bd0e-c85e-43e7-9bca-cc8c3cb87556/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-be682cf1-8701-4481-b4c5-2322ac895862" tvg-name="World Fishing Network" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/World%20Fishing%20Network.png" group-title="beesports",World Fishing Network
+http://192.168.2.98:9100/c/be682cf1-8701-4481-b4c5-2322ac895862/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-da61a18e-6178-439c-86fb-a27ce73838ce" tvg-name="HBO 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO1.png" group-title="beesports",HBO 1
+http://192.168.2.98:9100/c/da61a18e-6178-439c-86fb-a27ce73838ce/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-5d0f833d-71f9-4a84-804a-a38d5c868ae9" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO2.png" group-title="beesports",HBO 2
+http://192.168.2.98:9100/c/5d0f833d-71f9-4a84-804a-a38d5c868ae9/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-a97ead2e-c83c-4a0c-b015-3a8ce12d9572" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Discovery.png" group-title="beesports",Discovery Channel
+http://192.168.2.98:9100/c/a97ead2e-c83c-4a0c-b015-3a8ce12d9572/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-10e4e6ea-d00a-48c0-95d7-646a9dfdbbf3" tvg-name="Discovery Life" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Discovery%20Life.png" group-title="beesports",Discovery Life
+http://192.168.2.98:9100/c/10e4e6ea-d00a-48c0-95d7-646a9dfdbbf3/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-d3afa7e7-a202-4306-b97f-14e05610dd03" tvg-name="Cinemax West" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/waj-k6-w-wwz-x-np7-h573-ir-p-sj-x-ewjdwmvri-bfz-aimc1.png" group-title="beesports",Cinemax West
+http://192.168.2.98:9100/c/d3afa7e7-a202-4306-b97f-14e05610dd03/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-d5b4b81a-bb8e-4865-8160-83dbc1f5748f" tvg-name="Great Movies" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-r-yjt-u-b-a-hk-q-tvi-dbq-n5q-n7-a-a-rd0gxv-f-ks-l-j6-yml-s.png" group-title="beesports",Great Movies
+http://192.168.2.98:9100/c/d5b4b81a-bb8e-4865-8160-83dbc1f5748f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-47ee72bb-acd5-4876-81c0-487e5217fdf5" tvg-name="Cartoon Network" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-i-gsl2-n77-dpt-h-wdy-q-c-f-odhz-gf-x-a-h-sje4z3-q-a0-qn-o.png" group-title="beesports",Cartoon Network
+http://192.168.2.98:9100/c/47ee72bb-acd5-4876-81c0-487e5217fdf5/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-4c10ab43-5a88-4b01-92aa-3c9afb494d78" tvg-name="BBC News" tvg-logo="https://center.urlix.co/storage/images/uN6eIk65I2im0d4ojxIloksV9wyxbVshhM8Num6J.jpg" group-title="beesports",BBC News
+http://192.168.2.98:9100/c/4c10ab43-5a88-4b01-92aa-3c9afb494d78/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-75249aca-ecba-45a3-b1d4-b8c6e7ba649f" tvg-name="FOX NEWS" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/768px--fox_-news_-channel_logo.svg.png" group-title="beesports",FOX NEWS
+http://192.168.2.98:9100/c/75249aca-ecba-45a3-b1d4-b8c6e7ba649f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-602a2cf0-8928-4998-a95a-f1e7ef1a6ecf" tvg-name="CNBC" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t-tgl-m-ns6-d-r6bcw3qf-il-l8a-rg-k-l-ll-dmc-p-v5h7-s-wg-d.png" group-title="beesports",CNBC
+http://192.168.2.98:9100/c/602a2cf0-8928-4998-a95a-f1e7ef1a6ecf/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-8f2c9c35-829e-4007-ac07-2dcc72f6f1ef" tvg-name="NBC UNIVERSO" tvg-logo="https://center.urlix.co/storage/images/PEoLnkz4lbWBN4A79dA6p1nOi15uD1VE8CN2mqT4.svg" group-title="beesports",NBC UNIVERSO
+http://192.168.2.98:9100/c/8f2c9c35-829e-4007-ac07-2dcc72f6f1ef/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-2599e701-3d98-416a-a1c2-c0ccd5836c9b" tvg-name="BBC One" tvg-logo="https://center.urlix.co/storage/images/dMcVmNAd6ayvAw11IJi3LnMrftYrkM5VGoY3roDR.webp" group-title="beesports",BBC One
+http://192.168.2.98:9100/c/2599e701-3d98-416a-a1c2-c0ccd5836c9b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-23eceb56-13d6-496d-9c8c-c4bf495b37c3" tvg-name="BBC Two" tvg-logo="https://center.urlix.co/storage/images/o8L1QWPS4sWAdPbaDiGKqqu5BspdchEK3l1834EQ.png" group-title="beesports",BBC Two
+http://192.168.2.98:9100/c/23eceb56-13d6-496d-9c8c-c4bf495b37c3/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-72ac293f-fec7-4d71-a41f-528c26adfdc7" tvg-name="BBC Three" tvg-logo="https://center.urlix.co/storage/images/zK62gh9S9Z9TpM5RiSseKzM4hs9Wz3oTuaIqa8D4.jpg" group-title="beesports",BBC Three
+http://192.168.2.98:9100/c/72ac293f-fec7-4d71-a41f-528c26adfdc7/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-ed5c4b27-05c2-49fe-8a94-6b8ac5d5c594" tvg-name="BBC Four" tvg-logo="https://center.urlix.co/storage/images/MUfPvwYCKrhk35p5BQ4qRBktD9iBALX4dMOqFV8q.jpg" group-title="beesports",BBC Four
+http://192.168.2.98:9100/c/ed5c4b27-05c2-49fe-8a94-6b8ac5d5c594/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-864f04c2-b966-404c-b5da-0317b9116572" tvg-name="BBC Red Button" tvg-logo="https://center.urlix.co/storage/images/7N4k68afYicjhSWwU5Kx0yTlVY9A1Ob5iYPUmXPF.jpg" group-title="beesports",BBC Red Button
+http://192.168.2.98:9100/c/864f04c2-b966-404c-b5da-0317b9116572/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-af3b1f70-88f4-4cbc-b059-16fd56adf015" tvg-name="Virgin 1" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/c7-mg-r-w1l-p-k-cm-sc-rd-w-b-dhs-n90-b-uc-qozpi3-v-dwtmz-a.png" group-title="beesports",Virgin 1
+http://192.168.2.98:9100/c/af3b1f70-88f4-4cbc-b059-16fd56adf015/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-617da6a0-e7cb-435f-8ff9-30907d32bfbf" tvg-name="Virgin 3" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/z-n1gy-tr71-xm1uia7-m8-jv-e-t0ygm-ql47v-h4-d5wu-t91.png" group-title="beesports",Virgin 3
+http://192.168.2.98:9100/c/617da6a0-e7cb-435f-8ff9-30907d32bfbf/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-89be6ae4-4ab7-44fa-a978-585ab312dbd7" tvg-name="ITV 1" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t-t-zte39n-nu-a-z-cr-to-h-c7k5-shg-n-yaa9-ccl-iljf2onx.png" group-title="beesports",ITV 1
+http://192.168.2.98:9100/c/89be6ae4-4ab7-44fa-a978-585ab312dbd7/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-5c8bef09-4787-4bf9-95ae-5fd2ec6d247d" tvg-name="ITV 2" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-pt-eo-s-rm-jk-n-b1-qg9v-b-x-n-l-la-m-z-vp6-i-w4-l-j-t7-j-g01-c.png" group-title="beesports",ITV 2
+http://192.168.2.98:9100/c/5c8bef09-4787-4bf9-95ae-5fd2ec6d247d/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-67da064b-8a4f-4b2c-b6e9-84076dc379f8" tvg-name="ITV 3" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/3j3ra-qdk-rm3-cz-c9l-iyhrk-si82-oyshnipxl8os-sm-n.png" group-title="beesports",ITV 3
+http://192.168.2.98:9100/c/67da064b-8a4f-4b2c-b6e9-84076dc379f8/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+#EXTINF:-1 tvg-id="stream-de85d4ab-41fe-4ea7-b476-69047f218822" tvg-name="ITV 4" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/d0-sx-p-n7-cb6-o-n-rdi-m-w-bnrzrrzgu-k-u-srs-h-d-b-q-gy-l5w.png" group-title="beesports",ITV 4
+http://192.168.2.98:9100/c/de85d4ab-41fe-4ea7-b476-69047f218822/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
