@@ -999,3 +999,8 @@ rtp://239.253.254.24:8000
 rtp://239.253.254.25:8000
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/山东教育.png" group-title="青岛联通rtp",山东教育
 rtp://239.253.254.59:8000
+
+
+
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV1.png" , CCTV1
+http://192.168.2.98:4022/rtp/239.253.254.77:8000?fcc=124.132.240.66:15970
