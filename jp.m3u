@@ -92,7 +92,7 @@ http://58.82.168.138:5002/cs05.m3u8?token=guoziyun&channel=zhongying
 http://58.82.168.138:5002/cs04.m3u8?token=guoziyun&channel=zhongying
 #EXTINF:-1 tvg-id="family_geki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png",ファミリー劇場
 http://58.82.168.138:5002/cs20.m3u8?token=guoziyun&channel=zhongying
-EXTINF:-1 tvg-id="sky_stage" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",宝塚歌劇
+#EXTINF:-1 tvg-id="sky_stage" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",宝塚歌劇
 http://58.82.168.138:5002/cs28.m3u8?token=guoziyun&channel=zhongying
 #EXTINF:-1 tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png",歌謡ポップス
 http://58.82.168.138:5002/cs13.m3u8?token=guoziyun&channel=zhongying
