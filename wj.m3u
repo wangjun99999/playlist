@@ -1290,3 +1290,42 @@ https://4gtv.158.qzz.io/163189/e792dce9-ee6d-45bf-9b52-a7c8df7f4a4b/
 https://4gtv.158.qzz.io/163189/a895102c-0b07-4a3c-9613-f719f2ae8817/
 #EXTINF:-1,tvg-id="CIBN聚鲨精选" tvg-name="CIBN聚鲨精选" tvg-logo="https://epg.v1.mk/logo/CIBN聚鲨精选.png" group-title="台湾四季",精選動漫台
 https://4gtv.158.qzz.io/163189/14f62d29-bba5-4a45-8e3a-956b2dcc5bf2/
+
+
+
+
+
+#EXTINF:-1,tvg-id="成龙" tvg-name="成龙" tvg-logo="https://epg.v1.mk/logo/成龙.png" group-title="虎牙轮播",成龙
+http://cfss.cc/cdn/huya/11342386.flv
+#EXTINF:-1,tvg-id="黄渤" tvg-name="黄渤" tvg-logo="https://epg.v1.mk/logo/黄渤.png" group-title="虎牙轮播",黄渤
+http://cfss.cc/cdn/huya/11352876.flv
+#EXTINF:-1,tvg-id="沈腾" tvg-name="沈腾" tvg-logo="https://epg.v1.mk/logo/沈腾.png" group-title="虎牙轮播",沈腾
+http://cfss.cc/cdn/huya/11601968.flv
+#EXTINF:-1,tvg-id="王晶" tvg-name="王晶" tvg-logo="https://epg.v1.mk/logo/王晶.png" group-title="虎牙轮播",王晶
+http://cfss.cc/cdn/huya/11602058.flv
+#EXTINF:-1,tvg-id="周星驰" tvg-name="周星驰" tvg-logo="https://epg.v1.mk/logo/周星驰.png" group-title="虎牙轮播",周星驰
+http://cfss.cc/cdn/huya/11336587.flv
+#EXTINF:-1,tvg-id="李连杰" tvg-name="李连杰" tvg-logo="https://epg.v1.mk/logo/李连杰.png" group-title="虎牙轮播",李连杰
+http://cfss.cc/cdn/huya/11342390.flv
+#EXTINF:-1,tvg-id="刘德华" tvg-name="刘德华" tvg-logo="https://epg.v1.mk/logo/刘德华.png" group-title="虎牙轮播",刘德华
+http://cfss.cc/cdn/huya/11342424.flv
+#EXTINF:-1,tvg-id="李连杰" tvg-name="李连杰" tvg-logo="https://epg.v1.mk/logo/李连杰.png" group-title="虎牙轮播",李连杰
+http://cfss.cc/cdn/huya/11342390.flv
+#EXTINF:-1,tvg-id="周润发" tvg-name="周润发" tvg-logo="https://epg.v1.mk/logo/周润发.png" group-title="虎牙轮播",周润发
+http://cfss.cc/cdn/huya/11342387.flv
+#EXTINF:-1,tvg-id="武侠剧场" tvg-name="武侠剧场" tvg-logo="https://epg.v1.mk/logo/武侠剧场.png" group-title="虎牙轮播",武侠
+http://cfss.cc/cdn/huya/11342427.flv
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="虎牙轮播",玄幻
+http://cfss.cc/cdn/huya/11342414.flv
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="虎牙轮播",国产
+http://cfss.cc/cdn/huya/11352973.flv
+#EXTINF:-1,tvg-id="newtv中国功夫" tvg-name="newtv中国功夫" tvg-logo="https://epg.v1.mk/logo/newtv中国功夫.png" group-title="虎牙轮播",功夫片
+http://cfss.cc/cdn/huya/11352941.flv
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="虎牙轮播",不挤影院
+http://cfss.cc/cdn/huya/11352897.flv
+#EXTINF:-1,tvg-id="4k超高清" tvg-name="4k超高清" tvg-logo="https://epg.v1.mk/logo/4k超高清.png" group-title="虎牙轮播",高分动作
+http://cfss.cc/cdn/huya/11352884.flv
+#EXTINF:-1,tvg-id="NEWTV黑莓动画" tvg-name="NEWTV黑莓动画" tvg-logo="https://epg.v1.mk/logo/NEWTV黑莓动画.png" group-title="虎牙轮播",黑帮斗争
+http://cfss.cc/cdn/huya/11342419.flv
+#EXTINF:-1,tvg-id="7喜先生" tvg-name="7喜先生" tvg-logo="https://epg.v1.mk/logo/7喜先生.png" group-title="虎牙轮播",喜乐影院
+http://cfss.cc/cdn/huya/21059580.flv
