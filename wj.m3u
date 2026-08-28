@@ -1455,4 +1455,14 @@ https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-
 
 
 
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV5.png" , CCTV5
+http://192.168.2.98:5140/rtp/239.253.254.192:8000?fcc=124.132.240.66:15970
+http://192.168.2.1:5140/rtp/239.253.254.192:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV5+.png" , CCTV5+
+http://192.168.2.98:5140/rtp/239.253.254.80:8000?fcc=124.132.240.66:15970
+http://192.168.2.1:5140/rtp/239.253.254.80:8000?fcc=124.132.240.66:15970
+
+
+
+
 
