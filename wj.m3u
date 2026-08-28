@@ -1330,3 +1330,129 @@ http://cfss.cc/cdn/huya/11352884.flv
 http://cfss.cc/cdn/huya/11342419.flv
 #EXTINF:-1,tvg-id="7喜先生" tvg-name="7喜先生" tvg-logo="https://epg.v1.mk/logo/7喜先生.png" group-title="虎牙轮播",喜乐影院
 http://cfss.cc/cdn/huya/21059580.flv
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="bein",bein max 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n8PXGrMOjTPwnuKeXkU2CA","kid":"bKLyyCJET/dtlXB0Hex7Kw"},{"kty":"oct","k":"tA9ZkmbIomLM9KOE2t3gig","kid":"PPaG3EJG8ZvEQZxU2g+QvA"},{"kty":"oct","k":"SAsD/kR2vBh8ap1DuoL52w","kid":"nYsbgZz9z/hFYluGzElo8w"},{"kty":"oct","k":"8Lj4Tb2TQH2mqwtB/HdCSQ","kid":"Os6gEkR4WmNj/ASyXWljkg"},{"kty":"oct","k":"2gTRgOkCivJ0grajfIHgIA","kid":"tjYpdcop0GhbfKxyG2+qJg"}],"type":"temporary"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+
+#EXTINF:-1 group-title="bein",bein max 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SmDk4AlWDEB2ag+zh3DvTg","kid":"+B31z3K9Q8PahNBNyGkfyw"},{"kty":"oct","k":"5VYnZZnFW97hafOeq45WvA","kid":"hayTYuiTVO9TQf5NvuDdYg"},{"kty":"oct","k":"oO65e00U1rt6XDl1XdfEHA","kid":"emKlFsXZgFU/SXxr/EabGQ"},{"kty":"oct","k":"DR5UVllQweL1jUXFYaRxhw","kid":"bJdsqmKP3omqztvUcFmWfg"},{"kty":"oct","k":"6vdul7lpp9EkpyChCazatQ","kid":"cfzc/VjGCGYtsxf89EEcGQ"}],"type":"temporary"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
+
+#EXTINF:-1 group-title="bein",bein max 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TOPzoiNPALIbp3AG8ZeDKg","kid":"kujMlSfH9WoQd3J4y4AQJw"},{"kty":"oct","k":"7zfa3BS9reFyJO9Lyfh85g","kid":"RBEEt95l18WCqccRQORveQ"},{"kty":"oct","k":"kamtWS3W6Uaw8AdNFawRaA","kid":"tAI9OnExbtPNBq9+Q5iNMQ"},{"kty":"oct","k":"GoiJlUf3/UpcIu6BUNiSCA","kid":"QoHuESVVCXMlBYy3NVA1tA"},{"kty":"oct","k":"+LWJOTmOWlV0wYQI0wTUTg","kid":"Q/q6LamO7utCSB3Khz00YA"}],"type":"temporary"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
+
+#EXTINF:-1 group-title="bein",bein max 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ISdXQsHaXzzyMLs6YDMAWw","kid":"s0bTnqKPedz4tKHeNbxMug"},{"kty":"oct","k":"u3Ta4bG0dU_IBuQnefIrHg","kid":"uG158SLolV05Jp5qPS5O0A"},{"kty":"oct","k":"_NbgD57PhfO06pFH_J7wLg","kid":"lQLuIXp1kAzy12CLGhhqAw"},{"kty":"oct","k":"SQ8gsDFjE9ICUmS3AK1-Hw","kid":"Dy2sht9VWlp1dtrcxYYv2g"}],"type":"temporary"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
+
+#EXTINF:-1 group-title="bein",trt 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DrTM3w05yeWkoLWWq1dRqQ","kid":"5PAioIUI0AaRjdkCdf7/NA"},{"kty":"oct","k":"oeUf/xEPh4RJEhmZjER6sg","kid":"AzMHoUek01qZEJp5sqo+jA"},{"kty":"oct","k":"iTnQBFjniDcwzdYLoOOR8g","kid":"5gQv5G7NGyoVwncaJfu3ug"},{"kty":"oct","k":"xULeHB+35ktI/nLhS2ttxA","kid":"CTbZFTdu/NgTzkBChgHMMQ"}],"type":"temporary"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/490/1/live.mpd
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ProSiebenSat1UHD.de" tvg-name="ProSiebenSat.1 UHD" tvg-logo="https://raw.githubusercontent.com/Fazzani/TV-Logos/master/Germany/ProSiebenSat.1_UHD.png" group-title="MagentaTV UHD",ProSiebenSat.1 UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1918c1b96afa3f747e6c376fda8e140e:e09fc7553946e5ad68e0162715e96f71
+https://svc45.main.sl.t-online.de/bpk-tv/KID00914_ProSiebenSat1UHD_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="RTLUHD.de" tvg-name="RTL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RTL_UHD_Logo_2021.svg" group-title="MagentaTV UHD",RTL UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17286ed7f8585665d9ac6d8a007db83c:c1583491f2c49fc36ed90ea42fb8ccc0
+https://svc45.main.sl.t-online.de/bpk-tv/KID00860_RTLUHD_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="Travelxp4K.de" tvg-name="Travelxp 4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Travelxp_HD_logo.png" group-title="MagentaTV UHD",Travelxp 4K UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f5e28ed5473effa0abf80c7a5dd8d62:5d1d93cb5c7747933dabc3cff1141cbe
+https://svc45.main.sl.t-online.de/bpk-tv/KID00857_Travelxp4K_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="FussballTV1UHD.de" tvg-name="FUSSBALL.TV 1 UHD" tvg-logo="https://raw.githubusercontent.com/Fazzani/TV-Logos/master/Germany/Fussball_TV_1_UHD.png" group-title="MagentaTV UHD",FUSSBALL.TV 1 UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="FussballTV2UHD.de" tvg-name="FUSSBALL.TV 2 UHD" tvg-logo="https://raw.githubusercontent.com/Fazzani/TV-Logos/master/Germany/Fussball_TV_2_UHD.png" group-title="MagentaTV UHD",FUSSBALL.TV 2 UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="FussballTV3UHD.de" tvg-name="FUSSBALL.TV 3 UHD" tvg-logo="https://raw.githubusercontent.com/Fazzani/TV-Logos/master/Germany/Fussball_TV_3_UHD.png" group-title="MagentaTV UHD",FUSSBALL.TV 3 UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
+https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Fusstball",Fusstball tv 4k
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F66jJdkbXmbwahxXTy8LAw","kid":"T1WOrhsAUSayrG6esaeEng"},{"kty":"oct","k":"nt2/MvgLVG9mYDEEsqw8ig","kid":"tz92ZY0fXOOEIPOAQhuvew"},{"kty":"oct","k":"mLcTPuAG2frhEewMo2ZkHA","kid":"4fj8aJj8W_egC1YJryP-4A"},{"kty":"oct","k":"7HLzNdDkNqx9wdk2rqEUSg","kid":"5RH7gTYMXxS2gWBdHethSg"}],"type":"temporary"}
+https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
