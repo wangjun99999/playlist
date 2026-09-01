@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://192.168.2.98:9100/api/epg/aggregated.xml.gz?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da"
+#EXTM3U x-tvg-url="http://100.105.245.77:9100/sub/ZdwVk4dR6d3N/epg.xml.gz"
 #EXTINF:-1 tvg-id="stream-0e7bae82-854b-4977-b93b-4f886a9e622e" tvg-name="CCTV1综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV1.png" group-title="央视卫视",CCTV1综合
 http://go.bkpcp.top/mg/cctv1
 #EXTINF:-1 tvg-id="stream-e5939384-397a-4332-b8ab-340d2d9fcfa6" tvg-name="CCTV2财经" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV2.png" group-title="央视卫视",CCTV2财经
@@ -207,178 +207,179 @@ http://tv123.cc.cd/live.php?ch=2029&sid=918ff15dcbd6c5d1647ce54f71445a22&exp=178
 http://tv123.cc.cd/live.php?ch=576&sid=918ff15dcbd6c5d1647ce54f71445a22&exp=1786985882&sig=32a197e379b33bcbd0a6be66e41f4985919873d67d542b3bc41d2244e8639076
 http://tv123.cc.cd/live.php?ch=2027&sid=918ff15dcbd6c5d1647ce54f71445a22&exp=1786985882&sig=9fd11c4ac5424a7ea66b4e2cee534476dd6a064c7f152e11cb012852453fe7bc
 
+
 #EXTINF:-1 tvg-id="stream-2c63843b-d9b9-4d83-904d-79fd507697be" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png" group-title="海外频道",TNT Sports 1
-http://192.168.2.98:9100/c/2c63843b-d9b9-4d83-904d-79fd507697be/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/HOPUmGj3YbJmnn4BTjlel9osYA95jYaOns25aD7pEunFzHR8_VpKBo9zVzV0n6ib/index.m3u8
 #EXTINF:-1 tvg-id="stream-9abcbe14-4564-4efa-9241-3c41cbefd01e" tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%202.png" group-title="海外频道",TNT Sports 2
-http://192.168.2.98:9100/c/9abcbe14-4564-4efa-9241-3c41cbefd01e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/FOIYAXKHFi4DIjaFEDV3KNntxTjeGc2GpvKX02d9b2rs9XnV-gMKHqnqG-MuUKOD/index.m3u8
 #EXTINF:-1 tvg-id="stream-a880b69b-e344-46ec-a600-31929e48efa4" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%203.png" group-title="海外频道",TNT Sports 3
-http://192.168.2.98:9100/c/a880b69b-e344-46ec-a600-31929e48efa4/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/seRyjGR9yEdGFFDH_V0fm7PcxorJSpmuTCiVgMLMbmPefcRQS5PJqJYYsIshxG5I/index.m3u8
 #EXTINF:-1 tvg-id="stream-14d046f1-853d-4702-a77d-63b45709f1c6" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%204.png" group-title="海外频道",TNT Sports 4
-http://192.168.2.98:9100/c/14d046f1-853d-4702-a77d-63b45709f1c6/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/WVt2zpoEBBNFAlBZd1_OV9xEI9jWCbu3gS123ltZV7xrNAZxdIDlVGcWMax52ugS/index.m3u8
 #EXTINF:-1 tvg-id="stream-7b01feff-7299-402c-bc9c-80c0a264935e" tvg-name="Eurosport 1 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%201.png" group-title="海外频道",Eurosport 1 🇨🇿
-http://192.168.2.98:9100/c/7b01feff-7299-402c-bc9c-80c0a264935e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/G6pTowPOQ1jWa9TYkQ3iRyDekwmc8li8j27cJip1wqRMVkeInGT-Iiujk_Sl0b_f/index.m3u8
 #EXTINF:-1 tvg-id="stream-b5d9589c-af5d-4d3a-956d-efa5e2931ba2" tvg-name="Eurosport 2 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%202.png" group-title="海外频道",Eurosport 2 🇨🇿
-http://192.168.2.98:9100/c/b5d9589c-af5d-4d3a-956d-efa5e2931ba2/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/jlaiw810q8-56RmLgMPDgaGbEFEA-WFS17_StHnFQlgMYA2HdmHImuiu2ITVIPwJ/index.m3u8
 #EXTINF:-1 tvg-id="stream-fe8f2204-3631-4795-91b9-56ccdf780a51" tvg-name="Sport1 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Sport1.png" group-title="海外频道",Sport1 🇨🇿
-http://192.168.2.98:9100/c/fe8f2204-3631-4795-91b9-56ccdf780a51/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/nrnAdgt9ZNrwDqn6s8HT5Z0dUpmemRXC6J1ueOv8TvQAXtCDP_iWbcRC04L4n1ms/index.m3u8
 #EXTINF:-1 tvg-id="stream-6dc2a76c-f4fe-40a0-af3c-001ab0d5a553" tvg-name="Sport2 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Sport2.png" group-title="海外频道",Sport2 🇨🇿
-http://192.168.2.98:9100/c/6dc2a76c-f4fe-40a0-af3c-001ab0d5a553/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/pBGwlNeok9D_iO91N0oyMVvvC7xbER1kH2zNIesssn6jk2Vy-p7EQHnco-mBsMS_/index.m3u8
 #EXTINF:-1 tvg-id="stream-6cdc5476-2dbb-4db0-9a4b-98fb7b7a8b13" tvg-name="Arena Sport 1 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Arena%20Sport%201.png" group-title="海外频道",Arena Sport 1 🇨🇿
-http://192.168.2.98:9100/c/6cdc5476-2dbb-4db0-9a4b-98fb7b7a8b13/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/KN1JxuZrwguE-5zpHpIcKZswgTgPLz65_QqaSQyA7NXrlNSU2MeMRb0bVtF9Gvum/index.m3u8
 #EXTINF:-1 tvg-id="stream-abb91f0b-fd92-44c7-a54a-55eab38f6069" tvg-name="Arena Sport 2 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Arena%20Sport%202.png" group-title="海外频道",Arena Sport 2 🇨🇿
-http://192.168.2.98:9100/c/abb91f0b-fd92-44c7-a54a-55eab38f6069/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/OXxOa2tydG-YkBDfUe0u8el3HFutqx31m4g6glsflgIEgg-LtoZwJ778GQYlyp1c/index.m3u8
 #EXTINF:-1 tvg-id="stream-b4501008-4815-40f6-a699-a5252209e1cc" tvg-name="Nova Sport 1 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Nova%20Sport%201.png" group-title="海外频道",Nova Sport 1 🇨🇿
-http://192.168.2.98:9100/c/b4501008-4815-40f6-a699-a5252209e1cc/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/ie7-sJgAfx6X92im-zUxM6PwZp109Bw4S9JH9kd-GPichsnyF7IgXvZRCHaivLRn/index.m3u8
 #EXTINF:-1 tvg-id="stream-171d354e-0a36-432b-aad2-eaf912d9b1e8" tvg-name="Nova Sport 2 🇨🇿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CZ/Nova%20Sport%202.png" group-title="海外频道",Nova Sport 2 🇨🇿
-http://192.168.2.98:9100/c/171d354e-0a36-432b-aad2-eaf912d9b1e8/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/LmDNyMaj2zDVbEEM42J4w3AMq6tvcFOPyRz3IR2QM6oU-aMnZ6dngn9LZhtTR4C-/index.m3u8
 #EXTINF:-1 tvg-id="stream-ed87a9b7-6ac5-4349-a947-0c8cfc3a509b" tvg-name="Fubo Sports 1 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/fubo%20Sports%201.png" group-title="海外频道",Fubo Sports 1 🇺🇸
-http://192.168.2.98:9100/c/ed87a9b7-6ac5-4349-a947-0c8cfc3a509b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/W5JNRZvH02Z3pN0vLKXyTXdnuC9sy1AzXe84HPFszoRXwcI40ZBl-0kn9z70EZGN/index.m3u8
 #EXTINF:-1 tvg-id="stream-f16efe85-8e7a-439b-9eef-ce21c6e03759" tvg-name="Fubo Sports 2 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/fubo%20Sports%201.png" group-title="海外频道",Fubo Sports 2 🇺🇸
-http://192.168.2.98:9100/c/f16efe85-8e7a-439b-9eef-ce21c6e03759/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/RM9Eye4Vfio143Ujg0Zj6zpJTk-n0qNFGoYKsAMYjTFUh_Q3c0NwdS5aYHt1Ec7J/index.m3u8
 #EXTINF:-1 tvg-id="stream-141866b3-ac9e-49a8-839e-9d87b839c839" tvg-name="Canal 5 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Canal%205.png" group-title="海外频道",Canal 5 🇲🇽
-http://192.168.2.98:9100/c/141866b3-ac9e-49a8-839e-9d87b839c839/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/AS1c11MN-hLuE_jrB72H9X9A7nMm72-cTR4UZ7nxnDGITR0M2HN6TtK7k0kN7IJ4/index.m3u8
 #EXTINF:-1 tvg-id="stream-6d7f9f7a-8a85-4ca8-9552-2bfac5ce7818" tvg-name="Fox Sports 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%20Sports.png" group-title="海外频道",Fox Sports 🇲🇽
-http://192.168.2.98:9100/c/6d7f9f7a-8a85-4ca8-9552-2bfac5ce7818/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/uCNRNO76z7u6P_Srsaf7j2H9c2RsCntXYVWV1CASHjLtRRCRHofVW5xXoxdYxP-V/index.m3u8
 #EXTINF:-1 tvg-id="stream-a054cc54-8619-454d-98dc-ba520da002b3" tvg-name="Fox Sports 2 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%20Sports%202.png" group-title="海外频道",Fox Sports 2 🇲🇽
-http://192.168.2.98:9100/c/a054cc54-8619-454d-98dc-ba520da002b3/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/OnjcDKbojhGoLPEzD87aTIh8fr10gaRvS1sVwu_Gw9kVZtcwZbiq1xR2DwxRTLl0/index.m3u8
 #EXTINF:-1 tvg-id="stream-45ec70f2-990d-4c07-a02f-fa78275bf2e5" tvg-name="Fox Sports 3 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%20Sports%203.png" group-title="海外频道",Fox Sports 3 🇲🇽
-http://192.168.2.98:9100/c/45ec70f2-990d-4c07-a02f-fa78275bf2e5/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/Fq33RAcYezSfgacyvuYth8dsIloqeDyeIoR288Ezbsg22DxltSQwDq0Ia7_jTUcg/index.m3u8
 #EXTINF:-1 tvg-id="stream-2fec818e-e925-4587-974f-80818248c8ee" tvg-name="Fox Sports Premium 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%20Sports%20Premium.png" group-title="海外频道",Fox Sports Premium 🇲🇽
-http://192.168.2.98:9100/c/2fec818e-e925-4587-974f-80818248c8ee/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/xnYV3LgzhYW1_ybWqLefVGhJ9TS0XiRYJt5QTEo23ON8DWdLMK8IgMhDgTWBj8Up/index.m3u8
 #EXTINF:-1 tvg-id="stream-95cb7b94-f0d4-44b0-817a-7b3e8ab33cb0" tvg-name="Fox+ 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Fox%2B.png" group-title="海外频道",Fox+ 🇲🇽
-http://192.168.2.98:9100/c/95cb7b94-f0d4-44b0-817a-7b3e8ab33cb0/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/zQtqsOv5pF4cE0izHGGuTcxFxejiFFGqkNt8M1-x_TV8_7mk-GzzasDllfONdc4b/index.m3u8
 #EXTINF:-1 tvg-id="stream-941f6df6-9af4-430f-9d15-d1f96ed7914a" tvg-name="TUDN 🇲🇽" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/TUDN.png" group-title="海外频道",TUDN 🇲🇽
-http://192.168.2.98:9100/c/941f6df6-9af4-430f-9d15-d1f96ed7914a/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/nudewGXW0NQXjf5KDXU8q-SUHxTRqOz-h4f2aTuBADVYVyEPghnsO3APNycxaepU/index.m3u8
 #EXTINF:-1 tvg-id="stream-b8ab75cb-d17c-4f75-a2a4-2cc291dbb30a" tvg-name="Premier Sports Rugby 🇲🇾" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%20Rugby.png" group-title="海外频道",Premier Sports Rugby 🇲🇾
-http://192.168.2.98:9100/c/b8ab75cb-d17c-4f75-a2a4-2cc291dbb30a/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/B0sChW_ApH6dcR3Yld5x8HM8qMMJE1RA3V44473ekFVSelB36T8InnDqCim_iZfV/index.m3u8
 #EXTINF:-1 tvg-id="stream-27ef0192-e61f-4285-931b-c345e4c8a87f" tvg-name="CBS Sports Network 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/CBS%20Sports%20Network.png" group-title="海外频道",CBS Sports Network 🇺🇸
-http://192.168.2.98:9100/c/27ef0192-e61f-4285-931b-c345e4c8a87f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/0cXUve4tyI6HDiJqKRC5nXVrWp83FC1W-85ttG1QWyz764r0ATsZ_vG7SYyKe-Nh/index.m3u8
 #EXTINF:-1 tvg-id="stream-7cf2afd4-ad48-47c7-b5cc-27417427e42d" tvg-name="Dazn Laliga Hypermotion 1 🇪🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20TV%20Hypermotion.png" group-title="海外频道",Dazn Laliga Hypermotion 1 🇪🇸
-http://192.168.2.98:9100/c/7cf2afd4-ad48-47c7-b5cc-27417427e42d/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/pJkJMcxoHuzItYF4rlgK3F3ZdBT9w8_UhSyPwKO_vdk9rac43QjiQfNFXmtF6wxF/index.m3u8
 #EXTINF:-1 tvg-id="stream-a91d82e1-7414-4f3f-ab90-4619e5ae7c6f" tvg-name="Dazn Laliga Hypermotion 2 🇪🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20TV%20Hypermotion.png" group-title="海外频道",Dazn Laliga Hypermotion 2 🇪🇸
-http://192.168.2.98:9100/c/a91d82e1-7414-4f3f-ab90-4619e5ae7c6f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/UWMBhYOt6x2FqvEWqEURHtcmy84P8zcloiVohCHx9uH9ZqfXIUXo1T29hI3LYfvm/index.m3u8
 #EXTINF:-1 tvg-id="stream-62fc5030-d493-4d05-a3fa-265734999f80" tvg-name="Dazn Laliga Hypermotion 3 🇪🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20TV%20Hypermotion.png" group-title="海外频道",Dazn Laliga Hypermotion 3 🇪🇸
-http://192.168.2.98:9100/c/62fc5030-d493-4d05-a3fa-265734999f80/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/XMAAX2N9sljSD_cbHPmCdAFj8VNuZ5fdXkQOFtA591YjW7kaEh3_B1AmOTBf56f1/index.m3u8
 #EXTINF:-1 tvg-id="stream-0e876f4e-c652-4396-bf53-4ce51b666488" tvg-name="HBO Boxing 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO%20Boxing.png" group-title="海外频道",HBO Boxing 🇺🇸
-http://192.168.2.98:9100/c/0e876f4e-c652-4396-bf53-4ce51b666488/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/4ZAW9Cz6mo0sMZ_mYaNqa07EQpSdFWHNki-rfQ5b3WUxpicI_QnN1CAhOB69syRt/index.m3u8
 #EXTINF:-1 tvg-id="stream-7e3a9999-4c43-4118-bbee-52770c2a37f4" tvg-name="NBA TV 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NBA%20TV.png" group-title="海外频道",NBA TV 🇺🇸
-http://192.168.2.98:9100/c/7e3a9999-4c43-4118-bbee-52770c2a37f4/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/YeXNlnDnpxL2Yer2QjarQ3cRrtqEo2ujtaNAxnb9ISlP-BX6UqkgCiWBXf0lTcp_/index.m3u8
 #EXTINF:-1 tvg-id="stream-65e58d53-e229-490e-94ca-9f519f742efd" tvg-name="Premier Sports 1 🇬🇧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%201.png" group-title="海外频道",Premier Sports 1 🇬🇧
-http://192.168.2.98:9100/c/65e58d53-e229-490e-94ca-9f519f742efd/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/cNegyVEEHFR2P2WFIumpG0rl-2cSMaxwVHjWTTBQw0AzIPbzR4WomPe3DUj-e4Tg/index.m3u8
 #EXTINF:-1 tvg-id="stream-edf970a5-cf08-4566-af7b-d00aeba7bb41" tvg-name="Premier Sports 2 🇬🇧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%202.png" group-title="海外频道",Premier Sports 2 🇬🇧
-http://192.168.2.98:9100/c/edf970a5-cf08-4566-af7b-d00aeba7bb41/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/mZL5ByGBLIwgLnbc-Dg0WOdni3OX2v-xN9XUADq8pO2ldq4nHzAyT53UmPlq-d2b/index.m3u8
 #EXTINF:-1 tvg-id="stream-fb9ec2cc-0808-4d80-a755-57fea54efccb" tvg-name="Premiere Sports 1 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png" group-title="海外频道",Premiere Sports 1 🇧🇷
-http://192.168.2.98:9100/c/fb9ec2cc-0808-4d80-a755-57fea54efccb/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/i6nKAHJAkS1LZNOQ3URytNVicKKaoFwkVf9rg8Frln0NGjDQVURXZRzAazbHsn-A/index.m3u8
 #EXTINF:-1 tvg-id="stream-b71555f7-cb04-4c8d-bd62-3c4d9091462a" tvg-name="Premiere Sports 2 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png" group-title="海外频道",Premiere Sports 2 🇧🇷
-http://192.168.2.98:9100/c/b71555f7-cb04-4c8d-bd62-3c4d9091462a/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/WREXxZqn-67maOUfkhqy4XpVnZq6HZbqQUl-1nCVwfzbUCFIw25pNNEXHKTrsTCX/index.m3u8
 #EXTINF:-1 tvg-id="stream-1948a247-3933-45e1-bdbb-8e54e849f14b" tvg-name="Premiere Sports 3 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png" group-title="海外频道",Premiere Sports 3 🇧🇷
-http://192.168.2.98:9100/c/1948a247-3933-45e1-bdbb-8e54e849f14b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/E7RJXFQ0uQeTzmHXKWSu32OgB39po7XhOxjBW2h54KavWpiQfjhEmObJ2gE2kNVG/index.m3u8
 #EXTINF:-1 tvg-id="stream-3a6fcc20-226b-4a8a-bbf7-4cd2cbafcae2" tvg-name="Premiere Sports 4 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png" group-title="海外频道",Premiere Sports 4 🇧🇷
-http://192.168.2.98:9100/c/3a6fcc20-226b-4a8a-bbf7-4cd2cbafcae2/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/UW_zJ--NQYGuEru0n92Da4hn-7LX8ftorKRVorVmZAfFBbyEwkQq23PpitGWicyb/index.m3u8
 #EXTINF:-1 tvg-id="stream-06096d0a-ca73-4fab-abe5-b296917c476e" tvg-name="Premiere Sports 5 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/Premiere.png" group-title="海外频道",Premiere Sports 5 🇧🇷
-http://192.168.2.98:9100/c/06096d0a-ca73-4fab-abe5-b296917c476e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/kqPjn_FNkQ1Ic-_HW7tB-xTYtMRwPg-NBRiaVsN0D1W1Ti2H4rVFZ_XbcJH0A0ie/index.m3u8
 #EXTINF:-1 tvg-id="stream-7a6ded8c-9506-4a92-925f-4bafa403b801" tvg-name="SporTV 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/SporTV.png" group-title="海外频道",SporTV 🇧🇷
-http://192.168.2.98:9100/c/7a6ded8c-9506-4a92-925f-4bafa403b801/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/elQG1-5r-o2K_0PW0mdGbSfY2QMkWU6tC07C4nVXIHi1WxWMb6-828o7jNPF8Feh/index.m3u8
 #EXTINF:-1 tvg-id="stream-f5b1b3ac-08eb-4778-9489-ef2af13ceab7" tvg-name="SporTV 2 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/SporTV%202.png" group-title="海外频道",SporTV 2 🇧🇷
-http://192.168.2.98:9100/c/f5b1b3ac-08eb-4778-9489-ef2af13ceab7/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/TIgCZV-hWIuQ8RFDzwrB7yzEpZDLTOfcXi46e9dwIxgDxF_QXPiHf93oD92fi-XY/index.m3u8
 #EXTINF:-1 tvg-id="stream-a27a310b-9913-4f9f-9c0d-c82547e130cd" tvg-name="SporTV 3 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BR/SporTV%203.png" group-title="海外频道",SporTV 3 🇧🇷
-http://192.168.2.98:9100/c/a27a310b-9913-4f9f-9c0d-c82547e130cd/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/g1KwDwiHnSE6HVo1dKPxfSbof2BkVV6ngn1j2RclixScVEiloVAM9nihTRupc_fW/index.m3u8
 #EXTINF:-1 tvg-id="stream-47e2c871-746c-4824-845d-02ad4e8b6551" tvg-name="CazéTV 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Caz%C3%A9TV.png" group-title="海外频道",CazéTV 🇧🇷
-http://192.168.2.98:9100/c/47e2c871-746c-4824-845d-02ad4e8b6551/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/TKHv7eXGONY1EalJwxrIFOSdUVTWGb_Yujle302nKGg1p6LgrW8tmz8oE7GeUuYi/index.m3u8
 #EXTINF:-1 tvg-id="stream-71d71d49-db34-4ff6-be7f-1aca31de2606" tvg-name="CazéTV 2 🇧🇷" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/Caz%C3%A9TV.png" group-title="海外频道",CazéTV 2 🇧🇷
-http://192.168.2.98:9100/c/71d71d49-db34-4ff6-be7f-1aca31de2606/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/x51zt2ykdCYjV4hLqNdVCGojMMb6gl4QzB5JL_yVTEc187WS5Y5fzujv9-OXcJLD/index.m3u8
 #EXTINF:-1 tvg-id="stream-ad2d67d8-0c78-41d0-8e57-1e8117c4e6ba" tvg-name="Sportdigital Fussball 🇩🇪" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sportdigital%20Fussball.png" group-title="海外频道",Sportdigital Fussball 🇩🇪
-http://192.168.2.98:9100/c/ad2d67d8-0c78-41d0-8e57-1e8117c4e6ba/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/A72LWuYsetPRZlIpOo_x9A3CrFnLXXeOkfokBF2D_9Iz6HJsz9vQNDVAg4uQCdqI/index.m3u8
 #EXTINF:-1 tvg-id="stream-3b3ec330-aecf-42c0-bd7d-a362cb1abd08" tvg-name="Tennis Channel 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Tennis%20Channel.png" group-title="海外频道",Tennis Channel 🇺🇸
-http://192.168.2.98:9100/c/3b3ec330-aecf-42c0-bd7d-a362cb1abd08/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/4vSja0PmUsDPettQFaR52rGPG1HTSLMYJH5Um8dtbddiY7vXb5szPW61dQ-fYU3Q/index.m3u8
 #EXTINF:-1 tvg-id="stream-a9c2a505-0939-4c37-bb3a-61df52ee2ed0" tvg-name="TSN 1 🇨🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/TSN1.png" group-title="海外频道",TSN 1 🇨🇦
-http://192.168.2.98:9100/c/a9c2a505-0939-4c37-bb3a-61df52ee2ed0/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/FitspRmVO4tNe7tawBSltiJlG0CwU-Qv78kwnk4YJpTTIJrkxeHcMoyUdUpq-nDb/index.m3u8
 #EXTINF:-1 tvg-id="stream-cfd7a0a5-e4b6-42f6-876c-f899d3967a0d" tvg-name="TSN 2 🇨🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/TSN2.png" group-title="海外频道",TSN 2 🇨🇦
-http://192.168.2.98:9100/c/cfd7a0a5-e4b6-42f6-876c-f899d3967a0d/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/PP3aJOPXh4KO3VV3i4PNlKRCXe1fWathyKK9pvOK07mvZ7p4wR8htgIqbTi6TY3-/index.m3u8
 #EXTINF:-1 tvg-id="stream-2b4f209f-39aa-4a0b-bdb5-61ba81c8297d" tvg-name="TSN 3 🇨🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/TSN3.png" group-title="海外频道",TSN 3 🇨🇦
-http://192.168.2.98:9100/c/2b4f209f-39aa-4a0b-bdb5-61ba81c8297d/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/3LpanpUjjE1roBAWq0iEMwZR1cz6W4I-dIzpbHemCfMHFSbJTfYehHKJzymrg_US/index.m3u8
 #EXTINF:-1 tvg-id="stream-dfc44ef2-5c16-47d4-910c-3b6947d51b3f" tvg-name="TSN 4 🇨🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/TSN4.png" group-title="海外频道",TSN 4 🇨🇦
-http://192.168.2.98:9100/c/dfc44ef2-5c16-47d4-910c-3b6947d51b3f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/jKqiAdD3F06f3YAtjunfE7AuiuAmSkJDU4XbrFOdv5sPayOpL9zeVB9OVtrz0S97/index.m3u8
 #EXTINF:-1 tvg-id="stream-fe6bae35-55d7-42fc-b445-410b60349a24" tvg-name="TSN 5 🇨🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/TSN5.png" group-title="海外频道",TSN 5 🇨🇦
-http://192.168.2.98:9100/c/fe6bae35-55d7-42fc-b445-410b60349a24/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/df5JZN45YTwmfZVSiCcaDBukLumtTt_ri0ualPxRESPNrwtIewkQwO1RJhm_LC4Q/index.m3u8
 #EXTINF:-1 tvg-id="stream-3b4658c4-9f3f-492d-b75e-7fe12232058e" tvg-name="Fox sports 4K 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20Sports%20Ultra.png" group-title="海外频道",Fox sports 4K 🇺🇸
-http://192.168.2.98:9100/c/3b4658c4-9f3f-492d-b75e-7fe12232058e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/-aRgebMCemPKEnaKbV7iJ9kjWvDw1GGOkhKPPiezAFtMZOb3gLcT2J1EahXgZHBu/index.m3u8
 #EXTINF:-1 tvg-id="stream-1888509c-f751-4224-a2e7-aab49aa6b4c6" tvg-name="Fox Sports 1 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/FS1.png" group-title="海外频道",Fox Sports 1 🇺🇸
-http://192.168.2.98:9100/c/1888509c-f751-4224-a2e7-aab49aa6b4c6/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/xEBcuIFb0fHKrmqqp9BYaYNCa9NyJKaZGTwAj-wIBQ75_O1iuiaGLqTmcACz_mFF/index.m3u8
 #EXTINF:-1 tvg-id="stream-5310d7ba-7643-440d-aa61-8e824f8fa8b2" tvg-name="Fox Sports 2 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/FS2.png" group-title="海外频道",Fox Sports 2 🇺🇸
-http://192.168.2.98:9100/c/5310d7ba-7643-440d-aa61-8e824f8fa8b2/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/nR23-z2xVsH9V57dUwWhYkrQYVDGdvW4mirVIvolnyXw9qxmACYcR141O3P38Mvf/index.m3u8
 #EXTINF:-1 tvg-id="stream-237a4cb8-cee4-4e20-9c35-243e465a9873" tvg-name="Fox Deportes" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20Deportes.png" group-title="海外频道",Fox Deportes
-http://192.168.2.98:9100/c/237a4cb8-cee4-4e20-9c35-243e465a9873/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/b3cOYNbi37fDjq2tLT2w-qoLUfNd36m7T5zE4CyUkyfqCTDkvxVM-EJH9m-pkuz-/index.m3u8
 #EXTINF:-1 tvg-id="stream-2c99275e-659f-408b-80a7-f1ca1cdfc26f" tvg-name="Willow Cricket 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Willow%20Cricket.png" group-title="海外频道",Willow Cricket 🇺🇸
-http://192.168.2.98:9100/c/2c99275e-659f-408b-80a7-f1ca1cdfc26f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/mEOr69SmIYaoiu3Ijm3gVqazUfbL2oAcJ8zBxs9M4j9OIapEdM4ZDU7UTlsi0ASz/index.m3u8
 #EXTINF:-1 tvg-id="stream-ca193cc5-222a-4096-b21d-8ec8e51de91b" tvg-name="DAZN Fast" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/DAZN%20Fast.png" group-title="海外频道",DAZN Fast
-http://192.168.2.98:9100/c/ca193cc5-222a-4096-b21d-8ec8e51de91b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/e0koziWM623ZYvWaTDbJO87AY3dUheDmaEc3oJw0sYyngXBtXGgaBAveHsmf8kDs/index.m3u8
 #EXTINF:-1 tvg-id="stream-420eb2b1-ebb4-4ee8-bf93-9643d951e338" tvg-name="beIN Sports 1 🇦🇺" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%201.png" group-title="海外频道",beIN Sports 1 🇦🇺
-http://192.168.2.98:9100/c/420eb2b1-ebb4-4ee8-bf93-9643d951e338/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/AcaZkBHryeRNK3SmOrfKNnXDoBmSD38q67bvhHfL1N1-fA3xY_D6Q4itiGU31LDK/index.m3u8
 #EXTINF:-1 tvg-id="stream-85c6a07f-af54-4ec2-9942-1beee8c21c33" tvg-name="beIN Sports 2 🇦🇺" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%202.png" group-title="海外频道",beIN Sports 2 🇦🇺
-http://192.168.2.98:9100/c/85c6a07f-af54-4ec2-9942-1beee8c21c33/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/h9_4G7DaPFG4ifSYnOSpG6m8t_PDhaohT9rTcHBWNNwkOWO_jdP8qh5w2i6qiRLy/index.m3u8
 #EXTINF:-1 tvg-id="stream-0f2aa464-e612-4253-823f-bc19613b1412" tvg-name="beIN Sports 3 🇦🇺" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MY/beIN%20Sports%203.png" group-title="海外频道",beIN Sports 3 🇦🇺
-http://192.168.2.98:9100/c/0f2aa464-e612-4253-823f-bc19613b1412/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/XOzr5Wma7Uxr4Righvud449xo2S3sMIP2_P8AbZUeRWTR8OTf4UZkHIvheXkG1-c/index.m3u8
 #EXTINF:-1 tvg-id="stream-dc3fd430-c86c-4594-bc3d-4b3af5cea1e1" tvg-name="DSports FHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/DSports.png" group-title="海外频道",DSports FHD
-http://192.168.2.98:9100/c/dc3fd430-c86c-4594-bc3d-4b3af5cea1e1/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/MKoGpc3zq_Y-gKtv5hOWMHOfSDOegE2RYlDctL-IkNtUXHo_8K8PZyx3AzzqwWR3/index.m3u8
 #EXTINF:-1 tvg-id="stream-ca881002-736b-4f5e-b2b1-a1637e42eea1" tvg-name="DSports" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/DSports.png" group-title="海外频道",DSports
-http://192.168.2.98:9100/c/ca881002-736b-4f5e-b2b1-a1637e42eea1/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/ZEmgJrG0M8vFymTvvv5cajeaLiPSpZQvVIPrDeivnYCtUYfIyzmyZ_ZpEKtFgvIX/index.m3u8
 #EXTINF:-1 tvg-id="stream-40312987-5bb6-4336-b7a1-e20ea3d53c54" tvg-name="DSports2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/DSports2.png" group-title="海外频道",DSports2
-http://192.168.2.98:9100/c/40312987-5bb6-4336-b7a1-e20ea3d53c54/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/5o9blCRb4-POYKbEmb3r9DGr6op_Ty41KdFtapPVJcohci3sTRBtktNEmtijW0Yv/index.m3u8
 #EXTINF:-1 tvg-id="stream-5cb006c4-0ae3-4a5f-9dea-3e44ae5f844b" tvg-name="DSports+" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/MX/DSports%2B.png" group-title="海外频道",DSports+
-http://192.168.2.98:9100/c/5cb006c4-0ae3-4a5f-9dea-3e44ae5f844b/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/Nqt8dJyYpSw7njsg1XNk6FMJSf3WVD6QnKXzPR57mePKaaXM5MJDcyNk514H2fGk/index.m3u8
 #EXTINF:-1 tvg-id="stream-386ce52d-58ce-4d56-86f1-a764e0bb8110" tvg-name="AMC 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/AMC.png" group-title="海外频道",AMC 🇺🇸
-http://192.168.2.98:9100/c/386ce52d-58ce-4d56-86f1-a764e0bb8110/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/o8c8CHFiH3GyfjbeGGRA8cqdcOrG9ibwImis8-EHo1D1FL5reZzL9Ux20VVz_Rfz/index.m3u8
 #EXTINF:-1 tvg-id="stream-49b26767-c059-4e1c-820a-209c09064b3f" tvg-name="Cinemax East 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Cinemax%20East.png" group-title="海外频道",Cinemax East 🇺🇸
-http://192.168.2.98:9100/c/49b26767-c059-4e1c-820a-209c09064b3f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/23VPqObLMZI4niwyNV3Xek8r52z_HcO91D0SOJuMHnOLnEVRUi5bhefdrRakAXvZ/index.m3u8
 #EXTINF:-1 tvg-id="stream-8a243668-2bd8-45e5-b41e-faca49fec4ff" tvg-name="Amazon Movies 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Amazon%20Movies.png" group-title="海外频道",Amazon Movies 🇺🇸
-http://192.168.2.98:9100/c/8a243668-2bd8-45e5-b41e-faca49fec4ff/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/bg8R3ATrOAirs5gobK--FBcaWeA3zHLeIUL54fGNvPgk0siEFNXEICPyXPKgMmhw/index.m3u8
 #EXTINF:-1 tvg-id="stream-d737dd85-173e-4f14-8f45-9673960ba04f" tvg-name="HBO 1 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO1.png" group-title="海外频道",HBO 1 🇺🇸
-http://192.168.2.98:9100/c/d737dd85-173e-4f14-8f45-9673960ba04f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/PPaus-Uo5y-3k1jvle84bLXQPmh49tXpum2xRnUbOJxHOATO44ABss5SsEAZz9Q1/index.m3u8
 #EXTINF:-1 tvg-id="stream-a89741a7-ca26-4394-9764-85153962c933" tvg-name="HBO 2 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO2.png" group-title="海外频道",HBO 2 🇺🇸
-http://192.168.2.98:9100/c/a89741a7-ca26-4394-9764-85153962c933/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/7SGzwsQCnZyElcjiYAlXYOihFJPgMdB_oN0obh23HsY5TTgVgBfDnNCKXKs7m2Vx/index.m3u8
 #EXTINF:-1 tvg-id="stream-5a679908-714c-4688-a2ad-f18b2f80ed0f" tvg-name="HBO West 🇺🇸 (audio eng-esp)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO%20West_WHITE.png" group-title="海外频道",HBO West 🇺🇸 (audio eng-esp)
-http://192.168.2.98:9100/c/5a679908-714c-4688-a2ad-f18b2f80ed0f/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/1L0Ga8-AsIMM5lyEfpWtKxDy2DoX1CaGMrAeeJW467zAo3Pgtsn5TYG2fEDofyPd/index.m3u8
 #EXTINF:-1 tvg-id="stream-8b884a0d-c7bf-42c4-8664-dddaf8ea57c8" tvg-name="HBO Zone 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO%20Zone.png" group-title="海外频道",HBO Zone 🇺🇸
-http://192.168.2.98:9100/c/8b884a0d-c7bf-42c4-8664-dddaf8ea57c8/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/kJZf5O1SCY_S6xuRGHFIMSR5wSYvzfN66qhPlx1amtAah_jhFimvA5UJhSS8DWtA/index.m3u8
 #EXTINF:-1 tvg-id="stream-19b594ad-8fc8-4048-b22d-4081ddefaf92" tvg-name="HBO Signature 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO%20Signature.png" group-title="海外频道",HBO Signature 🇺🇸
-http://192.168.2.98:9100/c/19b594ad-8fc8-4048-b22d-4081ddefaf92/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/3Zh0MneMxN-BR3qXT7LVWZP6CRrVjJi99eA6_UyiffO3R6W7xmi40b1OecneJrmE/index.m3u8
 #EXTINF:-1 tvg-id="stream-cff94e34-ac39-4e2c-b923-09296fd34331" tvg-name="HBO Comedy East 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/HBO%20Comedy.png" group-title="海外频道",HBO Comedy East 🇺🇸
-http://192.168.2.98:9100/c/cff94e34-ac39-4e2c-b923-09296fd34331/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/4WDdZPu2yvAjr5o9R3I7cnWHSbcumpII3zHXodZAUs7FF4ztosyTb28sAtBtMBFO/index.m3u8
 #EXTINF:-1 tvg-id="stream-633331c8-b933-4249-a4a3-4cdef115957a" tvg-name="MoreMax 🇺🇸" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Cinemax%20Hits.png" group-title="海外频道",MoreMax 🇺🇸
-http://192.168.2.98:9100/c/633331c8-b933-4249-a4a3-4cdef115957a/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/EKPDbfWVAe5OjqePomA5lgjC8cwJo6wImsDs6zRRkO8l6-SDC-B9LDCaS2wl0ysO/index.m3u8
 #EXTINF:-1 tvg-id="stream-2cdc641c-f5e2-4a10-ae7a-fa72eff783fa" tvg-name="BBC Treasures" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/BBC.png" group-title="海外频道",BBC Treasures
-http://192.168.2.98:9100/c/2cdc641c-f5e2-4a10-ae7a-fa72eff783fa/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/PonHoQsDQrY2KL6vKyGRkvnzVbknITjSGzK-egqHpMhZW2ke0CRt7rkQLWIH5j6I/index.m3u8
 #EXTINF:-1 tvg-id="stream-19273397-ed44-4127-b78c-c47b309edab1" tvg-name="PBS Travel" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/PBS%20Travel.png" group-title="海外频道",PBS Travel
-http://192.168.2.98:9100/c/19273397-ed44-4127-b78c-c47b309edab1/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/onbcfW2mEyT-s-3dXD9HC_s6P3pZ0X2PLGQib8GCqYF7XNFWUhkfcwJchJr02igC/index.m3u8
 #EXTINF:-1 tvg-id="stream-33ce3884-b45b-4139-969d-6f3e759d7958" tvg-name="How To" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/How%20To.png" group-title="海外频道",How To
-http://192.168.2.98:9100/c/33ce3884-b45b-4139-969d-6f3e759d7958/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/BrRxcSc9TyTkJ5ieiHZ2OZue1DTdEy3zdb6RQxZzSnkPj4gIyqFtdbS-xDqDwbmR/index.m3u8
 #EXTINF:-1 tvg-id="stream-17ddb17c-0efd-4770-a837-9d989643b306" tvg-name="Nat Geo Sharks" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Nat%20Geo%20Sharks.png" group-title="海外频道",Nat Geo Sharks
-http://192.168.2.98:9100/c/17ddb17c-0efd-4770-a837-9d989643b306/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/C2doV293HgGvq2rZRxlQYFKGDWc0C6rxvEnM_z-plxqaaO0H5su57nxx1DGGlAJF/index.m3u8
 #EXTINF:-1 tvg-id="stream-ab0497e7-2556-47a2-b08e-5421f62812e3" tvg-name="Curiosity Now" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Curiosity%20Now.png" group-title="海外频道",Curiosity Now
-http://192.168.2.98:9100/c/ab0497e7-2556-47a2-b08e-5421f62812e3/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/oynzRlEZrZn-BSxdd9J6R01otTHqCee6NG1hMDaQQ_Wt6UKJN2O9OQYtPbm17FRQ/index.m3u8
 #EXTINF:-1 tvg-id="stream-e4d4deef-7180-4b2b-ba4b-e3e90c31c3c7" tvg-name="Dinos 24/7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Dinos%20247.png" group-title="海外频道",Dinos 24/7
-http://192.168.2.98:9100/c/e4d4deef-7180-4b2b-ba4b-e3e90c31c3c7/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/RoCP_oAz_UtY-9m4ewZMrAeZeNIC3L27BEOl5GnecZkEfuuUQcfotc4btzDMSTLk/index.m3u8
 #EXTINF:-1 tvg-id="stream-f051d058-a5bb-438a-897e-54e60506df2a" tvg-name="PBS Genealogy" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/PBS%20Genealogy.png" group-title="海外频道",PBS Genealogy
-http://192.168.2.98:9100/c/f051d058-a5bb-438a-897e-54e60506df2a/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/lDKt1sfhSCFUDw_LkmH-6NS1XwcXHKZIbRy8-PrduTpdY_Ola5BiJ-h-CuHrsF8y/index.m3u8
 #EXTINF:-1 tvg-id="stream-7b88ac45-ccdf-4b12-a8a2-a691df1daa5a" tvg-name="EarthDay 365" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/EarthDay%20365.png" group-title="海外频道",EarthDay 365
-http://192.168.2.98:9100/c/7b88ac45-ccdf-4b12-a8a2-a691df1daa5a/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/CPTzhry4cXYaxLx0G6Bqt6wgUv8NLJNHB6Nbhuh4_T6ko5tuABLzzaqh4Ex0BJ7S/index.m3u8
 #EXTINF:-1 tvg-id="stream-9edb33ba-de23-4567-b98d-fa4e30896757" tvg-name="Mysterious World" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Mysterious%20World.png" group-title="海外频道",Mysterious World
-http://192.168.2.98:9100/c/9edb33ba-de23-4567-b98d-fa4e30896757/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/ulyeTLO53EvK1adEGAhap-T7gqLUYlQmzCVVmibN4eBX2uvl7GswCsDqmLxIDeDv/index.m3u8
 #EXTINF:-1 tvg-id="stream-78751191-7143-4cee-bab4-66757949c71e" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ID/Love%20Nature.png" group-title="海外频道",Love Nature
-http://192.168.2.98:9100/c/78751191-7143-4cee-bab4-66757949c71e/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/dk3W71nUBSUiJfoEr1jASgpeaCBj3Urr4NTCoRcppsD7qt40oPODS2jT47XPrXbx/index.m3u8
 #EXTINF:-1 tvg-id="stream-3f28a740-8a9f-4821-9d80-19cefe4a9126" tvg-name="Combat War Channel" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Combat%20War.png" group-title="海外频道",Combat War Channel
-http://192.168.2.98:9100/c/3f28a740-8a9f-4821-9d80-19cefe4a9126/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/gQCTyVc5Y9dTzmsgg63j-Au2QuN-WbG-bo5vqWz8H7PJKoiRKSr1y3xpydh3nKzD/index.m3u8
 #EXTINF:-1 tvg-id="stream-95b54e64-aea8-48cb-ba03-4495776a1d07" tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/VN/BBC%20Earth.png" group-title="海外频道",BBC Earth
-http://192.168.2.98:9100/c/95b54e64-aea8-48cb-ba03-4495776a1d07/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/bSysnPKoywJDr3VvNklEI0X8hJ1nNoGqbt2VHBq-c0mkmQVHk4pHpVQrihcbMeMP/index.m3u8
 #EXTINF:-1 tvg-id="stream-4f77afc9-1c71-478b-83ff-fe507f9d3e14" tvg-name="MGM+" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/MGM%2B.png" group-title="海外频道",MGM+
-http://192.168.2.98:9100/c/4f77afc9-1c71-478b-83ff-fe507f9d3e14/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/c9SMbLJ9JBFfzJzDAItX4SIpILex5XDDJGvDLi9W77sW3SsixOsqNJJ6otC6GXaf/index.m3u8
 #EXTINF:-1 tvg-id="stream-ad066797-dd89-45c2-99cd-b6b5cfe2eef0" tvg-name="MGM+ Hits" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/MGM%2B%20Hits.png" group-title="海外频道",MGM+ Hits
-http://192.168.2.98:9100/c/ad066797-dd89-45c2-99cd-b6b5cfe2eef0/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/L5AXYvh4aKozEwdABPjYlll_-n7yDwzYDt2oaMdfKULY0ceMzoZtZncV8QLhLMBz/index.m3u8
 #EXTINF:-1 tvg-id="stream-70ccb1bc-1528-44d7-9e17-0d13e213f319" tvg-name="MGM+ Drive-In" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/MGM%2B%20Drive-In.png" group-title="海外频道",MGM+ Drive-In
-http://192.168.2.98:9100/c/70ccb1bc-1528-44d7-9e17-0d13e213f319/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/SRviUlzpbE3rZwwkbG9cICNy5PojIVRdKTBUf_fzgoq_olKfs9nf-Vi2MvZtQdcE/index.m3u8
 #EXTINF:-1 tvg-id="stream-44111297-0fba-4cb6-8fc1-36e19124f405" tvg-name="MGM+ Marquee" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/MGM%2B%20Marquee.png" group-title="海外频道",MGM+ Marquee
-http://192.168.2.98:9100/c/44111297-0fba-4cb6-8fc1-36e19124f405/index.m3u8?u=admin&p=11843a2eccd32ff50b2391bb006adb81bb5947e67f95d520b6f88d9bcbf8d1da
+http://192.168.2.98:9100/l/8Kiua75bQwWFeWamJntJxWf-zw8B8w8QjqvRULNQvtk06OL00pElsMyX401cHFFJ/index.m3u8
 
 
 #EXTINF:-1 tvg-id="stream-f983d8c2-7dae-480f-84c6-ad58c7c0f79b" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event%20UHD.png" group-title="英国频道",Sky Sports Main Event UHD
@@ -517,25 +518,6 @@ http://iptv.852851.xyz/l/62J2rZ8-d57709wbwgAb2rJn7FVnystH5PUib3WhKUWA0QLMeGMUN0E
 http://iptv.852851.xyz/l/lFoLRTEcc1xsNN5Fo93MgSP1CmktOO8yDoYNtntKIxCkyFxp_oOOqW9gLXoEu3bQ/index.m3u8
 #EXTINF:-1 tvg-id="stream-40b16da1-f989-4a6a-85a5-777d4cbc5d25" tvg-name="beIN Sports 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/beIN%20Sports%205.png" group-title="HubSports",beIN Sports 5
 http://iptv.852851.xyz/l/t6EnE4tbGVlrhRo_jdHMFRzBSXtMOd6eCcW769lIKmPfQlKHnsRF97voSXQA7Gij/index.m3u8
-
-#EXTINF:-1 tvg-id="stream-30a1f51e-93a3-421d-be77-23436ff774c7" tvg-name="Alkass 1 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%201.png" group-title="AlkassSports",Alkass 1 🇶🇦
-https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-#EXTINF:-1 tvg-id="stream-338a7c9d-48c4-486e-a6e4-b36c750d74cc" tvg-name="Alkass 2 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%202.png" group-title="AlkassSports",Alkass 2 🇶🇦
-https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
-#EXTINF:-1 tvg-id="stream-f0583d9b-fd84-43ee-ba4c-3e83f8f086ad" tvg-name="Alkass 3 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%203.png" group-title="AlkassSports",Alkass 3 🇶🇦
-https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
-#EXTINF:-1 tvg-id="stream-d79f7224-5ed7-4521-bd32-b9fa113108ab" tvg-name="Alkass 4 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%204.png" group-title="AlkassSports",Alkass 4 🇶🇦
-https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
-#EXTINF:-1 tvg-id="stream-7200ae9c-9744-48d2-921d-c89a72e28869" tvg-name="Alkass 5 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%205.png" group-title="AlkassSports",Alkass 5 🇶🇦
-https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
-#EXTINF:-1 tvg-id="stream-d1c515a5-1aa7-46ab-9259-3cbd0f417914" tvg-name="Alkass 6 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%206.png" group-title="AlkassSports",Alkass 6 🇶🇦
-https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
-#EXTINF:-1 tvg-id="stream-21a0cad4-4674-47a5-8072-1f44efc17c55" tvg-name="Alkass 7 🇶🇦" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/QA/Alkass%207.png" group-title="AlkassSports",Alkass 7 🇶🇦
-https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
-#EXTINF:-1 tvg-id="stream-54d9f6cd-10a1-4dcb-a573-dbf17ec02fab" tvg-name="Shoof 1 🇶🇦" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Qatar/Shoof.png" group-title="AlkassSports",Shoof 1 🇶🇦
-https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
-#EXTINF:-1 tvg-id="stream-e7269932-b829-44f8-beeb-8f95501785e7" tvg-name="Shoof 2 🇶🇦" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Qatar/Shoof.png" group-title="AlkassSports",Shoof 2 🇶🇦
-https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 
 
 #EXTINF:-1 tvg-id="stream-c40d28e5-b2b2-4ed6-9f81-bb1f5a86f111" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png" group-title="beesports",TNT Sports 1
@@ -694,19 +676,6 @@ http://192.168.2.98:9100/c/de85d4ab-41fe-4ea7-b476-69047f218822/index.m3u8?u=adm
 
 
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Events UHD【XC源】" tvg-logo="https://i.postimg.cc/xdpqckxn/Sky-Sports-Main-Events-UHD.png" group-title="测试1",Sky Sports Main Events UHD【XC源】
-https://events.waastudios.dpdns.org/ch/02aa736a7105dbd87a80b5396e57337a/master.m3u8
-#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1 UHD【XC源】" tvg-logo="https://i.postimg.cc/CKrdzZPT/Sky-Sports-F1-UHD.png" group-title="测试1",Sky Sports F1 UHD【XC源】
-https://events.waastudios.dpdns.org/ch/585e7b16ce2e8b472a0c7f70a2cb6e35/master.m3u8
-#EXTINF:-1 tvg-id="V.sport.ultra.HD.dk" tvg-name="V Sport UltraHD【XC源 非24小时】" tvg-logo="https://i.postimg.cc/QC4VcpmZ/v-sport-ultra.png" group-title="测试1",V Sport UltraHD【XC源 非24小时】
-https://events.waastudios.dpdns.org/ch/0452863f86a222f3c61b6cbc2cf08dd4/master.m3u8
-#EXTINF:-1 tvg-id="Digi.4K.ro" tvg-name="DIGI 4K【XC源】" tvg-logo="https://i.postimg.cc/mgzRQZNB/DIGI-4K.jpg" group-title="测试1",DIGI 4K【XC源】
-https://events.waastudios.dpdns.org/ch/346b6e271ef24044ce61a65e94e2c6f4/master.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 2 (HD)" tvg-name="Hub Premier 2 UHD【DASH】" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png" group-title="测试1",Hub Premier 2 UHD【DASH】
-https://events.waastudios.dpdns.org/ch/a931ff5186d169a95c0e2a10ef3b0299/master.m3u8
-
-
-
 #EXTINF:-1 group-title="Zapi Tv",Eurosport 1 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -728,17 +697,6 @@ https://cache07.zapitv.com/live/eds_c2/nat_geo_wild_hd/dash_live_ez/nat_geo_wild
 #KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
 https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
 
-
-
-
-#EXTINF:-1 group-title="F1",F1 APPLE TV+ FEED
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bloqv62cg8/out/v1/0f6b2626aef2496e97bce1b5998b49b5/cenc.mpd|drmScheme=clearkey&drmLicense=c0a9d1e7eaf683120499b4017314a518:990018b9907cf9b5ae4c3dd9eb948255
-#EXTINF:-1 group-title="F1",F1 SKY FEED
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1y6zgazim1/out/v1/489690bfe676484e8034f5db55b454fd/cenc.mpd?|drmScheme=clearkey&drmLicense=6dd170459b9d19e43bc554e783570a2b:1a86def14df85af755c5f26d7457fcea
-#EXTINF:-1 group-title="F1",TSN SPORTS
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-#EXTINF:-1 group-title="F1",FANCODE ENGLISH
-https://in-mc-flive.fancode.com/mumbai/139481_english_dash_83495_1drmta-di_h264/index.mpd?|drmScheme=clearkey&drmLicense=90672900d427457684f8e68ec14c90ef:8a4617cc8dcb8846d055d495f275f06d
 
 
 
@@ -1387,35 +1345,6 @@ http://cfss.cc/cdn/huya/21059580.flv
 
 
 
-#EXTINF:-1 group-title="bein",bein max 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n8PXGrMOjTPwnuKeXkU2CA","kid":"bKLyyCJET/dtlXB0Hex7Kw"},{"kty":"oct","k":"tA9ZkmbIomLM9KOE2t3gig","kid":"PPaG3EJG8ZvEQZxU2g+QvA"},{"kty":"oct","k":"SAsD/kR2vBh8ap1DuoL52w","kid":"nYsbgZz9z/hFYluGzElo8w"},{"kty":"oct","k":"8Lj4Tb2TQH2mqwtB/HdCSQ","kid":"Os6gEkR4WmNj/ASyXWljkg"},{"kty":"oct","k":"2gTRgOkCivJ0grajfIHgIA","kid":"tjYpdcop0GhbfKxyG2+qJg"}],"type":"temporary"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
-
-#EXTINF:-1 group-title="bein",bein max 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SmDk4AlWDEB2ag+zh3DvTg","kid":"+B31z3K9Q8PahNBNyGkfyw"},{"kty":"oct","k":"5VYnZZnFW97hafOeq45WvA","kid":"hayTYuiTVO9TQf5NvuDdYg"},{"kty":"oct","k":"oO65e00U1rt6XDl1XdfEHA","kid":"emKlFsXZgFU/SXxr/EabGQ"},{"kty":"oct","k":"DR5UVllQweL1jUXFYaRxhw","kid":"bJdsqmKP3omqztvUcFmWfg"},{"kty":"oct","k":"6vdul7lpp9EkpyChCazatQ","kid":"cfzc/VjGCGYtsxf89EEcGQ"}],"type":"temporary"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
-
-#EXTINF:-1 group-title="bein",bein max 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TOPzoiNPALIbp3AG8ZeDKg","kid":"kujMlSfH9WoQd3J4y4AQJw"},{"kty":"oct","k":"7zfa3BS9reFyJO9Lyfh85g","kid":"RBEEt95l18WCqccRQORveQ"},{"kty":"oct","k":"kamtWS3W6Uaw8AdNFawRaA","kid":"tAI9OnExbtPNBq9+Q5iNMQ"},{"kty":"oct","k":"GoiJlUf3/UpcIu6BUNiSCA","kid":"QoHuESVVCXMlBYy3NVA1tA"},{"kty":"oct","k":"+LWJOTmOWlV0wYQI0wTUTg","kid":"Q/q6LamO7utCSB3Khz00YA"}],"type":"temporary"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
-
-#EXTINF:-1 group-title="bein",bein max 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ISdXQsHaXzzyMLs6YDMAWw","kid":"s0bTnqKPedz4tKHeNbxMug"},{"kty":"oct","k":"u3Ta4bG0dU_IBuQnefIrHg","kid":"uG158SLolV05Jp5qPS5O0A"},{"kty":"oct","k":"_NbgD57PhfO06pFH_J7wLg","kid":"lQLuIXp1kAzy12CLGhhqAw"},{"kty":"oct","k":"SQ8gsDFjE9ICUmS3AK1-Hw","kid":"Dy2sht9VWlp1dtrcxYYv2g"}],"type":"temporary"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
-
-#EXTINF:-1 group-title="bein",trt 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DrTM3w05yeWkoLWWq1dRqQ","kid":"5PAioIUI0AaRjdkCdf7/NA"},{"kty":"oct","k":"oeUf/xEPh4RJEhmZjER6sg","kid":"AzMHoUek01qZEJp5sqo+jA"},{"kty":"oct","k":"iTnQBFjniDcwzdYLoOOR8g","kid":"5gQv5G7NGyoVwncaJfu3ug"},{"kty":"oct","k":"xULeHB+35ktI/nLhS2ttxA","kid":"CTbZFTdu/NgTzkBChgHMMQ"}],"type":"temporary"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/490/1/live.mpd
 
 
 
@@ -1424,44 +1353,52 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/490/1/live.mpd
 
 
 
-
-
-#EXTINF:-1 tvg-id="ProSiebenSat1UHD.de" tvg-name="ProSiebenSat.1 UHD" tvg-logo="https://raw.githubusercontent.com/Fazzani/TV-Logos/master/Germany/ProSiebenSat.1_UHD.png" group-title="MagentaTV UHD",ProSiebenSat.1 UHD
+#EXTINF:-1 tvg-id="ProSiebenSat1UHD.de" tvg-name="ProSiebenSat.1 UHD" tvg-logo="https://raw.githubusercontent.com/Fazzani/TV-Logos/master/Germany/ProSiebenSat.1_UHD.png" group-title="MagentaTV",ProSiebenSat.1 UHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1918c1b96afa3f747e6c376fda8e140e:e09fc7553946e5ad68e0162715e96f71
 https://svc45.main.sl.t-online.de/bpk-tv/KID00914_ProSiebenSat1UHD_uhd/DASH/index.mpd
 
-#EXTINF:-1 tvg-id="RTLUHD.de" tvg-name="RTL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RTL_UHD_Logo_2021.svg" group-title="MagentaTV UHD",RTL UHD
+#EXTINF:-1 tvg-id="RTLUHD.de" tvg-name="RTL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RTL_UHD_Logo_2021.svg" group-title="MagentaTV",RTL UHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17286ed7f8585665d9ac6d8a007db83c:c1583491f2c49fc36ed90ea42fb8ccc0
 https://svc45.main.sl.t-online.de/bpk-tv/KID00860_RTLUHD_uhd/DASH/index.mpd
 
-#EXTINF:-1 tvg-id="Travelxp4K.de" tvg-name="Travelxp 4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Travelxp_HD_logo.png" group-title="MagentaTV UHD",Travelxp 4K UHD
+#EXTINF:-1 tvg-id="Travelxp4K.de" tvg-name="Travelxp 4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Travelxp_HD_logo.png" group-title="MagentaTV",Travelxp 4K UHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f5e28ed5473effa0abf80c7a5dd8d62:5d1d93cb5c7747933dabc3cff1141cbe
 https://svc45.main.sl.t-online.de/bpk-tv/KID00857_Travelxp4K_uhd/DASH/index.mpd
 
-#EXTINF:-1 tvg-id="FussballTV1UHD.de" tvg-name="FUSSBALL.TV 1 UHD" tvg-logo="https://raw.githubusercontent.com/Fazzani/TV-Logos/master/Germany/Fussball_TV_1_UHD.png" group-title="MagentaTV UHD",FUSSBALL.TV 1 UHD
+#EXTINF:-1 tvg-id="FussballTV1UHD.de" tvg-name="FUSSBALL.TV 1 UHD" tvg-logo="https://raw.githubusercontent.com/Fazzani/TV-Logos/master/Germany/Fussball_TV_1_UHD.png" group-title="MagentaTV",FUSSBALL.TV 1 UHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
 
-#EXTINF:-1 tvg-id="FussballTV2UHD.de" tvg-name="FUSSBALL.TV 2 UHD" tvg-logo="https://raw.githubusercontent.com/Fazzani/TV-Logos/master/Germany/Fussball_TV_2_UHD.png" group-title="MagentaTV UHD",FUSSBALL.TV 2 UHD
+#EXTINF:-1 tvg-id="norwayvsengland2200fussballtvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="MagentaTV",FUSSBALL.TV 1 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="FussballTV2UHD.de" tvg-name="FUSSBALL.TV 2 UHD" tvg-logo="https://raw.githubusercontent.com/Fazzani/TV-Logos/master/Germany/Fussball_TV_2_UHD.png" group-title="MagentaTV",FUSSBALL.TV 2 UHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
 https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
 
-#EXTINF:-1 tvg-id="FussballTV3UHD.de" tvg-name="FUSSBALL.TV 3 UHD" tvg-logo="https://raw.githubusercontent.com/Fazzani/TV-Logos/master/Germany/Fussball_TV_3_UHD.png" group-title="MagentaTV UHD",FUSSBALL.TV 3 UHD
+#EXTINF:-1 tvg-id="norwayvsengland2200fussball2tvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="MagentaTV",FUSSBALL.TV 2 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="FussballTV3UHD.de" tvg-name="FUSSBALL.TV 3 UHD" tvg-logo="https://raw.githubusercontent.com/Fazzani/TV-Logos/master/Germany/Fussball_TV_3_UHD.png" group-title="MagentaTV",FUSSBALL.TV 3 UHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1473,31 +1410,51 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Fusstball",Fusstball tv 4k
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F66jJdkbXmbwahxXTy8LAw","kid":"T1WOrhsAUSayrG6esaeEng"},{"kty":"oct","k":"nt2/MvgLVG9mYDEEsqw8ig","kid":"tz92ZY0fXOOEIPOAQhuvew"},{"kty":"oct","k":"mLcTPuAG2frhEewMo2ZkHA","kid":"4fj8aJj8W_egC1YJryP-4A"},{"kty":"oct","k":"7HLzNdDkNqx9wdk2rqEUSg","kid":"5RH7gTYMXxS2gWBdHethSg"}],"type":"temporary"}
-https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="ITBD3600002PA" tvg-logo="https://tvpnlogopeu.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/ITBD3600002PA_20241022T051546SQUARE.png" group-title="SamsungTV",CNBC
+https://jmp2.uk/stvp-GBBD3600001NO
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 FAST" tvg-logo="https://tvpnlogopeu.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/ATBD1100002TA_20250107T022112SQUARE.png" group-title="SamsungTV",FRANCE 24 FAST
+https://jmp2.uk/stvp-ATBD1100002TA
+#EXTINF:-1 tvg-id="" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/US39000038W_20251202T005927SQUARE.png" group-title="SamsungTV",K-POP by CJ ENM
+https://jmp2.uk/stvp-CA3900002PM
+https://jmp2.uk/stvp-US39000038W
+#EXTINF:-1 tvg-id="" tvg-name="USBA370000104" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20241112T000842SQUARE.png" group-title="SamsungTV",CBS News 24/7
+https://jmp2.uk/stvp-USBA370000104
+#EXTINF:-1 tvg-id="" tvg-name="USBC4400003OU" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBC4400003OU_20241112T000921SQUARE.png" group-title="SamsungTV",CBC News
+https://jmp2.uk/stvp-CABC2300009KD
+#EXTINF:-1 tvg-id="" tvg-name="USAJ4300005PJ" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20250325T020257SQUARE.png" group-title="SamsungTV",Yahoo Finance
+https://jmp2.uk/stvp-USAJ4300005PJ
+#EXTINF:-1 tvg-id="" tvg-name="USBA30002142" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBA30002142_20250325T020252SQUARE.png" group-title="SamsungTV",TYT Network
+https://jmp2.uk/stvp-USBA30002142
+#EXTINF:-1 tvg-id="" tvg-name="US2700001QY" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/US2700001QY_20241105T024305SQUARE.png" group-title="SamsungTV",FOX Sports
+https://jmp2.uk/stvp-US2700001QY
+#EXTINF:-1 tvg-id="" tvg-name="USAJ3504707A" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USAJ3504707A_20250325T014938SQUARE.png" group-title="SamsungTV",Outside TV
+https://jmp2.uk/stvp-USAJ3504707A
+#EXTINF:-1 tvg-id="" tvg-name="USBB440002055" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBB440002055_20240722T230849SQUARE.png" group-title="SamsungTV",Waypoint TV
+https://jmp2.uk/stvp-USBB440002055
+#EXTINF:-1 tvg-id="" tvg-name="USBD17000025J" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBD17000025J_20240520T220137SQUARE.png" group-title="SamsungTV",Pursuit UP
+https://jmp2.uk/stvp-USBD17000025J
+#EXTINF:-1 tvg-id="" tvg-name="USBD1200020Y4" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBD1200020Y4_20250325T015246SQUARE.png" group-title="SamsungTV",Outdoor America
+https://jmp2.uk/stvp-USBD1200020Y4
+#EXTINF:-1 tvg-id="" tvg-name="USAJ3000007MT" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20250325T020231SQUARE.png" group-title="SamsungTV",Maverick Black Cinema
+https://jmp2.uk/stvp-USAJ3000007MT
+#EXTINF:-1 tvg-id="" tvg-name="USBA3800005NI" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20250729T010408SQUARE.png" group-title="SamsungTV",Clarity 4K
+https://jmp2.uk/stvp-USBA3800005NI
+#EXTINF:-1 tvg-id="" tvg-name="USBB1000002TK" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBB1000002TK_20241112T000653SQUARE.png" group-title="SamsungTV",Loupe 4K
+https://jmp2.uk/stvp-USBB1000002TK
+#EXTINF:-1 tvg-id="" tvg-name="USBA3400003IP" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20250204T234403SQUARE.png" group-title="SamsungTV",Love Nature 4K
+https://jmp2.uk/stvp-USBA3400003IP
+#EXTINF:-1 tvg-id="" tvg-name="USBD1700001RW" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20250421T234905SQUARE.png" group-title="SamsungTV",BBC Earth
+https://jmp2.uk/stvp-USBD1700001RW
+#EXTINF:-1 tvg-id="" tvg-name="US3700005GP" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/US3700005GP_20241119T020405SQUARE.png" group-title="SamsungTV",BBC Drama
+https://jmp2.uk/stvp-US3700005GP
+#EXTINF:-1 tvg-id="" tvg-name="US3700006XE" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/US3700006XE_20241203T004820SQUARE.png" group-title="SamsungTV",Dinos 24/7
+https://jmp2.uk/stvp-US3700006XE
+#EXTINF:-1 tvg-id="" tvg-name="US3800007CR" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/US3800007CR_20250121T101229SQUARE.png" group-title="SamsungTV",WildEarth
+https://jmp2.uk/stvp-US3800007CR
+#EXTINF:-1 tvg-id="" tvg-name="USBA300023G8" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBA300023G8_20250513T012705SQUARE.png" group-title="SamsungTV",InWonder
+https://jmp2.uk/stvp-USBA300023G8
+#EXTINF:-1 tvg-id="" tvg-name="US900001CX" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" group-title="SamsungTV",Universe: Mysteries Solved
+https://jmp2.uk/stvp-US900001CX
 
 
 
@@ -1508,6 +1465,8 @@ https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-
 #EXTINF:-1 tvg-name="CCTV5" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV5.png" , CCTV5
 http://192.168.2.98:5140/rtp/239.253.254.192:8000?fcc=124.132.240.66:15970
 http://192.168.2.1:5140/rtp/239.253.254.192:8000?fcc=124.132.240.66:15970
+http://192.168.2.98:5140/rtp/239.253.254.192:8000
+http://192.168.2.1:5140/rtp/239.253.254.192:8000
 #EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV5+.png" , CCTV5+
 http://192.168.2.98:5140/rtp/239.253.254.80:8000?fcc=124.132.240.66:15970
 http://192.168.2.1:5140/rtp/239.253.254.80:8000?fcc=124.132.240.66:15970
