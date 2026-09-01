@@ -386,98 +386,219 @@ http://192.168.2.98:9100/l/8Kiua75bQwWFeWamJntJxWf-zw8B8w8QjqvRULNQvtk06OL00pEls
 #EXTINF:-1 tvg-id="stream-4474c2bb-4eb0-41fe-8a90-4f998472e39c" tvg-name="Sky Sports F1" tvg-logo="" group-title="英国频道",Sky Sports F1 UHD
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports 1 UHD" tvg-logo="" group-title="英国频道",Sky Sports 1 UHD
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports 2 UHD" tvg-logo="" group-title="英国频道",Sky Sports 2 UHD
+http://192.168.2.98:5678/stalker.php?stream=804331
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Ultimate UHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%20Ultimate.png" group-title="英国频道",TNT Sports Ultimate UHD
 #EXTINF:-1 tvg-id="stream-f983d8c2-7dae-480f-84c6-ad58c7c0f79b" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png" group-title="英国频道",Sky Sports Main Event
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577978&extension=ts&play_token=Z02y0Jzs4M&sn2=
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577978&extension=ts&play_token=G3h4kE98wq&sn2=
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577947&extension=ts&play_token=gD4v6TABlb&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577997
+http://192.168.2.98:5678/stalker.php?stream=577978
 #EXTINF:-1 tvg-id="stream-4474c2bb-4eb0-41fe-8a90-4f998472e39c" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png" group-title="英国频道",Sky Sports F1
+http://192.168.2.98:5678/stalker.php?stream=577990
+http://192.168.2.98:5678/stalker.php?stream=577972
 #EXTINF:-1 tvg-id="stream-b83add54-ed07-47f7-b111-cd8c8205475b" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Premier%20League.png" group-title="英国频道",Sky Sports Premier League
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577977&extension=ts&play_token=RoBHd2WKD0&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577996
+http://192.168.2.98:5678/stalker.php?stream=577977
 #EXTINF:-1 tvg-id="stream-6a06dd31-f5bb-41b3-a5a9-ada5ad78ddcb" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Football.png" group-title="英国频道",Sky Sports Football
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577995&extension=ts&play_token=j72s5mhv5G&sn2=
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577941&extension=ts&play_token=GLP3HrktvD&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577995
+http://192.168.2.98:5678/stalker.php?stream=577976
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Cricket.png" group-title="英国频道",Sky Sports Cricket
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577991&extension=ts&play_token=yfEQsehdLD&sn2=
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577973&extension=ts&play_token=jMmLHr83vN&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577991
+http://192.168.2.98:5678/stalker.php?stream=577973
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Golf.png" group-title="英国频道",Sky Sports Golf
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577971&extension=ts&play_token=XHvwXS6bqK&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577987
+http://192.168.2.98:5678/stalker.php?stream=577971
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Tennis.png" group-title="英国频道",Sky Sports Tennis
+http://192.168.2.98:5678/stalker.php?stream=1089330
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20News.png" group-title="英国频道",Sky Sports News
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577994&extension=ts&play_token=5snccNiexM&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577994
+http://192.168.2.98:5678/stalker.php?stream=577969
 #EXTINF:-1 tvg-id="stream-f402d051-5c16-4252-b5cf-4ef4c5843190" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Action.png" group-title="英国频道",Sky Sports Action
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=726827&extension=ts&play_token=h6nSCnv5BU&sn2=
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577945&extension=ts&play_token=VTkEs2XXAT&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577993
+http://192.168.2.98:5678/stalker.php?stream=577975
+http://192.168.2.98:5678/stalker.php?stream=726827
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Racing" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Racing.png" group-title="英国频道",Sky Sports Racing
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577988&extension=ts&play_token=6co9Q56dZI&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577988
+http://192.168.2.98:5678/stalker.php?stream=577968
 #EXTINF:-1 tvg-id="stream-ed015f39-302e-4f70-8639-82fc5f19271d" tvg-name="Sky Sports Mix" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Mix.png" group-title="英国频道",Sky Sports Mix
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577989&extension=ts&play_token=erSrQcllts&sn2=
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577970&extension=ts&play_token=JLc3CNdBty&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577989
+http://192.168.2.98:5678/stalker.php?stream=577970
 #EXTINF:-1 tvg-id="stream-1bed566f-ef3a-46f3-805a-432e4cd06f2e" tvg-name="Sky Sports+" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Plus.png" group-title="英国频道",Sky Sports+
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577944&extension=ts&play_token=qc79XOUf6A&sn2=
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577992&extension=ts&play_token=OYagyZSKoo&sn2=
 #EXTINF:-1 tvg-id="stream-2c63843b-d9b9-4d83-904d-79fd507697be" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png" group-title="英国频道",TNT Sports 1
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=578001&extension=ts&play_token=oAQgeqHWzC&sn2=
+http://192.168.2.98:5678/stalker.php?stream=578001
+http://192.168.2.98:5678/stalker.php?stream=577967
 #EXTINF:-1 tvg-id="stream-9abcbe14-4564-4efa-9241-3c41cbefd01e" tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%202.png" group-title="英国频道",TNT Sports 2
+http://192.168.2.98:5678/stalker.php?stream=578000
+http://192.168.2.98:5678/stalker.php?stream=577966
 #EXTINF:-1 tvg-id="stream-a880b69b-e344-46ec-a600-31929e48efa4" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%203.png" group-title="英国频道",TNT Sports 3
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577999&extension=ts&play_token=QwDX0QorCZ&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577999
+http://192.168.2.98:5678/stalker.php?stream=577965
 #EXTINF:-1 tvg-id="stream-14d046f1-853d-4702-a77d-63b45709f1c6" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%204.png" group-title="英国频道",TNT Sports 4
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=782732&extension=ts&play_token=job8DKL1Tb&sn2=
+http://192.168.2.98:5678/stalker.php?stream=782732
 #EXTINF:-1 tvg-id="stream-65e58d53-e229-490e-94ca-9f519f742efd" tvg-name="Premier Sports 1 🇬🇧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%201.png" group-title="英国频道",Premier Sports 1
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577982&extension=ts&play_token=V4uSwcyFU9&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577982
 #EXTINF:-1 tvg-id="stream-edf970a5-cf08-4566-af7b-d00aeba7bb41" tvg-name="Premier Sports 2 🇬🇧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Premier%20Sports%202.png" group-title="英国频道",Premier Sports 2
+http://192.168.2.98:5678/stalker.php?stream=577981
+http://192.168.2.98:5678/stalker.php?stream=577959
 #EXTINF:-1 tvg-id="s" tvg-name="Sky Cinema Premiere" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Premiere.png" group-title="英国频道",Sky Cinema Premiere
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577365&extension=ts&play_token=EPRjfhjSzb&sn2=
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577379&extension=ts&play_token=3qXzWbB7Ah&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577379
+http://192.168.2.98:5678/stalker.php?stream=577365
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Select" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Select.png" group-title="英国频道",Sky Cinema Select
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577377&extension=ts&play_token=Cf5msgV4vi&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577377
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Hits" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Hits.png" group-title="英国频道",Sky Cinema Hits
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577366&extension=ts&play_token=fyLzQwSZUL&sn2=
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577381&extension=ts&play_token=DcwT0iGK6m&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577381
+http://192.168.2.98:5678/stalker.php?stream=577366
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Family.png" group-title="英国频道",Sky Cinema Family
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Action.png" group-title="英国频道",Sky Cinema Action
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577372&extension=ts&play_token=EZoGGZym5f&sn2=
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577387&extension=ts&play_token=yynSIFxMac&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577387
+http://192.168.2.98:5678/stalker.php?stream=577372
 #EXTINF:-1 tvg-id="stream-229512e1-0131-4c3d-a4fd-ddb76b77b339" tvg-name="Sky Cinema Greats" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Greats.png" group-title="英国频道",Sky Cinema Greats
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577382&extension=ts&play_token=47CsNx2MEH&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577382
+http://192.168.2.98:5678/stalker.php?stream=577367
 #EXTINF:-1 tvg-id="stream-e378e470-3895-4118-ae41-da1c5e67da55" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Comedy.png" group-title="英国频道",Sky Cinema Comedy
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577385&extension=ts&play_token=W5gr0bi6bc&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577385
+http://192.168.2.98:5678/stalker.php?stream=577371
 #EXTINF:-1 tvg-id="stream-ae9cce3d-49fe-4f28-a432-9aba6f3254ad" tvg-name="Sky Cinema Thriller" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Thriller.png" group-title="英国频道",Sky Cinema Thriller
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577376&extension=ts&play_token=P2hiE1QMzK&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577376
+http://192.168.2.98:5678/stalker.php?stream=577363
 #EXTINF:-1 tvg-id="stream-d967d4a5-0650-46cf-989c-32abcc050259" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Drama.png" group-title="英国频道",Sky Cinema Drama
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577383&extension=ts&play_token=NxgN3sY7fj&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577383
+http://192.168.2.98:5678/stalker.php?stream=577369
 #EXTINF:-1 tvg-id="stream-1a1f00bf-b341-4215-91ef-7ce6344bdbac" tvg-name="Sky Cinema Sci-Fi & Horror" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Sci-Fi%20%26%20Horror.png" group-title="英国频道",Sky Cinema Sci-Fi & Horror
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577378&extension=ts&play_token=E0MiXpS0Vk&sn2=
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=577364&extension=ts&play_token=U0ZbahMfRq&sn2=
+http://192.168.2.98:5678/stalker.php?stream=577378
+http://192.168.2.98:5678/stalker.php?stream=577364
 #EXTINF:-1 tvg-id="stream-24600129-06b9-40c7-8bd6-622149aa947b" tvg-name="Now HK Now Sports 4K UHD" tvg-logo="" group-title="英国频道",Now HK Now Sports 4K UHD
+http://192.168.2.98:5678/stalker.php?stream=827942
+http://192.168.2.98:5678/stalker.php?stream=827941
 #EXTINF:-1 tvg-id="stream-bd83847d-9304-4114-b680-ebf157c02a02" tvg-name="Now HK Sports 4K 1 UHD" tvg-logo="" group-title="英国频道",Now HK Sports 4K 1 UHD
 #EXTINF:-1 tvg-id="stream-fba8d5c8-fd93-415f-ab93-e6fa7a79c545" tvg-name="Now HK Sports 4K 2 UHD" tvg-logo="" group-title="英国频道",Now HK Sports 4K 2 UHD
 #EXTINF:-1 tvg-id="stream-b53b934f-bd73-4667-bc3b-3720bf0b3cdd" tvg-name="Now HK Sports 4K 3 UHD" tvg-logo="" group-title="英国频道",Now HK Sports 4K 3 UHD
 #EXTINF:-1 tvg-id="stream-34d04bef-880d-405b-bd5a-009543d88da0" tvg-name="Now HK Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%201.png" group-title="英国频道",Now HK Premier Sports 1
+http://192.168.2.98:5678/stalker.php?stream=827940
 #EXTINF:-1 tvg-id="stream-82307302-44ab-4df4-9497-f2527ed83797" tvg-name="Now HK Premier Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%202.png" group-title="英国频道",Now HK Premier Sports 2
+http://192.168.2.98:5678/stalker.php?stream=827939
 #EXTINF:-1 tvg-id="stream-a14bb398-7807-4564-9748-b79788544a8b" tvg-name="Now HK Premier Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%203.png" group-title="英国频道",Now HK Premier Sports 3
+http://192.168.2.98:5678/stalker.php?stream=827938
 #EXTINF:-1 tvg-id="stream-b43ab7ac-8c2a-4d8c-a08f-d5ca0aaddf3b" tvg-name="Now HK Premier Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%204.png" group-title="英国频道",Now HK Premier Sports 4
+http://192.168.2.98:5678/stalker.php?stream=827937
 #EXTINF:-1 tvg-id="stream-0229e770-3c59-48cd-978c-1754fc458b7f" tvg-name="Now HK Premier Sports 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%205.png" group-title="英国频道",Now HK Premier Sports 5
+http://192.168.2.98:5678/stalker.php?stream=827936
 #EXTINF:-1 tvg-id="stream-0700caca-fea4-4e06-b4cc-57b9584f3cdc" tvg-name="Now HK Premier Sports 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%206.png" group-title="英国频道",Now HK Premier Sports 6
+http://192.168.2.98:5678/stalker.php?stream=827935
 #EXTINF:-1 tvg-id="stream-4ab25518-b567-44f0-8661-d075d111ff10" tvg-name="Now HK Now Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%201.png" group-title="英国频道",Now HK Now Sports 1
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=802488&extension=ts&play_token=QaPZWLlF10&sn2=
+http://192.168.2.98:5678/stalker.php?stream=827932
+http://192.168.2.98:5678/stalker.php?stream=802488
 #EXTINF:-1 tvg-id="stream-39ee3f9a-d86a-41ab-975e-2c88ddc1f45b" tvg-name="Now HK Now Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%202.png" group-title="英国频道",Now HK Now Sports 2
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=802487&extension=ts&play_token=Gifp3lK0mW&sn2=
+http://192.168.2.98:5678/stalker.php?stream=827931
+http://192.168.2.98:5678/stalker.php?stream=802487
 #EXTINF:-1 tvg-id="stream-9d21063f-3d17-4636-b23d-697f7405b2fd" tvg-name="Now HK Now Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%203.png" group-title="英国频道",Now HK Now Sports 3
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=802486&extension=ts&play_token=27GBIobE7Y&sn2=
+http://192.168.2.98:5678/stalker.php?stream=827930
+http://192.168.2.98:5678/stalker.php?stream=802486
 #EXTINF:-1 tvg-id="stream-0ddf64a1-a0ae-453e-8f0b-6de1a925ab13" tvg-name="Now HK Now Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%204.png" group-title="英国频道",Now HK Now Sports 4
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=802485&extension=ts&play_token=tHKCOjuvFJ&sn2=
+http://192.168.2.98:5678/stalker.php?stream=827929
+http://192.168.2.98:5678/stalker.php?stream=802485
 #EXTINF:-1 tvg-id="stream-05ba9d2a-a36c-491e-91a6-24cdb29b0ed6" tvg-name="Now HK Now Sports 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%205.png" group-title="英国频道",Now HK Now Sports 5
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=802484&extension=ts&play_token=YX0vGJbsWz&sn2=
+http://192.168.2.98:5678/stalker.php?stream=827928
+http://192.168.2.98:5678/stalker.php?stream=802484
 #EXTINF:-1 tvg-id="stream-7a40e448-9f78-474d-95b1-6da4310a6fd0" tvg-name="Now HK Now Sports 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%206.png" group-title="英国频道",Now HK Now Sports 6
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=802483&extension=ts&play_token=KHMTvqSb0n&sn2=
+http://192.168.2.98:5678/stalker.php?stream=827927
+http://192.168.2.98:5678/stalker.php?stream=802483
 #EXTINF:-1 tvg-id="stream-08a0116b-8dfc-423c-a1a6-71b2c898eb02" tvg-name="Now HK Now Sports 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%207.png" group-title="英国频道",Now HK Now Sports 7
-http://main2.cwdn.cx/play/live.php?mac=00:1A:79:73:E6:4C&stream=802482&extension=ts&play_token=3ggmGt02W8&sn2=
+http://192.168.2.98:5678/stalker.php?stream=827926
+http://192.168.2.98:5678/stalker.php?stream=802482
 #EXTINF:-1 tvg-id="stream-0bed14b1-4eda-4ad7-be66-43babc45a65e" tvg-name="Now HK Sports Plus" tvg-logo="" group-title="英国频道",Now HK Sports Plus
 #EXTINF:-1 tvg-id="stream-ede93057-2ff0-4e0b-bec7-cf1db38cf752" tvg-name="Now HK SPOTV" tvg-logo="" group-title="英国频道",Now HK SPOTV
 #EXTINF:-1 tvg-id="stream-32bed182-8b5d-4422-8c6e-be3e6e0e7314" tvg-name="Now HK SPOTV 2" tvg-logo="" group-title="英国频道",Now HK SPOTV 2
 #EXTINF:-1 tvg-id="stream-09928eff-a5d2-416b-b41c-af734ad28e4f" tvg-name="Now HK Golf 2" tvg-logo="" group-title="英国频道",Now HK Golf 2
 #EXTINF:-1 tvg-id="stream-84a206db-1469-4512-ba5f-b39b3e4adf66" tvg-name="Now HK Golf 3" tvg-logo="" group-title="英国频道",Now HK Golf 3
+#EXTINF:-1 tvg-id="827982" tvg-name="HUB PREMIER 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER1.png" group-title="英国频道",HUB PREMIER 1
+http://192.168.2.98:5678/stalker.php?stream=827982
+#EXTINF:-1 tvg-id="827981" tvg-name="HUB PREMIER 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" group-title="英国频道",HUB PREMIER 2
+http://192.168.2.98:5678/stalker.php?stream=827981
+#EXTINF:-1 tvg-id="827980" tvg-name="HUB PREMIER 2 UHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" group-title="英国频道",HUB PREMIER 2 UHD
+http://192.168.2.98:5678/stalker.php?stream=827980
+#EXTINF:-1 tvg-id="827979" tvg-name="HUB PREMIER 3" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER3.png" group-title="英国频道",HUB PREMIER 3
+http://192.168.2.98:5678/stalker.php?stream=827979
+#EXTINF:-1 tvg-id="827978" tvg-name="HUB PREMIER 4" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER4.png" group-title="英国频道",HUB PREMIER 4
+http://192.168.2.98:5678/stalker.php?stream=827978
+#EXTINF:-1 tvg-id="827977" tvg-name="HUB PREMIER 5" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER5.png" group-title="英国频道",HUB PREMIER 5
+http://192.168.2.98:5678/stalker.php?stream=827977
+#EXTINF:-1 tvg-id="827976" tvg-name="HUB PREMIER 6" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER6.png" group-title="英国频道",HUB PREMIER 6
+http://192.168.2.98:5678/stalker.php?stream=827976
+#EXTINF:-1 tvg-id="827975" tvg-name="HUB PREMIER 7" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER7.png" group-title="英国频道",HUB PREMIER 7
+http://192.168.2.98:5678/stalker.php?stream=827975
+#EXTINF:-1 tvg-id="827974" tvg-name="HUB PREMIER 8" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER8.png" group-title="英国频道",HUB PREMIER 8
+http://192.168.2.98:5678/stalker.php?stream=827974
+#EXTINF:-1 tvg-id="827973" tvg-name="HUB PREMIER 9" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER9.png" group-title="英国频道",HUB PREMIER 9
+http://192.168.2.98:5678/stalker.php?stream=827973
+#EXTINF:-1 tvg-id="827972" tvg-name="HUB PREMIER 10" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER10.png" group-title="英国频道",HUB PREMIER 10
+http://192.168.2.98:5678/stalker.php?stream=827972
+#EXTINF:-1 tvg-id="827971" tvg-name="HUB PREMIER 11" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER11.png" group-title="英国频道",HUB PREMIER 11
+http://192.168.2.98:5678/stalker.php?stream=827971
+
+#EXTINF:-1 tvg-id="1006751" tvg-name="UK| SKY STORE INFO ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE INFO ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006751
+#EXTINF:-1 tvg-id="1006752" tvg-name="UK| SKY STORE PREMIERE 1 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 1 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006752
+#EXTINF:-1 tvg-id="1006753" tvg-name="UK| SKY STORE PREMIERE 2 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 2 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006753
+#EXTINF:-1 tvg-id="1006754" tvg-name="UK| SKY STORE PREMIERE 3 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 3 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006754
+#EXTINF:-1 tvg-id="1006755" tvg-name="UK| SKY STORE PREMIERE 4 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 4 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006755
+#EXTINF:-1 tvg-id="1006756" tvg-name="UK| SKY STORE PREMIERE 5 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 5 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006756
+#EXTINF:-1 tvg-id="1006757" tvg-name="UK| SKY STORE PREMIERE 6 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 6 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006757
+#EXTINF:-1 tvg-id="1006758" tvg-name="UK| SKY STORE PREMIERE 7 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 7 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006758
+#EXTINF:-1 tvg-id="1006759" tvg-name="UK| SKY STORE PREMIERE 8 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 8 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006759
+#EXTINF:-1 tvg-id="1006760" tvg-name="UK| SKY STORE PREMIERE 9 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 9 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006760
+#EXTINF:-1 tvg-id="1006761" tvg-name="UK| SKY STORE PREMIERE 10 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 10 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006761
+#EXTINF:-1 tvg-id="1006762" tvg-name="UK| SKY STORE PREMIERE 11 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 11 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006762
+#EXTINF:-1 tvg-id="1006763" tvg-name="UK| SKY STORE PREMIERE 12 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 12 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006763
+#EXTINF:-1 tvg-id="1006764" tvg-name="UK| SKY STORE PREMIERE 13 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 13 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006764
+#EXTINF:-1 tvg-id="1006765" tvg-name="UK| SKY STORE PREMIERE 14 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 14 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006765
+#EXTINF:-1 tvg-id="1006766" tvg-name="UK| SKY STORE PREMIERE 15 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 15 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006766
+#EXTINF:-1 tvg-id="1006767" tvg-name="UK| SKY STORE PREMIERE 16 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 16 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006767
+#EXTINF:-1 tvg-id="1006768" tvg-name="UK| SKY STORE PREMIERE 17 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 17 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006768
+#EXTINF:-1 tvg-id="1006769" tvg-name="UK| SKY STORE PREMIERE 18 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 18 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006769
+#EXTINF:-1 tvg-id="1006770" tvg-name="UK| SKY STORE PREMIERE 19 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 19 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006770
+#EXTINF:-1 tvg-id="1006771" tvg-name="UK| SKY STORE PREMIERE 20 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 20 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006771
+#EXTINF:-1 tvg-id="1006772" tvg-name="UK| SKY STORE PREMIERE 21 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 21 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1006772
+#EXTINF:-1 tvg-id="1076921" tvg-name="UK| SKY STORE PREMIERE 22 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 22 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1076921
+#EXTINF:-1 tvg-id="1076920" tvg-name="UK| SKY STORE PREMIERE 23 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 23 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1076920
+#EXTINF:-1 tvg-id="1076919" tvg-name="UK| SKY STORE PREMIERE 24 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 24 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1076919
+#EXTINF:-1 tvg-id="1076918" tvg-name="UK| SKY STORE PREMIERE 25 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 25 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1076918
+#EXTINF:-1 tvg-id="1076917" tvg-name="UK| SKY STORE PREMIERE 26 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 26 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1076917
+#EXTINF:-1 tvg-id="1076916" tvg-name="UK| SKY STORE PREMIERE 27 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 27 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1076916
+#EXTINF:-1 tvg-id="1076915" tvg-name="UK| SKY STORE PREMIERE 28 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 28 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1076915
+#EXTINF:-1 tvg-id="1076914" tvg-name="UK| SKY STORE PREMIERE 29 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 29 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1076914
+#EXTINF:-1 tvg-id="1076913" tvg-name="UK| SKY STORE PREMIERE 30 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 30 ᴴᴰ
+http://192.168.2.98:5678/stalker.php?stream=1076913
+
+
+
 
 
 #EXTINF:-1 tvg-id="stream-a39389da-44ac-4cac-a943-bd00a687c616" tvg-name="HUB Premier 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%201.png" group-title="HubSports",HUB Premier 1
