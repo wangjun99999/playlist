@@ -504,22 +504,17 @@ http://192.168.2.98:5678/stalker.php?stream=802483
 #EXTINF:-1 tvg-id="stream-08a0116b-8dfc-423c-a1a6-71b2c898eb02" tvg-name="Now HK Now Sports 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%207.png" group-title="英国频道",Now HK Now Sports 7
 http://192.168.2.98:5678/stalker.php?stream=827926
 http://192.168.2.98:5678/stalker.php?stream=802482
-#EXTINF:-1 tvg-id="stream-0bed14b1-4eda-4ad7-be66-43babc45a65e" tvg-name="Now HK Sports Plus" tvg-logo="" group-title="英国频道",Now HK Sports Plus
-#EXTINF:-1 tvg-id="stream-ede93057-2ff0-4e0b-bec7-cf1db38cf752" tvg-name="Now HK SPOTV" tvg-logo="" group-title="英国频道",Now HK SPOTV
-#EXTINF:-1 tvg-id="stream-32bed182-8b5d-4422-8c6e-be3e6e0e7314" tvg-name="Now HK SPOTV 2" tvg-logo="" group-title="英国频道",Now HK SPOTV 2
-#EXTINF:-1 tvg-id="stream-09928eff-a5d2-416b-b41c-af734ad28e4f" tvg-name="Now HK Golf 2" tvg-logo="" group-title="英国频道",Now HK Golf 2
-#EXTINF:-1 tvg-id="stream-84a206db-1469-4512-ba5f-b39b3e4adf66" tvg-name="Now HK Golf 3" tvg-logo="" group-title="英国频道",Now HK Golf 3
-#EXTINF:-1 tvg-id="827982" tvg-name="HUB PREMIER 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER1.png" group-title="英国频道",HUB PREMIER 1
+#EXTINF:-1 tvg-id="stream-a39389da-44ac-4cac-a943-bd00a687c616" tvg-name="HUB PREMIER 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER1.png" group-title="英国频道",HUB PREMIER 1
 http://192.168.2.98:5678/stalker.php?stream=827982
-#EXTINF:-1 tvg-id="827981" tvg-name="HUB PREMIER 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" group-title="英国频道",HUB PREMIER 2
+#EXTINF:-1 tvg-id="stream-d9988085-b2f0-456e-bb34-08f47d6ac9de" tvg-name="HUB PREMIER 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" group-title="英国频道",HUB PREMIER 2
 http://192.168.2.98:5678/stalker.php?stream=827981
-#EXTINF:-1 tvg-id="827980" tvg-name="HUB PREMIER 2 UHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" group-title="英国频道",HUB PREMIER 2 UHD
+#EXTINF:-1 tvg-id="stream-d9988085-b2f0-456e-bb34-08f47d6ac9de" tvg-name="HUB PREMIER 2 UHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" group-title="英国频道",HUB PREMIER 2 UHD
 http://192.168.2.98:5678/stalker.php?stream=827980
-#EXTINF:-1 tvg-id="827979" tvg-name="HUB PREMIER 3" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER3.png" group-title="英国频道",HUB PREMIER 3
+#EXTINF:-1 tvg-id="stream-b8afe83f-a1c2-4bd7-8ca6-bfc85f05794b" tvg-name="HUB PREMIER 3" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER3.png" group-title="英国频道",HUB PREMIER 3
 http://192.168.2.98:5678/stalker.php?stream=827979
-#EXTINF:-1 tvg-id="827978" tvg-name="HUB PREMIER 4" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER4.png" group-title="英国频道",HUB PREMIER 4
+#EXTINF:-1 tvg-id="stream-4d3737b7-163e-44c1-9a1b-54cfc32b3a8b" tvg-name="HUB PREMIER 4" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER4.png" group-title="英国频道",HUB PREMIER 4
 http://192.168.2.98:5678/stalker.php?stream=827978
-#EXTINF:-1 tvg-id="827977" tvg-name="HUB PREMIER 5" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER5.png" group-title="英国频道",HUB PREMIER 5
+#EXTINF:-1 tvg-id="stream-f2f8efc6-ce5f-4931-8704-ac4c669d3acc" tvg-name="HUB PREMIER 5" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER5.png" group-title="英国频道",HUB PREMIER 5
 http://192.168.2.98:5678/stalker.php?stream=827977
 #EXTINF:-1 tvg-id="827976" tvg-name="HUB PREMIER 6" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER6.png" group-title="英国频道",HUB PREMIER 6
 http://192.168.2.98:5678/stalker.php?stream=827976
@@ -533,69 +528,69 @@ http://192.168.2.98:5678/stalker.php?stream=827973
 http://192.168.2.98:5678/stalker.php?stream=827972
 #EXTINF:-1 tvg-id="827971" tvg-name="HUB PREMIER 11" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER11.png" group-title="英国频道",HUB PREMIER 11
 http://192.168.2.98:5678/stalker.php?stream=827971
-
-#EXTINF:-1 tvg-id="1006751" tvg-name="UK| SKY STORE INFO ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE INFO ᴴᴰ
+#EXTINF:-1 tvg-id="1006751" tvg-name="SKY STORE INFO" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE INFO
 http://192.168.2.98:5678/stalker.php?stream=1006751
-#EXTINF:-1 tvg-id="1006752" tvg-name="UK| SKY STORE PREMIERE 1 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 1 ᴴᴰ
+#EXTINF:-1 tvg-id="1006752" tvg-name="SKY STORE PREMIERE 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 1
 http://192.168.2.98:5678/stalker.php?stream=1006752
-#EXTINF:-1 tvg-id="1006753" tvg-name="UK| SKY STORE PREMIERE 2 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 2 ᴴᴰ
+#EXTINF:-1 tvg-id="1006753" tvg-name="SKY STORE PREMIERE 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 2
 http://192.168.2.98:5678/stalker.php?stream=1006753
-#EXTINF:-1 tvg-id="1006754" tvg-name="UK| SKY STORE PREMIERE 3 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 3 ᴴᴰ
+#EXTINF:-1 tvg-id="1006754" tvg-name="SKY STORE PREMIERE 3" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 3
 http://192.168.2.98:5678/stalker.php?stream=1006754
-#EXTINF:-1 tvg-id="1006755" tvg-name="UK| SKY STORE PREMIERE 4 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 4 ᴴᴰ
+#EXTINF:-1 tvg-id="1006755" tvg-name="SKY STORE PREMIERE 4" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 4
 http://192.168.2.98:5678/stalker.php?stream=1006755
-#EXTINF:-1 tvg-id="1006756" tvg-name="UK| SKY STORE PREMIERE 5 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 5 ᴴᴰ
+#EXTINF:-1 tvg-id="1006756" tvg-name="SKY STORE PREMIERE 5" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 5
 http://192.168.2.98:5678/stalker.php?stream=1006756
-#EXTINF:-1 tvg-id="1006757" tvg-name="UK| SKY STORE PREMIERE 6 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 6 ᴴᴰ
+#EXTINF:-1 tvg-id="1006757" tvg-name="SKY STORE PREMIERE 6" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 6
 http://192.168.2.98:5678/stalker.php?stream=1006757
-#EXTINF:-1 tvg-id="1006758" tvg-name="UK| SKY STORE PREMIERE 7 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 7 ᴴᴰ
+#EXTINF:-1 tvg-id="1006758" tvg-name="SKY STORE PREMIERE 7" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 7
 http://192.168.2.98:5678/stalker.php?stream=1006758
-#EXTINF:-1 tvg-id="1006759" tvg-name="UK| SKY STORE PREMIERE 8 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 8 ᴴᴰ
+#EXTINF:-1 tvg-id="1006759" tvg-name="SKY STORE PREMIERE 8" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 8
 http://192.168.2.98:5678/stalker.php?stream=1006759
-#EXTINF:-1 tvg-id="1006760" tvg-name="UK| SKY STORE PREMIERE 9 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 9 ᴴᴰ
+#EXTINF:-1 tvg-id="1006760" tvg-name="SKY STORE PREMIERE 9" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 9
 http://192.168.2.98:5678/stalker.php?stream=1006760
-#EXTINF:-1 tvg-id="1006761" tvg-name="UK| SKY STORE PREMIERE 10 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 10 ᴴᴰ
+#EXTINF:-1 tvg-id="1006761" tvg-name="SKY STORE PREMIERE 10" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 10
 http://192.168.2.98:5678/stalker.php?stream=1006761
-#EXTINF:-1 tvg-id="1006762" tvg-name="UK| SKY STORE PREMIERE 11 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 11 ᴴᴰ
+#EXTINF:-1 tvg-id="1006762" tvg-name="SKY STORE PREMIERE 11" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 11
 http://192.168.2.98:5678/stalker.php?stream=1006762
-#EXTINF:-1 tvg-id="1006763" tvg-name="UK| SKY STORE PREMIERE 12 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 12 ᴴᴰ
+#EXTINF:-1 tvg-id="1006763" tvg-name="SKY STORE PREMIERE 12" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 12
 http://192.168.2.98:5678/stalker.php?stream=1006763
-#EXTINF:-1 tvg-id="1006764" tvg-name="UK| SKY STORE PREMIERE 13 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 13 ᴴᴰ
+#EXTINF:-1 tvg-id="1006764" tvg-name="SKY STORE PREMIERE 13" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 13
 http://192.168.2.98:5678/stalker.php?stream=1006764
-#EXTINF:-1 tvg-id="1006765" tvg-name="UK| SKY STORE PREMIERE 14 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 14 ᴴᴰ
+#EXTINF:-1 tvg-id="1006765" tvg-name="SKY STORE PREMIERE 14" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 14
 http://192.168.2.98:5678/stalker.php?stream=1006765
-#EXTINF:-1 tvg-id="1006766" tvg-name="UK| SKY STORE PREMIERE 15 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 15 ᴴᴰ
+#EXTINF:-1 tvg-id="1006766" tvg-name="SKY STORE PREMIERE 15" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 15
 http://192.168.2.98:5678/stalker.php?stream=1006766
-#EXTINF:-1 tvg-id="1006767" tvg-name="UK| SKY STORE PREMIERE 16 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 16 ᴴᴰ
+#EXTINF:-1 tvg-id="1006767" tvg-name="SKY STORE PREMIERE 16" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 16
 http://192.168.2.98:5678/stalker.php?stream=1006767
-#EXTINF:-1 tvg-id="1006768" tvg-name="UK| SKY STORE PREMIERE 17 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 17 ᴴᴰ
+#EXTINF:-1 tvg-id="1006768" tvg-name="SKY STORE PREMIERE 17" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 17
 http://192.168.2.98:5678/stalker.php?stream=1006768
-#EXTINF:-1 tvg-id="1006769" tvg-name="UK| SKY STORE PREMIERE 18 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 18 ᴴᴰ
+#EXTINF:-1 tvg-id="1006769" tvg-name="SKY STORE PREMIERE 18" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 18
 http://192.168.2.98:5678/stalker.php?stream=1006769
-#EXTINF:-1 tvg-id="1006770" tvg-name="UK| SKY STORE PREMIERE 19 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 19 ᴴᴰ
+#EXTINF:-1 tvg-id="1006770" tvg-name="SKY STORE PREMIERE 19" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 19
 http://192.168.2.98:5678/stalker.php?stream=1006770
-#EXTINF:-1 tvg-id="1006771" tvg-name="UK| SKY STORE PREMIERE 20 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 20 ᴴᴰ
+#EXTINF:-1 tvg-id="1006771" tvg-name="SKY STORE PREMIERE 20" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 20
 http://192.168.2.98:5678/stalker.php?stream=1006771
-#EXTINF:-1 tvg-id="1006772" tvg-name="UK| SKY STORE PREMIERE 21 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 21 ᴴᴰ
+#EXTINF:-1 tvg-id="1006772" tvg-name="SKY STORE PREMIERE 21" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 21
 http://192.168.2.98:5678/stalker.php?stream=1006772
-#EXTINF:-1 tvg-id="1076921" tvg-name="UK| SKY STORE PREMIERE 22 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 22 ᴴᴰ
+#EXTINF:-1 tvg-id="1076921" tvg-name="SKY STORE PREMIERE 22" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 22
 http://192.168.2.98:5678/stalker.php?stream=1076921
-#EXTINF:-1 tvg-id="1076920" tvg-name="UK| SKY STORE PREMIERE 23 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 23 ᴴᴰ
+#EXTINF:-1 tvg-id="1076920" tvg-name="SKY STORE PREMIERE 23" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 23
 http://192.168.2.98:5678/stalker.php?stream=1076920
-#EXTINF:-1 tvg-id="1076919" tvg-name="UK| SKY STORE PREMIERE 24 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 24 ᴴᴰ
+#EXTINF:-1 tvg-id="1076919" tvg-name="SKY STORE PREMIERE 24" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 24
 http://192.168.2.98:5678/stalker.php?stream=1076919
-#EXTINF:-1 tvg-id="1076918" tvg-name="UK| SKY STORE PREMIERE 25 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 25 ᴴᴰ
+#EXTINF:-1 tvg-id="1076918" tvg-name="SKY STORE PREMIERE 25" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 25
 http://192.168.2.98:5678/stalker.php?stream=1076918
-#EXTINF:-1 tvg-id="1076917" tvg-name="UK| SKY STORE PREMIERE 26 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 26 ᴴᴰ
+#EXTINF:-1 tvg-id="1076917" tvg-name="SKY STORE PREMIERE 26" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 26
 http://192.168.2.98:5678/stalker.php?stream=1076917
-#EXTINF:-1 tvg-id="1076916" tvg-name="UK| SKY STORE PREMIERE 27 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 27 ᴴᴰ
+#EXTINF:-1 tvg-id="1076916" tvg-name="SKY STORE PREMIERE 27" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 27
 http://192.168.2.98:5678/stalker.php?stream=1076916
-#EXTINF:-1 tvg-id="1076915" tvg-name="UK| SKY STORE PREMIERE 28 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 28 ᴴᴰ
+#EXTINF:-1 tvg-id="1076915" tvg-name="SKY STORE PREMIERE 28" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 28
 http://192.168.2.98:5678/stalker.php?stream=1076915
-#EXTINF:-1 tvg-id="1076914" tvg-name="UK| SKY STORE PREMIERE 29 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 29 ᴴᴰ
+#EXTINF:-1 tvg-id="1076914" tvg-name="SKY STORE PREMIERE 29" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 29
 http://192.168.2.98:5678/stalker.php?stream=1076914
-#EXTINF:-1 tvg-id="1076913" tvg-name="UK| SKY STORE PREMIERE 30 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE PREMIERE",UK| SKY STORE PREMIERE 30 ᴴᴰ
+#EXTINF:-1 tvg-id="1076913" tvg-name="SKY STORE PREMIERE 30" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 30
 http://192.168.2.98:5678/stalker.php?stream=1076913
+
 
 
 
@@ -614,9 +609,7 @@ http://iptv.852851.xyz/l/f1tXNjXnVVdy0HsVxfLkmWI0aiSD6DFCEh3CMRc7_XN0LUO4KCtfKf6
 #EXTINF:-1 tvg-id="stream-3d6cc9e9-e1b6-4087-b4b4-b17da2119743" tvg-name="HUB Premier 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%206.png" group-title="HubSports",HUB Premier 6
 http://iptv.852851.xyz/l/9e-chfxn9MKCT27mI9lAaZUhXCGmX0Ol-ZgNd4I2STimrfTA8wBZVQl11E_AQSbt/index.m3u8
 #EXTINF:-1 tvg-id="stream-1afe67a1-45c7-46e2-b65d-40b789c30700" tvg-name="HUB Premier 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%207.png" group-title="HubSports",HUB Premier 7
-
 #EXTINF:-1 tvg-id="stream-c359366d-7644-435d-9c43-afbe57dec56b" tvg-name="HUB Premier 8" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%208.png" group-title="HubSports",HUB Premier 8
-
 #EXTINF:-1 tvg-id="stream-e0ba11fb-2019-4961-b940-26320a8494d4" tvg-name="Hub Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%201.png" group-title="HubSports",Hub Sports 1
 http://iptv.852851.xyz/l/ZG1jqwaDwWAS2U28e6jn88e6TpkG_XViZV9BF7p5jm1zW0c2ADA539TrKL97dq2_/index.m3u8
 #EXTINF:-1 tvg-id="stream-c1db57a5-9b3e-4e29-a4df-50b098a3bd29" tvg-name="Hub Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%202.png" group-title="HubSports",Hub Sports 2
