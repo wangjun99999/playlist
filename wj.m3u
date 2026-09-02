@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://100.105.245.77:9100/sub/ZdwVk4dR6d3N/epg.xml.gz"
+#EXTM3U x-tvg-url="http://192.168.2.98:9100/sub/ZdwVk4dR6d3N/epg.xml.gz"
 #EXTINF:-1 tvg-id="stream-0e7bae82-854b-4977-b93b-4f886a9e622e" tvg-name="CCTV1综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV1.png" group-title="央视卫视",CCTV1综合
 http://go.bkpcp.top/mg/cctv1
 #EXTINF:-1 tvg-id="stream-e5939384-397a-4332-b8ab-340d2d9fcfa6" tvg-name="CCTV2财经" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV2.png" group-title="央视卫视",CCTV2财经
