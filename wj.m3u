@@ -64,6 +64,10 @@ https://cdn.qd.je/163189/typd2
 https://cdn.qd.je/163189/ccm2
 #EXTINF:-1 tvg-id="stream-2d047310-d371-4654-9713-94f5c108af2b" tvg-name="Now新聞台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/now%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="香港频道",Now新聞台
 https://cdn.qd.je/163189/now
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 精選" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_170_122" group-title="香港频道",Now Sports 精選
+http://iptv.852851.xyz/l/nHH7Te5FQyFcyw3N3vjqbtzHTiIlcQ2jVFvwpB1SX4iNKGAWp2eschwQBmk5ug5x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="香港频道",Now Sports 618
+http://iptv.852851.xyz/l/354o4Xg-GBvLvDNaZKi_kzt0NbnfJ5L3M_JiTP586x9QERTPrSysuV1M1DEoUhBh/index.m3u8
 #EXTINF:-1 tvg-id="stream-3ed8ab44-994e-4c96-9c19-d86d19ef2f49" tvg-name="HOY 國際財經台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY76.png" group-title="香港频道",HOY 國際財經台
 https://cdn.qd.je/163189/hoy76
 #EXTINF:-1 tvg-id="stream-9ecfaf1b-ade3-4ba8-b96a-15632c9e76ec" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY77.png" group-title="香港频道",HOY TV
@@ -190,12 +194,14 @@ https://cdn.qd.je/163189/jddyt
 https://cdn.qd.je/163189/dreamworks
 #EXTINF:-1 tvg-id="stream-551ad9a2-0eab-4c09-8728-27b15304990b" tvg-name="緯來電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland2.png" group-title="台湾频道",緯來電影台
 http://iptv.852851.xyz/l/8Plp8yjzzievw6XwcH8je1nUD6Txyna1de9Da3il7gCkQ0rT-Oovs4KPW8zYT6Lb/index.m3u8
-http://tv123.cc.cd/live.php?ch=2018&sid=918ff15dcbd6c5d1647ce54f71445a22&exp=1786985882&sig=5eda21270e2fcadea94c9be00a7d1670c4a62bf08a1574e9a7827221fbe6dbe9
+#EXTINF:-1 tvg-id="" tvg-name="緯來日本台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland5.png" group-title="台湾频道",緯來日本台
+http://iptv.852851.xyz/l/ny8S9r2kwWW9-XgFuid6HAsRUczZUX7uj-07ltjCa2_o76oA_5yFozANqM2feOcB/index.m3u8
 #EXTINF:-1 tvg-id="stream-8a4a0ac9-fe54-482f-90ac-893932f16262" tvg-name="緯來戲劇台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%BA%AC%E6%9D%A5%E6%88%8F%E5%89%A7%E5%8F%B0.png" group-title="台湾频道",緯來戲劇台
 http://tv123.cc.cd/live.php?ch=2020&sid=918ff15dcbd6c5d1647ce54f71445a22&exp=1786985882&sig=ecb7c7229f54dd1feca745f79bdfdfa68670e9cad330904c7844f7b8af6e306c
 #EXTINF:-1 tvg-id="stream-40491b77-0c26-4acf-aa47-523ff0df7315" tvg-name="緯來體育台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2%E5%8F%B0.png" group-title="台湾频道",緯來體育台
 http://iptv.852851.xyz/l/z16nYDtf6PmdMX3WGGlZ47rRJ2MK_RaPmZcKEmQkV2gJDgSyV3w2_L7w7lM72lOt/index.m3u8
-http://tv123.cc.cd/live.php?ch=2017&sid=918ff15dcbd6c5d1647ce54f71445a22&exp=1786985882&sig=15054738d122fa2ec6f5f65900c7061c8b47eff3b48a4581e8740035c102d449
+#EXTINF:-1 tvg-id="" tvg-name="纬来综合台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d2b942bef_ZYqs.jpg" group-title="台湾频道",緯來綜合台
+http://iptv.852851.xyz/l/TnrgXh6F_7ppVLW8Xir_z3FcBC-5vo7UIX8Iuk1258ZKk66-Ni6omngB6m_8b01e/index.m3u8
 #EXTINF:-1 tvg-id="stream-4280b3bf-be60-47ca-93b2-b2b5e9a6f194" tvg-name="龍祥時代" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E9%BE%99%E7%A5%A5%E6%97%B6%E4%BB%A3%E5%8F%B0.png" group-title="台湾频道",龍祥時代
 http://iptv.852851.xyz/l/XRlASWlsBnLfbaJyi6k49gM5ekLHtOETXSyySfSZX960HLxr3RJm_F0_wc5C7-Xo/index.m3u8
 #EXTINF:-1 tvg-id="stream-6f0ed344-c9f5-4f4e-93db-3e09966c5fce" tvg-name="東森電影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1%E5%8F%B0.png" group-title="台湾频道",東森電影台
@@ -465,13 +471,14 @@ http://192.168.2.98:5678/stalker.php?stream=577369
 #EXTINF:-1 tvg-id="stream-1c95cb6d-da42-40b7-9324-4c68d6a4ed49" tvg-name="Sky Cinema Sci-Fi & Horror" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Sci-Fi%20%26%20Horror.png" group-title="英国频道",Sky Cinema Sci-Fi & Horror
 http://192.168.2.98:5678/stalker.php?stream=577378
 http://192.168.2.98:5678/stalker.php?stream=577364
-#EXTINF:-1 tvg-id="stream-1bb41dfd-fa83-46fd-a80f-f31f13265a75" tvg-name="Now HK Now Sports 4K UHD" tvg-logo="" group-title="英国频道",Now HK Now Sports 4K 616
-http://192.168.2.98:5678/stalker.php?stream=827941
-#EXTINF:-1 tvg-id="stream-1a98d074-35f2-44df-8af7-04dab04bf535" tvg-name="Now HK Now Sports 4K UHD" tvg-logo="" group-title="英国频道",Now HK Now Sports 4K 617
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORT 1 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Astro%20Sports%20UHD.png" group-title="英国频道",Astro SuperSports 1 4K
+http://192.168.2.98:5678/stalker.php?stream=828100
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORT 2 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Astro%20Sports%20UHD.png" group-title="英国频道",Astro SuperSports 2 4K
+http://192.168.2.98:5678/stalker.php?stream=828099
+#EXTINF:-1 tvg-id="stream-1bb41dfd-fa83-46fd-a80f-f31f13265a75" tvg-name="Now HK Now Sports 4K UHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png" group-title="英国频道",Now HK Now Sports 4K 616
 http://192.168.2.98:5678/stalker.php?stream=827942
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Sports 4K 1 UHD" tvg-logo="" group-title="英国频道",Now HK Sports 4K 1 UHD
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Sports 4K 2 UHD" tvg-logo="" group-title="英国频道",Now HK Sports 4K 2 UHD
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Sports 4K 3 UHD" tvg-logo="" group-title="英国频道",Now HK Sports 4K 3 UHD
+#EXTINF:-1 tvg-id="stream-1a98d074-35f2-44df-8af7-04dab04bf535" tvg-name="Now HK Now Sports 4K UHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png" group-title="英国频道",Now HK Now Sports 4K 617
+http://192.168.2.98:5678/stalker.php?stream=827941
 #EXTINF:-1 tvg-id="stream-52a5c13e-82a8-41e7-9655-3998baee43e1" tvg-name="Now HK Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%201.png" group-title="英国频道",Now HK Premier Sports 1
 http://192.168.2.98:5678/stalker.php?stream=827940
 #EXTINF:-1 tvg-id="stream-104d49cb-2aca-4c4d-9fb2-453b456e502a" tvg-name="Now HK Premier Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%202.png" group-title="英国频道",Now HK Premier Sports 2
@@ -1372,130 +1379,82 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ITBD3600002PA" tvg-logo="https://tvpnlogopeu.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/ITBD3600002PA_20241022T051546SQUARE.png" group-title="SamsungTV",CNBC
-https://jmp2.uk/stvp-GBBD3600001NO
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 FAST" tvg-logo="https://tvpnlogopeu.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/ATBD1100002TA_20250107T022112SQUARE.png" group-title="SamsungTV",FRANCE 24 FAST
-https://jmp2.uk/stvp-ATBD1100002TA
-#EXTINF:-1 tvg-id="" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/US39000038W_20251202T005927SQUARE.png" group-title="SamsungTV",K-POP by CJ ENM
-https://jmp2.uk/stvp-CA3900002PM
-https://jmp2.uk/stvp-US39000038W
-#EXTINF:-1 tvg-id="" tvg-name="USBA370000104" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20241112T000842SQUARE.png" group-title="SamsungTV",CBS News 24/7
-https://jmp2.uk/stvp-USBA370000104
-#EXTINF:-1 tvg-id="" tvg-name="USBC4400003OU" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBC4400003OU_20241112T000921SQUARE.png" group-title="SamsungTV",CBC News
-https://jmp2.uk/stvp-CABC2300009KD
-#EXTINF:-1 tvg-id="" tvg-name="USAJ4300005PJ" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20250325T020257SQUARE.png" group-title="SamsungTV",Yahoo Finance
-https://jmp2.uk/stvp-USAJ4300005PJ
-#EXTINF:-1 tvg-id="" tvg-name="USBA30002142" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBA30002142_20250325T020252SQUARE.png" group-title="SamsungTV",TYT Network
-https://jmp2.uk/stvp-USBA30002142
-#EXTINF:-1 tvg-id="" tvg-name="US2700001QY" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/US2700001QY_20241105T024305SQUARE.png" group-title="SamsungTV",FOX Sports
-https://jmp2.uk/stvp-US2700001QY
-#EXTINF:-1 tvg-id="" tvg-name="USAJ3504707A" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USAJ3504707A_20250325T014938SQUARE.png" group-title="SamsungTV",Outside TV
-https://jmp2.uk/stvp-USAJ3504707A
-#EXTINF:-1 tvg-id="" tvg-name="USBB440002055" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBB440002055_20240722T230849SQUARE.png" group-title="SamsungTV",Waypoint TV
-https://jmp2.uk/stvp-USBB440002055
-#EXTINF:-1 tvg-id="" tvg-name="USBD17000025J" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBD17000025J_20240520T220137SQUARE.png" group-title="SamsungTV",Pursuit UP
-https://jmp2.uk/stvp-USBD17000025J
-#EXTINF:-1 tvg-id="" tvg-name="USBD1200020Y4" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBD1200020Y4_20250325T015246SQUARE.png" group-title="SamsungTV",Outdoor America
-https://jmp2.uk/stvp-USBD1200020Y4
-#EXTINF:-1 tvg-id="" tvg-name="USAJ3000007MT" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20250325T020231SQUARE.png" group-title="SamsungTV",Maverick Black Cinema
-https://jmp2.uk/stvp-USAJ3000007MT
-#EXTINF:-1 tvg-id="" tvg-name="USBA3800005NI" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20250729T010408SQUARE.png" group-title="SamsungTV",Clarity 4K
-https://jmp2.uk/stvp-USBA3800005NI
-#EXTINF:-1 tvg-id="" tvg-name="USBB1000002TK" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBB1000002TK_20241112T000653SQUARE.png" group-title="SamsungTV",Loupe 4K
-https://jmp2.uk/stvp-USBB1000002TK
-#EXTINF:-1 tvg-id="" tvg-name="USBA3400003IP" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20250204T234403SQUARE.png" group-title="SamsungTV",Love Nature 4K
-https://jmp2.uk/stvp-USBA3400003IP
-#EXTINF:-1 tvg-id="" tvg-name="USBD1700001RW" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20250421T234905SQUARE.png" group-title="SamsungTV",BBC Earth
-https://jmp2.uk/stvp-USBD1700001RW
-#EXTINF:-1 tvg-id="" tvg-name="US3700005GP" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/US3700005GP_20241119T020405SQUARE.png" group-title="SamsungTV",BBC Drama
-https://jmp2.uk/stvp-US3700005GP
-#EXTINF:-1 tvg-id="" tvg-name="US3700006XE" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/US3700006XE_20241203T004820SQUARE.png" group-title="SamsungTV",Dinos 24/7
-https://jmp2.uk/stvp-US3700006XE
-#EXTINF:-1 tvg-id="" tvg-name="US3800007CR" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/US3800007CR_20250121T101229SQUARE.png" group-title="SamsungTV",WildEarth
-https://jmp2.uk/stvp-US3800007CR
-#EXTINF:-1 tvg-id="" tvg-name="USBA300023G8" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/USBA300023G8_20250513T012705SQUARE.png" group-title="SamsungTV",InWonder
-https://jmp2.uk/stvp-USBA300023G8
-#EXTINF:-1 tvg-id="" tvg-name="US900001CX" tvg-logo="https://tvpnlogopus.group-title="SamsungTV",/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" group-title="SamsungTV",Universe: Mysteries Solved
-https://jmp2.uk/stvp-US900001CX
 
-
-
-
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟜𝕂-𝟙
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播4K-1
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟜𝕂-𝟚
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播4K-2
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
-#EXTINF:-1  tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟙
+#EXTINF:-1  tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播1
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟚
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播2
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟛
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播3
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟜
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播4
 http://gslbserv.itv.cmvideo.cn//index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟝
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播5
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟞
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播6
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟟
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播7
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟠
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播8
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟡
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播9
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟙𝟘
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播10
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟙𝟙
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播11
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟙𝟚
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播12
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟙𝟛
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播13
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟙𝟜
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播14
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟙𝟝
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播15
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟙𝟞
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播16
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟙𝟟
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播17
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟙𝟠
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播18
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟙𝟡
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播19
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟚𝟘
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播20
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟚𝟙
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播21
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟚𝟚
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播22
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟚𝟛
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播23
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟚𝟜
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播24
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟚𝟝
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播25
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟚𝟞
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播26
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟚𝟟
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播27
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟚𝟠
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播28
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟚𝟡
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播29
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟛𝟘
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播30
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟛𝟙
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播31
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟛𝟚
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播32
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟛𝟛
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播33
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟛𝟜
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播34
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟛𝟝
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播35
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播 𝟛𝟞
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="咪咕体育",咪咕直播36
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 
 
