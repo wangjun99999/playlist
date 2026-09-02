@@ -602,6 +602,50 @@ http://192.168.2.98:5678/stalker.php?stream=1076913
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Sport 1" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/Sport1.png" group-title="德国频道",Sport 1
+http://192.168.2.98:5678/stalker.php?stream=699394
+#EXTINF:-1 tvg-id="" tvg-name="EUROSport 1" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/EUROSport1.png" group-title="德国频道",EuroSport 1
+http://192.168.2.98:5678/stalker.php?stream=699393
+#EXTINF:-1 tvg-id="" tvg-name="EUROSport 2" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/EUROSport2.png" group-title="德国频道",EuroSport 2
+http://192.168.2.98:5678/stalker.php?stream=699392
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BAR 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="德国频道",DAZN BAR 1
+http://192.168.2.98:5678/stalker.php?stream=699391
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BAR 2" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="德国频道",DAZN BAR 2
+http://192.168.2.98:5678/stalker.php?stream=699390
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportF1.png" group-title="德国频道",Sky Sport F1
+http://192.168.2.98:5678/stalker.php?stream=699389
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NEWS" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportNEWS.png" group-title="德国频道",Sky Sport News
+http://192.168.2.98:5678/stalker.php?stream=699388
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport [LIVE-EVENT]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySport.png" group-title="德国频道",Sky Sport [LIVE-EVENT]
+http://192.168.2.98:5678/stalker.php?stream=853869
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga [LIVE-EVENT]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkyBundesliga.png" group-title="德国频道",Sky Bundesliga 4K [LIVE-EVENT]
+http://192.168.2.98:5678/stalker.php?stream=853870
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga FHD" tvg-logo="https://logo.protv.cc/piconsnew/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga
+http://192.168.2.98:5678/stalker.php?stream=750139
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 1" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 1
+http://192.168.2.98:5678/stalker.php?stream=699387
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 2" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 2
+http://192.168.2.98:5678/stalker.php?stream=699386
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 3" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 3
+http://192.168.2.98:5678/stalker.php?stream=699385
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 4" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 4
+http://192.168.2.98:5678/stalker.php?stream=699384
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 5" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 5
+http://192.168.2.98:5678/stalker.php?stream=699383
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 6" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 6
+http://192.168.2.98:5678/stalker.php?stream=699382
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 7" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 7
+http://192.168.2.98:5678/stalker.php?stream=699381
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 8" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 8
+http://192.168.2.98:5678/stalker.php?stream=699380
+#EXTINF:-1 tvg-id="699379" tvg-name="Sky Sport Bundesliga 9" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 9
+http://192.168.2.98:5678/stalker.php?stream=699379
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 10" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 10
+http://192.168.2.98:5678/stalker.php?stream=699378
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="stream-a39389da-44ac-4cac-a943-bd00a687c616" tvg-name="HUB Premier 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%201.png" group-title="HubSports",HUB Premier 1
