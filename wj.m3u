@@ -793,7 +793,8 @@ http://192.168.2.98:9100/l/SRviUlzpbE3rZwwkbG9cICNy5PojIVRdKTBUf_fzgoq_olKfs9nf-
 http://192.168.2.98:9100/l/8Kiua75bQwWFeWamJntJxWf-zw8B8w8QjqvRULNQvtk06OL00pElsMyX401cHFFJ/index.m3u8
 
 
-
+#EXTINF:-1 tvg-name="Apple TV 4K Dolby Vision F1" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/f1.png" group-title="4K/UHD",Apple TV 4K Dolby Vision F1
+https://kan.waiguotai.top/appletvf1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="F1TV: Main Feed 4K UHD" tvg-logo="https://imgu.rs/i/F1TV/TVMain.png" group-title="4K/UHD",F1TV: Main Feed 4K UHD
 http://89.187.179.148:826/1368/gXwiagaXda/119317
 #EXTINF:-1 tvg-id="" tvg-name="4K Live" tvg-logo="https://ctdpl.co.in/wp-content/uploads/2019/02/4k-uhd-logo-png.png" group-title="4K/UHD",4K Live
