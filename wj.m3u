@@ -837,10 +837,8 @@ http://89.187.179.148:826/1368/gXwiagaXda/119334
 
 
 
-#EXTINF:-1 tvg-id="stream-6891cdaf-542c-4cf6-95b0-b7121c397432" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event%20UHD.png" group-title="英国频道",Sky Sports Main Event UHD
-#EXTINF:-1 tvg-id="stream-672ceaba-e437-437a-8671-9d3869c25ecc" tvg-name="Sky Sports F1" tvg-logo="" group-title="英国频道",Sky Sports F1 UHD
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 1 UHD" tvg-logo="" group-title="英国频道",Sky Sports 1 UHD
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 2 UHD" tvg-logo="" group-title="英国频道",Sky Sports 2 UHD
+
+
 #EXTINF:-1 tvg-id="stream-359f16ee-5b23-4541-8068-d3027bb07e57" tvg-name="TNT Sports Ultimate UHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%20Ultimate.png" group-title="英国频道",TNT Sports Ultimate UHD
 http://192.168.2.98:5678/stalker.php?stream=804331
 #EXTINF:-1 tvg-id="stream-6891cdaf-542c-4cf6-95b0-b7121c397432" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png" group-title="英国频道",Sky Sports Main Event
@@ -876,7 +874,6 @@ http://192.168.2.98:5678/stalker.php?stream=577968
 #EXTINF:-1 tvg-id="stream-474f6b8a-b5ca-4b1a-9aa6-284550bec7e9" tvg-name="Sky Sports Mix" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Mix.png" group-title="英国频道",Sky Sports Mix
 http://192.168.2.98:5678/stalker.php?stream=577989
 http://192.168.2.98:5678/stalker.php?stream=577970
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports+" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Plus.png" group-title="英国频道",Sky Sports+
 #EXTINF:-1 tvg-id="stream-5e6ff01d-48e8-4798-a56b-d97cbb044479" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%201.png" group-title="英国频道",TNT Sports 1
 http://192.168.2.98:5678/stalker.php?stream=578001
 http://192.168.2.98:5678/stalker.php?stream=577967
@@ -901,7 +898,6 @@ http://192.168.2.98:5678/stalker.php?stream=577377
 #EXTINF:-1 tvg-id="stream-a5a087f9-9bfa-4e3f-9aa5-77ac5cc35a16" tvg-name="Sky Cinema Hits" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Hits.png" group-title="英国频道",Sky Cinema Hits
 http://192.168.2.98:5678/stalker.php?stream=577381
 http://192.168.2.98:5678/stalker.php?stream=577366
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Family.png" group-title="英国频道",Sky Cinema Family
 #EXTINF:-1 tvg-id="stream-4e05d757-e400-417a-8930-f05bd03d39f3" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Cinema%20Action.png" group-title="英国频道",Sky Cinema Action
 http://192.168.2.98:5678/stalker.php?stream=577387
 http://192.168.2.98:5678/stalker.php?stream=577372
@@ -961,135 +957,135 @@ http://192.168.2.98:5678/stalker.php?stream=802483
 #EXTINF:-1 tvg-id="stream-ca297ca4-abb8-469d-ae5d-758e6a9fccba" tvg-name="Now HK Now Sports 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%207.png" group-title="英国频道",Now HK Now Sports 7
 http://192.168.2.98:5678/stalker.php?stream=827926
 http://192.168.2.98:5678/stalker.php?stream=802482
-#EXTINF:-1 tvg-id="stream-a39389da-44ac-4cac-a943-bd00a687c616" tvg-name="HUB PREMIER 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER1.png" group-title="英国频道",HUB PREMIER 1
+#EXTINF:-1 tvg-id="stream-a39389da-44ac-4cac-a943-bd00a687c616" tvg-name="HUB Premier 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%201.png" group-title="英国频道",HUB Premier 1
 http://192.168.2.98:5678/stalker.php?stream=827982
-#EXTINF:-1 tvg-id="stream-d9988085-b2f0-456e-bb34-08f47d6ac9de" tvg-name="HUB PREMIER 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" group-title="英国频道",HUB PREMIER 2
+#EXTINF:-1 tvg-id="stream-d9988085-b2f0-456e-bb34-08f47d6ac9de" tvg-name="HUB Premier 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%202.png" group-title="英国频道",HUB Premier 2
 http://192.168.2.98:5678/stalker.php?stream=827981
-#EXTINF:-1 tvg-id="stream-d9988085-b2f0-456e-bb34-08f47d6ac9de" tvg-name="HUB PREMIER 2 UHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" group-title="英国频道",HUB PREMIER 2 UHD
+#EXTINF:-1 tvg-id="stream-d9988085-b2f0-456e-bb34-08f47d6ac9de" tvg-name="HUB Premier 2 UHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%202.png" group-title="英国频道",HUB Premier 2 UHD
 http://192.168.2.98:5678/stalker.php?stream=827980
-#EXTINF:-1 tvg-id="stream-b8afe83f-a1c2-4bd7-8ca6-bfc85f05794b" tvg-name="HUB PREMIER 3" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER3.png" group-title="英国频道",HUB PREMIER 3
+#EXTINF:-1 tvg-id="stream-b8afe83f-a1c2-4bd7-8ca6-bfc85f05794b" tvg-name="HUB Premier 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%203.png" group-title="英国频道",HUB Premier 3
 http://192.168.2.98:5678/stalker.php?stream=827979
-#EXTINF:-1 tvg-id="stream-4d3737b7-163e-44c1-9a1b-54cfc32b3a8b" tvg-name="HUB PREMIER 4" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER4.png" group-title="英国频道",HUB PREMIER 4
+#EXTINF:-1 tvg-id="stream-4d3737b7-163e-44c1-9a1b-54cfc32b3a8b" tvg-name="HUB Premier 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%204.png" group-title="英国频道",HUB Premier 4
 http://192.168.2.98:5678/stalker.php?stream=827978
-#EXTINF:-1 tvg-id="stream-f2f8efc6-ce5f-4931-8704-ac4c669d3acc" tvg-name="HUB PREMIER 5" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER5.png" group-title="英国频道",HUB PREMIER 5
+#EXTINF:-1 tvg-id="stream-f2f8efc6-ce5f-4931-8704-ac4c669d3acc" tvg-name="HUB Premier 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%205.png" group-title="英国频道",HUB Premier 5
 http://192.168.2.98:5678/stalker.php?stream=827977
-#EXTINF:-1 tvg-id="stream-3d6cc9e9-e1b6-4087-b4b4-b17da2119743" tvg-name="HUB PREMIER 6" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER6.png" group-title="英国频道",HUB PREMIER 6
+#EXTINF:-1 tvg-id="stream-3d6cc9e9-e1b6-4087-b4b4-b17da2119743" tvg-name="HUB Premier 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%206.png" group-title="英国频道",HUB Premier 6
 http://192.168.2.98:5678/stalker.php?stream=827976
-#EXTINF:-1 tvg-id="" tvg-name="HUB PREMIER 7" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER7.png" group-title="英国频道",HUB PREMIER 7
+#EXTINF:-1 tvg-id="" tvg-name="HUB Premier 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%207.png" group-title="英国频道",HUB Premier 7
 http://192.168.2.98:5678/stalker.php?stream=827975
-#EXTINF:-1 tvg-id="" tvg-name="HUB PREMIER 8" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER8.png" group-title="英国频道",HUB PREMIER 8
+#EXTINF:-1 tvg-id="" tvg-name="HUB Premier 8" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%208.png" group-title="英国频道",HUB Premier 8
 http://192.168.2.98:5678/stalker.php?stream=827974
-#EXTINF:-1 tvg-id="" tvg-name="HUB PREMIER 9" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER9.png" group-title="英国频道",HUB PREMIER 9
+#EXTINF:-1 tvg-id="" tvg-name="HUB Premier 9" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%209.png" group-title="英国频道",HUB Premier 9
 http://192.168.2.98:5678/stalker.php?stream=827973
-#EXTINF:-1 tvg-id="" tvg-name="HUB PREMIER 10" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER10.png" group-title="英国频道",HUB PREMIER 10
+#EXTINF:-1 tvg-id="" tvg-name="HUB Premier 10" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%2010.png" group-title="英国频道",HUB Premier 10
 http://192.168.2.98:5678/stalker.php?stream=827972
-#EXTINF:-1 tvg-id="" tvg-name="HUB PREMIER 11" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER11.png" group-title="英国频道",HUB PREMIER 11
+#EXTINF:-1 tvg-id="" tvg-name="HUB Premier 11" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%2011.png" group-title="英国频道",HUB Premier 11
 http://192.168.2.98:5678/stalker.php?stream=827971
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE INFO" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE INFO
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE INFO" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Info
 http://192.168.2.98:5678/stalker.php?stream=1006751
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 1
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 1
 http://192.168.2.98:5678/stalker.php?stream=1006752
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 2
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 2
 http://192.168.2.98:5678/stalker.php?stream=1006753
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 3" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 3
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 3
 http://192.168.2.98:5678/stalker.php?stream=1006754
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 4" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 4
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 4
 http://192.168.2.98:5678/stalker.php?stream=1006755
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 5" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 5
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 5
 http://192.168.2.98:5678/stalker.php?stream=1006756
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 6" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 6
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 6
 http://192.168.2.98:5678/stalker.php?stream=1006757
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 7" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 7
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 7
 http://192.168.2.98:5678/stalker.php?stream=1006758
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 8" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 8
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 8" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 8
 http://192.168.2.98:5678/stalker.php?stream=1006759
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 9" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 9
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 9" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 9
 http://192.168.2.98:5678/stalker.php?stream=1006760
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 10" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 10
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 10" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 10
 http://192.168.2.98:5678/stalker.php?stream=1006761
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 11" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 11
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 11" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 11
 http://192.168.2.98:5678/stalker.php?stream=1006762
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 12" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 12
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 12" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 12
 http://192.168.2.98:5678/stalker.php?stream=1006763
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 13" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 13
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 13" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 13
 http://192.168.2.98:5678/stalker.php?stream=1006764
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 14" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 14
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 14" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 14
 http://192.168.2.98:5678/stalker.php?stream=1006765
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 15" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 15
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 15" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 15
 http://192.168.2.98:5678/stalker.php?stream=1006766
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 16" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 16
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 16" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 16
 http://192.168.2.98:5678/stalker.php?stream=1006767
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 17" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 17
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 17" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 17
 http://192.168.2.98:5678/stalker.php?stream=1006768
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 18" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 18
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 18" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 18
 http://192.168.2.98:5678/stalker.php?stream=1006769
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 19" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 19
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 19" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 19
 http://192.168.2.98:5678/stalker.php?stream=1006770
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 20" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 20
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 20" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 20
 http://192.168.2.98:5678/stalker.php?stream=1006771
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 21" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 21
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 21" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 21
 http://192.168.2.98:5678/stalker.php?stream=1006772
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 22" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 22
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 22" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere22
 http://192.168.2.98:5678/stalker.php?stream=1076921
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 23" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 23
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 23" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 23
 http://192.168.2.98:5678/stalker.php?stream=1076920
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 24" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 24
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 24" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 24
 http://192.168.2.98:5678/stalker.php?stream=1076919
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 25" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 25
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 25" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 25
 http://192.168.2.98:5678/stalker.php?stream=1076918
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 26" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 26
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 26" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 26
 http://192.168.2.98:5678/stalker.php?stream=1076917
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 27" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 27
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 27" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 27
 http://192.168.2.98:5678/stalker.php?stream=1076916
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 28" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 28
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 28" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 28
 http://192.168.2.98:5678/stalker.php?stream=1076915
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 29" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 29
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 29" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 29
 http://192.168.2.98:5678/stalker.php?stream=1076914
-#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 30" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="英国频道",SKY STORE PREMIERE 30
+#EXTINF:-1 tvg-id="" tvg-name="SKY STORE PREMIERE 30" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Store%20Premiere.png" group-title="英国频道",Sky Store Premiere 30
 http://192.168.2.98:5678/stalker.php?stream=1076913
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Sport 1" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/Sport1.png" group-title="德国频道",Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="Sport 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sport1.png" group-title="德国频道",Sport 1
 http://192.168.2.98:5678/stalker.php?stream=699394
-#EXTINF:-1 tvg-id="" tvg-name="EUROSport 1" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/EUROSport1.png" group-title="德国频道",EuroSport 1
+#EXTINF:-1 tvg-id="" tvg-name="EUROSport 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%201.png" group-title="德国频道",EuroSport 1
 http://192.168.2.98:5678/stalker.php?stream=699393
-#EXTINF:-1 tvg-id="" tvg-name="EUROSport 2" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/EUROSport2.png" group-title="德国频道",EuroSport 2
+#EXTINF:-1 tvg-id="" tvg-name="EUROSport 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%202.png" group-title="德国频道",EuroSport 2
 http://192.168.2.98:5678/stalker.php?stream=699392
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BAR 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="德国频道",DAZN BAR 1
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BAR 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%201.png" group-title="德国频道",DAZN BAR 1
 http://192.168.2.98:5678/stalker.php?stream=699391
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BAR 2" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="德国频道",DAZN BAR 2
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BAR 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%202.png" group-title="德国频道",DAZN BAR 2
 http://192.168.2.98:5678/stalker.php?stream=699390
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportF1.png" group-title="德国频道",Sky Sport F1
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20F1.png" group-title="德国频道",Sky Sport F1
 http://192.168.2.98:5678/stalker.php?stream=699389
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NEWS" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportNEWS.png" group-title="德国频道",Sky Sport News
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NEWS" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20News.png" group-title="德国频道",Sky Sport News
 http://192.168.2.98:5678/stalker.php?stream=699388
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport [LIVE-EVENT]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySport.png" group-title="德国频道",Sky Sport [LIVE-EVENT]
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport [LIVE-EVENT]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20UHD.png" group-title="德国频道",Sky Sport [LIVE-EVENT]
 http://192.168.2.98:5678/stalker.php?stream=853869
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga [LIVE-EVENT]" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkyBundesliga.png" group-title="德国频道",Sky Bundesliga 4K [LIVE-EVENT]
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga [LIVE-EVENT]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%20UHD.png" group-title="德国频道",Sky Bundesliga 4K [LIVE-EVENT]
 http://192.168.2.98:5678/stalker.php?stream=853870
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga FHD" tvg-logo="https://logo.protv.cc/piconsnew/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga FHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga.png" group-title="德国频道",Sky Sport Bundesliga
 http://192.168.2.98:5678/stalker.php?stream=750139
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 1" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 1
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%201.png" group-title="德国频道",Sky Sport Bundesliga 1
 http://192.168.2.98:5678/stalker.php?stream=699387
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 2" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 2
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%202.png" group-title="德国频道",Sky Sport Bundesliga 2
 http://192.168.2.98:5678/stalker.php?stream=699386
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 3" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 3
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%203.png" group-title="德国频道",Sky Sport Bundesliga 3
 http://192.168.2.98:5678/stalker.php?stream=699385
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 4" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%204.png" group-title="德国频道",Sky Sport Bundesliga 4
 http://192.168.2.98:5678/stalker.php?stream=699384
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 5" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 5
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%205.png" group-title="德国频道",Sky Sport Bundesliga 5
 http://192.168.2.98:5678/stalker.php?stream=699383
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 6" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 6
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%206.png" group-title="德国频道",Sky Sport Bundesliga 6
 http://192.168.2.98:5678/stalker.php?stream=699382
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 7" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 7
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%207.png" group-title="德国频道",Sky Sport Bundesliga 7
 http://192.168.2.98:5678/stalker.php?stream=699381
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 8" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 8" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%208.png" group-title="德国频道",Sky Sport Bundesliga 8
 http://192.168.2.98:5678/stalker.php?stream=699380
-#EXTINF:-1 tvg-id="699379" tvg-name="Sky Sport Bundesliga 9" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 9
+#EXTINF:-1 tvg-id="699379" tvg-name="Sky Sport Bundesliga 9" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%209.png" group-title="德国频道",Sky Sport Bundesliga 9
 http://192.168.2.98:5678/stalker.php?stream=699379
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 10" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SkySportBundesliga.png" group-title="德国频道",Sky Sport Bundesliga 10
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 10" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%2010.png" group-title="德国频道",Sky Sport Bundesliga 10
 http://192.168.2.98:5678/stalker.php?stream=699378
 
 
@@ -1137,24 +1133,23 @@ http://iptv.852851.xyz/l/t6EnE4tbGVlrhRo_jdHMFRzBSXtMOd6eCcW769lIKmPfQlKHnsRF97v
 
 
 
-
-#EXTINF:-1 tvg-id="" group-title="Zapi Tv",Eurosport 1 ES
+#EXTINF:-1 tvg-id="" tvg-name="EUROSport 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%201.png" group-title="Zapi Tv",Eurosport 1 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f4751abc997473d9138d17b5944be04:a0aefedd2376a54b8b50f9b7c2d50ac7
 https://cache07.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd
-#EXTINF:-1 tvg-id="" group-title="Zapi Tv",Eurosport 2 ES
+#EXTINF:-1 tvg-id="" tvg-name="EUROSport 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%202.png" group-title="Zapi Tv",Eurosport 2 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e369d9ab101d4b60ba13c0384f503528:041e35e31381521b3398af5c6dd99414
 https://cache07.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
-#EXTINF:-1 group-title="Zapi Tv" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9l.png",National Geographic Wild
+#EXTINF:-1 group-title="Zapi Tv" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/LT/National%20Geographic%20Wild.png",National Geographic Wild
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=76f4714902e048e481eb4224d1cf0e66:ea1d9b76cf4425d20513f8d660ee69e4
 https://cache07.zapitv.com/live/eds_c2/nat_geo_wild_hd/dash_live_ez/nat_geo_wild_hd.mpd
-#EXTINF:-1 tvg-id="stream-7cf2afd4-ad48-47c7-b5cc-27417427e42d" tvg-logo="" group-title="Zapi Tv",Dazn Laliga Hypermotion
+#EXTINF:-1 tvg-id="stream-7cf2afd4-ad48-47c7-b5cc-27417427e42d" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/LaLiga%20TV%20Hypermotion.png" group-title="Zapi Tv",Dazn Laliga Hypermotion
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
 https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
