@@ -847,6 +847,8 @@ http://192.168.2.98:5678/stalker.php?stream=577978
 #EXTINF:-1 tvg-id="stream-672ceaba-e437-437a-8671-9d3869c25ecc" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png" group-title="英国频道",Sky Sports F1
 http://192.168.2.98:5678/stalker.php?stream=577990
 http://192.168.2.98:5678/stalker.php?stream=577972
+http://192.168.2.98:5678/stalker.php?stream=1134459
+http://192.168.2.98:5678/stalker.php?stream=1134460
 #EXTINF:-1 tvg-id="stream-1d0c655d-2a96-428f-b6ac-002d284c2825" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Premier%20League.png" group-title="英国频道",Sky Sports Premier League
 http://192.168.2.98:5678/stalker.php?stream=577996
 http://192.168.2.98:5678/stalker.php?stream=577977
@@ -1047,6 +1049,21 @@ http://192.168.2.98:5678/stalker.php?stream=1076913
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT TOP EVENT FHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Top%20Event.png" group-title="德国频道",Sky Sport Top Event
+http://192.168.2.98:5678/stalker.php?stream=750144
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT PREMIER LEAGUE FHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Premier%20League.png" group-title="德国频道",Sky Sport Premier League
+http://192.168.2.98:5678/stalker.php?stream=750142
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT MIX FHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Mix.png" group-title="德国频道",Sky Sport Mix
+http://192.168.2.98:5678/stalker.php?stream=750141
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT GOLF FHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Golf.png" group-title="德国频道",Sky Sport Golf
+http://192.168.2.98:5678/stalker.php?stream=992139
+#EXTINF:-1 tvg-id="" tvg-name="SPORTDIGITAL FUSSBALL UHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sportdigital%20Fussball.png" group-title="德国频道",Sportdigital Fussball
+http://192.168.2.98:5678/stalker.php?stream=699725
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20F1.png" group-title="德国频道",Sky Sport F1
+http://192.168.2.98:5678/stalker.php?stream=699389
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NEWS" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20News.png" group-title="德国频道",Sky Sport News
+http://192.168.2.98:5678/stalker.php?stream=699388
 #EXTINF:-1 tvg-id="" tvg-name="Sport 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sport1.png" group-title="德国频道",Sport 1
 http://192.168.2.98:5678/stalker.php?stream=699394
 #EXTINF:-1 tvg-id="" tvg-name="EUROSport 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%201.png" group-title="德国频道",EuroSport 1
@@ -1057,10 +1074,6 @@ http://192.168.2.98:5678/stalker.php?stream=699392
 http://192.168.2.98:5678/stalker.php?stream=699391
 #EXTINF:-1 tvg-id="" tvg-name="DAZN BAR 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%202.png" group-title="德国频道",DAZN BAR 2
 http://192.168.2.98:5678/stalker.php?stream=699390
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20F1.png" group-title="德国频道",Sky Sport F1
-http://192.168.2.98:5678/stalker.php?stream=699389
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NEWS" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20News.png" group-title="德国频道",Sky Sport News
-http://192.168.2.98:5678/stalker.php?stream=699388
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport [LIVE-EVENT]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20UHD.png" group-title="德国频道",Sky Sport [LIVE-EVENT]
 http://192.168.2.98:5678/stalker.php?stream=853869
 #EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga [LIVE-EVENT]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%20UHD.png" group-title="德国频道",Sky Bundesliga 4K [LIVE-EVENT]
