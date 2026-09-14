@@ -654,3 +654,123 @@ http://192.168.2.98:19950/caonima?id=%E7%B6%93%E5%85%B8%E9%9B%BB%E5%BD%B1%E5%8F%
 http://192.168.2.98:19950/caonima?id=%E7%B6%93%E5%85%B8%E5%8D%A1%E9%80%9A%E5%8F%B0
 #EXTINF:-1 tvg-id="stream-a7fe510e-ba24-4be3-bde8-bc028de418ab" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="台湾频道",精選動漫台
 http://192.168.2.98:19950/caonima?id=%E7%B2%BE%E9%81%B8%E5%8B%95%E6%BC%AB%E5%8F%B0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT TOP EVENT FHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Top%20Event.png" group-title="德国频道",Sky Sport Top Event
+http://192.168.2.98:5678/stalker.php?stream=750144
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT PREMIER LEAGUE FHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Premier%20League.png" group-title="德国频道",Sky Sport Premier League
+http://192.168.2.98:5678/stalker.php?stream=750142
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT MIX FHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Mix.png" group-title="德国频道",Sky Sport Mix
+http://192.168.2.98:5678/stalker.php?stream=750141
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT GOLF FHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Golf.png" group-title="德国频道",Sky Sport Golf
+http://192.168.2.98:5678/stalker.php?stream=992139
+#EXTINF:-1 tvg-id="" tvg-name="SPORTDIGITAL FUSSBALL UHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sportdigital%20Fussball.png" group-title="德国频道",Sportdigital Fussball
+http://192.168.2.98:5678/stalker.php?stream=699725
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20F1.png" group-title="德国频道",Sky Sport F1
+http://192.168.2.98:5678/stalker.php?stream=699389
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NEWS" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20News.png" group-title="德国频道",Sky Sport News
+http://192.168.2.98:5678/stalker.php?stream=699388
+#EXTINF:-1 tvg-id="" tvg-name="Sport 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sport1.png" group-title="德国频道",Sport 1
+http://192.168.2.98:5678/stalker.php?stream=699394
+#EXTINF:-1 tvg-id="" tvg-name="EUROSport 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%201.png" group-title="德国频道",EuroSport 1
+http://192.168.2.98:5678/stalker.php?stream=699393
+#EXTINF:-1 tvg-id="" tvg-name="EUROSport 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Eurosport%202.png" group-title="德国频道",EuroSport 2
+http://192.168.2.98:5678/stalker.php?stream=699392
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BAR 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%201.png" group-title="德国频道",DAZN BAR 1
+http://192.168.2.98:5678/stalker.php?stream=699391
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BAR 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/DAZN%202.png" group-title="德国频道",DAZN BAR 2
+http://192.168.2.98:5678/stalker.php?stream=699390
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport [LIVE-EVENT]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20UHD.png" group-title="德国频道",Sky Sport [LIVE-EVENT]
+http://192.168.2.98:5678/stalker.php?stream=853869
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga [LIVE-EVENT]" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%20UHD.png" group-title="德国频道",Sky Bundesliga 4K [LIVE-EVENT]
+http://192.168.2.98:5678/stalker.php?stream=853870
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga FHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga.png" group-title="德国频道",Sky Sport Bundesliga
+http://192.168.2.98:5678/stalker.php?stream=750139
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%201.png" group-title="德国频道",Sky Sport Bundesliga 1
+http://192.168.2.98:5678/stalker.php?stream=699387
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%202.png" group-title="德国频道",Sky Sport Bundesliga 2
+http://192.168.2.98:5678/stalker.php?stream=699386
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%203.png" group-title="德国频道",Sky Sport Bundesliga 3
+http://192.168.2.98:5678/stalker.php?stream=699385
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%204.png" group-title="德国频道",Sky Sport Bundesliga 4
+http://192.168.2.98:5678/stalker.php?stream=699384
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%205.png" group-title="德国频道",Sky Sport Bundesliga 5
+http://192.168.2.98:5678/stalker.php?stream=699383
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%206.png" group-title="德国频道",Sky Sport Bundesliga 6
+http://192.168.2.98:5678/stalker.php?stream=699382
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%207.png" group-title="德国频道",Sky Sport Bundesliga 7
+http://192.168.2.98:5678/stalker.php?stream=699381
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 8" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%208.png" group-title="德国频道",Sky Sport Bundesliga 8
+http://192.168.2.98:5678/stalker.php?stream=699380
+#EXTINF:-1 tvg-id="699379" tvg-name="Sky Sport Bundesliga 9" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%209.png" group-title="德国频道",Sky Sport Bundesliga 9
+http://192.168.2.98:5678/stalker.php?stream=699379
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 10" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%2010.png" group-title="德国频道",Sky Sport Bundesliga 10
+http://192.168.2.98:5678/stalker.php?stream=699378
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="stream-1bb41dfd-fa83-46fd-a80f-f31f13265a75" tvg-name="Now HK Now Sports 4K UHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png" group-title="英国频道",Now HK Now Sports 4K 616
+http://192.168.2.98:5678/stalker.php?stream=827942
+#EXTINF:-1 tvg-id="stream-1a98d074-35f2-44df-8af7-04dab04bf535" tvg-name="Now HK Now Sports 4K UHD" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HK%20Now%20Sports%204K.png" group-title="英国频道",Now HK Now Sports 4K 617
+http://192.168.2.98:5678/stalker.php?stream=827941
+#EXTINF:-1 tvg-id="stream-52a5c13e-82a8-41e7-9655-3998baee43e1" tvg-name="Now HK Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%201.png" group-title="英国频道",Now HK Premier Sports 1
+http://192.168.2.98:5678/stalker.php?stream=827940
+#EXTINF:-1 tvg-id="stream-104d49cb-2aca-4c4d-9fb2-453b456e502a" tvg-name="Now HK Premier Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%202.png" group-title="英国频道",Now HK Premier Sports 2
+http://192.168.2.98:5678/stalker.php?stream=827939
+#EXTINF:-1 tvg-id="stream-db3d7d65-8cf9-4e46-ac3b-6a970434d889" tvg-name="Now HK Premier Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%203.png" group-title="英国频道",Now HK Premier Sports 3
+http://192.168.2.98:5678/stalker.php?stream=827938
+#EXTINF:-1 tvg-id="stream-b222f0b8-9669-48a7-b9b3-183dfa47c958" tvg-name="Now HK Premier Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%204.png" group-title="英国频道",Now HK Premier Sports 4
+http://192.168.2.98:5678/stalker.php?stream=827937
+#EXTINF:-1 tvg-id="stream-44b90aaf-8a34-4b6d-8896-2b362d467636" tvg-name="Now HK Premier Sports 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%205.png" group-title="英国频道",Now HK Premier Sports 5
+http://192.168.2.98:5678/stalker.php?stream=827936
+#EXTINF:-1 tvg-id="stream-fb8f325c-931e-47b7-a0a2-b5a6d406b30a" tvg-name="Now HK Premier Sports 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Premier%20Sports%206.png" group-title="英国频道",Now HK Premier Sports 6
+http://192.168.2.98:5678/stalker.php?stream=827935
+#EXTINF:-1 tvg-id="stream-69d286dd-87c7-4484-8ef2-028f5474f6f1" tvg-name="Now HK Now Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%201.png" group-title="英国频道",Now HK Now Sports 1
+http://192.168.2.98:5678/stalker.php?stream=827932
+http://192.168.2.98:5678/stalker.php?stream=802488
+#EXTINF:-1 tvg-id="stream-a95a598b-739b-4b65-9f1c-85496bbb77a6" tvg-name="Now HK Now Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%202.png" group-title="英国频道",Now HK Now Sports 2
+http://192.168.2.98:5678/stalker.php?stream=827931
+http://192.168.2.98:5678/stalker.php?stream=802487
+#EXTINF:-1 tvg-id="stream-f55055ec-a158-43da-8984-382ca5cbf114" tvg-name="Now HK Now Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%203.png" group-title="英国频道",Now HK Now Sports 3
+http://192.168.2.98:5678/stalker.php?stream=827930
+http://192.168.2.98:5678/stalker.php?stream=802486
+#EXTINF:-1 tvg-id="stream-3897987a-24bb-4ecd-9bd1-0f1949cbe125" tvg-name="Now HK Now Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%204.png" group-title="英国频道",Now HK Now Sports 4
+http://192.168.2.98:5678/stalker.php?stream=827929
+http://192.168.2.98:5678/stalker.php?stream=802485
+#EXTINF:-1 tvg-id="stream-56f9345a-bc45-44b7-bc80-5efeb8069087" tvg-name="Now HK Now Sports 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%205.png" group-title="英国频道",Now HK Now Sports 5
+http://192.168.2.98:5678/stalker.php?stream=827928
+http://192.168.2.98:5678/stalker.php?stream=802484
+#EXTINF:-1 tvg-id="stream-6e66d35f-42b4-41e2-a745-dfa9d4dd1cc1" tvg-name="Now HK Now Sports 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%206.png" group-title="英国频道",Now HK Now Sports 6
+http://192.168.2.98:5678/stalker.php?stream=827927
+http://192.168.2.98:5678/stalker.php?stream=802483
+#EXTINF:-1 tvg-id="stream-ca297ca4-abb8-469d-ae5d-758e6a9fccba" tvg-name="Now HK Now Sports 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%207.png" group-title="英国频道",Now HK Now Sports 7
+http://192.168.2.98:5678/stalker.php?stream=827926
+http://192.168.2.98:5678/stalker.php?stream=802482
