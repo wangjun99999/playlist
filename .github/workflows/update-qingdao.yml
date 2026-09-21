@@ -21,14 +21,14 @@ jobs:
           curl -sL "https://raw.githubusercontent.com/q1017673817/iptvz/main/%E7%BB%84%E6%92%AD_%E5%B1%B1%E4%B8%9C%E8%81%94%E9%80%9A.txt" \
             -o shandong_lt.txt
 
-      - name: 按 rtp 路径更新代理前缀
+      - name: 按 rtp 路径干净替换（不重复）
         run: |
           python3 << 'EOF'
           from collections import defaultdict
 
           # ========== 1. 解析最新 TXT ==========
-          rtp_map = defaultdict(list)   # rtp路径 → 完整URL列表
-          proxy_bases = set()           # 所有可用的代理前缀
+          rtp_map = defaultdict(list)
+          proxy_bases = set()
 
           with open("shandong_lt.txt", encoding="utf-8") as f:
               for line in f:
@@ -47,49 +47,58 @@ jobs:
 
           proxy_bases = sorted(proxy_bases)
           print(f"最新代理前缀: {proxy_bases}")
-          print(f"TXT 中有效 rtp 数量: {len(rtp_map)}")
+          print(f"TXT 有效 rtp 数量: {len(rtp_map)}")
 
           # ========== 2. 处理 wj.m3u ==========
           with open("wj.m3u", encoding="utf-8") as f:
               lines = f.readlines()
 
           new_lines = []
-          in_qingdao = False
+          i = 0
           matched = 0
           forced = 0
 
-          for line in lines:
-              # 判断是否在「青岛联通」分组
-              if 'group-title="青岛联通"' in line:
-                  in_qingdao = True
-              elif 'group-title="' in line and 'group-title="青岛联通"' not in line:
-                  in_qingdao = False
+          while i < len(lines):
+              line = lines[i]
 
-              stripped = line.strip()
+              # 检测是否是青岛联通的 #EXTINF 行
+              if 'group-title="青岛联通"' in line and line.startswith("#EXTINF"):
+                  new_lines.append(line)   # 保留 EXTINF
 
-              # 只处理青岛联通分组里带 /rtp/ 的地址
-              if in_qingdao and "/rtp/" in stripped and stripped.startswith("http"):
-                  rtp = stripped.split("/rtp/")[1]
+                  # 提取当前频道原来的 rtp（从它下面的第一个 URL 里取）
+                  rtp = None
+                  j = i + 1
+                  while j < len(lines) and lines[j].strip().startswith("http") and "/rtp/" in lines[j]:
+                      if rtp is None:
+                          rtp = lines[j].strip().split("/rtp/")[1]
+                      j += 1
 
-                  if rtp in rtp_map:
-                      # 有真实源 → 用最新完整地址
-                      for new_url in rtp_map[rtp]:
-                          new_lines.append(new_url + "\n")
+                  # 跳过原来的所有 URL
+                  i = j - 1
+
+                  # 写入新的 URL（去重后的）
+                  if rtp and rtp in rtp_map:
+                      for url in rtp_map[rtp]:
+                          new_lines.append(url + "\n")
                       matched += 1
-                  else:
-                      # 没有真实源 → 用最新代理前缀 + 原 rtp
+                  elif rtp:
                       for base in proxy_bases:
                           new_lines.append(f"{base}rtp/{rtp}\n")
                       forced += 1
+                  else:
+                      # 极端情况：这个频道原来就没有 URL
+                      pass
               else:
                   new_lines.append(line)
+
+              i += 1
 
           with open("wj.m3u", "w", encoding="utf-8") as f:
               f.writelines(new_lines)
 
           print(f"匹配更新: {matched} 个频道")
           print(f"强制前缀更新: {forced} 个频道")
-          print("更新完成")
+          print("已清理重复地址，每个频道只保留最新一组")
           EOF
 
       - name: 提交并推送
@@ -98,8 +107,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add wj.m3u
           if git diff --staged --quiet; then
-            echo "没有变化，跳过提交"
+            echo "没有变化"
           else
-            git commit -m "自动更新青岛联通组播源 $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "清理重复并更新青岛联通组播源 $(date +'%Y-%m-%d %H:%M')"
             git push
           fi
