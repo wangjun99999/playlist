@@ -21,14 +21,14 @@ jobs:
           curl -sL "https://raw.githubusercontent.com/q1017673817/iptvz/main/%E7%BB%84%E6%92%AD_%E5%B1%B1%E4%B8%9C%E8%81%94%E9%80%9A.txt" \
             -o shandong_lt.txt
 
-      - name: 替换所有 192.168.2.98:5140 地址
+      - name: 按 rtp 路径更新代理前缀
         run: |
           python3 << 'EOF'
           from collections import defaultdict
 
-          # 1. 解析 TXT，构建 rtp → 完整URL列表
-          rtp_map = defaultdict(list)
-          proxy_bases = set()
+          # ========== 1. 解析最新 TXT ==========
+          rtp_map = defaultdict(list)   # rtp路径 → 完整URL列表
+          proxy_bases = set()           # 所有可用的代理前缀
 
           with open("shandong_lt.txt", encoding="utf-8") as f:
               for line in f:
@@ -46,30 +46,38 @@ jobs:
                               rtp_map[rtp].append(url)
 
           proxy_bases = sorted(proxy_bases)
-          print(f"可用代理前缀: {proxy_bases}")
-          print(f"有真实源的 rtp 数量: {len(rtp_map)}")
+          print(f"最新代理前缀: {proxy_bases}")
+          print(f"TXT 中有效 rtp 数量: {len(rtp_map)}")
 
-          # 2. 处理 wj.m3u
+          # ========== 2. 处理 wj.m3u ==========
           with open("wj.m3u", encoding="utf-8") as f:
               lines = f.readlines()
 
           new_lines = []
+          in_qingdao = False
           matched = 0
           forced = 0
 
           for line in lines:
+              # 判断是否在「青岛联通」分组
+              if 'group-title="青岛联通"' in line:
+                  in_qingdao = True
+              elif 'group-title="' in line and 'group-title="青岛联通"' not in line:
+                  in_qingdao = False
+
               stripped = line.strip()
 
-              if stripped.startswith("http://192.168.2.98:5140/rtp/"):
+              # 只处理青岛联通分组里带 /rtp/ 的地址
+              if in_qingdao and "/rtp/" in stripped and stripped.startswith("http"):
                   rtp = stripped.split("/rtp/")[1]
 
                   if rtp in rtp_map:
-                      # 有真实源 → 用 TXT 里的地址
+                      # 有真实源 → 用最新完整地址
                       for new_url in rtp_map[rtp]:
                           new_lines.append(new_url + "\n")
                       matched += 1
                   else:
-                      # 没有真实源 → 强制用所有代理前缀 + 原 rtp
+                      # 没有真实源 → 用最新代理前缀 + 原 rtp
                       for base in proxy_bases:
                           new_lines.append(f"{base}rtp/{rtp}\n")
                       forced += 1
@@ -79,9 +87,9 @@ jobs:
           with open("wj.m3u", "w", encoding="utf-8") as f:
               f.writelines(new_lines)
 
-          print(f"成功匹配替换: {matched} 个频道")
-          print(f"强制前缀替换: {forced} 个频道")
-          print("全部 192.168.2.98:5140 地址已处理完毕")
+          print(f"匹配更新: {matched} 个频道")
+          print(f"强制前缀更新: {forced} 个频道")
+          print("更新完成")
           EOF
 
       - name: 提交并推送
@@ -90,8 +98,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add wj.m3u
           if git diff --staged --quiet; then
-            echo "没有变化"
+            echo "没有变化，跳过提交"
           else
-            git commit -m "强制替换所有青岛联通组播源 $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "自动更新青岛联通组播源 $(date +'%Y-%m-%d %H:%M')"
             git push
           fi
