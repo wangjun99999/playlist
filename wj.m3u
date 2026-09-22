@@ -125,37 +125,37 @@ http://39.77.172.61:4002/rtp/239.253.254.187:8000
 http://39.77.25.56:4002/rtp/239.253.254.187:8000
 http://39.77.254.47:4002/rtp/239.253.254.187:8000
 http://39.77.26.75:4002/rtp/239.253.254.187:8000
-#EXTINF:-1 tvg-id="青岛QTV-1" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/QTV1.png",QTV1
+#EXTINF:-1 tvg-id="stream-2f4ead1d-045c-4a22-8909-7e77e9f57097" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/QTV1.png",QTV1
 http://39.77.161.85:4002/rtp/239.253.254.249:8000
 http://39.77.172.61:4002/rtp/239.253.254.249:8000
 http://39.77.25.56:4002/rtp/239.253.254.249:8000
 http://39.77.254.47:4002/rtp/239.253.254.249:8000
 http://39.77.26.75:4002/rtp/239.253.254.249:8000
-#EXTINF:-1 tvg-id="青岛QTV-2" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/QTV2.png",QTV2
+#EXTINF:-1 tvg-id="stream-a106f3ce-3a27-45bd-9707-8699b6402a99" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/QTV2.png",QTV2
 http://39.77.161.85:4002/rtp/239.253.254.250:8000
 http://39.77.172.61:4002/rtp/239.253.254.250:8000
 http://39.77.25.56:4002/rtp/239.253.254.250:8000
 http://39.77.254.47:4002/rtp/239.253.254.250:8000
 http://39.77.26.75:4002/rtp/239.253.254.250:8000
-#EXTINF:-1 tvg-id="青岛QTV-3" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/QTV3.png",QTV3
+#EXTINF:-1 tvg-id="stream-387da528-c895-4bf9-a92c-13951fdf1ee5" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/QTV3.png",QTV3
 http://39.77.161.85:4002/rtp/239.253.254.251:8000
 http://39.77.172.61:4002/rtp/239.253.254.251:8000
 http://39.77.25.56:4002/rtp/239.253.254.251:8000
 http://39.77.254.47:4002/rtp/239.253.254.251:8000
 http://39.77.26.75:4002/rtp/239.253.254.251:8000
-#EXTINF:-1 tvg-id="青岛QTV-4" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/QTV4.png",QTV4
+#EXTINF:-1 tvg-id="stream-af79f0ce-dcdf-4579-bbfc-99412f6f7c7b" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/QTV4.png",QTV4
 http://39.77.161.85:4002/rtp/239.253.254.252:8000
 http://39.77.172.61:4002/rtp/239.253.254.252:8000
 http://39.77.25.56:4002/rtp/239.253.254.252:8000
 http://39.77.254.47:4002/rtp/239.253.254.252:8000
 http://39.77.26.75:4002/rtp/239.253.254.252:8000
-#EXTINF:-1 tvg-id="青岛QTV-5" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/QTV5.png",QTV5
+#EXTINF:-1 tvg-id="stream-b8d61ade-72fc-45af-917a-00df0cdd200a" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/QTV5.png",QTV5
 http://39.77.161.85:4002/rtp/239.253.254.253:8000
 http://39.77.172.61:4002/rtp/239.253.254.253:8000
 http://39.77.25.56:4002/rtp/239.253.254.253:8000
 http://39.77.254.47:4002/rtp/239.253.254.253:8000
 http://39.77.26.75:4002/rtp/239.253.254.253:8000
-#EXTINF:-1 tvg-id="青岛QTV-6" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/QTV6.png",QTV6
+#EXTINF:-1 tvg-id="stream-a691d701-8205-4d95-adac-e3d8ae23d53f" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/QTV6.png",QTV6
 http://39.77.161.85:4002/rtp/239.253.254.254:8000
 http://39.77.172.61:4002/rtp/239.253.254.254:8000
 http://39.77.25.56:4002/rtp/239.253.254.254:8000
@@ -203,73 +203,73 @@ http://39.77.172.61:4002/rtp/239.253.254.248:8000
 http://39.77.25.56:4002/rtp/239.253.254.248:8000
 http://39.77.254.47:4002/rtp/239.253.254.248:8000
 http://39.77.26.75:4002/rtp/239.253.254.248:8000
-#EXTINF:-1 tvg-id="山东卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png",山东卫视
+#EXTINF:-1 tvg-id="stream-70309f87-69db-4b28-8146-95fb9dd7e313" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png",山东卫视
 http://39.77.161.85:4002/rtp/239.253.254.78:8000
 http://39.77.172.61:4002/rtp/239.253.254.78:8000
 http://39.77.25.56:4002/rtp/239.253.254.78:8000
 http://39.77.254.47:4002/rtp/239.253.254.78:8000
 http://39.77.26.75:4002/rtp/239.253.254.78:8000
-#EXTINF:-1 tvg-id="山东齐鲁" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东齐鲁.png",山东齐鲁
+#EXTINF:-1 tvg-id="stream-dcbe3a12-94a3-479c-b5dd-b26d8e5437fd" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东齐鲁.png",山东齐鲁
 http://39.77.161.85:4002/rtp/239.253.254.114:8000
 http://39.77.172.61:4002/rtp/239.253.254.114:8000
 http://39.77.25.56:4002/rtp/239.253.254.114:8000
 http://39.77.254.47:4002/rtp/239.253.254.114:8000
 http://39.77.26.75:4002/rtp/239.253.254.114:8000
-#EXTINF:-1 tvg-id="山东文旅" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东文旅.png",山东文旅
+#EXTINF:-1 tvg-id="stream-794b70a2-8f04-4de6-a1a5-a5a947657466" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东文旅.png",山东文旅
 http://39.77.161.85:4002/rtp/239.253.254.160:8000
 http://39.77.172.61:4002/rtp/239.253.254.160:8000
 http://39.77.25.56:4002/rtp/239.253.254.160:8000
 http://39.77.254.47:4002/rtp/239.253.254.160:8000
 http://39.77.26.75:4002/rtp/239.253.254.160:8000
-#EXTINF:-1 tvg-id="山东生活" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东生活.png",山东生活
+#EXTINF:-1 tvg-id="stream-17fd318d-e7d5-4c31-92e6-19424e4d570e" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东生活.png",山东生活
 http://39.77.161.85:4002/rtp/239.253.254.151:8000
 http://39.77.172.61:4002/rtp/239.253.254.151:8000
 http://39.77.25.56:4002/rtp/239.253.254.151:8000
 http://39.77.254.47:4002/rtp/239.253.254.151:8000
 http://39.77.26.75:4002/rtp/239.253.254.151:8000
-#EXTINF:-1 tvg-id="山东综艺" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东综艺.png",山东综艺
+#EXTINF:-1 tvg-id="stream-bebeb8d1-fe0c-4c64-8874-22b2cd547127" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东综艺.png",山东综艺
 http://39.77.161.85:4002/rtp/239.253.254.159:8000
 http://39.77.172.61:4002/rtp/239.253.254.159:8000
 http://39.77.25.56:4002/rtp/239.253.254.159:8000
 http://39.77.254.47:4002/rtp/239.253.254.159:8000
 http://39.77.26.75:4002/rtp/239.253.254.159:8000
-#EXTINF:-1 tvg-id="山东体育" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东体育.png",山东体育
+#EXTINF:-1 tvg-id="stream-1cad54ce-ab3c-44d0-8da6-8c8a29a65b4b" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东体育.png",山东体育
 http://39.77.161.85:4002/rtp/239.253.254.22:8000
 http://39.77.172.61:4002/rtp/239.253.254.22:8000
 http://39.77.25.56:4002/rtp/239.253.254.22:8000
 http://39.77.254.47:4002/rtp/239.253.254.22:8000
 http://39.77.26.75:4002/rtp/239.253.254.22:8000
-#EXTINF:-1 tvg-id="山东新闻" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东新闻.png",山东新闻
+#EXTINF:-1 tvg-id="stream-de1fb821-4bd2-4b8c-bec7-efd578f096ca" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东新闻.png",山东新闻
 http://39.77.161.85:4002/rtp/239.253.254.23:8000
 http://39.77.172.61:4002/rtp/239.253.254.23:8000
 http://39.77.25.56:4002/rtp/239.253.254.23:8000
 http://39.77.254.47:4002/rtp/239.253.254.23:8000
 http://39.77.26.75:4002/rtp/239.253.254.23:8000
-#EXTINF:-1 tvg-id="山东农科" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东农科.png",山东农科
+#EXTINF:-1 tvg-id="stream-09a32c6a-7f24-4b13-9ced-25125949a8e1" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东农科.png",山东农科
 http://39.77.161.85:4002/rtp/239.253.254.24:8000
 http://39.77.172.61:4002/rtp/239.253.254.24:8000
 http://39.77.25.56:4002/rtp/239.253.254.24:8000
 http://39.77.254.47:4002/rtp/239.253.254.24:8000
 http://39.77.26.75:4002/rtp/239.253.254.24:8000
-#EXTINF:-1 tvg-id="山东少儿" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东少儿.png",山东少儿
+#EXTINF:-1 tvg-id="stream-67365150-1ed0-490e-a1cb-d3b42ae4c42c" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东少儿.png",山东少儿
 http://39.77.161.85:4002/rtp/239.253.254.25:8000
 http://39.77.172.61:4002/rtp/239.253.254.25:8000
 http://39.77.25.56:4002/rtp/239.253.254.25:8000
 http://39.77.254.47:4002/rtp/239.253.254.25:8000
 http://39.77.26.75:4002/rtp/239.253.254.25:8000
-#EXTINF:-1 tvg-id="山东教育" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东教育.png",山东教育
+#EXTINF:-1 tvg-id="stream-e9185440-a551-4df6-b050-3a8c990f3a80" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东教育.png",山东教育
 http://39.77.161.85:4002/rtp/239.253.254.59:8000
 http://39.77.172.61:4002/rtp/239.253.254.59:8000
 http://39.77.25.56:4002/rtp/239.253.254.59:8000
 http://39.77.254.47:4002/rtp/239.253.254.59:8000
 http://39.77.26.75:4002/rtp/239.253.254.59:8000
-#EXTINF:-1 tvg-id="山东海洋频道" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东海洋频道.png",山东海洋频道
+#EXTINF:-1 tvg-id="stream-06ade1c4-0be0-4250-b92a-abb4f032ac8f" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东海洋频道.png",山东海洋频道
 http://39.77.161.85:4002/rtp/239.253.254.67:8000
 http://39.77.172.61:4002/rtp/239.253.254.67:8000
 http://39.77.25.56:4002/rtp/239.253.254.67:8000
 http://39.77.254.47:4002/rtp/239.253.254.67:8000
 http://39.77.26.75:4002/rtp/239.253.254.67:8000
-#EXTINF:-1 tvg-id="山东卫视4K" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视4K.png",山东卫视4K
+#EXTINF:-1 tvg-id="stream-70309f87-69db-4b28-8146-95fb9dd7e313" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视4K.png",山东卫视4K
 http://39.77.161.85:4002/rtp/239.253.254.172:8000
 http://39.77.172.61:4002/rtp/239.253.254.172:8000
 http://39.77.25.56:4002/rtp/239.253.254.172:8000
@@ -299,31 +299,31 @@ http://39.77.172.61:4002/rtp/239.253.254.176:8000
 http://39.77.25.56:4002/rtp/239.253.254.176:8000
 http://39.77.254.47:4002/rtp/239.253.254.176:8000
 http://39.77.26.75:4002/rtp/239.253.254.176:8000
-#EXTINF:-1 tvg-id="四川卫视4K" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视4K.png",四川卫视4K
+#EXTINF:-1 tvg-id="stream-6fce9e9e-0303-4e97-a269-230ece4a4f3c" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视4K.png",四川卫视4K
 http://39.77.161.85:4002/rtp/239.253.254.123:8000
 http://39.77.172.61:4002/rtp/239.253.254.123:8000
 http://39.77.25.56:4002/rtp/239.253.254.123:8000
 http://39.77.254.47:4002/rtp/239.253.254.123:8000
 http://39.77.26.75:4002/rtp/239.253.254.123:8000
-#EXTINF:-1 tvg-id="北京卫视4K" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视4K.png",北京卫视4K
+#EXTINF:-1 tvg-id="stream-78638a64-b8c9-4251-ba30-a424563163ce" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视4K.png",北京卫视4K
 http://39.77.161.85:4002/rtp/239.253.254.200:8000
 http://39.77.172.61:4002/rtp/239.253.254.200:8000
 http://39.77.25.56:4002/rtp/239.253.254.200:8000
 http://39.77.254.47:4002/rtp/239.253.254.200:8000
 http://39.77.26.75:4002/rtp/239.253.254.200:8000
-#EXTINF:-1 tvg-id="深圳卫视4K" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/深圳卫视4K.png",深圳卫视4K
+#EXTINF:-1 tvg-id="stream-d0866ebc-c966-417f-976a-fffe899e804f" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/深圳卫视4K.png",深圳卫视4K
 http://39.77.161.85:4002/rtp/239.253.254.61:8000
 http://39.77.172.61:4002/rtp/239.253.254.61:8000
 http://39.77.25.56:4002/rtp/239.253.254.61:8000
 http://39.77.254.47:4002/rtp/239.253.254.61:8000
 http://39.77.26.75:4002/rtp/239.253.254.61:8000
-#EXTINF:-1 tvg-id="广东卫视4K" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广东卫视4K.png",广东卫视4K
+#EXTINF:-1 tvg-id="stream-2d889781-529a-49b0-840d-e2e93a97e5f4" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广东卫视4K.png",广东卫视4K
 http://39.77.161.85:4002/rtp/239.253.254.108:8000
 http://39.77.172.61:4002/rtp/239.253.254.108:8000
 http://39.77.25.56:4002/rtp/239.253.254.108:8000
 http://39.77.254.47:4002/rtp/239.253.254.108:8000
 http://39.77.26.75:4002/rtp/239.253.254.108:8000
-#EXTINF:-1 tvg-id="北京卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视.png",北京卫视
+#EXTINF:-1 tvg-id="stream-78638a64-b8c9-4251-ba30-a424563163ce" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视.png",北京卫视
 http://39.77.161.85:4002/rtp/239.253.254.85:8000
 http://39.77.172.61:4002/rtp/239.253.254.85:8000
 http://39.77.25.56:4002/rtp/239.253.254.85:8000
@@ -353,732 +353,325 @@ http://39.77.172.61:4002/rtp/239.253.254.83:8000
 http://39.77.25.56:4002/rtp/239.253.254.83:8000
 http://39.77.254.47:4002/rtp/239.253.254.83:8000
 http://39.77.26.75:4002/rtp/239.253.254.83:8000
-#EXTINF:-1 tvg-id="安徽卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/安徽卫视.png",安徽卫视
+#EXTINF:-1 tvg-id="stream-d2479e3d-53d2-4c59-9956-8b57e3a2a424" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/安徽卫视.png",安徽卫视
 http://39.77.161.85:4002/rtp/239.253.254.87:8000
 http://39.77.172.61:4002/rtp/239.253.254.87:8000
 http://39.77.25.56:4002/rtp/239.253.254.87:8000
 http://39.77.254.47:4002/rtp/239.253.254.87:8000
 http://39.77.26.75:4002/rtp/239.253.254.87:8000
-#EXTINF:-1 tvg-id="天津卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/天津卫视.png",天津卫视
+#EXTINF:-1 tvg-id="stream-8e744341-9a9a-4e66-906a-d2d40d2b9a31" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/天津卫视.png",天津卫视
 http://39.77.161.85:4002/rtp/239.253.254.89:8000
 http://39.77.172.61:4002/rtp/239.253.254.89:8000
 http://39.77.25.56:4002/rtp/239.253.254.89:8000
 http://39.77.254.47:4002/rtp/239.253.254.89:8000
 http://39.77.26.75:4002/rtp/239.253.254.89:8000
-#EXTINF:-1 tvg-id="辽宁卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/辽宁卫视.png",辽宁卫视
+#EXTINF:-1 tvg-id="stream-4f042eb2-4d9b-48dc-9b16-79fccc6cc286" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/辽宁卫视.png",辽宁卫视
 http://39.77.161.85:4002/rtp/239.253.254.92:8000
 http://39.77.172.61:4002/rtp/239.253.254.92:8000
 http://39.77.25.56:4002/rtp/239.253.254.92:8000
 http://39.77.254.47:4002/rtp/239.253.254.92:8000
 http://39.77.26.75:4002/rtp/239.253.254.92:8000
-#EXTINF:-1 tvg-id="深圳卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/深圳卫视.png",深圳卫视
+#EXTINF:-1 tvg-id="stream-d0866ebc-c966-417f-976a-fffe899e804f" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/深圳卫视.png",深圳卫视
 http://39.77.161.85:4002/rtp/239.253.254.91:8000
 http://39.77.172.61:4002/rtp/239.253.254.91:8000
 http://39.77.25.56:4002/rtp/239.253.254.91:8000
 http://39.77.254.47:4002/rtp/239.253.254.91:8000
 http://39.77.26.75:4002/rtp/239.253.254.91:8000
-#EXTINF:-1 tvg-id="东南卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东南卫视.png",东南卫视
+#EXTINF:-1 tvg-id="stream-2231ce7d-00eb-4b37-a023-bfd75dd90a46" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东南卫视.png",东南卫视
 http://39.77.161.85:4002/rtp/239.253.254.105:8000
 http://39.77.172.61:4002/rtp/239.253.254.105:8000
 http://39.77.25.56:4002/rtp/239.253.254.105:8000
 http://39.77.254.47:4002/rtp/239.253.254.105:8000
 http://39.77.26.75:4002/rtp/239.253.254.105:8000
-#EXTINF:-1 tvg-id="湖北卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖北卫视.png",湖北卫视
+#EXTINF:-1 tvg-id="stream-d339576c-e029-486a-aebf-b52ec0ad5623" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖北卫视.png",湖北卫视
 http://39.77.161.85:4002/rtp/239.253.254.88:8000
 http://39.77.172.61:4002/rtp/239.253.254.88:8000
 http://39.77.25.56:4002/rtp/239.253.254.88:8000
 http://39.77.254.47:4002/rtp/239.253.254.88:8000
 http://39.77.26.75:4002/rtp/239.253.254.88:8000
-#EXTINF:-1 tvg-id="广东卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广东卫视.png",广东卫视
+#EXTINF:-1 tvg-id="stream-2d889781-529a-49b0-840d-e2e93a97e5f4" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广东卫视.png",广东卫视
 http://39.77.161.85:4002/rtp/239.253.254.90:8000
 http://39.77.172.61:4002/rtp/239.253.254.90:8000
 http://39.77.25.56:4002/rtp/239.253.254.90:8000
 http://39.77.254.47:4002/rtp/239.253.254.90:8000
 http://39.77.26.75:4002/rtp/239.253.254.90:8000
-#EXTINF:-1 tvg-id="黑龙江卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/黑龙江卫视.png",黑龙江卫视
+#EXTINF:-1 tvg-id="stream-a70dea1b-9bbe-4429-bd04-4df9a4ee3305" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/黑龙江卫视.png",黑龙江卫视
 http://39.77.161.85:4002/rtp/239.253.254.93:8000
 http://39.77.172.61:4002/rtp/239.253.254.93:8000
 http://39.77.25.56:4002/rtp/239.253.254.93:8000
 http://39.77.254.47:4002/rtp/239.253.254.93:8000
 http://39.77.26.75:4002/rtp/239.253.254.93:8000
-#EXTINF:-1 tvg-id="贵州卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/贵州卫视.png",贵州卫视
+#EXTINF:-1 tvg-id="stream-0d40ab8b-df8e-4389-8da6-286fe32f640b" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/贵州卫视.png",贵州卫视
 http://39.77.161.85:4002/rtp/239.253.254.113:8000
 http://39.77.172.61:4002/rtp/239.253.254.113:8000
 http://39.77.25.56:4002/rtp/239.253.254.113:8000
 http://39.77.254.47:4002/rtp/239.253.254.113:8000
 http://39.77.26.75:4002/rtp/239.253.254.113:8000
-#EXTINF:-1 tvg-id="河南卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南卫视.png",河南卫视
+#EXTINF:-1 tvg-id="stream-b5d40461-2f4b-43c8-b55f-6aed9bf50b5e" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南卫视.png",河南卫视
 http://39.77.161.85:4002/rtp/239.253.254.190:8000
 http://39.77.172.61:4002/rtp/239.253.254.190:8000
 http://39.77.25.56:4002/rtp/239.253.254.190:8000
 http://39.77.254.47:4002/rtp/239.253.254.190:8000
 http://39.77.26.75:4002/rtp/239.253.254.190:8000
-#EXTINF:-1 tvg-id="河北卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河北卫视.png",河北卫视
+#EXTINF:-1 tvg-id="stream-316eb343-4a8c-430f-9ca2-df319ae9e73b" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河北卫视.png",河北卫视
 http://39.77.161.85:4002/rtp/239.253.254.112:8000
 http://39.77.172.61:4002/rtp/239.253.254.112:8000
 http://39.77.25.56:4002/rtp/239.253.254.112:8000
 http://39.77.254.47:4002/rtp/239.253.254.112:8000
 http://39.77.26.75:4002/rtp/239.253.254.112:8000
-#EXTINF:-1 tvg-id="重庆卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/重庆卫视.png",重庆卫视
+#EXTINF:-1 tvg-id="stream-e146d1d8-3e49-4965-943e-718459b69928" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/重庆卫视.png",重庆卫视
 http://39.77.161.85:4002/rtp/239.253.254.38:8000
 http://39.77.172.61:4002/rtp/239.253.254.38:8000
 http://39.77.25.56:4002/rtp/239.253.254.38:8000
 http://39.77.254.47:4002/rtp/239.253.254.38:8000
 http://39.77.26.75:4002/rtp/239.253.254.38:8000
-#EXTINF:-1 tvg-id="海南卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/海南卫视.png",海南卫视
+#EXTINF:-1 tvg-id="stream-9dc3ade7-539d-44bf-ba72-5558e50c5187" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/海南卫视.png",海南卫视
 http://39.77.161.85:4002/rtp/239.253.254.179:8000
 http://39.77.172.61:4002/rtp/239.253.254.179:8000
 http://39.77.25.56:4002/rtp/239.253.254.179:8000
 http://39.77.254.47:4002/rtp/239.253.254.179:8000
 http://39.77.26.75:4002/rtp/239.253.254.179:8000
-#EXTINF:-1 tvg-id="四川卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png",四川卫视
+#EXTINF:-1 tvg-id="stream-6fce9e9e-0303-4e97-a269-230ece4a4f3c" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png",四川卫视
 http://39.77.161.85:4002/rtp/239.253.254.180:8000
 http://39.77.172.61:4002/rtp/239.253.254.180:8000
 http://39.77.25.56:4002/rtp/239.253.254.180:8000
 http://39.77.254.47:4002/rtp/239.253.254.180:8000
 http://39.77.26.75:4002/rtp/239.253.254.180:8000
-#EXTINF:-1 tvg-id="江西卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江西卫视.png",江西卫视
+#EXTINF:-1 tvg-id="stream-0833ecc3-a793-40fe-9b9a-dae3d72c42a3" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江西卫视.png",江西卫视
 http://39.77.161.85:4002/rtp/239.253.254.47:8000
 http://39.77.172.61:4002/rtp/239.253.254.47:8000
 http://39.77.25.56:4002/rtp/239.253.254.47:8000
 http://39.77.254.47:4002/rtp/239.253.254.47:8000
 http://39.77.26.75:4002/rtp/239.253.254.47:8000
-#EXTINF:-1 tvg-id="广西卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广西卫视.png",广西卫视
+#EXTINF:-1 tvg-id="stream-e6e51b6c-920f-4568-bd4a-c0fe1a90aa77" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广西卫视.png",广西卫视
 http://39.77.161.85:4002/rtp/239.253.254.197:8000
 http://39.77.172.61:4002/rtp/239.253.254.197:8000
 http://39.77.25.56:4002/rtp/239.253.254.197:8000
 http://39.77.254.47:4002/rtp/239.253.254.197:8000
 http://39.77.26.75:4002/rtp/239.253.254.197:8000
-#EXTINF:-1 tvg-id="吉林卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/吉林卫视.png",吉林卫视
+#EXTINF:-1 tvg-id="stream-235d3bb1-97cf-48fa-8988-da659f052ca1" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/吉林卫视.png",吉林卫视
 http://39.77.161.85:4002/rtp/239.253.254.173:8000
 http://39.77.172.61:4002/rtp/239.253.254.173:8000
 http://39.77.25.56:4002/rtp/239.253.254.173:8000
 http://39.77.254.47:4002/rtp/239.253.254.173:8000
 http://39.77.26.75:4002/rtp/239.253.254.173:8000
-#EXTINF:-1 tvg-id="云南卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/云南卫视.png",云南卫视
+#EXTINF:-1 tvg-id="stream-e05c3269-eda6-4a75-9d7b-a5a5abc655c7" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/云南卫视.png",云南卫视
 http://39.77.161.85:4002/rtp/239.253.254.196:8000
 http://39.77.172.61:4002/rtp/239.253.254.196:8000
 http://39.77.25.56:4002/rtp/239.253.254.196:8000
 http://39.77.254.47:4002/rtp/239.253.254.196:8000
 http://39.77.26.75:4002/rtp/239.253.254.196:8000
-#EXTINF:-1 tvg-id="新疆卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/新疆卫视.png",新疆卫视
+#EXTINF:-1 tvg-id="stream-52ba9c15-c6c9-4aef-a9c3-eb27412764ac" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/新疆卫视.png",新疆卫视
 http://39.77.161.85:4002/rtp/239.253.254.60:8000
 http://39.77.172.61:4002/rtp/239.253.254.60:8000
 http://39.77.25.56:4002/rtp/239.253.254.60:8000
 http://39.77.254.47:4002/rtp/239.253.254.60:8000
 http://39.77.26.75:4002/rtp/239.253.254.60:8000
-#EXTINF:-1 tvg-id="甘肃卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃卫视.png",甘肃卫视
+#EXTINF:-1 tvg-id="stream-d1b0b684-4153-4c26-9e1f-00d02f54ca0d" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃卫视.png",甘肃卫视
 http://39.77.161.85:4002/rtp/239.253.254.74:8000
 http://39.77.172.61:4002/rtp/239.253.254.74:8000
 http://39.77.25.56:4002/rtp/239.253.254.74:8000
 http://39.77.254.47:4002/rtp/239.253.254.74:8000
 http://39.77.26.75:4002/rtp/239.253.254.74:8000
-#EXTINF:-1 tvg-id="青海卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/青海卫视.png",青海卫视
+#EXTINF:-1 tvg-id="stream-648ffe3e-38a0-40a4-8dcd-a50f22ef5998" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/青海卫视.png",青海卫视
 http://39.77.161.85:4002/rtp/239.253.254.195:8000
 http://39.77.172.61:4002/rtp/239.253.254.195:8000
 http://39.77.25.56:4002/rtp/239.253.254.195:8000
 http://39.77.254.47:4002/rtp/239.253.254.195:8000
 http://39.77.26.75:4002/rtp/239.253.254.195:8000
-#EXTINF:-1 tvg-id="西藏卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/西藏卫视.png",西藏卫视
+#EXTINF:-1 tvg-id="stream-5c01d8c1-565c-4335-ad23-c90800dc4406" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/西藏卫视.png",西藏卫视
 http://39.77.161.85:4002/rtp/239.253.254.56:8000
 http://39.77.172.61:4002/rtp/239.253.254.56:8000
 http://39.77.25.56:4002/rtp/239.253.254.56:8000
 http://39.77.254.47:4002/rtp/239.253.254.56:8000
 http://39.77.26.75:4002/rtp/239.253.254.56:8000
-#EXTINF:-1 tvg-id="兵团卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/兵团卫视.png",兵团卫视
+#EXTINF:-1 tvg-id="stream-5f50d05f-499b-477f-8f7e-7b385ddc87cf" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/兵团卫视.png",兵团卫视
 http://39.77.161.85:4002/rtp/239.253.254.57:8000
 http://39.77.172.61:4002/rtp/239.253.254.57:8000
 http://39.77.25.56:4002/rtp/239.253.254.57:8000
 http://39.77.254.47:4002/rtp/239.253.254.57:8000
 http://39.77.26.75:4002/rtp/239.253.254.57:8000
-#EXTINF:-1 tvg-id="宁夏卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/宁夏卫视.png",宁夏卫视
+#EXTINF:-1 tvg-id="stream-945cd0c4-fcf2-4dd7-9eb4-75798b02c065" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/宁夏卫视.png",宁夏卫视
 http://39.77.161.85:4002/rtp/239.253.254.150:8000
 http://39.77.172.61:4002/rtp/239.253.254.150:8000
 http://39.77.25.56:4002/rtp/239.253.254.150:8000
 http://39.77.254.47:4002/rtp/239.253.254.150:8000
 http://39.77.26.75:4002/rtp/239.253.254.150:8000
-#EXTINF:-1 tvg-id="山西卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山西卫视.png",山西卫视
+#EXTINF:-1 tvg-id="stream-ad483101-56ff-4eaa-901e-a0b5b3ff5a0f" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山西卫视.png",山西卫视
 http://39.77.161.85:4002/rtp/239.253.254.48:8000
 http://39.77.172.61:4002/rtp/239.253.254.48:8000
 http://39.77.25.56:4002/rtp/239.253.254.48:8000
 http://39.77.254.47:4002/rtp/239.253.254.48:8000
 http://39.77.26.75:4002/rtp/239.253.254.48:8000
-#EXTINF:-1 tvg-id="陕西卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/陕西卫视.png",陕西卫视
+#EXTINF:-1 tvg-id="stream-9ba2d19e-3674-4f2b-8750-05d57626edea" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/陕西卫视.png",陕西卫视
 http://39.77.161.85:4002/rtp/239.253.254.49:8000
 http://39.77.172.61:4002/rtp/239.253.254.49:8000
 http://39.77.25.56:4002/rtp/239.253.254.49:8000
 http://39.77.254.47:4002/rtp/239.253.254.49:8000
 http://39.77.26.75:4002/rtp/239.253.254.49:8000
-#EXTINF:-1 tvg-id="内蒙古卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png",内蒙古卫视
+#EXTINF:-1 tvg-id="stream-4d9dbd42-7da5-4bf5-a7c6-af2d16d7f6ec" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png",内蒙古卫视
 http://39.77.161.85:4002/rtp/239.253.254.58:8000
 http://39.77.172.61:4002/rtp/239.253.254.58:8000
 http://39.77.25.56:4002/rtp/239.253.254.58:8000
 http://39.77.254.47:4002/rtp/239.253.254.58:8000
 http://39.77.26.75:4002/rtp/239.253.254.58:8000
-#EXTINF:-1 tvg-id="农林卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/农林卫视.png",农林卫视
+#EXTINF:-1 tvg-id="stream-fa7864c5-5ec8-40e5-9c82-9ff8698957f8" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/农林卫视.png",农林卫视
 http://39.77.161.85:4002/rtp/239.253.254.70:8000
 http://39.77.172.61:4002/rtp/239.253.254.70:8000
 http://39.77.25.56:4002/rtp/239.253.254.70:8000
 http://39.77.254.47:4002/rtp/239.253.254.70:8000
 http://39.77.26.75:4002/rtp/239.253.254.70:8000
-#EXTINF:-1 tvg-id="厦门卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/厦门卫视.png",厦门卫视
+#EXTINF:-1 tvg-id="stream-bafee6aa-b346-44c6-a8be-8204752a8785" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/厦门卫视.png",厦门卫视
 http://39.77.161.85:4002/rtp/239.253.254.106:8000
 http://39.77.172.61:4002/rtp/239.253.254.106:8000
 http://39.77.25.56:4002/rtp/239.253.254.106:8000
 http://39.77.254.47:4002/rtp/239.253.254.106:8000
 http://39.77.26.75:4002/rtp/239.253.254.106:8000
-#EXTINF:-1 tvg-id="延边卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/延边卫视.png",延边卫视
+#EXTINF:-1 tvg-id="stream-d9504674-0f36-4c90-96d8-2b24ebd7c219" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/延边卫视.png",延边卫视
 http://39.77.161.85:4002/rtp/239.253.254.121:8000
 http://39.77.172.61:4002/rtp/239.253.254.121:8000
 http://39.77.25.56:4002/rtp/239.253.254.121:8000
 http://39.77.254.47:4002/rtp/239.253.254.121:8000
 http://39.77.26.75:4002/rtp/239.253.254.121:8000
-#EXTINF:-1 tvg-id="三沙卫视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/三沙卫视.png",三沙卫视
+#EXTINF:-1 tvg-id="stream-a6bf6d93-94b0-45b4-914f-1f1a8d70ecf1" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/三沙卫视.png",三沙卫视
 http://39.77.161.85:4002/rtp/239.253.254.171:8000
 http://39.77.172.61:4002/rtp/239.253.254.171:8000
 http://39.77.25.56:4002/rtp/239.253.254.171:8000
 http://39.77.254.47:4002/rtp/239.253.254.171:8000
 http://39.77.26.75:4002/rtp/239.253.254.171:8000
-#EXTINF:-1 tvg-id="爱上4K测试体验" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/爱上4K测试体验.png",爱上4K测试体验
+#EXTINF:-1 tvg-id="stream-25ba0809-bcb1-43e1-8d75-1dda1ea565d0" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/爱上4K测试体验.png",爱上4K测试体验
 http://39.77.161.85:4002/rtp/239.253.254.102:8000
 http://39.77.172.61:4002/rtp/239.253.254.102:8000
 http://39.77.25.56:4002/rtp/239.253.254.102:8000
 http://39.77.254.47:4002/rtp/239.253.254.102:8000
 http://39.77.26.75:4002/rtp/239.253.254.102:8000
-#EXTINF:-1 tvg-id="CHC家庭影院" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC家庭影院.png",CHC家庭影院
+#EXTINF:-1 tvg-id="stream-b2426e6a-9774-4413-a805-513f8572dde8" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC家庭影院.png",CHC家庭影院
 http://39.77.161.85:4002/rtp/239.253.254.152:8000
 http://39.77.172.61:4002/rtp/239.253.254.152:8000
 http://39.77.25.56:4002/rtp/239.253.254.152:8000
 http://39.77.254.47:4002/rtp/239.253.254.152:8000
 http://39.77.26.75:4002/rtp/239.253.254.152:8000
-#EXTINF:-1 tvg-id="CHC动作电影" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC动作电影.png",CHC动作电影
+#EXTINF:-1 tvg-id="stream-0b36627a-78ce-4acf-bf01-40b7f92a500b" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC动作电影.png",CHC动作电影
 http://39.77.161.85:4002/rtp/239.253.254.153:8000
 http://39.77.172.61:4002/rtp/239.253.254.153:8000
 http://39.77.25.56:4002/rtp/239.253.254.153:8000
 http://39.77.254.47:4002/rtp/239.253.254.153:8000
 http://39.77.26.75:4002/rtp/239.253.254.153:8000
-#EXTINF:-1 tvg-id="CHC影迷电影" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC影迷电影.png",CHC影迷电影
+#EXTINF:-1 tvg-id="stream-9aaa88d0-bf10-4537-be81-9a6465b201ff" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC影迷电影.png",CHC影迷电影
 http://39.77.161.85:4002/rtp/239.253.254.154:8000
 http://39.77.172.61:4002/rtp/239.253.254.154:8000
 http://39.77.25.56:4002/rtp/239.253.254.154:8000
 http://39.77.254.47:4002/rtp/239.253.254.154:8000
 http://39.77.26.75:4002/rtp/239.253.254.154:8000
-#EXTINF:-1 tvg-id="北京纪实科教" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京纪实科教.png",北京纪实科教
-http://39.77.161.85:4002/rtp/239.253.254.165:8000
-http://39.77.172.61:4002/rtp/239.253.254.165:8000
-http://39.77.25.56:4002/rtp/239.253.254.165:8000
-http://39.77.254.47:4002/rtp/239.253.254.165:8000
-http://39.77.26.75:4002/rtp/239.253.254.165:8000
-#EXTINF:-1 tvg-id="卡酷少儿" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/卡酷少儿.png",卡酷少儿
-http://39.77.161.85:4002/rtp/239.253.254.66:8000
-http://39.77.172.61:4002/rtp/239.253.254.66:8000
-http://39.77.25.56:4002/rtp/239.253.254.66:8000
-http://39.77.254.47:4002/rtp/239.253.254.66:8000
-http://39.77.26.75:4002/rtp/239.253.254.66:8000
-#EXTINF:-1 tvg-id="金鹰纪实" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/金鹰纪实.png",金鹰纪实
-http://39.77.161.85:4002/rtp/239.253.254.103:8000
-http://39.77.172.61:4002/rtp/239.253.254.103:8000
-http://39.77.25.56:4002/rtp/239.253.254.103:8000
-http://39.77.254.47:4002/rtp/239.253.254.103:8000
-http://39.77.26.75:4002/rtp/239.253.254.103:8000
-#EXTINF:-1 tvg-id="快乐垂钓" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/快乐垂钓.png",快乐垂钓
-http://39.77.161.85:4002/rtp/239.253.254.144:8000
-http://39.77.172.61:4002/rtp/239.253.254.144:8000
-http://39.77.25.56:4002/rtp/239.253.254.144:8000
-http://39.77.254.47:4002/rtp/239.253.254.144:8000
-http://39.77.26.75:4002/rtp/239.253.254.144:8000
-#EXTINF:-1 tvg-id="金鹰卡通" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/金鹰卡通.png",金鹰卡通
-http://39.77.161.85:4002/rtp/239.253.254.117:8000
-http://39.77.172.61:4002/rtp/239.253.254.117:8000
-http://39.77.25.56:4002/rtp/239.253.254.117:8000
-http://39.77.254.47:4002/rtp/239.253.254.117:8000
-http://39.77.26.75:4002/rtp/239.253.254.117:8000
-#EXTINF:-1 tvg-id="梨园" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/梨园.png",梨园
-http://39.77.161.85:4002/rtp/239.253.254.139:8000
-http://39.77.172.61:4002/rtp/239.253.254.139:8000
-http://39.77.25.56:4002/rtp/239.253.254.139:8000
-http://39.77.254.47:4002/rtp/239.253.254.139:8000
-http://39.77.26.75:4002/rtp/239.253.254.139:8000
-#EXTINF:-1 tvg-id="武术世界" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/武术世界.png",武术世界
-http://39.77.161.85:4002/rtp/239.253.254.140:8000
-http://39.77.172.61:4002/rtp/239.253.254.140:8000
-http://39.77.25.56:4002/rtp/239.253.254.140:8000
-http://39.77.254.47:4002/rtp/239.253.254.140:8000
-http://39.77.26.75:4002/rtp/239.253.254.140:8000
-#EXTINF:-1 tvg-id="文物宝库" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/文物宝库.png",文物宝库
-http://39.77.161.85:4002/rtp/239.253.254.141:8000
-http://39.77.172.61:4002/rtp/239.253.254.141:8000
-http://39.77.25.56:4002/rtp/239.253.254.141:8000
-http://39.77.254.47:4002/rtp/239.253.254.141:8000
-http://39.77.26.75:4002/rtp/239.253.254.141:8000
-#EXTINF:-1 tvg-id="中国教育1" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育1.png",中国教育1
-http://39.77.161.85:4002/rtp/239.253.254.110:8000
-http://39.77.172.61:4002/rtp/239.253.254.110:8000
-http://39.77.25.56:4002/rtp/239.253.254.110:8000
-http://39.77.254.47:4002/rtp/239.253.254.110:8000
-http://39.77.26.75:4002/rtp/239.253.254.110:8000
-#EXTINF:-1 tvg-id="中国教育2" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育2.png",中国教育2
-http://39.77.161.85:4002/rtp/239.253.254.107:8000
-http://39.77.172.61:4002/rtp/239.253.254.107:8000
-http://39.77.25.56:4002/rtp/239.253.254.107:8000
-http://39.77.254.47:4002/rtp/239.253.254.107:8000
-http://39.77.26.75:4002/rtp/239.253.254.107:8000
-#EXTINF:-1 tvg-id="中国教育4" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育4.png",中国教育4
-http://39.77.161.85:4002/rtp/239.253.254.116:8000
-http://39.77.172.61:4002/rtp/239.253.254.116:8000
-http://39.77.25.56:4002/rtp/239.253.254.116:8000
-http://39.77.254.47:4002/rtp/239.253.254.116:8000
-http://39.77.26.75:4002/rtp/239.253.254.116:8000
-#EXTINF:-1 tvg-id="四海钓鱼" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四海钓鱼.png",四海钓鱼
-http://39.77.161.85:4002/rtp/239.253.254.118:8000
-http://39.77.172.61:4002/rtp/239.253.254.118:8000
-http://39.77.25.56:4002/rtp/239.253.254.118:8000
-http://39.77.254.47:4002/rtp/239.253.254.118:8000
-http://39.77.26.75:4002/rtp/239.253.254.118:8000
-#EXTINF:-1 tvg-id="汽摩" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/汽摩.png",汽摩
-http://39.77.161.85:4002/rtp/239.253.254.161:8000
-http://39.77.172.61:4002/rtp/239.253.254.161:8000
-http://39.77.25.56:4002/rtp/239.253.254.161:8000
-http://39.77.254.47:4002/rtp/239.253.254.161:8000
-http://39.77.26.75:4002/rtp/239.253.254.161:8000
-#EXTINF:-1 tvg-id="生态环境" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/生态环境.png",生态环境
-http://39.77.161.85:4002/rtp/239.253.254.119:8000
-http://39.77.172.61:4002/rtp/239.253.254.119:8000
-http://39.77.25.56:4002/rtp/239.253.254.119:8000
-http://39.77.254.47:4002/rtp/239.253.254.119:8000
-http://39.77.26.75:4002/rtp/239.253.254.119:8000
-#EXTINF:-1 tvg-id="中华特产" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中华特产.png"中华特产
-http://39.77.161.85:4002/rtp/239.253.254.76:8000
-http://39.77.172.61:4002/rtp/239.253.254.76:8000
-http://39.77.25.56:4002/rtp/239.253.254.76:8000
-http://39.77.254.47:4002/rtp/239.253.254.76:8000
-http://39.77.26.75:4002/rtp/239.253.254.76:8000
-#EXTINF:-1 tvg-id="中国交通" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国交通.png",中国交通
-http://39.77.161.85:4002/rtp/239.253.254.177:8000
-http://39.77.172.61:4002/rtp/239.253.254.177:8000
-http://39.77.25.56:4002/rtp/239.253.254.177:8000
-http://39.77.254.47:4002/rtp/239.253.254.177:8000
-http://39.77.26.75:4002/rtp/239.253.254.177:8000
-#EXTINF:-1 tvg-id="动漫秀场" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/动漫秀场.png",动漫秀场
-http://39.77.161.85:4002/rtp/239.253.254.115:8000
-http://39.77.172.61:4002/rtp/239.253.254.115:8000
-http://39.77.25.56:4002/rtp/239.253.254.115:8000
-http://39.77.254.47:4002/rtp/239.253.254.115:8000
-http://39.77.26.75:4002/rtp/239.253.254.115:8000
-#EXTINF:-1 tvg-id="金色学堂" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/金色学堂.png",金色学堂
-http://39.77.161.85:4002/rtp/239.253.254.101:8000
-http://39.77.172.61:4002/rtp/239.253.254.101:8000
-http://39.77.25.56:4002/rtp/239.253.254.101:8000
-http://39.77.254.47:4002/rtp/239.253.254.101:8000
-http://39.77.26.75:4002/rtp/239.253.254.101:8000
-#EXTINF:-1 tvg-id="生活时尚" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/生活时尚.png",生活时尚
-http://39.77.161.85:4002/rtp/239.253.254.99:8000
-http://39.77.172.61:4002/rtp/239.253.254.99:8000
-http://39.77.25.56:4002/rtp/239.253.254.99:8000
-http://39.77.254.47:4002/rtp/239.253.254.99:8000
-http://39.77.26.75:4002/rtp/239.253.254.99:8000
-#EXTINF:-1 tvg-id="都市剧场" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/都市剧场.png",都市剧场
-http://39.77.161.85:4002/rtp/239.253.254.98:8000
-http://39.77.172.61:4002/rtp/239.253.254.98:8000
-http://39.77.25.56:4002/rtp/239.253.254.98:8000
-http://39.77.254.47:4002/rtp/239.253.254.98:8000
-http://39.77.26.75:4002/rtp/239.253.254.98:8000
-#EXTINF:-1 tvg-id="乐游" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/乐游.png",乐游
-http://39.77.161.85:4002/rtp/239.253.254.97:8000
-http://39.77.172.61:4002/rtp/239.253.254.97:8000
-http://39.77.25.56:4002/rtp/239.253.254.97:8000
-http://39.77.254.47:4002/rtp/239.253.254.97:8000
-http://39.77.26.75:4002/rtp/239.253.254.97:8000
-#EXTINF:-1 tvg-id="法治天地" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/法治天地.png",法治天地
-http://39.77.161.85:4002/rtp/239.253.254.96:8000
-http://39.77.172.61:4002/rtp/239.253.254.96:8000
-http://39.77.25.56:4002/rtp/239.253.254.96:8000
-http://39.77.254.47:4002/rtp/239.253.254.96:8000
-http://39.77.26.75:4002/rtp/239.253.254.96:8000
-#EXTINF:-1 tvg-id="游戏风云" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/游戏风云.png",游戏风云
-http://39.77.161.85:4002/rtp/239.253.254.95:8000
-http://39.77.172.61:4002/rtp/239.253.254.95:8000
-http://39.77.25.56:4002/rtp/239.253.254.95:8000
-http://39.77.254.47:4002/rtp/239.253.254.95:8000
-http://39.77.26.75:4002/rtp/239.253.254.95:8000
-#EXTINF:-1 tvg-id="东方财经" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东方财经.png",东方财经
-http://39.77.161.85:4002/rtp/239.253.254.94:8000
-http://39.77.172.61:4002/rtp/239.253.254.94:8000
-http://39.77.25.56:4002/rtp/239.253.254.94:8000
-http://39.77.254.47:4002/rtp/239.253.254.94:8000
-http://39.77.26.75:4002/rtp/239.253.254.94:8000
-#EXTINF:-1 tvg-id="精彩影视" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/精彩影视.png",精彩影视
-http://39.77.161.85:4002/rtp/239.253.254.142:8000
-http://39.77.172.61:4002/rtp/239.253.254.142:8000
-http://39.77.25.56:4002/rtp/239.253.254.142:8000
-http://39.77.254.47:4002/rtp/239.253.254.142:8000
-http://39.77.26.75:4002/rtp/239.253.254.142:8000
-#EXTINF:-1 tvg-id="求索纪录" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/求索纪录.png",求索纪录
-http://39.77.161.85:4002/rtp/239.253.254.231:8000
-http://39.77.172.61:4002/rtp/239.253.254.231:8000
-http://39.77.25.56:4002/rtp/239.253.254.231:8000
-http://39.77.254.47:4002/rtp/239.253.254.231:8000
-http://39.77.26.75:4002/rtp/239.253.254.231:8000
-#EXTINF:-1 tvg-id="CGTN" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN.png",CGTN
+#EXTINF:-1 tvg-id="stream-84178403-ec46-4027-a662-2bade2514694" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN.png",CGTN
 http://39.77.161.85:4002/rtp/239.253.254.189:8000
 http://39.77.172.61:4002/rtp/239.253.254.189:8000
 http://39.77.25.56:4002/rtp/239.253.254.189:8000
 http://39.77.254.47:4002/rtp/239.253.254.189:8000
 http://39.77.26.75:4002/rtp/239.253.254.189:8000
-#EXTINF:-1 tvg-id="CGTN纪录" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN纪录.png",CGTN纪录
+#EXTINF:-1 tvg-id="stream-13bda069-247c-4a4f-b300-d14b57298d2b" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN纪录.png",CGTN纪录
 http://39.77.161.85:4002/rtp/239.253.254.188:8000
 http://39.77.172.61:4002/rtp/239.253.254.188:8000
 http://39.77.25.56:4002/rtp/239.253.254.188:8000
 http://39.77.254.47:4002/rtp/239.253.254.188:8000
 http://39.77.26.75:4002/rtp/239.253.254.188:8000
-#EXTINF:-1 tvg-id="CGTN西语" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN西语.png",CGTN西语
-http://39.77.161.85:4002/rtp/239.253.254.182:8000
-http://39.77.172.61:4002/rtp/239.253.254.182:8000
-http://39.77.25.56:4002/rtp/239.253.254.182:8000
-http://39.77.254.47:4002/rtp/239.253.254.182:8000
-http://39.77.26.75:4002/rtp/239.253.254.182:8000
-#EXTINF:-1 tvg-id="CGTN法语" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN法语.png",CGTN法语
-http://39.77.161.85:4002/rtp/239.253.254.183:8000
-http://39.77.172.61:4002/rtp/239.253.254.183:8000
-http://39.77.25.56:4002/rtp/239.253.254.183:8000
-http://39.77.254.47:4002/rtp/239.253.254.183:8000
-http://39.77.26.75:4002/rtp/239.253.254.183:8000
-#EXTINF:-1 tvg-id="CGTN阿语" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN阿语.png",CGTN阿语
-http://39.77.161.85:4002/rtp/239.253.254.184:8000
-http://39.77.172.61:4002/rtp/239.253.254.184:8000
-http://39.77.25.56:4002/rtp/239.253.254.184:8000
-http://39.77.254.47:4002/rtp/239.253.254.184:8000
-http://39.77.26.75:4002/rtp/239.253.254.184:8000
-#EXTINF:-1 tvg-id="CGTN俄语" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN俄语.png",CGTN俄语
-http://39.77.161.85:4002/rtp/239.253.254.185:8000
-http://39.77.172.61:4002/rtp/239.253.254.185:8000
-http://39.77.25.56:4002/rtp/239.253.254.185:8000
-http://39.77.254.47:4002/rtp/239.253.254.185:8000
-http://39.77.26.75:4002/rtp/239.253.254.185:8000
-#EXTINF:-1 tvg-id="书画" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/书画.png",书画
-http://39.77.161.85:4002/rtp/239.253.254.146:8000
-http://39.77.172.61:4002/rtp/239.253.254.146:8000
-http://39.77.25.56:4002/rtp/239.253.254.146:8000
-http://39.77.254.47:4002/rtp/239.253.254.146:8000
-http://39.77.26.75:4002/rtp/239.253.254.146:8000
-#EXTINF:-1 tvg-id="优优宝贝" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/优优宝贝.png",优优宝贝
-http://39.77.161.85:4002/rtp/239.253.254.72:8000
-http://39.77.172.61:4002/rtp/239.253.254.72:8000
-http://39.77.25.56:4002/rtp/239.253.254.72:8000
-http://39.77.254.47:4002/rtp/239.253.254.72:8000
-http://39.77.26.75:4002/rtp/239.253.254.72:8000
-#EXTINF:-1 tvg-id="优漫卡通" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/优漫卡通.png",优漫卡通
-http://39.77.161.85:4002/rtp/239.253.254.64:8000
-http://39.77.172.61:4002/rtp/239.253.254.64:8000
-http://39.77.25.56:4002/rtp/239.253.254.64:8000
-http://39.77.254.47:4002/rtp/239.253.254.64:8000
-http://39.77.26.75:4002/rtp/239.253.254.64:8000
-#EXTINF:-1 tvg-id="嘉佳卡通" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/嘉佳卡通.png",嘉佳卡通
-http://39.77.161.85:4002/rtp/239.253.254.65:8000
-http://39.77.172.61:4002/rtp/239.253.254.65:8000
-http://39.77.25.56:4002/rtp/239.253.254.65:8000
-http://39.77.254.47:4002/rtp/239.253.254.65:8000
-http://39.77.26.75:4002/rtp/239.253.254.65:8000
-#EXTINF:-1 tvg-id="发现之旅" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/发现之旅.png",发现之旅
-http://39.77.161.85:4002/rtp/239.253.254.162:8000
-http://39.77.172.61:4002/rtp/239.253.254.162:8000
-http://39.77.25.56:4002/rtp/239.253.254.162:8000
-http://39.77.254.47:4002/rtp/239.253.254.162:8000
-http://39.77.26.75:4002/rtp/239.253.254.162:8000
-#EXTINF:-1 tvg-id="中学生" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中学生.png",中学生
-http://39.77.161.85:4002/rtp/239.253.254.163:8000
-http://39.77.172.61:4002/rtp/239.253.254.163:8000
-http://39.77.25.56:4002/rtp/239.253.254.163:8000
-http://39.77.254.47:4002/rtp/239.253.254.163:8000
-http://39.77.26.75:4002/rtp/239.253.254.163:8000
-#EXTINF:-1 tvg-id="老故事" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/老故事.png",老故事
-http://39.77.161.85:4002/rtp/239.253.254.164:8000
-http://39.77.172.61:4002/rtp/239.253.254.164:8000
-http://39.77.25.56:4002/rtp/239.253.254.164:8000
-http://39.77.254.47:4002/rtp/239.253.254.164:8000
-http://39.77.26.75:4002/rtp/239.253.254.164:8000
-#EXTINF:-1 tvg-id="新动漫" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/新动漫.png",新动漫
-http://39.77.161.85:4002/rtp/239.253.254.157:8000
-http://39.77.172.61:4002/rtp/239.253.254.157:8000
-http://39.77.25.56:4002/rtp/239.253.254.157:8000
-http://39.77.254.47:4002/rtp/239.253.254.157:8000
-http://39.77.26.75:4002/rtp/239.253.254.157:8000
-#EXTINF:-1 tvg-id="环球旅游" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/环球旅游.png",环球旅游
-http://39.77.161.85:4002/rtp/239.253.254.71:8000
-http://39.77.172.61:4002/rtp/239.253.254.71:8000
-http://39.77.25.56:4002/rtp/239.253.254.71:8000
-http://39.77.254.47:4002/rtp/239.253.254.71:8000
-http://39.77.26.75:4002/rtp/239.253.254.71:8000
 #EXTINF:-1 tvg-id="stream-d5b6aa8d-5bed-431d-9505-296cf5ed40d0" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/重温经典影视.png",重温经典影视
 http://39.77.161.85:4002/rtp/239.253.254.81:8000
 http://39.77.172.61:4002/rtp/239.253.254.81:8000
 http://39.77.25.56:4002/rtp/239.253.254.81:8000
 http://39.77.254.47:4002/rtp/239.253.254.81:8000
 http://39.77.26.75:4002/rtp/239.253.254.81:8000
-#EXTINF:-1 tvg-id="山东经济广播" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东经济广播.png",山东经济广播
-http://39.77.161.85:4002/rtp/239.253.254.166:8000
-http://39.77.172.61:4002/rtp/239.253.254.166:8000
-http://39.77.25.56:4002/rtp/239.253.254.166:8000
-http://39.77.254.47:4002/rtp/239.253.254.166:8000
-http://39.77.26.75:4002/rtp/239.253.254.166:8000
-#EXTINF:-1 tvg-id="谍战剧场" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/谍战剧场.png",谍战剧场
+#EXTINF:-1 tvg-id="stream-0365fea5-2a34-4f67-a9ac-22eeecfadd8f" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/谍战剧场.png",谍战剧场
 http://39.77.161.85:4002/rtp/239.253.254.135:8000
 http://39.77.172.61:4002/rtp/239.253.254.135:8000
 http://39.77.25.56:4002/rtp/239.253.254.135:8000
 http://39.77.254.47:4002/rtp/239.253.254.135:8000
 http://39.77.26.75:4002/rtp/239.253.254.135:8000
-#EXTINF:-1 tvg-id="城市剧场" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/城市剧场.png",城市剧场
+#EXTINF:-1 tvg-id="stream-a365cf17-dd11-4f53-9573-7b7554daacc2" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/城市剧场.png",城市剧场
 http://39.77.161.85:4002/rtp/239.253.254.201:8000
 http://39.77.172.61:4002/rtp/239.253.254.201:8000
 http://39.77.25.56:4002/rtp/239.253.254.201:8000
 http://39.77.254.47:4002/rtp/239.253.254.201:8000
 http://39.77.26.75:4002/rtp/239.253.254.201:8000
-#EXTINF:-1 tvg-id="军旅剧场" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/军旅剧场.png",军旅剧场
+#EXTINF:-1 tvg-id="stream-3d168e52-18bb-40a5-9ec1-f99a2da0aa62" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/军旅剧场.png",军旅剧场
 http://39.77.161.85:4002/rtp/239.253.254.203:8000
 http://39.77.172.61:4002/rtp/239.253.254.203:8000
 http://39.77.25.56:4002/rtp/239.253.254.203:8000
 http://39.77.254.47:4002/rtp/239.253.254.203:8000
 http://39.77.26.75:4002/rtp/239.253.254.203:8000
-#EXTINF:-1 tvg-id="古装剧场" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/古装剧场.png",古装剧场
+#EXTINF:-1 tvg-id="stream-4c0f83a6-6fad-4d13-b626-9adb78e589bc" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/古装剧场.png",古装剧场
 http://39.77.161.85:4002/rtp/239.253.254.205:8000
 http://39.77.172.61:4002/rtp/239.253.254.205:8000
 http://39.77.25.56:4002/rtp/239.253.254.205:8000
 http://39.77.254.47:4002/rtp/239.253.254.205:8000
 http://39.77.26.75:4002/rtp/239.253.254.205:8000
-#EXTINF:-1 tvg-id="经典剧场" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/经典剧场.png",经典剧场
+#EXTINF:-1 tvg-id="stream-53ccc219-2fe0-4090-8994-ff8588a6d396" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/经典剧场.png",经典剧场
 http://39.77.161.85:4002/rtp/239.253.254.211:8000
 http://39.77.172.61:4002/rtp/239.253.254.211:8000
 http://39.77.25.56:4002/rtp/239.253.254.211:8000
 http://39.77.254.47:4002/rtp/239.253.254.211:8000
 http://39.77.26.75:4002/rtp/239.253.254.211:8000
-#EXTINF:-1 tvg-id="武侠剧场" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/武侠剧场.png",武侠剧场
+#EXTINF:-1 tvg-id="stream-a4b6e6d5-0b8e-4b19-b57a-e31e5e5975cd" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/武侠剧场.png",武侠剧场
 http://39.77.161.85:4002/rtp/239.253.254.212:8000
 http://39.77.172.61:4002/rtp/239.253.254.212:8000
 http://39.77.25.56:4002/rtp/239.253.254.212:8000
 http://39.77.254.47:4002/rtp/239.253.254.212:8000
 http://39.77.26.75:4002/rtp/239.253.254.212:8000
-#EXTINF:-1 tvg-id="热播剧场" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/热播剧场.png",热播剧场
+#EXTINF:-1 tvg-id="stream-98c156ef-e27f-4db8-8b73-123dad72fc93" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/热播剧场.png",热播剧场
 http://39.77.161.85:4002/rtp/239.253.254.125:8000
 http://39.77.172.61:4002/rtp/239.253.254.125:8000
 http://39.77.25.56:4002/rtp/239.253.254.125:8000
 http://39.77.254.47:4002/rtp/239.253.254.125:8000
 http://39.77.26.75:4002/rtp/239.253.254.125:8000
-#EXTINF:-1 tvg-id="红色影院" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/红色影院.png",红色影院
+#EXTINF:-1 tvg-id="stream-e32b235e-ba7d-425d-b23d-32e796d95982" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/红色影院.png",红色影院
 http://39.77.161.85:4002/rtp/239.253.254.209:8000
 http://39.77.172.61:4002/rtp/239.253.254.209:8000
 http://39.77.25.56:4002/rtp/239.253.254.209:8000
 http://39.77.254.47:4002/rtp/239.253.254.209:8000
 http://39.77.26.75:4002/rtp/239.253.254.209:8000
-#EXTINF:-1 tvg-id="家庭影院" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/家庭影院.png",家庭影院
+#EXTINF:-1 tvg-id="stream-ed784c20-eb95-43f3-9694-90169e38677c" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/家庭影院.png",家庭影院
 http://39.77.161.85:4002/rtp/239.253.254.218:8000
 http://39.77.172.61:4002/rtp/239.253.254.218:8000
 http://39.77.25.56:4002/rtp/239.253.254.218:8000
 http://39.77.254.47:4002/rtp/239.253.254.218:8000
 http://39.77.26.75:4002/rtp/239.253.254.218:8000
-#EXTINF:-1 tvg-id="喜剧影院" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/喜剧影院.png",喜剧影院
+#EXTINF:-1 tvg-id="stream-31daf315-9707-42d1-8c65-9450d4d81b53" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/喜剧影院.png",喜剧影院
 http://39.77.161.85:4002/rtp/239.253.254.220:8000
 http://39.77.172.61:4002/rtp/239.253.254.220:8000
 http://39.77.25.56:4002/rtp/239.253.254.220:8000
 http://39.77.254.47:4002/rtp/239.253.254.220:8000
 http://39.77.26.75:4002/rtp/239.253.254.220:8000
-#EXTINF:-1 tvg-id="动作影院" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/动作影院.png",动作影院
+#EXTINF:-1 tvg-id="stream-545471a7-6caa-4159-ba21-6417f206c050" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/动作影院.png",动作影院
 http://39.77.161.85:4002/rtp/239.253.254.221:8000
 http://39.77.172.61:4002/rtp/239.253.254.221:8000
 http://39.77.25.56:4002/rtp/239.253.254.221:8000
 http://39.77.254.47:4002/rtp/239.253.254.221:8000
 http://39.77.26.75:4002/rtp/239.253.254.221:8000
-#EXTINF:-1 tvg-id="足球" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/足球.png",足球
-http://39.77.161.85:4002/rtp/239.253.254.204:8000
-http://39.77.172.61:4002/rtp/239.253.254.204:8000
-http://39.77.25.56:4002/rtp/239.253.254.204:8000
-http://39.77.254.47:4002/rtp/239.253.254.204:8000
-http://39.77.26.75:4002/rtp/239.253.254.204:8000
-#EXTINF:-1 tvg-id="军事" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/军事.png",军事
-http://39.77.161.85:4002/rtp/239.253.254.207:8000
-http://39.77.172.61:4002/rtp/239.253.254.207:8000
-http://39.77.25.56:4002/rtp/239.253.254.207:8000
-http://39.77.254.47:4002/rtp/239.253.254.207:8000
-http://39.77.26.75:4002/rtp/239.253.254.207:8000
-#EXTINF:-1 tvg-id="地理" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/地理.png",地理
-http://39.77.161.85:4002/rtp/239.253.254.208:8000
-http://39.77.172.61:4002/rtp/239.253.254.208:8000
-http://39.77.25.56:4002/rtp/239.253.254.208:8000
-http://39.77.254.47:4002/rtp/239.253.254.208:8000
-http://39.77.26.75:4002/rtp/239.253.254.208:8000
-#EXTINF:-1 tvg-id="精选" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/精选.png",精选
-http://39.77.161.85:4002/rtp/239.253.254.210:8000
-http://39.77.172.61:4002/rtp/239.253.254.210:8000
-http://39.77.25.56:4002/rtp/239.253.254.210:8000
-http://39.77.254.47:4002/rtp/239.253.254.210:8000
-http://39.77.26.75:4002/rtp/239.253.254.210:8000
-#EXTINF:-1 tvg-id="美人" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/美人.png",美人
-http://39.77.161.85:4002/rtp/239.253.254.213:8000
-http://39.77.172.61:4002/rtp/239.253.254.213:8000
-http://39.77.25.56:4002/rtp/239.253.254.213:8000
-http://39.77.254.47:4002/rtp/239.253.254.213:8000
-http://39.77.26.75:4002/rtp/239.253.254.213:8000
-#EXTINF:-1 tvg-id="鉴赏" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/鉴赏.png",鉴赏
-http://39.77.161.85:4002/rtp/239.253.254.214:8000
-http://39.77.172.61:4002/rtp/239.253.254.214:8000
-http://39.77.25.56:4002/rtp/239.253.254.214:8000
-http://39.77.254.47:4002/rtp/239.253.254.214:8000
-http://39.77.26.75:4002/rtp/239.253.254.214:8000
-#EXTINF:-1 tvg-id="国学" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/国学.png",国学
-http://39.77.161.85:4002/rtp/239.253.254.215:8000
-http://39.77.172.61:4002/rtp/239.253.254.215:8000
-http://39.77.25.56:4002/rtp/239.253.254.215:8000
-http://39.77.254.47:4002/rtp/239.253.254.215:8000
-http://39.77.26.75:4002/rtp/239.253.254.215:8000
-#EXTINF:-1 tvg-id="星影" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/星影.png",星影
-http://39.77.161.85:4002/rtp/239.253.254.216:8000
-http://39.77.172.61:4002/rtp/239.253.254.216:8000
-http://39.77.25.56:4002/rtp/239.253.254.216:8000
-http://39.77.254.47:4002/rtp/239.253.254.216:8000
-http://39.77.26.75:4002/rtp/239.253.254.216:8000
-#EXTINF:-1 tvg-id="早教" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/早教.png",早教
-http://39.77.161.85:4002/rtp/239.253.254.217:8000
-http://39.77.172.61:4002/rtp/239.253.254.217:8000
-http://39.77.25.56:4002/rtp/239.253.254.217:8000
-http://39.77.254.47:4002/rtp/239.253.254.217:8000
-http://39.77.26.75:4002/rtp/239.253.254.217:8000
-#EXTINF:-1 tvg-id="墨宝" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/墨宝.png",墨宝
-http://39.77.161.85:4002/rtp/239.253.254.222:8000
-http://39.77.172.61:4002/rtp/239.253.254.222:8000
-http://39.77.25.56:4002/rtp/239.253.254.222:8000
-http://39.77.254.47:4002/rtp/239.253.254.222:8000
-http://39.77.26.75:4002/rtp/239.253.254.222:8000
-#EXTINF:-1 tvg-id="光影" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/光影.png",光影
-http://39.77.161.85:4002/rtp/239.253.254.223:8000
-http://39.77.172.61:4002/rtp/239.253.254.223:8000
-http://39.77.25.56:4002/rtp/239.253.254.223:8000
-http://39.77.254.47:4002/rtp/239.253.254.223:8000
-http://39.77.26.75:4002/rtp/239.253.254.223:8000
-#EXTINF:-1 tvg-id="戏曲" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/戏曲.png",戏曲
-http://39.77.161.85:4002/rtp/239.253.254.224:8000
-http://39.77.172.61:4002/rtp/239.253.254.224:8000
-http://39.77.25.56:4002/rtp/239.253.254.224:8000
-http://39.77.254.47:4002/rtp/239.253.254.224:8000
-http://39.77.26.75:4002/rtp/239.253.254.224:8000
-#EXTINF:-1 tvg-id="解密" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/解密.png",解密
-http://39.77.161.85:4002/rtp/239.253.254.226:8000
-http://39.77.172.61:4002/rtp/239.253.254.226:8000
-http://39.77.25.56:4002/rtp/239.253.254.226:8000
-http://39.77.254.47:4002/rtp/239.253.254.226:8000
-http://39.77.26.75:4002/rtp/239.253.254.226:8000
-#EXTINF:-1 tvg-id="武术" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/武术.png",武术
-http://39.77.161.85:4002/rtp/239.253.254.227:8000
-http://39.77.172.61:4002/rtp/239.253.254.227:8000
-http://39.77.25.56:4002/rtp/239.253.254.227:8000
-http://39.77.254.47:4002/rtp/239.253.254.227:8000
-http://39.77.26.75:4002/rtp/239.253.254.227:8000
-#EXTINF:-1 tvg-id="美妆" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/美妆.png",美妆
-http://39.77.161.85:4002/rtp/239.253.254.228:8000
-http://39.77.172.61:4002/rtp/239.253.254.228:8000
-http://39.77.25.56:4002/rtp/239.253.254.228:8000
-http://39.77.254.47:4002/rtp/239.253.254.228:8000
-http://39.77.26.75:4002/rtp/239.253.254.228:8000
-#EXTINF:-1 tvg-id="动画" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/动画.png",动画
-http://39.77.161.85:4002/rtp/239.253.254.229:8000
-http://39.77.172.61:4002/rtp/239.253.254.229:8000
-http://39.77.25.56:4002/rtp/239.253.254.229:8000
-http://39.77.254.47:4002/rtp/239.253.254.229:8000
-http://39.77.26.75:4002/rtp/239.253.254.229:8000
-#EXTINF:-1 tvg-id="好学生" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/好学生.png",好学生
-http://39.77.161.85:4002/rtp/239.253.254.219:8000
-http://39.77.172.61:4002/rtp/239.253.254.219:8000
-http://39.77.25.56:4002/rtp/239.253.254.219:8000
-http://39.77.254.47:4002/rtp/239.253.254.219:8000
-http://39.77.26.75:4002/rtp/239.253.254.219:8000
-#EXTINF:-1 tvg-id="音乐现场" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/音乐现场.png",音乐现场
-http://39.77.161.85:4002/rtp/239.253.254.202:8000
-http://39.77.172.61:4002/rtp/239.253.254.202:8000
-http://39.77.25.56:4002/rtp/239.253.254.202:8000
-http://39.77.254.47:4002/rtp/239.253.254.202:8000
-http://39.77.26.75:4002/rtp/239.253.254.202:8000
-#EXTINF:-1 tvg-id="经典电影" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/经典电影.png",经典电影
+#EXTINF:-1 tvg-id="stream-9416f264-19a5-413b-b46a-c0bb86e412c6" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/经典电影.png",经典电影
 http://39.77.161.85:4002/rtp/239.253.254.126:8000
 http://39.77.172.61:4002/rtp/239.253.254.126:8000
 http://39.77.25.56:4002/rtp/239.253.254.126:8000
 http://39.77.254.47:4002/rtp/239.253.254.126:8000
 http://39.77.26.75:4002/rtp/239.253.254.126:8000
-#EXTINF:-1 tvg-id="少儿动画" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/少儿动画.png",少儿动画
-http://39.77.161.85:4002/rtp/239.253.254.127:8000
-http://39.77.172.61:4002/rtp/239.253.254.127:8000
-http://39.77.25.56:4002/rtp/239.253.254.127:8000
-http://39.77.254.47:4002/rtp/239.253.254.127:8000
-http://39.77.26.75:4002/rtp/239.253.254.127:8000
-#EXTINF:-1 tvg-id="相声小品" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/相声小品.png",相声小品
+#EXTINF:-1 tvg-id="stream-03deafc6-b8f8-484b-990e-dea04c594e37" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/相声小品.png",相声小品
 http://39.77.161.85:4002/rtp/239.253.254.136:8000
 http://39.77.172.61:4002/rtp/239.253.254.136:8000
 http://39.77.25.56:4002/rtp/239.253.254.136:8000
 http://39.77.254.47:4002/rtp/239.253.254.136:8000
 http://39.77.26.75:4002/rtp/239.253.254.136:8000
-#EXTINF:-1 tvg-id="魅力时尚" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/魅力时尚.png",魅力时尚
-http://39.77.161.85:4002/rtp/239.253.254.130:8000
-http://39.77.172.61:4002/rtp/239.253.254.130:8000
-http://39.77.25.56:4002/rtp/239.253.254.130:8000
-http://39.77.254.47:4002/rtp/239.253.254.130:8000
-http://39.77.26.75:4002/rtp/239.253.254.130:8000
-#EXTINF:-1 tvg-id="IPTV野外" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/IPTV野外.png",IPTV野外
-http://39.77.161.85:4002/rtp/239.253.254.137:8000
-http://39.77.172.61:4002/rtp/239.253.254.137:8000
-http://39.77.25.56:4002/rtp/239.253.254.137:8000
-http://39.77.254.47:4002/rtp/239.253.254.137:8000
-http://39.77.26.75:4002/rtp/239.253.254.137:8000
-#EXTINF:-1 tvg-id="IPTV法治" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/IPTV法治.png",IPTV法治
-http://39.77.161.85:4002/rtp/239.253.254.138:8000
-http://39.77.172.61:4002/rtp/239.253.254.138:8000
-http://39.77.25.56:4002/rtp/239.253.254.138:8000
-http://39.77.254.47:4002/rtp/239.253.254.138:8000
-http://39.77.26.75:4002/rtp/239.253.254.138:8000
-#EXTINF:-1 tvg-id="爱体育" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/爱体育.png",爱体育
-http://39.77.161.85:4002/rtp/239.253.254.109:8000
-http://39.77.172.61:4002/rtp/239.253.254.109:8000
-http://39.77.25.56:4002/rtp/239.253.254.109:8000
-http://39.77.254.47:4002/rtp/239.253.254.109:8000
-http://39.77.26.75:4002/rtp/239.253.254.109:8000
-#EXTINF:-1 tvg-id="爱生活" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/爱生活.png",爱生活
-http://39.77.161.85:4002/rtp/239.253.254.225:8000
-http://39.77.172.61:4002/rtp/239.253.254.225:8000
-http://39.77.25.56:4002/rtp/239.253.254.225:8000
-http://39.77.254.47:4002/rtp/239.253.254.225:8000
-http://39.77.26.75:4002/rtp/239.253.254.225:8000
-#EXTINF:-1 tvg-id="爱综艺" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/爱综艺.png",爱综艺
-http://39.77.161.85:4002/rtp/239.253.254.129:8000
-http://39.77.172.61:4002/rtp/239.253.254.129:8000
-http://39.77.25.56:4002/rtp/239.253.254.129:8000
-http://39.77.254.47:4002/rtp/239.253.254.129:8000
-http://39.77.26.75:4002/rtp/239.253.254.129:8000
-#EXTINF:-1 tvg-id="爱体育" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/爱体育.png",爱体育
-http://39.77.161.85:4002/rtp/239.253.254.131:8000
-http://39.77.172.61:4002/rtp/239.253.254.131:8000
-http://39.77.25.56:4002/rtp/239.253.254.131:8000
-http://39.77.254.47:4002/rtp/239.253.254.131:8000
-http://39.77.26.75:4002/rtp/239.253.254.131:8000
-#EXTINF:-1 tvg-id="爱电影" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/爱电影.png",爱电影
+#EXTINF:-1 tvg-id="stream-06455a4c-ad1f-485f-8d5e-57adb8b06c2a" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/爱电影.png",爱电影
 http://39.77.161.85:4002/rtp/239.253.254.128:8000
 http://39.77.172.61:4002/rtp/239.253.254.128:8000
 http://39.77.25.56:4002/rtp/239.253.254.128:8000
 http://39.77.254.47:4002/rtp/239.253.254.128:8000
 http://39.77.26.75:4002/rtp/239.253.254.128:8000
-#EXTINF:-1 tvg-id="爱大剧" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/爱大剧.png",爱大剧
+#EXTINF:-1 tvg-id="stream-f8236a8c-b61c-4170-b47e-42bea7d506bf" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/爱大剧.png",爱大剧
 http://39.77.161.85:4002/rtp/239.253.254.132:8000
 http://39.77.172.61:4002/rtp/239.253.254.132:8000
 http://39.77.25.56:4002/rtp/239.253.254.132:8000
 http://39.77.254.47:4002/rtp/239.253.254.132:8000
 http://39.77.26.75:4002/rtp/239.253.254.132:8000
-#EXTINF:-1 tvg-id="海看演艺" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/海看演艺.png",海看演艺
-http://39.77.161.85:4002/rtp/239.253.254.158:8000
-http://39.77.172.61:4002/rtp/239.253.254.158:8000
-http://39.77.25.56:4002/rtp/239.253.254.158:8000
-http://39.77.254.47:4002/rtp/239.253.254.158:8000
-http://39.77.26.75:4002/rtp/239.253.254.158:8000
-#EXTINF:-1 tvg-id="收视指南" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/收视指南.png",收视指南
-http://39.77.161.85:4002/rtp/239.253.254.124:8000
-http://39.77.172.61:4002/rtp/239.253.254.124:8000
-http://39.77.25.56:4002/rtp/239.253.254.124:8000
-http://39.77.254.47:4002/rtp/239.253.254.124:8000
-http://39.77.26.75:4002/rtp/239.253.254.124:8000
+
 
 
 
