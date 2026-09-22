@@ -3377,46 +3377,46 @@ http://192.168.2.98:34708/play?id=570&proxy=1
 http://192.168.2.98:34708/play?id=486&proxy=1
 #EXTINF:-1 tvg-id="487" tvg-name="Canal+ Sport 2 Afrique" group-title="Sports",Canal+ Sport 2 Afrique
 http://192.168.2.98:34708/play?id=487&proxy=1
-#EXTINF:-1 tvg-id="1043" tvg-name="Canal+ Sport 2 CZ" group-title="Sports",Canal+ Sport 2 CZ
-http://192.168.2.98:34708/play?id=1043&proxy=1
-#EXTINF:-1 tvg-id="73" tvg-name="Canal+ Sport 2 Poland" group-title="Sports",Canal+ Sport 2 Poland
-http://192.168.2.98:34708/play?id=73&proxy=1
-#EXTINF:-1 tvg-id="1064" tvg-name="Canal+ Sport 2 SK" group-title="Sports",Canal+ Sport 2 SK
-http://192.168.2.98:34708/play?id=1064&proxy=1
 #EXTINF:-1 tvg-id="488" tvg-name="Canal+ Sport 3 Afrique" group-title="Sports",Canal+ Sport 3 Afrique
 http://192.168.2.98:34708/play?id=488&proxy=1
-#EXTINF:-1 tvg-id="1044" tvg-name="Canal+ Sport 3 CZ" group-title="Sports",Canal+ Sport 3 CZ
-http://192.168.2.98:34708/play?id=1044&proxy=1
-#EXTINF:-1 tvg-id="259" tvg-name="Canal+ Sport 3 Poland" group-title="Sports",Canal+ Sport 3 Poland
-http://192.168.2.98:34708/play?id=259&proxy=1
-#EXTINF:-1 tvg-id="1065" tvg-name="Canal+ Sport 3 SK" group-title="Sports",Canal+ Sport 3 SK
-http://192.168.2.98:34708/play?id=1065&proxy=1
 #EXTINF:-1 tvg-id="489" tvg-name="Canal+ Sport 4 Afrique" group-title="Sports",Canal+ Sport 4 Afrique
 http://192.168.2.98:34708/play?id=489&proxy=1
-#EXTINF:-1 tvg-id="1045" tvg-name="Canal+ Sport 4 CZ" group-title="Sports",Canal+ Sport 4 CZ
-http://192.168.2.98:34708/play?id=1045&proxy=1
-#EXTINF:-1 tvg-id="1066" tvg-name="Canal+ Sport 4 SK" group-title="Sports",Canal+ Sport 4 SK
-http://192.168.2.98:34708/play?id=1066&proxy=1
 #EXTINF:-1 tvg-id="490" tvg-name="Canal+ Sport 5 Afrique" group-title="Sports",Canal+ Sport 5 Afrique
 http://192.168.2.98:34708/play?id=490&proxy=1
+#EXTINF:-1 tvg-id="1020" tvg-name="Canal+ Sport CZ" group-title="Sports",Canal+ Sport CZ
+http://192.168.2.98:34708/play?id=1020&proxy=1
+#EXTINF:-1 tvg-id="1043" tvg-name="Canal+ Sport 2 CZ" group-title="Sports",Canal+ Sport 2 CZ
+http://192.168.2.98:34708/play?id=1043&proxy=1
+#EXTINF:-1 tvg-id="1044" tvg-name="Canal+ Sport 3 CZ" group-title="Sports",Canal+ Sport 3 CZ
+http://192.168.2.98:34708/play?id=1044&proxy=1
+#EXTINF:-1 tvg-id="1045" tvg-name="Canal+ Sport 4 CZ" group-title="Sports",Canal+ Sport 4 CZ
+http://192.168.2.98:34708/play?id=1045&proxy=1
 #EXTINF:-1 tvg-id="1046" tvg-name="Canal+ Sport 5 CZ" group-title="Sports",Canal+ Sport 5 CZ
 http://192.168.2.98:34708/play?id=1046&proxy=1
-#EXTINF:-1 tvg-id="75" tvg-name="Canal+ Sport 5 Poland" group-title="Sports",Canal+ Sport 5 Poland
-http://192.168.2.98:34708/play?id=75&proxy=1
 #EXTINF:-1 tvg-id="1047" tvg-name="Canal+ Sport 6 CZ" group-title="Sports",Canal+ Sport 6 CZ
 http://192.168.2.98:34708/play?id=1047&proxy=1
 #EXTINF:-1 tvg-id="1048" tvg-name="Canal+ Sport 7 CZ" group-title="Sports",Canal+ Sport 7 CZ
 http://192.168.2.98:34708/play?id=1048&proxy=1
 #EXTINF:-1 tvg-id="1049" tvg-name="Canal+ Sport 8 CZ" group-title="Sports",Canal+ Sport 8 CZ
 http://192.168.2.98:34708/play?id=1049&proxy=1
-#EXTINF:-1 tvg-id="1020" tvg-name="Canal+ Sport CZ" group-title="Sports",Canal+ Sport CZ
-http://192.168.2.98:34708/play?id=1020&proxy=1
-#EXTINF:-1 tvg-id="122" tvg-name="Canal+ Sport France" group-title="Sports",Canal+ Sport France
-http://192.168.2.98:34708/play?id=122&proxy=1
 #EXTINF:-1 tvg-id="48" tvg-name="Canal+ Sport Poland" group-title="Sports",Canal+ Sport Poland
 http://192.168.2.98:34708/play?id=48&proxy=1
+#EXTINF:-1 tvg-id="73" tvg-name="Canal+ Sport 2 Poland" group-title="Sports",Canal+ Sport 2 Poland
+http://192.168.2.98:34708/play?id=73&proxy=1
+#EXTINF:-1 tvg-id="259" tvg-name="Canal+ Sport 3 Poland" group-title="Sports",Canal+ Sport 3 Poland
+http://192.168.2.98:34708/play?id=259&proxy=1
+#EXTINF:-1 tvg-id="75" tvg-name="Canal+ Sport 5 Poland" group-title="Sports",Canal+ Sport 5 Poland
+http://192.168.2.98:34708/play?id=75&proxy=1
 #EXTINF:-1 tvg-id="1063" tvg-name="Canal+ Sport SK" group-title="Sports",Canal+ Sport SK
 http://192.168.2.98:34708/play?id=1063&proxy=1
+#EXTINF:-1 tvg-id="1064" tvg-name="Canal+ Sport 2 SK" group-title="Sports",Canal+ Sport 2 SK
+http://192.168.2.98:34708/play?id=1064&proxy=1
+#EXTINF:-1 tvg-id="1065" tvg-name="Canal+ Sport 3 SK" group-title="Sports",Canal+ Sport 3 SK
+http://192.168.2.98:34708/play?id=1065&proxy=1
+#EXTINF:-1 tvg-id="1066" tvg-name="Canal+ Sport 4 SK" group-title="Sports",Canal+ Sport 4 SK
+http://192.168.2.98:34708/play?id=1066&proxy=1
+#EXTINF:-1 tvg-id="122" tvg-name="Canal+ Sport France" group-title="Sports",Canal+ Sport France
+http://192.168.2.98:34708/play?id=122&proxy=1
 #EXTINF:-1 tvg-id="464" tvg-name="Canal+ Sport360" group-title="Sports",Canal+ Sport360
 http://192.168.2.98:34708/play?id=464&proxy=1
 #EXTINF:-1 tvg-id="776" tvg-name="Chicago Sports Network" group-title="Sports",Chicago Sports Network
@@ -3439,12 +3439,10 @@ http://192.168.2.98:34708/play?id=916&proxy=1
 http://192.168.2.98:34708/play?id=917&proxy=1
 #EXTINF:-1 tvg-id="426" tvg-name="DAZN 1 Bar DE" group-title="Sports",DAZN 1 Bar DE
 http://192.168.2.98:34708/play?id=426&proxy=1
-#EXTINF:-1 tvg-id="445" tvg-name="DAZN 1 Spain" group-title="Sports",DAZN 1 Spain
-http://192.168.2.98:34708/play?id=445&proxy=1
-#EXTINF:-1 tvg-id="230" tvg-name="DAZN 1 UK" group-title="Sports",DAZN 1 UK
-http://192.168.2.98:34708/play?id=230&proxy=1
 #EXTINF:-1 tvg-id="427" tvg-name="DAZN 2 Bar DE" group-title="Sports",DAZN 2 Bar DE
 http://192.168.2.98:34708/play?id=427&proxy=1
+#EXTINF:-1 tvg-id="445" tvg-name="DAZN 1 Spain" group-title="Sports",DAZN 1 Spain
+http://192.168.2.98:34708/play?id=445&proxy=1
 #EXTINF:-1 tvg-id="446" tvg-name="DAZN 2 Spain" group-title="Sports",DAZN 2 Spain
 http://192.168.2.98:34708/play?id=446&proxy=1
 #EXTINF:-1 tvg-id="447" tvg-name="DAZN 3 Spain" group-title="Sports",DAZN 3 Spain
@@ -3455,18 +3453,20 @@ http://192.168.2.98:34708/play?id=448&proxy=1
 http://192.168.2.98:34708/play?id=537&proxy=1
 #EXTINF:-1 tvg-id="538" tvg-name="DAZN LaLiga" group-title="Sports",DAZN LaLiga
 http://192.168.2.98:34708/play?id=538&proxy=1
+#EXTINF:-1 tvg-id="230" tvg-name="DAZN 1 UK" group-title="Sports",DAZN 1 UK
+http://192.168.2.98:34708/play?id=230&proxy=1
 #EXTINF:-1 tvg-id="960" tvg-name="DAZN Ligue 1 France" group-title="Sports",DAZN Ligue 1 France
 http://192.168.2.98:34708/play?id=960&proxy=1
 #EXTINF:-1 tvg-id="918" tvg-name="DAZN Portugal FIFA Mundial de Clubes" group-title="Sports",DAZN Portugal FIFA Mundial de Clubes
 http://192.168.2.98:34708/play?id=918&proxy=1
 #EXTINF:-1 tvg-id="877" tvg-name="DAZN ZONA Italy" group-title="Sports",DAZN ZONA Italy
 http://192.168.2.98:34708/play?id=877&proxy=1
+#EXTINF:-1 tvg-id="465" tvg-name="Diema Sport Bulgaria" group-title="Sports",Diema Sport Bulgaria
+http://192.168.2.98:34708/play?id=465&proxy=1
 #EXTINF:-1 tvg-id="466" tvg-name="Diema Sport 2 Bulgaria" group-title="Sports",Diema Sport 2 Bulgaria
 http://192.168.2.98:34708/play?id=466&proxy=1
 #EXTINF:-1 tvg-id="467" tvg-name="Diema Sport 3 Bulgaria" group-title="Sports",Diema Sport 3 Bulgaria
 http://192.168.2.98:34708/play?id=467&proxy=1
-#EXTINF:-1 tvg-id="465" tvg-name="Diema Sport Bulgaria" group-title="Sports",Diema Sport Bulgaria
-http://192.168.2.98:34708/play?id=465&proxy=1
 #EXTINF:-1 tvg-id="400" tvg-name="Digi Sport 1 Romania" group-title="Sports",Digi Sport 1 Romania
 http://192.168.2.98:34708/play?id=400&proxy=1
 #EXTINF:-1 tvg-id="401" tvg-name="Digi Sport 2 Romania" group-title="Sports",Digi Sport 2 Romania
@@ -3485,90 +3485,90 @@ http://192.168.2.98:34708/play?id=605&proxy=1
 http://192.168.2.98:34708/play?id=606&proxy=1
 #EXTINF:-1 tvg-id="925" tvg-name="ESPN 1 MX" group-title="Sports",ESPN 1 MX
 http://192.168.2.98:34708/play?id=925&proxy=1
-#EXTINF:-1 tvg-id="379" tvg-name="ESPN 1 NL" group-title="Sports",ESPN 1 NL
-http://192.168.2.98:34708/play?id=379&proxy=1
 #EXTINF:-1 tvg-id="926" tvg-name="ESPN 2 MX" group-title="Sports",ESPN 2 MX
 http://192.168.2.98:34708/play?id=926&proxy=1
-#EXTINF:-1 tvg-id="386" tvg-name="ESPN 2 NL" group-title="Sports",ESPN 2 NL
-http://192.168.2.98:34708/play?id=386&proxy=1
 #EXTINF:-1 tvg-id="927" tvg-name="ESPN 3 MX" group-title="Sports",ESPN 3 MX
 http://192.168.2.98:34708/play?id=927&proxy=1
-#EXTINF:-1 tvg-id="888" tvg-name="ESPN 3 NL" group-title="Sports",ESPN 3 NL
-http://192.168.2.98:34708/play?id=888&proxy=1
 #EXTINF:-1 tvg-id="928" tvg-name="ESPN 4 MX" group-title="Sports",ESPN 4 MX
 http://192.168.2.98:34708/play?id=928&proxy=1
-#EXTINF:-1 tvg-id="149" tvg-name="ESPN Argentina" group-title="Sports",ESPN Argentina
-http://192.168.2.98:34708/play?id=149&proxy=1
+#EXTINF:-1 tvg-id="379" tvg-name="ESPN 1 NL" group-title="Sports",ESPN 1 NL
+http://192.168.2.98:34708/play?id=379&proxy=1
+#EXTINF:-1 tvg-id="386" tvg-name="ESPN 2 NL" group-title="Sports",ESPN 2 NL
+http://192.168.2.98:34708/play?id=386&proxy=1
+#EXTINF:-1 tvg-id="888" tvg-name="ESPN 3 NL" group-title="Sports",ESPN 3 NL
+http://192.168.2.98:34708/play?id=888&proxy=1
 #EXTINF:-1 tvg-id="81" tvg-name="ESPN Brasil" group-title="Sports",ESPN Brasil
 http://192.168.2.98:34708/play?id=81&proxy=1
-#EXTINF:-1 tvg-id="375" tvg-name="ESPN Deportes" group-title="Sports",ESPN Deportes
-http://192.168.2.98:34708/play?id=375&proxy=1
-#EXTINF:-1 tvg-id="387" tvg-name="ESPN Premium Argentina" group-title="Sports",ESPN Premium Argentina
-http://192.168.2.98:34708/play?id=387&proxy=1
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN USA" group-title="Sports",ESPN USA
-http://192.168.2.98:34708/play?id=44&proxy=1
-#EXTINF:-1 tvg-id="150" tvg-name="ESPN2 Argentina" group-title="Sports",ESPN2 Argentina
-http://192.168.2.98:34708/play?id=150&proxy=1
 #EXTINF:-1 tvg-id="82" tvg-name="ESPN2 Brasil" group-title="Sports",ESPN2 Brasil
 http://192.168.2.98:34708/play?id=82&proxy=1
-#EXTINF:-1 tvg-id="45" tvg-name="ESPN2 USA" group-title="Sports",ESPN2 USA
-http://192.168.2.98:34708/play?id=45&proxy=1
-#EXTINF:-1 tvg-id="798" tvg-name="ESPN3 Argentina" group-title="Sports",ESPN3 Argentina
-http://192.168.2.98:34708/play?id=798&proxy=1
 #EXTINF:-1 tvg-id="83" tvg-name="ESPN3 Brasil" group-title="Sports",ESPN3 Brasil
 http://192.168.2.98:34708/play?id=83&proxy=1
 #EXTINF:-1 tvg-id="85" tvg-name="ESPN4 Brasil" group-title="Sports",ESPN4 Brasil
 http://192.168.2.98:34708/play?id=85&proxy=1
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN USA" group-title="Sports",ESPN USA
+http://192.168.2.98:34708/play?id=44&proxy=1
+#EXTINF:-1 tvg-id="45" tvg-name="ESPN2 USA" group-title="Sports",ESPN2 USA
+http://192.168.2.98:34708/play?id=45&proxy=1
 #EXTINF:-1 tvg-id="316" tvg-name="ESPNU USA" group-title="Sports",ESPNU USA
 http://192.168.2.98:34708/play?id=316&proxy=1
 #EXTINF:-1 tvg-id="288" tvg-name="ESPNews" group-title="Sports",ESPNews
 http://192.168.2.98:34708/play?id=288&proxy=1
+#EXTINF:-1 tvg-id="375" tvg-name="ESPN Deportes" group-title="Sports",ESPN Deportes
+http://192.168.2.98:34708/play?id=375&proxy=1
+#EXTINF:-1 tvg-id="149" tvg-name="ESPN Argentina" group-title="Sports",ESPN Argentina
+http://192.168.2.98:34708/play?id=149&proxy=1
+#EXTINF:-1 tvg-id="150" tvg-name="ESPN2 Argentina" group-title="Sports",ESPN2 Argentina
+http://192.168.2.98:34708/play?id=150&proxy=1
+#EXTINF:-1 tvg-id="798" tvg-name="ESPN3 Argentina" group-title="Sports",ESPN3 Argentina
+http://192.168.2.98:34708/play?id=798&proxy=1
+#EXTINF:-1 tvg-id="387" tvg-name="ESPN Premium Argentina" group-title="Sports",ESPN Premium Argentina
+http://192.168.2.98:34708/play?id=387&proxy=1
 #EXTINF:-1 tvg-id="71" tvg-name="Eleven Sports 1 Poland" group-title="Sports",Eleven Sports 1 Poland
 http://192.168.2.98:34708/play?id=71&proxy=1
-#EXTINF:-1 tvg-id="455" tvg-name="Eleven Sports 1 Portugal" group-title="Sports",Eleven Sports 1 Portugal
-http://192.168.2.98:34708/play?id=455&proxy=1
 #EXTINF:-1 tvg-id="72" tvg-name="Eleven Sports 2 Poland" group-title="Sports",Eleven Sports 2 Poland
 http://192.168.2.98:34708/play?id=72&proxy=1
-#EXTINF:-1 tvg-id="456" tvg-name="Eleven Sports 2 Portugal" group-title="Sports",Eleven Sports 2 Portugal
-http://192.168.2.98:34708/play?id=456&proxy=1
 #EXTINF:-1 tvg-id="428" tvg-name="Eleven Sports 3 Poland" group-title="Sports",Eleven Sports 3 Poland
 http://192.168.2.98:34708/play?id=428&proxy=1
-#EXTINF:-1 tvg-id="457" tvg-name="Eleven Sports 3 Portugal" group-title="Sports",Eleven Sports 3 Portugal
-http://192.168.2.98:34708/play?id=457&proxy=1
 #EXTINF:-1 tvg-id="999" tvg-name="Eleven Sports 4 Poland" group-title="Sports",Eleven Sports 4 Poland
 http://192.168.2.98:34708/play?id=999&proxy=1
+#EXTINF:-1 tvg-id="455" tvg-name="Eleven Sports 1 Portugal" group-title="Sports",Eleven Sports 1 Portugal
+http://192.168.2.98:34708/play?id=455&proxy=1
+#EXTINF:-1 tvg-id="456" tvg-name="Eleven Sports 2 Portugal" group-title="Sports",Eleven Sports 2 Portugal
+http://192.168.2.98:34708/play?id=456&proxy=1
+#EXTINF:-1 tvg-id="457" tvg-name="Eleven Sports 3 Portugal" group-title="Sports",Eleven Sports 3 Portugal
+http://192.168.2.98:34708/play?id=457&proxy=1
 #EXTINF:-1 tvg-id="458" tvg-name="Eleven Sports 4 Portugal" group-title="Sports",Eleven Sports 4 Portugal
 http://192.168.2.98:34708/play?id=458&proxy=1
 #EXTINF:-1 tvg-id="459" tvg-name="Eleven Sports 5 Portugal" group-title="Sports",Eleven Sports 5 Portugal
 http://192.168.2.98:34708/play?id=459&proxy=1
 #EXTINF:-1 tvg-id="41" tvg-name="EuroSport 1 Greece" group-title="Sports",EuroSport 1 Greece
 http://192.168.2.98:34708/play?id=41&proxy=1
-#EXTINF:-1 tvg-id="878" tvg-name="EuroSport 1 Italy" group-title="Sports",EuroSport 1 Italy
-http://192.168.2.98:34708/play?id=878&proxy=1
-#EXTINF:-1 tvg-id="57" tvg-name="EuroSport 1 Poland" group-title="Sports",EuroSport 1 Poland
-http://192.168.2.98:34708/play?id=57&proxy=1
-#EXTINF:-1 tvg-id="524" tvg-name="EuroSport 1 Spain" group-title="Sports",EuroSport 1 Spain
-http://192.168.2.98:34708/play?id=524&proxy=1
 #EXTINF:-1 tvg-id="42" tvg-name="EuroSport 2 Greece" group-title="Sports",EuroSport 2 Greece
 http://192.168.2.98:34708/play?id=42&proxy=1
+#EXTINF:-1 tvg-id="878" tvg-name="EuroSport 1 Italy" group-title="Sports",EuroSport 1 Italy
+http://192.168.2.98:34708/play?id=878&proxy=1
 #EXTINF:-1 tvg-id="879" tvg-name="EuroSport 2 Italy" group-title="Sports",EuroSport 2 Italy
 http://192.168.2.98:34708/play?id=879&proxy=1
+#EXTINF:-1 tvg-id="57" tvg-name="EuroSport 1 Poland" group-title="Sports",EuroSport 1 Poland
+http://192.168.2.98:34708/play?id=57&proxy=1
 #EXTINF:-1 tvg-id="58" tvg-name="EuroSport 2 Poland" group-title="Sports",EuroSport 2 Poland
 http://192.168.2.98:34708/play?id=58&proxy=1
+#EXTINF:-1 tvg-id="524" tvg-name="EuroSport 1 Spain" group-title="Sports",EuroSport 1 Spain
+http://192.168.2.98:34708/play?id=524&proxy=1
 #EXTINF:-1 tvg-id="525" tvg-name="EuroSport 2 Spain" group-title="Sports",EuroSport 2 Spain
 http://192.168.2.98:34708/play?id=525&proxy=1
-#EXTINF:-1 tvg-id="772" tvg-name="Eurosport 1 France" group-title="Sports",Eurosport 1 France
-http://192.168.2.98:34708/play?id=772&proxy=1
 #EXTINF:-1 tvg-id="233" tvg-name="Eurosport 1 NL" group-title="Sports",Eurosport 1 NL
 http://192.168.2.98:34708/play?id=233&proxy=1
-#EXTINF:-1 tvg-id="231" tvg-name="Eurosport 1 SW" group-title="Sports",Eurosport 1 SW
-http://192.168.2.98:34708/play?id=231&proxy=1
-#EXTINF:-1 tvg-id="773" tvg-name="Eurosport 2 France" group-title="Sports",Eurosport 2 France
-http://192.168.2.98:34708/play?id=773&proxy=1
 #EXTINF:-1 tvg-id="234" tvg-name="Eurosport 2 NL" group-title="Sports",Eurosport 2 NL
 http://192.168.2.98:34708/play?id=234&proxy=1
+#EXTINF:-1 tvg-id="231" tvg-name="Eurosport 1 SW" group-title="Sports",Eurosport 1 SW
+http://192.168.2.98:34708/play?id=231&proxy=1
 #EXTINF:-1 tvg-id="232" tvg-name="Eurosport 2 SW" group-title="Sports",Eurosport 2 SW
 http://192.168.2.98:34708/play?id=232&proxy=1
+#EXTINF:-1 tvg-id="772" tvg-name="Eurosport 1 France" group-title="Sports",Eurosport 1 France
+http://192.168.2.98:34708/play?id=772&proxy=1
+#EXTINF:-1 tvg-id="773" tvg-name="Eurosport 2 France" group-title="Sports",Eurosport 2 France
+http://192.168.2.98:34708/play?id=773&proxy=1
 #EXTINF:-1 tvg-id="820" tvg-name="FOX Sports 502 AU" group-title="Sports",FOX Sports 502 AU
 http://192.168.2.98:34708/play?id=820&proxy=1
 #EXTINF:-1 tvg-id="821" tvg-name="FOX Sports 503 AU" group-title="Sports",FOX Sports 503 AU
@@ -3609,24 +3609,24 @@ http://192.168.2.98:34708/play?id=907&proxy=1
 http://192.168.2.98:34708/play?id=757&proxy=1
 #EXTINF:-1 tvg-id="369" tvg-name="Fox Cricket" group-title="Sports",Fox Cricket
 http://192.168.2.98:34708/play?id=369&proxy=1
-#EXTINF:-1 tvg-id="929" tvg-name="Fox Sports 1 MX" group-title="Sports",Fox Sports 1 MX
-http://192.168.2.98:34708/play?id=929&proxy=1
 #EXTINF:-1 tvg-id="39" tvg-name="Fox Sports 1 USA" group-title="Sports",Fox Sports 1 USA
 http://192.168.2.98:34708/play?id=39&proxy=1
-#EXTINF:-1 tvg-id="788" tvg-name="Fox Sports 2 Argentina" group-title="Sports",Fox Sports 2 Argentina
-http://192.168.2.98:34708/play?id=788&proxy=1
-#EXTINF:-1 tvg-id="930" tvg-name="Fox Sports 2 MX" group-title="Sports",Fox Sports 2 MX
-http://192.168.2.98:34708/play?id=930&proxy=1
 #EXTINF:-1 tvg-id="758" tvg-name="Fox Sports 2 USA" group-title="Sports",Fox Sports 2 USA
 http://192.168.2.98:34708/play?id=758&proxy=1
-#EXTINF:-1 tvg-id="789" tvg-name="Fox Sports 3 Argentina" group-title="Sports",Fox Sports 3 Argentina
-http://192.168.2.98:34708/play?id=789&proxy=1
+#EXTINF:-1 tvg-id="929" tvg-name="Fox Sports 1 MX" group-title="Sports",Fox Sports 1 MX
+http://192.168.2.98:34708/play?id=929&proxy=1
+#EXTINF:-1 tvg-id="930" tvg-name="Fox Sports 2 MX" group-title="Sports",Fox Sports 2 MX
+http://192.168.2.98:34708/play?id=930&proxy=1
 #EXTINF:-1 tvg-id="931" tvg-name="Fox Sports 3 MX" group-title="Sports",Fox Sports 3 MX
 http://192.168.2.98:34708/play?id=931&proxy=1
-#EXTINF:-1 tvg-id="787" tvg-name="Fox Sports Argentina" group-title="Sports",Fox Sports Argentina
-http://192.168.2.98:34708/play?id=787&proxy=1
 #EXTINF:-1 tvg-id="830" tvg-name="Fox Sports Premium MX" group-title="Sports",Fox Sports Premium MX
 http://192.168.2.98:34708/play?id=830&proxy=1
+#EXTINF:-1 tvg-id="787" tvg-name="Fox Sports Argentina" group-title="Sports",Fox Sports Argentina
+http://192.168.2.98:34708/play?id=787&proxy=1
+#EXTINF:-1 tvg-id="788" tvg-name="Fox Sports 2 Argentina" group-title="Sports",Fox Sports 2 Argentina
+http://192.168.2.98:34708/play?id=788&proxy=1
+#EXTINF:-1 tvg-id="789" tvg-name="Fox Sports 3 Argentina" group-title="Sports",Fox Sports 3 Argentina
+http://192.168.2.98:34708/play?id=789&proxy=1
 #EXTINF:-1 tvg-id="318" tvg-name="GOLF Channel USA" group-title="Sports",GOLF Channel USA
 http://192.168.2.98:34708/play?id=318&proxy=1
 #EXTINF:-1 tvg-id="539" tvg-name="LaLiga SmartBank TV" group-title="Sports",LaLiga SmartBank TV
@@ -3661,16 +3661,16 @@ http://192.168.2.98:34708/play?id=770&proxy=1
 http://192.168.2.98:34708/play?id=573&proxy=1
 #EXTINF:-1 tvg-id="472" tvg-name="Max Sport 1 Bulgaria" group-title="Sports",Max Sport 1 Bulgaria
 http://192.168.2.98:34708/play?id=472&proxy=1
-#EXTINF:-1 tvg-id="779" tvg-name="Max Sport 1 Croatia" group-title="Sports",Max Sport 1 Croatia
-http://192.168.2.98:34708/play?id=779&proxy=1
 #EXTINF:-1 tvg-id="473" tvg-name="Max Sport 2 Bulgaria" group-title="Sports",Max Sport 2 Bulgaria
 http://192.168.2.98:34708/play?id=473&proxy=1
-#EXTINF:-1 tvg-id="780" tvg-name="Max Sport 2 Croatia" group-title="Sports",Max Sport 2 Croatia
-http://192.168.2.98:34708/play?id=780&proxy=1
 #EXTINF:-1 tvg-id="474" tvg-name="Max Sport 3 Bulgaria" group-title="Sports",Max Sport 3 Bulgaria
 http://192.168.2.98:34708/play?id=474&proxy=1
 #EXTINF:-1 tvg-id="475" tvg-name="Max Sport 4 Bulgaria" group-title="Sports",Max Sport 4 Bulgaria
 http://192.168.2.98:34708/play?id=475&proxy=1
+#EXTINF:-1 tvg-id="779" tvg-name="Max Sport 1 Croatia" group-title="Sports",Max Sport 1 Croatia
+http://192.168.2.98:34708/play?id=779&proxy=1
+#EXTINF:-1 tvg-id="780" tvg-name="Max Sport 2 Croatia" group-title="Sports",Max Sport 2 Croatia
+http://192.168.2.98:34708/play?id=780&proxy=1
 #EXTINF:-1 tvg-id="778" tvg-name="Monumental Sports Network" group-title="Sports",Monumental Sports Network
 http://192.168.2.98:34708/play?id=778&proxy=1
 #EXTINF:-1 tvg-id="528" tvg-name="Movistar Golf Spain" group-title="Sports",Movistar Golf Spain
@@ -3699,18 +3699,18 @@ http://192.168.2.98:34708/play?id=1021&proxy=1
 http://192.168.2.98:34708/play?id=1022&proxy=1
 #EXTINF:-1 tvg-id="1023" tvg-name="Nova Sport 3 CZ" group-title="Sports",Nova Sport 3 CZ
 http://192.168.2.98:34708/play?id=1023&proxy=1
-#EXTINF:-1 tvg-id="1060" tvg-name="Nova Sport 3 SK" group-title="Sports",Nova Sport 3 SK
-http://192.168.2.98:34708/play?id=1060&proxy=1
 #EXTINF:-1 tvg-id="1024" tvg-name="Nova Sport 4 CZ" group-title="Sports",Nova Sport 4 CZ
 http://192.168.2.98:34708/play?id=1024&proxy=1
-#EXTINF:-1 tvg-id="1061" tvg-name="Nova Sport 4 SK" group-title="Sports",Nova Sport 4 SK
-http://192.168.2.98:34708/play?id=1061&proxy=1
 #EXTINF:-1 tvg-id="1025" tvg-name="Nova Sport 5 CZ" group-title="Sports",Nova Sport 5 CZ
 http://192.168.2.98:34708/play?id=1025&proxy=1
-#EXTINF:-1 tvg-id="1062" tvg-name="Nova Sport 5 SK" group-title="Sports",Nova Sport 5 SK
-http://192.168.2.98:34708/play?id=1062&proxy=1
 #EXTINF:-1 tvg-id="1026" tvg-name="Nova Sport 6 CZ" group-title="Sports",Nova Sport 6 CZ
 http://192.168.2.98:34708/play?id=1026&proxy=1
+#EXTINF:-1 tvg-id="1060" tvg-name="Nova Sport 3 SK" group-title="Sports",Nova Sport 3 SK
+http://192.168.2.98:34708/play?id=1060&proxy=1
+#EXTINF:-1 tvg-id="1061" tvg-name="Nova Sport 4 SK" group-title="Sports",Nova Sport 4 SK
+http://192.168.2.98:34708/play?id=1061&proxy=1
+#EXTINF:-1 tvg-id="1062" tvg-name="Nova Sport 5 SK" group-title="Sports",Nova Sport 5 SK
+http://192.168.2.98:34708/play?id=1062&proxy=1
 #EXTINF:-1 tvg-id="468" tvg-name="Nova Sport Bulgaria" group-title="Sports",Nova Sport Bulgaria
 http://192.168.2.98:34708/play?id=468&proxy=1
 #EXTINF:-1 tvg-id="582" tvg-name="Nova Sport Serbia" group-title="Sports",Nova Sport Serbia
@@ -3737,14 +3737,14 @@ http://192.168.2.98:34708/play?id=638&proxy=1
 http://192.168.2.98:34708/play?id=637&proxy=1
 #EXTINF:-1 tvg-id="611" tvg-name="OnTime Sports" group-title="Sports",OnTime Sports
 http://192.168.2.98:34708/play?id=611&proxy=1
-#EXTINF:-1 tvg-id="1038" tvg-name="OnePlay Sport 4 CZ" group-title="Sports",OnePlay Sport 4 CZ
-http://192.168.2.98:34708/play?id=1038&proxy=1
 #EXTINF:-1 tvg-id="1027" tvg-name="Oneplay Sport 1 CZ" group-title="Sports",Oneplay Sport 1 CZ
 http://192.168.2.98:34708/play?id=1027&proxy=1
 #EXTINF:-1 tvg-id="1028" tvg-name="Oneplay Sport 2 CZ" group-title="Sports",Oneplay Sport 2 CZ
 http://192.168.2.98:34708/play?id=1028&proxy=1
 #EXTINF:-1 tvg-id="1029" tvg-name="Oneplay Sport 3 CZ" group-title="Sports",Oneplay Sport 3 CZ
 http://192.168.2.98:34708/play?id=1029&proxy=1
+#EXTINF:-1 tvg-id="1038" tvg-name="OnePlay Sport 4 CZ" group-title="Sports",OnePlay Sport 4 CZ
+http://192.168.2.98:34708/play?id=1038&proxy=1
 #EXTINF:-1 tvg-id="439" tvg-name="Orange Sport 1 Romania" group-title="Sports",Orange Sport 1 Romania
 http://192.168.2.98:34708/play?id=439&proxy=1
 #EXTINF:-1 tvg-id="440" tvg-name="Orange Sport 2 Romania" group-title="Sports",Orange Sport 2 Romania
@@ -3755,10 +3755,16 @@ http://192.168.2.98:34708/play?id=441&proxy=1
 http://192.168.2.98:34708/play?id=442&proxy=1
 #EXTINF:-1 tvg-id="450" tvg-name="PTV Sports" group-title="Sports",PTV Sports
 http://192.168.2.98:34708/play?id=450&proxy=1
+#EXTINF:-1 tvg-id="47" tvg-name="Polsat Sport Poland" group-title="Sports",Polsat Sport Poland
+http://192.168.2.98:34708/play?id=47&proxy=1
 #EXTINF:-1 tvg-id="50" tvg-name="Polsat Sport 2 Poland" group-title="Sports",Polsat Sport 2 Poland
 http://192.168.2.98:34708/play?id=50&proxy=1
 #EXTINF:-1 tvg-id="129" tvg-name="Polsat Sport 3 Poland" group-title="Sports",Polsat Sport 3 Poland
 http://192.168.2.98:34708/play?id=129&proxy=1
+#EXTINF:-1 tvg-id="991" tvg-name="Polsat Sport Premium 1 Super HD PL" group-title="Sports",Polsat Sport Premium 1 Super HD PL
+http://192.168.2.98:34708/play?id=991&proxy=1
+#EXTINF:-1 tvg-id="992" tvg-name="Polsat Sport Premium 2 Super HD PL" group-title="Sports",Polsat Sport Premium 2 Super HD PL
+http://192.168.2.98:34708/play?id=992&proxy=1
 #EXTINF:-1 tvg-id="993" tvg-name="Polsat Sport Extra 1 HD Poland" group-title="Sports",Polsat Sport Extra 1 HD Poland
 http://192.168.2.98:34708/play?id=993&proxy=1
 #EXTINF:-1 tvg-id="994" tvg-name="Polsat Sport Extra 2 HD Poland" group-title="Sports",Polsat Sport Extra 2 HD Poland
@@ -3771,12 +3777,6 @@ http://192.168.2.98:34708/play?id=996&proxy=1
 http://192.168.2.98:34708/play?id=997&proxy=1
 #EXTINF:-1 tvg-id="998" tvg-name="Polsat Sport NEWS HD Poland" group-title="Sports",Polsat Sport NEWS HD Poland
 http://192.168.2.98:34708/play?id=998&proxy=1
-#EXTINF:-1 tvg-id="47" tvg-name="Polsat Sport Poland" group-title="Sports",Polsat Sport Poland
-http://192.168.2.98:34708/play?id=47&proxy=1
-#EXTINF:-1 tvg-id="991" tvg-name="Polsat Sport Premium 1 Super HD PL" group-title="Sports",Polsat Sport Premium 1 Super HD PL
-http://192.168.2.98:34708/play?id=991&proxy=1
-#EXTINF:-1 tvg-id="992" tvg-name="Polsat Sport Premium 2 Super HD PL" group-title="Sports",Polsat Sport Premium 2 Super HD PL
-http://192.168.2.98:34708/play?id=992&proxy=1
 #EXTINF:-1 tvg-id="88" tvg-name="Premier Brasil" group-title="Sports",Premier Brasil
 http://192.168.2.98:34708/play?id=88&proxy=1
 #EXTINF:-1 tvg-id="1030" tvg-name="Premier Sport 1 CZ" group-title="Sports",Premier Sport 1 CZ
@@ -3823,14 +3823,10 @@ http://192.168.2.98:34708/play?id=619&proxy=1
 http://192.168.2.98:34708/play?id=620&proxy=1
 #EXTINF:-1 tvg-id="621" tvg-name="SSC Sport Extra 3" group-title="Sports",SSC Sport Extra 3
 http://192.168.2.98:34708/play?id=621&proxy=1
-#EXTINF:-1 tvg-id="671" tvg-name="Sky Cinema Premiere UK" group-title="Sports",Sky Cinema Premiere UK
-http://192.168.2.98:34708/play?id=671&proxy=1
 #EXTINF:-1 tvg-id="588" tvg-name="Sky Sport 1 NZ" group-title="Sports",Sky Sport 1 NZ
 http://192.168.2.98:34708/play?id=588&proxy=1
 #EXTINF:-1 tvg-id="589" tvg-name="Sky Sport 2 NZ" group-title="Sports",Sky Sport 2 NZ
 http://192.168.2.98:34708/play?id=589&proxy=1
-#EXTINF:-1 tvg-id="869" tvg-name="Sky Sport 24 Italy" group-title="Sports",Sky Sport 24 Italy
-http://192.168.2.98:34708/play?id=869&proxy=1
 #EXTINF:-1 tvg-id="590" tvg-name="Sky Sport 3 NZ" group-title="Sports",Sky Sport 3 NZ
 http://192.168.2.98:34708/play?id=590&proxy=1
 #EXTINF:-1 tvg-id="591" tvg-name="Sky Sport 4 NZ" group-title="Sports",Sky Sport 4 NZ
@@ -3845,12 +3841,34 @@ http://192.168.2.98:34708/play?id=594&proxy=1
 http://192.168.2.98:34708/play?id=595&proxy=1
 #EXTINF:-1 tvg-id="596" tvg-name="Sky Sport 9 NZ" group-title="Sports",Sky Sport 9 NZ
 http://192.168.2.98:34708/play?id=596&proxy=1
+#EXTINF:-1 tvg-id="587" tvg-name="Sky Sport Select NZ" group-title="Sports",Sky Sport Select NZ
+http://192.168.2.98:34708/play?id=587&proxy=1
+#EXTINF:-1 tvg-id="869" tvg-name="Sky Sport 24 Italy" group-title="Sports",Sky Sport 24 Italy
+http://192.168.2.98:34708/play?id=869&proxy=1
 #EXTINF:-1 tvg-id="462" tvg-name="Sky Sport Arena Italy" group-title="Sports",Sky Sport Arena Italy
 http://192.168.2.98:34708/play?id=462&proxy=1
 #EXTINF:-1 tvg-id="559" tvg-name="Sky Sport Austria 1 HD" group-title="Sports",Sky Sport Austria 1 HD
 http://192.168.2.98:34708/play?id=559&proxy=1
 #EXTINF:-1 tvg-id="875" tvg-name="Sky Sport Basket Italy" group-title="Sports",Sky Sport Basket Italy
 http://192.168.2.98:34708/play?id=875&proxy=1
+#EXTINF:-1 tvg-id="870" tvg-name="Sky Sport Calcio Italy" group-title="Sports",Sky Sport Calcio Italy
+http://192.168.2.98:34708/play?id=870&proxy=1
+#EXTINF:-1 tvg-id="577" tvg-name="Sky Sport F1 Italy" group-title="Sports",Sky Sport F1 Italy
+http://192.168.2.98:34708/play?id=577&proxy=1
+#EXTINF:-1 tvg-id="460" tvg-name="Sky Sport MAX Italy" group-title="Sports",Sky Sport MAX Italy
+http://192.168.2.98:34708/play?id=460&proxy=1
+#EXTINF:-1 tvg-id="575" tvg-name="Sky Sport MotoGP Italy" group-title="Sports",Sky Sport MotoGP Italy
+http://192.168.2.98:34708/play?id=575&proxy=1
+#EXTINF:-1 tvg-id="461" tvg-name="Sky Sport UNO Italy" group-title="Sports",Sky Sport UNO Italy
+http://192.168.2.98:34708/play?id=461&proxy=1
+#EXTINF:-1 tvg-id="576" tvg-name="Sky Sport Tennis Italy" group-title="Sports",Sky Sport Tennis Italy
+http://192.168.2.98:34708/play?id=576&proxy=1
+#EXTINF:-1 tvg-id="574" tvg-name="Sky Sports Golf Italy" group-title="Sports",Sky Sports Golf Italy
+http://192.168.2.98:34708/play?id=574&proxy=1
+#EXTINF:-1 tvg-id="556" tvg-name="Sky Sport Top Event DE" group-title="Sports",Sky Sport Top Event DE
+http://192.168.2.98:34708/play?id=556&proxy=1
+#EXTINF:-1 tvg-id="557" tvg-name="Sky Sport Mix DE" group-title="Sports",Sky Sport Mix DE
+http://192.168.2.98:34708/play?id=557&proxy=1
 #EXTINF:-1 tvg-id="558" tvg-name="Sky Sport Bundesliga 1 HD" group-title="Sports",Sky Sport Bundesliga 1 HD
 http://192.168.2.98:34708/play?id=558&proxy=1
 #EXTINF:-1 tvg-id="946" tvg-name="Sky Sport Bundesliga 2" group-title="Sports",Sky Sport Bundesliga 2
@@ -3861,42 +3879,30 @@ http://192.168.2.98:34708/play?id=947&proxy=1
 http://192.168.2.98:34708/play?id=948&proxy=1
 #EXTINF:-1 tvg-id="949" tvg-name="Sky Sport Bundesliga 5" group-title="Sports",Sky Sport Bundesliga 5
 http://192.168.2.98:34708/play?id=949&proxy=1
-#EXTINF:-1 tvg-id="870" tvg-name="Sky Sport Calcio Italy" group-title="Sports",Sky Sport Calcio Italy
-http://192.168.2.98:34708/play?id=870&proxy=1
-#EXTINF:-1 tvg-id="577" tvg-name="Sky Sport F1 Italy" group-title="Sports",Sky Sport F1 Italy
-http://192.168.2.98:34708/play?id=577&proxy=1
-#EXTINF:-1 tvg-id="460" tvg-name="Sky Sport MAX Italy" group-title="Sports",Sky Sport MAX Italy
-http://192.168.2.98:34708/play?id=460&proxy=1
-#EXTINF:-1 tvg-id="557" tvg-name="Sky Sport Mix DE" group-title="Sports",Sky Sport Mix DE
-http://192.168.2.98:34708/play?id=557&proxy=1
-#EXTINF:-1 tvg-id="575" tvg-name="Sky Sport MotoGP Italy" group-title="Sports",Sky Sport MotoGP Italy
-http://192.168.2.98:34708/play?id=575&proxy=1
-#EXTINF:-1 tvg-id="587" tvg-name="Sky Sport Select NZ" group-title="Sports",Sky Sport Select NZ
-http://192.168.2.98:34708/play?id=587&proxy=1
-#EXTINF:-1 tvg-id="576" tvg-name="Sky Sport Tennis Italy" group-title="Sports",Sky Sport Tennis Italy
-http://192.168.2.98:34708/play?id=576&proxy=1
-#EXTINF:-1 tvg-id="556" tvg-name="Sky Sport Top Event DE" group-title="Sports",Sky Sport Top Event DE
-http://192.168.2.98:34708/play?id=556&proxy=1
-#EXTINF:-1 tvg-id="461" tvg-name="Sky Sport UNO Italy" group-title="Sports",Sky Sport UNO Italy
-http://192.168.2.98:34708/play?id=461&proxy=1
 #EXTINF:-1 tvg-id="240" tvg-name="Sky Sports 1 DE" group-title="Sports",Sky Sports 1 DE
 http://192.168.2.98:34708/play?id=240&proxy=1
 #EXTINF:-1 tvg-id="241" tvg-name="Sky Sports 2 DE" group-title="Sports",Sky Sports 2 DE
 http://192.168.2.98:34708/play?id=241&proxy=1
-#EXTINF:-1 tvg-id="37" tvg-name="Sky Sports Action UK" group-title="Sports",Sky Sports Action UK
-http://192.168.2.98:34708/play?id=37&proxy=1
-#EXTINF:-1 tvg-id="65" tvg-name="Sky Sports Cricket" group-title="Sports",Sky Sports Cricket
-http://192.168.2.98:34708/play?id=65&proxy=1
 #EXTINF:-1 tvg-id="274" tvg-name="Sky Sports F1 DE" group-title="Sports",Sky Sports F1 DE
 http://192.168.2.98:34708/play?id=274&proxy=1
-#EXTINF:-1 tvg-id="60" tvg-name="Sky Sports F1 UK" group-title="Sports",Sky Sports F1 UK
-http://192.168.2.98:34708/play?id=60&proxy=1
-#EXTINF:-1 tvg-id="35" tvg-name="Sky Sports Football UK" group-title="Sports",Sky Sports Football UK
-http://192.168.2.98:34708/play?id=35&proxy=1
 #EXTINF:-1 tvg-id="785" tvg-name="Sky Sports Golf DE" group-title="Sports",Sky Sports Golf DE
 http://192.168.2.98:34708/play?id=785&proxy=1
-#EXTINF:-1 tvg-id="574" tvg-name="Sky Sports Golf Italy" group-title="Sports",Sky Sports Golf Italy
-http://192.168.2.98:34708/play?id=574&proxy=1
+#EXTINF:-1 tvg-id="884" tvg-name="Sky Sports Tennis DE" group-title="Sports",Sky Sports Tennis DE
+http://192.168.2.98:34708/play?id=884&proxy=1
+#EXTINF:-1 tvg-id="641" tvg-name="Sport1 Germany" group-title="Sports",Sport1 Germany
+http://192.168.2.98:34708/play?id=641&proxy=1
+#EXTINF:-1 tvg-id="571" tvg-name="SportDigital Fussball" group-title="Sports",SportDigital Fussball
+http://192.168.2.98:34708/play?id=571&proxy=1
+#EXTINF:-1 tvg-id="640" tvg-name="Sportdigital1+ Germany" group-title="Sports",Sportdigital1+ Germany
+http://192.168.2.98:34708/play?id=640&proxy=1
+#EXTINF:-1 tvg-id="65" tvg-name="Sky Sports Cricket" group-title="Sports",Sky Sports Cricket
+http://192.168.2.98:34708/play?id=65&proxy=1
+#EXTINF:-1 tvg-id="60" tvg-name="Sky Sports F1 UK" group-title="Sports",Sky Sports F1 UK
+http://192.168.2.98:34708/play?id=60&proxy=1
+#EXTINF:-1 tvg-id="37" tvg-name="Sky Sports Action UK" group-title="Sports",Sky Sports Action UK
+http://192.168.2.98:34708/play?id=37&proxy=1
+#EXTINF:-1 tvg-id="35" tvg-name="Sky Sports Football UK" group-title="Sports",Sky Sports Football UK
+http://192.168.2.98:34708/play?id=35&proxy=1
 #EXTINF:-1 tvg-id="70" tvg-name="Sky Sports Golf UK" group-title="Sports",Sky Sports Golf UK
 http://192.168.2.98:34708/play?id=70&proxy=1
 #EXTINF:-1 tvg-id="449" tvg-name="Sky Sports MIX UK" group-title="Sports",Sky Sports MIX UK
@@ -3907,8 +3913,6 @@ http://192.168.2.98:34708/play?id=38&proxy=1
 http://192.168.2.98:34708/play?id=366&proxy=1
 #EXTINF:-1 tvg-id="554" tvg-name="Sky Sports Racing UK" group-title="Sports",Sky Sports Racing UK
 http://192.168.2.98:34708/play?id=554&proxy=1
-#EXTINF:-1 tvg-id="884" tvg-name="Sky Sports Tennis DE" group-title="Sports",Sky Sports Tennis DE
-http://192.168.2.98:34708/play?id=884&proxy=1
 #EXTINF:-1 tvg-id="46" tvg-name="Sky Sports Tennis UK" group-title="Sports",Sky Sports Tennis UK
 http://192.168.2.98:34708/play?id=46&proxy=1
 #EXTINF:-1 tvg-id="36" tvg-name="Sky Sports+ Plus" group-title="Sports",Sky Sports+ Plus
@@ -3935,10 +3939,10 @@ http://192.168.2.98:34708/play?id=141&proxy=1
 http://192.168.2.98:34708/play?id=142&proxy=1
 #EXTINF:-1 tvg-id="143" tvg-name="Sport 4 Israel" group-title="Sports",Sport 4 Israel
 http://192.168.2.98:34708/play?id=143&proxy=1
-#EXTINF:-1 tvg-id="148" tvg-name="Sport 5 Gold Israel" group-title="Sports",Sport 5 Gold Israel
-http://192.168.2.98:34708/play?id=148&proxy=1
 #EXTINF:-1 tvg-id="144" tvg-name="Sport 5 Israel" group-title="Sports",Sport 5 Israel
 http://192.168.2.98:34708/play?id=144&proxy=1
+#EXTINF:-1 tvg-id="148" tvg-name="Sport 5 Gold Israel" group-title="Sports",Sport 5 Gold Israel
+http://192.168.2.98:34708/play?id=148&proxy=1
 #EXTINF:-1 tvg-id="146" tvg-name="Sport 5 Live Israel" group-title="Sports",Sport 5 Live Israel
 http://192.168.2.98:34708/play?id=146&proxy=1
 #EXTINF:-1 tvg-id="145" tvg-name="Sport 5 PLUS Israel" group-title="Sports",Sport 5 PLUS Israel
@@ -3947,6 +3951,8 @@ http://192.168.2.98:34708/play?id=145&proxy=1
 http://192.168.2.98:34708/play?id=147&proxy=1
 #EXTINF:-1 tvg-id="710" tvg-name="Sport KLUB Golf Croatia" group-title="Sports",Sport KLUB Golf Croatia
 http://192.168.2.98:34708/play?id=710&proxy=1
+#EXTINF:-1 tvg-id="453" tvg-name="Sport Klub HD Croatia" group-title="Sports",Sport Klub HD Croatia
+http://192.168.2.98:34708/play?id=453&proxy=1
 #EXTINF:-1 tvg-id="101" tvg-name="Sport Klub 1 Croatia" group-title="Sports",Sport Klub 1 Croatia
 http://192.168.2.98:34708/play?id=101&proxy=1
 #EXTINF:-1 tvg-id="102" tvg-name="Sport Klub 2 Croatia" group-title="Sports",Sport Klub 2 Croatia
@@ -3955,8 +3961,6 @@ http://192.168.2.98:34708/play?id=102&proxy=1
 http://192.168.2.98:34708/play?id=103&proxy=1
 #EXTINF:-1 tvg-id="104" tvg-name="Sport Klub 4 Croatia" group-title="Sports",Sport Klub 4 Croatia
 http://192.168.2.98:34708/play?id=104&proxy=1
-#EXTINF:-1 tvg-id="453" tvg-name="Sport Klub HD Croatia" group-title="Sports",Sport Klub HD Croatia
-http://192.168.2.98:34708/play?id=453&proxy=1
 #EXTINF:-1 tvg-id="49" tvg-name="Sport TV1 Portugal" group-title="Sports",Sport TV1 Portugal
 http://192.168.2.98:34708/play?id=49&proxy=1
 #EXTINF:-1 tvg-id="74" tvg-name="Sport TV2 Portugal" group-title="Sports",Sport TV2 Portugal
@@ -3971,12 +3975,6 @@ http://192.168.2.98:34708/play?id=290&proxy=1
 http://192.168.2.98:34708/play?id=291&proxy=1
 #EXTINF:-1 tvg-id="965" tvg-name="Sport en France" group-title="Sports",Sport en France
 http://192.168.2.98:34708/play?id=965&proxy=1
-#EXTINF:-1 tvg-id="641" tvg-name="Sport1 Germany" group-title="Sports",Sport1 Germany
-http://192.168.2.98:34708/play?id=641&proxy=1
-#EXTINF:-1 tvg-id="571" tvg-name="SportDigital Fussball" group-title="Sports",SportDigital Fussball
-http://192.168.2.98:34708/play?id=571&proxy=1
-#EXTINF:-1 tvg-id="640" tvg-name="Sportdigital1+ Germany" group-title="Sports",Sportdigital1+ Germany
-http://192.168.2.98:34708/play?id=640&proxy=1
 #EXTINF:-1 tvg-id="716" tvg-name="Sporting TV Portugal" group-title="Sports",Sporting TV Portugal
 http://192.168.2.98:34708/play?id=716&proxy=1
 #EXTINF:-1 tvg-id="759" tvg-name="SportsNet New York (SNY)" group-title="Sports",SportsNet New York (SNY)
@@ -3995,10 +3993,6 @@ http://192.168.2.98:34708/play?id=406&proxy=1
 http://192.168.2.98:34708/play?id=407&proxy=1
 #EXTINF:-1 tvg-id="410" tvg-name="Sportsnet World" group-title="Sports",Sportsnet World
 http://192.168.2.98:34708/play?id=410&proxy=1
-#EXTINF:-1 tvg-id="267" tvg-name="Star Sports 1 IN" group-title="Sports",Star Sports 1 IN
-http://192.168.2.98:34708/play?id=267&proxy=1
-#EXTINF:-1 tvg-id="268" tvg-name="Star Sports Hindi IN" group-title="Sports",Star Sports Hindi IN
-http://192.168.2.98:34708/play?id=268&proxy=1
 #EXTINF:-1 tvg-id="420" tvg-name="SuperSport Action" group-title="Sports",SuperSport Action
 http://192.168.2.98:34708/play?id=420&proxy=1
 #EXTINF:-1 tvg-id="368" tvg-name="SuperSport Cricket" group-title="Sports",SuperSport Cricket
@@ -4045,6 +4039,10 @@ http://192.168.2.98:34708/play?id=34&proxy=1
 http://192.168.2.98:34708/play?id=388&proxy=1
 #EXTINF:-1 tvg-id="642" tvg-name="TNT Sports HD Chile" group-title="Sports",TNT Sports HD Chile
 http://192.168.2.98:34708/play?id=642&proxy=1
+#EXTINF:-1 tvg-id="267" tvg-name="Star Sports 1 IN" group-title="Sports",Star Sports 1 IN
+http://192.168.2.98:34708/play?id=267&proxy=1
+#EXTINF:-1 tvg-id="268" tvg-name="Star Sports Hindi IN" group-title="Sports",Star Sports Hindi IN
+http://192.168.2.98:34708/play?id=268&proxy=1
 #EXTINF:-1 tvg-id="111" tvg-name="TSN1" group-title="Sports",TSN1
 http://192.168.2.98:34708/play?id=111&proxy=1
 #EXTINF:-1 tvg-id="112" tvg-name="TSN2" group-title="Sports",TSN2
@@ -4055,10 +4053,10 @@ http://192.168.2.98:34708/play?id=113&proxy=1
 http://192.168.2.98:34708/play?id=114&proxy=1
 #EXTINF:-1 tvg-id="115" tvg-name="TSN5" group-title="Sports",TSN5
 http://192.168.2.98:34708/play?id=115&proxy=1
-#EXTINF:-1 tvg-id="814" tvg-name="TV 2 Sport 2 Norway" group-title="Sports",TV 2 Sport 2 Norway
-http://192.168.2.98:34708/play?id=814&proxy=1
 #EXTINF:-1 tvg-id="812" tvg-name="TV 2 Sport Norway" group-title="Sports",TV 2 Sport Norway
 http://192.168.2.98:34708/play?id=812&proxy=1
+#EXTINF:-1 tvg-id="814" tvg-name="TV 2 Sport 2 Norway" group-title="Sports",TV 2 Sport 2 Norway
+http://192.168.2.98:34708/play?id=814&proxy=1
 #EXTINF:-1 tvg-id="810" tvg-name="TV2 Sport Denmark" group-title="Sports",TV2 Sport Denmark
 http://192.168.2.98:34708/play?id=810&proxy=1
 #EXTINF:-1 tvg-id="808" tvg-name="TV2 Sport X Denmark" group-title="Sports",TV2 Sport X Denmark
@@ -4105,12 +4103,14 @@ http://192.168.2.98:34708/play?id=550&proxy=1
 http://192.168.2.98:34708/play?id=260&proxy=1
 #EXTINF:-1 tvg-id="376" tvg-name="WWE Network" group-title="Sports",WWE Network
 http://192.168.2.98:34708/play?id=376&proxy=1
-#EXTINF:-1 tvg-id="598" tvg-name="Willow 2 Cricket" group-title="Sports",Willow 2 Cricket
-http://192.168.2.98:34708/play?id=598&proxy=1
 #EXTINF:-1 tvg-id="346" tvg-name="Willow Cricket" group-title="Sports",Willow Cricket
 http://192.168.2.98:34708/play?id=346&proxy=1
+#EXTINF:-1 tvg-id="598" tvg-name="Willow 2 Cricket" group-title="Sports",Willow 2 Cricket
+http://192.168.2.98:34708/play?id=598&proxy=1
 #EXTINF:-1 tvg-id="392" tvg-name="Win Sports+ Columbia" group-title="Sports",Win Sports+ Columbia
 http://192.168.2.98:34708/play?id=392&proxy=1
+#EXTINF:-1 tvg-id="393" tvg-name="Ziggo Sport NL" group-title="Sports",Ziggo Sport NL
+http://192.168.2.98:34708/play?id=393&proxy=1
 #EXTINF:-1 tvg-id="398" tvg-name="Ziggo Sport 2 NL" group-title="Sports",Ziggo Sport 2 NL
 http://192.168.2.98:34708/play?id=398&proxy=1
 #EXTINF:-1 tvg-id="919" tvg-name="Ziggo Sport 3 NL" group-title="Sports",Ziggo Sport 3 NL
@@ -4121,46 +4121,44 @@ http://192.168.2.98:34708/play?id=396&proxy=1
 http://192.168.2.98:34708/play?id=383&proxy=1
 #EXTINF:-1 tvg-id="901" tvg-name="Ziggo Sport 6 NL" group-title="Sports",Ziggo Sport 6 NL
 http://192.168.2.98:34708/play?id=901&proxy=1
-#EXTINF:-1 tvg-id="393" tvg-name="Ziggo Sport NL" group-title="Sports",Ziggo Sport NL
-http://192.168.2.98:34708/play?id=393&proxy=1
-#EXTINF:-1 tvg-id="116" tvg-name="beIN SPORTS 1 France" group-title="Sports",beIN SPORTS 1 France
-http://192.168.2.98:34708/play?id=116&proxy=1
 #EXTINF:-1 tvg-id="62" tvg-name="beIN SPORTS 1 Turkey" group-title="Sports",beIN SPORTS 1 Turkey
 http://192.168.2.98:34708/play?id=62&proxy=1
-#EXTINF:-1 tvg-id="117" tvg-name="beIN SPORTS 2 France" group-title="Sports",beIN SPORTS 2 France
-http://192.168.2.98:34708/play?id=117&proxy=1
 #EXTINF:-1 tvg-id="63" tvg-name="beIN SPORTS 2 Turkey" group-title="Sports",beIN SPORTS 2 Turkey
 http://192.168.2.98:34708/play?id=63&proxy=1
-#EXTINF:-1 tvg-id="118" tvg-name="beIN SPORTS 3 France" group-title="Sports",beIN SPORTS 3 France
-http://192.168.2.98:34708/play?id=118&proxy=1
 #EXTINF:-1 tvg-id="64" tvg-name="beIN SPORTS 3 Turkey" group-title="Sports",beIN SPORTS 3 Turkey
 http://192.168.2.98:34708/play?id=64&proxy=1
 #EXTINF:-1 tvg-id="67" tvg-name="beIN SPORTS 4 Turkey" group-title="Sports",beIN SPORTS 4 Turkey
 http://192.168.2.98:34708/play?id=67&proxy=1
+#EXTINF:-1 tvg-id="1010" tvg-name="bein Sports 5 Turkey" group-title="Sports",bein Sports 5 Turkey
+http://192.168.2.98:34708/play?id=1010&proxy=1
+#EXTINF:-1 tvg-id="116" tvg-name="beIN SPORTS 1 France" group-title="Sports",beIN SPORTS 1 France
+http://192.168.2.98:34708/play?id=116&proxy=1
+#EXTINF:-1 tvg-id="117" tvg-name="beIN SPORTS 2 France" group-title="Sports",beIN SPORTS 2 France
+http://192.168.2.98:34708/play?id=117&proxy=1
+#EXTINF:-1 tvg-id="118" tvg-name="beIN SPORTS 3 France" group-title="Sports",beIN SPORTS 3 France
+http://192.168.2.98:34708/play?id=118&proxy=1
 #EXTINF:-1 tvg-id="491" tvg-name="beIN SPORTS Australia 1" group-title="Sports",beIN SPORTS Australia 1
 http://192.168.2.98:34708/play?id=491&proxy=1
 #EXTINF:-1 tvg-id="492" tvg-name="beIN SPORTS Australia 2" group-title="Sports",beIN SPORTS Australia 2
 http://192.168.2.98:34708/play?id=492&proxy=1
 #EXTINF:-1 tvg-id="493" tvg-name="beIN SPORTS Australia 3" group-title="Sports",beIN SPORTS Australia 3
 http://192.168.2.98:34708/play?id=493&proxy=1
-#EXTINF:-1 tvg-id="597" tvg-name="beIN SPORTS MAX AR" group-title="Sports",beIN SPORTS MAX AR
-http://192.168.2.98:34708/play?id=597&proxy=1
+#EXTINF:-1 tvg-id="712" tvg-name="beIN Sports 1 Malaysia" group-title="Sports",beIN Sports 1 Malaysia
+http://192.168.2.98:34708/play?id=712&proxy=1
+#EXTINF:-1 tvg-id="713" tvg-name="beIN Sports 2 Malaysia" group-title="Sports",beIN Sports 2 Malaysia
+http://192.168.2.98:34708/play?id=713&proxy=1
+#EXTINF:-1 tvg-id="714" tvg-name="beIN Sports 3 Malaysia" group-title="Sports",beIN Sports 3 Malaysia
+http://192.168.2.98:34708/play?id=714&proxy=1
 #EXTINF:-1 tvg-id="100" tvg-name="beIN SPORTS XTRA 1" group-title="Sports",beIN SPORTS XTRA 1
 http://192.168.2.98:34708/play?id=100&proxy=1
 #EXTINF:-1 tvg-id="372" tvg-name="beIN SPORTS en Espa単ol" group-title="Sports",beIN SPORTS en Espa単ol
 http://192.168.2.98:34708/play?id=372&proxy=1
 #EXTINF:-1 tvg-id="91" tvg-name="beIN Sports 1 Arabic" group-title="Sports",beIN Sports 1 Arabic
 http://192.168.2.98:34708/play?id=91&proxy=1
-#EXTINF:-1 tvg-id="712" tvg-name="beIN Sports 1 Malaysia" group-title="Sports",beIN Sports 1 Malaysia
-http://192.168.2.98:34708/play?id=712&proxy=1
 #EXTINF:-1 tvg-id="92" tvg-name="beIN Sports 2 Arabic" group-title="Sports",beIN Sports 2 Arabic
 http://192.168.2.98:34708/play?id=92&proxy=1
-#EXTINF:-1 tvg-id="713" tvg-name="beIN Sports 2 Malaysia" group-title="Sports",beIN Sports 2 Malaysia
-http://192.168.2.98:34708/play?id=713&proxy=1
 #EXTINF:-1 tvg-id="93" tvg-name="beIN Sports 3 Arabic" group-title="Sports",beIN Sports 3 Arabic
 http://192.168.2.98:34708/play?id=93&proxy=1
-#EXTINF:-1 tvg-id="714" tvg-name="beIN Sports 3 Malaysia" group-title="Sports",beIN Sports 3 Malaysia
-http://192.168.2.98:34708/play?id=714&proxy=1
 #EXTINF:-1 tvg-id="94" tvg-name="beIN Sports 4 Arabic" group-title="Sports",beIN Sports 4 Arabic
 http://192.168.2.98:34708/play?id=94&proxy=1
 #EXTINF:-1 tvg-id="95" tvg-name="beIN Sports 5 Arabic" group-title="Sports",beIN Sports 5 Arabic
@@ -4173,6 +4171,8 @@ http://192.168.2.98:34708/play?id=97&proxy=1
 http://192.168.2.98:34708/play?id=98&proxy=1
 #EXTINF:-1 tvg-id="99" tvg-name="beIN Sports 9 Arabic" group-title="Sports",beIN Sports 9 Arabic
 http://192.168.2.98:34708/play?id=99&proxy=1
+#EXTINF:-1 tvg-id="597" tvg-name="beIN SPORTS MAX AR" group-title="Sports",beIN SPORTS MAX AR
+http://192.168.2.98:34708/play?id=597&proxy=1
 #EXTINF:-1 tvg-id="500" tvg-name="beIN Sports MAX 10 France" group-title="Sports",beIN Sports MAX 10 France
 http://192.168.2.98:34708/play?id=500&proxy=1
 #EXTINF:-1 tvg-id="494" tvg-name="beIN Sports MAX 4 France" group-title="Sports",beIN Sports MAX 4 France
@@ -4191,9 +4191,8 @@ http://192.168.2.98:34708/play?id=499&proxy=1
 http://192.168.2.98:34708/play?id=61&proxy=1
 #EXTINF:-1 tvg-id="90" tvg-name="beIN Sports MENA English 2" group-title="Sports",beIN Sports MENA English 2
 http://192.168.2.98:34708/play?id=90&proxy=1
-#EXTINF:-1 tvg-id="1010" tvg-name="bein Sports 5 Turkey" group-title="Sports",bein Sports 5 Turkey
-http://192.168.2.98:34708/play?id=1010&proxy=1
-
+#EXTINF:-1 tvg-id="671" tvg-name="Sky Cinema Premiere UK" group-title="Sports",Sky Cinema Premiere UK
+http://192.168.2.98:34708/play?id=671&proxy=1
 
 
 
