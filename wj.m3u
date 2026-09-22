@@ -125,7 +125,7 @@ http://39.77.25.244:4002/rtp/239.253.254.168:8000
 http://39.77.25.56:4002/rtp/239.253.254.168:8000
 http://39.77.254.47:4002/rtp/239.253.254.168:8000
 http://39.77.26.75:4002/rtp/239.253.254.168:8000
-#EXTINF:-1 tvg-id="CCTV4K" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png",CCTV4K
+#EXTINF:-1 tvg-id="stream-f515e8df-337b-4b36-8f03-ba71de72f696" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png",CCTV4K
 http://39.77.161.85:4002/rtp/239.253.254.122:8000
 http://39.77.172.61:4002/rtp/239.253.254.122:8000
 http://39.77.25.244:4002/rtp/239.253.254.122:8000
