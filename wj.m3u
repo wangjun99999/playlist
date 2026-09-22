@@ -1082,55 +1082,55 @@ http://39.77.26.75:4002/rtp/239.253.254.124:8000
 
 
 
-#EXTINF:-1 tvg-id="stream-0e7bae82-854b-4977-b93b-4f886a9e622e" tvg-name="CCTV1综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV1.png" group-title="央视卫视",CCTV1综合
+#EXTINF:-1 tvg-id="stream-0e7bae82-854b-4977-b93b-4f886a9e622e" tvg-name="CCTV1综合" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV1.png" group-title="央卫咪咕",CCTV1综合
 http://go.bkpcp.top/mg/cctv1
-#EXTINF:-1 tvg-id="stream-e5939384-397a-4332-b8ab-340d2d9fcfa6" tvg-name="CCTV2财经" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV2.png" group-title="央视卫视",CCTV2财经
+#EXTINF:-1 tvg-id="stream-e5939384-397a-4332-b8ab-340d2d9fcfa6" tvg-name="CCTV2财经" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV2.png" group-title="央卫咪咕",CCTV2财经
 http://go.bkpcp.top/mg/cctv2
-#EXTINF:-1 tvg-id="stream-a34f9e56-da33-4e13-8c7e-d37f975c8787" tvg-name="CCTV3综艺" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV3.png" group-title="央视卫视",CCTV3综艺
+#EXTINF:-1 tvg-id="stream-a34f9e56-da33-4e13-8c7e-d37f975c8787" tvg-name="CCTV3综艺" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV3.png" group-title="央卫咪咕",CCTV3综艺
 http://go.bkpcp.top/mg/cctv3
-#EXTINF:-1 tvg-id="stream-4feb9176-a50f-4928-a1fa-3838ceb1f4e7" tvg-name="CCTV4中文国际" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV4.png" group-title="央视卫视",CCTV4中文国际
+#EXTINF:-1 tvg-id="stream-4feb9176-a50f-4928-a1fa-3838ceb1f4e7" tvg-name="CCTV4中文国际" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV4.png" group-title="央卫咪咕",CCTV4中文国际
 http://go.bkpcp.top/mg/cctv4
-#EXTINF:-1 tvg-id="stream-62376f9a-8cb2-4e31-9997-716578e1a24d" tvg-name="CCTV4欧洲" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV4欧洲.png" group-title="央视卫视",CCTV4欧洲
+#EXTINF:-1 tvg-id="stream-62376f9a-8cb2-4e31-9997-716578e1a24d" tvg-name="CCTV4欧洲" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV4欧洲.png" group-title="央卫咪咕",CCTV4欧洲
 http://go.bkpcp.top/mg/cctv4o
-#EXTINF:-1 tvg-id="stream-60d46fd2-a806-4dd0-bec0-1fae7e05f363" tvg-name="CCTV4美洲" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV4美洲.png" group-title="央视卫视",CCTV4美洲
+#EXTINF:-1 tvg-id="stream-60d46fd2-a806-4dd0-bec0-1fae7e05f363" tvg-name="CCTV4美洲" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV4美洲.png" group-title="央卫咪咕",CCTV4美洲
 http://go.bkpcp.top/mg/cctv4m
-#EXTINF:-1 tvg-id="stream-7d9bedb4-72dd-4975-8c1c-3b287d757eb4" tvg-name="CCTV5体育" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV5.png" group-title="央视卫视",CCTV5体育
+#EXTINF:-1 tvg-id="stream-7d9bedb4-72dd-4975-8c1c-3b287d757eb4" tvg-name="CCTV5体育" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV5.png" group-title="央卫咪咕",CCTV5体育
 http://go.bkpcp.top/mg/cctv5
-#EXTINF:-1 tvg-id="stream-181b10c6-774f-4fee-ae04-ab01d29978ef" tvg-name="CCTV5+体育赛事" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV5+.png" group-title="央视卫视",CCTV5+体育赛事
+#EXTINF:-1 tvg-id="stream-181b10c6-774f-4fee-ae04-ab01d29978ef" tvg-name="CCTV5+体育赛事" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV5+.png" group-title="央卫咪咕",CCTV5+体育赛事
 http://go.bkpcp.top/mg/cctv5p
-#EXTINF:-1 tvg-id="stream-3e206f2f-7b70-4790-bc2e-04853b26b719" tvg-name="CCTV6电影" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV6.png" group-title="央视卫视",CCTV6电影
+#EXTINF:-1 tvg-id="stream-3e206f2f-7b70-4790-bc2e-04853b26b719" tvg-name="CCTV6电影" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV6.png" group-title="央卫咪咕",CCTV6电影
 http://go.bkpcp.top/mg/cctv6
-#EXTINF:-1 tvg-id="stream-b60c5c0a-f646-4d56-ad94-398b35ed9e39" tvg-name="CCTV7国防军事" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV7.png" group-title="央视卫视",CCTV7国防军事
+#EXTINF:-1 tvg-id="stream-b60c5c0a-f646-4d56-ad94-398b35ed9e39" tvg-name="CCTV7国防军事" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV7.png" group-title="央卫咪咕",CCTV7国防军事
 http://go.bkpcp.top/mg/cctv7
-#EXTINF:-1 tvg-id="stream-fa540650-2978-4ebd-a185-4c5c2fc2264d" tvg-name="CCTV8电视剧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV8.png" group-title="央视卫视",CCTV8电视剧
+#EXTINF:-1 tvg-id="stream-fa540650-2978-4ebd-a185-4c5c2fc2264d" tvg-name="CCTV8电视剧" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV8.png" group-title="央卫咪咕",CCTV8电视剧
 http://go.bkpcp.top/mg/cctv8
-#EXTINF:-1 tvg-id="stream-b23eee04-0d4e-4f8e-a0ba-d56b390bf598" tvg-name="CCTV9记录" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV9.png" group-title="央视卫视",CCTV9记录
+#EXTINF:-1 tvg-id="stream-b23eee04-0d4e-4f8e-a0ba-d56b390bf598" tvg-name="CCTV9记录" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV9.png" group-title="央卫咪咕",CCTV9记录
 http://go.bkpcp.top/mg/cctv9
-#EXTINF:-1 tvg-id="stream-9fb20558-5182-4b93-8f2f-b5161bd12763" tvg-name="CCTV10科教" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV10.png" group-title="央视卫视",CCTV10科教
+#EXTINF:-1 tvg-id="stream-9fb20558-5182-4b93-8f2f-b5161bd12763" tvg-name="CCTV10科教" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV10.png" group-title="央卫咪咕",CCTV10科教
 http://go.bkpcp.top/mg/cctv10
-#EXTINF:-1 tvg-id="stream-e2e35863-e9a2-4343-9f2d-6d33526153b2" tvg-name="CCTV11戏曲" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV11.png" group-title="央视卫视",CCTV11戏曲
+#EXTINF:-1 tvg-id="stream-e2e35863-e9a2-4343-9f2d-6d33526153b2" tvg-name="CCTV11戏曲" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV11.png" group-title="央卫咪咕",CCTV11戏曲
 http://go.bkpcp.top/mg/cctv11
-#EXTINF:-1 tvg-id="stream-71a91f44-afdc-4071-b2b5-af36dfda4213" tvg-name="CCTV12社会与法" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV12.png" group-title="央视卫视",CCTV12社会与法
+#EXTINF:-1 tvg-id="stream-71a91f44-afdc-4071-b2b5-af36dfda4213" tvg-name="CCTV12社会与法" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV12.png" group-title="央卫咪咕",CCTV12社会与法
 http://go.bkpcp.top/mg/cctv12
-#EXTINF:-1 tvg-id="stream-0e5f668e-3539-4eb1-bdae-bb89d0da2e86" tvg-name="CCTV13新闻" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV13.png" group-title="央视卫视",CCTV13新闻
+#EXTINF:-1 tvg-id="stream-0e5f668e-3539-4eb1-bdae-bb89d0da2e86" tvg-name="CCTV13新闻" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV13.png" group-title="央卫咪咕",CCTV13新闻
 http://go.bkpcp.top/mg/cctv13
-#EXTINF:-1 tvg-id="stream-bbfa25e9-57cd-4250-be78-93691c64fcab" tvg-name="CCTV14少儿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV14.png" group-title="央视卫视",CCTV14少儿
+#EXTINF:-1 tvg-id="stream-bbfa25e9-57cd-4250-be78-93691c64fcab" tvg-name="CCTV14少儿" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV14.png" group-title="央卫咪咕",CCTV14少儿
 http://go.bkpcp.top/mg/cctv14
-#EXTINF:-1 tvg-id="stream-8d8754cb-d928-4d08-af05-63bcba892ef9" tvg-name="CCTV15音乐" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV15.png" group-title="央视卫视",CCTV15音乐
+#EXTINF:-1 tvg-id="stream-8d8754cb-d928-4d08-af05-63bcba892ef9" tvg-name="CCTV15音乐" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV15.png" group-title="央卫咪咕",CCTV15音乐
 http://go.bkpcp.top/mg/cctv15
-#EXTINF:-1 tvg-id="stream-3eddd63b-ec14-46ad-b3af-5ea9cc57c0a5" tvg-name="CCTV16奥林匹克" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV16.png" group-title="央视卫视",CCTV16奥林匹克
+#EXTINF:-1 tvg-id="stream-3eddd63b-ec14-46ad-b3af-5ea9cc57c0a5" tvg-name="CCTV16奥林匹克" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV16.png" group-title="央卫咪咕",CCTV16奥林匹克
 http://go.bkpcp.top/mg/cctv16
-#EXTINF:-1 tvg-id="stream-0c950b98-b6df-4f0b-8cb2-5dbccec1bfab" tvg-name="CCTV17农业农村" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV17.png" group-title="央视卫视",CCTV17农业农村
+#EXTINF:-1 tvg-id="stream-0c950b98-b6df-4f0b-8cb2-5dbccec1bfab" tvg-name="CCTV17农业农村" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/CCTV17.png" group-title="央卫咪咕",CCTV17农业农村
 http://go.bkpcp.top/mg/cctv17
-#EXTINF:-1 tvg-id="stream-1d7a8c16-b11b-44f3-b0a7-a7352b585ae5" tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="央视卫视",湖南卫视4K
+#EXTINF:-1 tvg-id="stream-1d7a8c16-b11b-44f3-b0a7-a7352b585ae5" tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="央卫咪咕",湖南卫视4K
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 tvg-id="stream-b459acf1-e527-4bd0-962a-cf116caece7c" tvg-name="浙江卫视4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="央视卫视",浙江卫视4K
+#EXTINF:-1 tvg-id="stream-b459acf1-e527-4bd0-962a-cf116caece7c" tvg-name="浙江卫视4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="央卫咪咕",浙江卫视4K
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
-#EXTINF:-1 tvg-id="stream-077d3bd5-3954-4b4c-a58d-86bcf52072f8" tvg-name="江苏卫视4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K.png" group-title="央视卫视",江苏卫视4K
+#EXTINF:-1 tvg-id="stream-077d3bd5-3954-4b4c-a58d-86bcf52072f8" tvg-name="江苏卫视4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K.png" group-title="央卫咪咕",江苏卫视4K
 http://192.168.2.98:5678/js.php?id=jsws4k
-#EXTINF:-1 tvg-id="stream-6d388cee-718c-4d35-9628-f966a26788f5" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/东方卫视.png" group-title="央视卫视",东方卫视
+#EXTINF:-1 tvg-id="stream-6d388cee-718c-4d35-9628-f966a26788f5" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/东方卫视.png" group-title="央卫咪咕",东方卫视
 http://go.bkpcp.top/mg/dfws
-#EXTINF:-1 tvg-id="stream-d5b6aa8d-5bed-431d-9505-296cf5ed40d0" tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png" group-title="央视卫视",重温经典
+#EXTINF:-1 tvg-id="stream-d5b6aa8d-5bed-431d-9505-296cf5ed40d0" tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png" group-title="央卫咪咕",重温经典
 https://cdn.qd.je/163189/cwjd
 
 #EXTINF:-1 tvg-id="stream-094d6e7d-f0d9-4acb-80c8-ccae8a13e9f2" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%E6%98%9F%E5%BD%B1.png" group-title="香港频道",Now星影台
