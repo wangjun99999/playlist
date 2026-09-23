@@ -1886,48 +1886,78 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4
 
 
 
-
-
-#EXTINF:-1 tvg-id="stream-a39389da-44ac-4cac-a943-bd00a687c616" tvg-name="HUB Premier 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%201.png" group-title="HubSports",HUB Premier 1
-http://iptv.852851.xyz/l/8bI53OLpuLRKdHfbpT82YvYb2wYMVuHSjCJ-M9r3rIBoc6M0e-cdKL8sQ91DzLjk/index.m3u8
-#EXTINF:-1 tvg-id="stream-d9988085-b2f0-456e-bb34-08f47d6ac9de" tvg-name="HUB Premier 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%202.png" group-title="HubSports",HUB Premier 2
-http://iptv.852851.xyz/l/65ZURgGUsnfPc9U5przaaR-80USYBxQr81zHcSCsw3yqdSMAwx0yzO85NOaFmUUQ/index.m3u8
-#EXTINF:-1 tvg-id="stream-b8afe83f-a1c2-4bd7-8ca6-bfc85f05794b" tvg-name="HUB Premier 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%203.png" group-title="HubSports",HUB Premier 3
-http://iptv.852851.xyz/l/NZ6tC91cwKQPqZ8nm04JEfUOQ1bvAMbwtheNnRb_j5A_hZ977l0EnCEikxJLNft2/index.m3u8
-#EXTINF:-1 tvg-id="stream-4d3737b7-163e-44c1-9a1b-54cfc32b3a8b" tvg-name="HUB Premier 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%204.png" group-title="HubSports",HUB Premier 4
-http://iptv.852851.xyz/l/CjZvBaZUMW7yFFOtX9nUFO37-WHnuXsX5KqjAosZpz6AbE1tx4L6kLy5A2_Le500/index.m3u8
-#EXTINF:-1 tvg-id="stream-f2f8efc6-ce5f-4931-8704-ac4c669d3acc" tvg-name="HUB Premier 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%205.png" group-title="HubSports",HUB Premier 5
-http://iptv.852851.xyz/l/f1tXNjXnVVdy0HsVxfLkmWI0aiSD6DFCEh3CMRc7_XN0LUO4KCtfKf6kmXiy9VAN/index.m3u8
-#EXTINF:-1 tvg-id="stream-3d6cc9e9-e1b6-4087-b4b4-b17da2119743" tvg-name="HUB Premier 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%206.png" group-title="HubSports",HUB Premier 6
-http://iptv.852851.xyz/l/9e-chfxn9MKCT27mI9lAaZUhXCGmX0Ol-ZgNd4I2STimrfTA8wBZVQl11E_AQSbt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HUB Premier 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%207.png" group-title="HubSports",HUB Premier 7
-#EXTINF:-1 tvg-id="" tvg-name="HUB Premier 8" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/HUB%20Premier%208.png" group-title="HubSports",HUB Premier 8
-#EXTINF:-1 tvg-id="stream-e0ba11fb-2019-4961-b940-26320a8494d4" tvg-name="Hub Sports 1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%201.png" group-title="HubSports",Hub Sports 1
-http://iptv.852851.xyz/l/ZG1jqwaDwWAS2U28e6jn88e6TpkG_XViZV9BF7p5jm1zW0c2ADA539TrKL97dq2_/index.m3u8
-#EXTINF:-1 tvg-id="stream-c1db57a5-9b3e-4e29-a4df-50b098a3bd29" tvg-name="Hub Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%202.png" group-title="HubSports",Hub Sports 2
-http://iptv.852851.xyz/l/fP9knjlHlrsr8HoWLbjn3x8o31pd4Ss1DKDNZzRbEHKGzJXi_8Ejo2osl0pUpT7f/index.m3u8
-#EXTINF:-1 tvg-id="stream-eb3f1d4b-8342-4c47-b163-da964d204175" tvg-name="Hub Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%203.png" group-title="HubSports",Hub Sports 3
-http://iptv.852851.xyz/l/7YxQj3mkprm8iYhSCa3-WLWjg6dxPVst6uyCZJNCAAIIPvI6QJ-8oFxgvzzwJCsz/index.m3u8
-#EXTINF:-1 tvg-id="stream-56344767-65ce-4c85-9459-7a6ff89173ff" tvg-name="Hub Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%204.png" group-title="HubSports",Hub Sports 4
-http://iptv.852851.xyz/l/Z3LXM9ehPSIDNdyZgwIthRVJmlba5xRr0D6hbDzlVI0CzUxh1ZabHYxYOVnASIKt/index.m3u8
-#EXTINF:-1 tvg-id="stream-f917a310-c279-494f-b365-e75e67319eff" tvg-name="Hub Sports 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%205.png" group-title="HubSports",Hub Sports 5
-http://iptv.852851.xyz/l/s23-P9kTcbaEeniuS0KNCX-599I5WRgDJZFZgI3boRXVsSGEleF9WdGRoxHIUCze/index.m3u8
-#EXTINF:-1 tvg-id="stream-079dec66-96f7-4e81-92e2-230ffc1320aa" tvg-name="Hub Sports 6" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%206.png" group-title="HubSports",Hub Sports 6
-http://iptv.852851.xyz/l/AwYN6z-q5hJmJ1quxp66oje_inUbPlv3qFF9ioBgnwmkhQdMh7Yh6MBy9--wDHhI/index.m3u8
-#EXTINF:-1 tvg-id="stream-4419da8c-2b8f-4e1c-b85b-dc1a15ed749e" tvg-name="Hub Sports 7" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Hub%20Sports%207.png" group-title="HubSports",Hub Sports 7
-http://iptv.852851.xyz/l/Zq-LKbffkHzRemdIqg4zephhbGRBMpGV4YhGjJeZ6GD5pxDO1lV2SB-YmZXm4BBf/index.m3u8
-#EXTINF:-1 tvg-id="stream-ff5c315b-0353-4870-8d32-9e0fc5e8d77d" tvg-name="beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/beIN%20Sports%202.png" group-title="HubSports",beIN Sports 2
-http://iptv.852851.xyz/l/34-L_-e_Hx6V3w61dRfB3DaN0pvj4z56BY-uiNYtp8oA64gbEcn70Cq0rrBhxqjD/index.m3u8
-#EXTINF:-1 tvg-id="stream-503a1110-c0a0-4764-8508-6eeac186f685" tvg-name="beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/beIN%20Sports%203.png" group-title="HubSports",beIN Sports 3
-http://iptv.852851.xyz/l/62J2rZ8-d57709wbwgAb2rJn7FVnystH5PUib3WhKUWA0QLMeGMUN0EQIj8kwVzw/index.m3u8
-#EXTINF:-1 tvg-id="stream-0fffffa5-270a-4680-a1e0-44cd8d2215f5" tvg-name="beIN Sports 4" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/beIN%20Sports%204.png" group-title="HubSports",beIN Sports 4
-http://iptv.852851.xyz/l/lFoLRTEcc1xsNN5Fo93MgSP1CmktOO8yDoYNtntKIxCkyFxp_oOOqW9gLXoEu3bQ/index.m3u8
-#EXTINF:-1 tvg-id="stream-40b16da1-f989-4a6a-85a5-777d4cbc5d25" tvg-name="beIN Sports 5" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/beIN%20Sports%205.png" group-title="HubSports",beIN Sports 5
-http://iptv.852851.xyz/l/t6EnE4tbGVlrhRo_jdHMFRzBSXtMOd6eCcW769lIKmPfQlKHnsRF97voSXQA7Gij/index.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="stream-64801ac6-0f01-4c14-bc29-4680f1869fc8" tvg-name="ASTRO SUPERSPORT 1 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Astro%20Sports%20UHD.png" group-title="4K/UHD",Astro SuperSports 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1470225
+#EXTINF:-1 tvg-id="stream-2807979f-3698-4061-aed1-0304cc281082" tvg-name="ELEVEN SPORTS 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PL/Eleven%20Sports%201.png" group-title="4K/UHD",Eleven Sports 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1281071
+#EXTINF:-1 tvg-id="stream-359f16ee-5b23-4541-8068-d3027bb07e57" tvg-name="TNT Sports Ultimate 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/TNT%20Sports%20Ultimate.png" group-title="4K/UHD",TNT Sports Ultimate 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1281083
+#EXTINF:-1 tvg-id="stream-8637d5b9-be1e-4823-949c-bbb8b79013ac" tvg-name="Now HK Sports 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HK%20Now%20Sports%204K.png" group-title="4K/UHD",Now Sports 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1301200
+#EXTINF:-1 tvg-id="stream-6891cdaf-542c-4cf6-95b0-b7121c397432" tvg-name="Sky Sports Main Event 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event%20UHD.png" group-title="4K/UHD",Sky Sports Main Event 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1281430
+#EXTINF:-1 tvg-id="stream-672ceaba-e437-437a-8671-9d3869c25ecc" tvg-name="Sky Sports F1 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png" group-title="4K/UHD",Sky Sports F1 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1281428
+#EXTINF:-1 tvg-id="stream-fceb8f25-6f43-444e-b153-38326628ff01" tvg-name="Sky Sports 1 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20UHD.png" group-title="4K/UHD",Sky Sports 1 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1281426
+#EXTINF:-1 tvg-id="stream-e9411203-ef6d-4df3-be30-d5b657f6c9d8" tvg-name="Sky Sports 2 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20UHD.png" group-title="4K/UHD",Sky Sports 2 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1281427
+#EXTINF:-1 tvg-id="stream-04eda59f-cbd7-4fc3-853f-8fd333d65b54" tvg-name="Sky Bundesliga" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20Bundesliga%20UHD.png" group-title="4K/UHD",Sky Bundesliga 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1281069
+#EXTINF:-1 tvg-id="stream-7e4eba5b-51b0-4007-87fa-82a296046f7d" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/DE/Sky%20Sport%20UHD.png" group-title="4K/UHD",Sky Sport 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1281068
+#EXTINF:-1 tvg-id="stream-e735a396-a840-4568-89e1-a31f548d519a" tvg-name="SKY SPORT 1 NZ 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NZ/Sky%20Sport%201%204K.png" group-title="4K/UHD",Sky Sport 1 NZ 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1434884
+#EXTINF:-1 tvg-id="stream-c39cc44c-1e66-4750-b502-359bfd81b155" tvg-name="TSN East 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/TSN%204K.png" group-title="4K/UHD",TSN 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1431827
+#EXTINF:-1 tvg-id="stream-8e1170fb-af38-4c8d-9543-cdc6ba120466" tvg-name="Sportsnet 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/Sportsnet%204K.png" group-title="4K/UHD",Sportsnet 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1417564
+#EXTINF:-1 tvg-id="stream-751fc7d6-60c5-4cdc-8099-33613f2c37e3" tvg-name="Sportsnet One 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CA/Sportsnet%20One%204K.png" group-title="4K/UHD",Sportsnet One 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1417565
+#EXTINF:-1 tvg-id="stream-ce13648c-03a5-4de8-9310-a059012051b0" tvg-name="ESPN 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/ESPN%204K.png" group-title="4K/UHD",ESPN 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1292167
+#EXTINF:-1 tvg-id="stream-a1d7bc63-97f3-46c4-9632-6b6ce642538a" tvg-name="FOX 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/Fox%20Sports%204K.png" group-title="4K/UHD",Fox Sports 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/71371
+#EXTINF:-1 tvg-id="stream-d8018d6a-cebe-4124-a637-863d17b5778a" tvg-name="NBC 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NBC%20Sports.png" group-title="4K/UHD",NBC 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/71396
+#EXTINF:-1 tvg-id="stream-bf454105-ecfe-4151-b653-96123f303308" tvg-name="CANAL+ FOOT 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/Canal%2B%20Foot%204K.png" group-title="4K/UHD",Canal+ Foot 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/30412
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ ÉVENEMENT 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/Canal%2B%20%C3%89v%C3%A9nement.png" group-title="4K/UHD",Canal+ Événement 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1281449
+#EXTINF:-1 tvg-id="stream-7e11dd31-6b22-4a90-9db8-07bb56168885" tvg-name="SPORT TV 1 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PT/Sport%20TV%2B.png" group-title="4K/UHD",Sport TV+ 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1436340
+#EXTINF:-1 tvg-id="stream-7d04ae07-7221-46cd-b041-fc875d93dc1d" tvg-name="MOVISTAR LALIGA 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/M%2B%20LaLiga.png" group-title="4K/UHD",M+ LaLiga 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1425366
+#EXTINF:-1 tvg-id="stream-91855624-bffb-4a26-b534-97cf4ddd16e1" tvg-name="MOVISTAR LALIGA 2 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/ES/M%2B%20LaLiga%202.png" group-title="4K/UHD",M+ LaLiga 2 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1425367
+#EXTINF:-1 tvg-id="stream-ec327843-28aa-4231-a05c-dd146c647bd4" tvg-name="BEIN 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/beIN%20Sports%204K.png" group-title="4K/UHD",beIN Sports 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1441959
+#EXTINF:-1 tvg-id="" tvg-name="THMANYAH SPORT 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/AR/Thmanyah.png" group-title="4K/UHD",Thmanyah Sport 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1470226
+#EXTINF:-1 tvg-id="stream-ca804bae-e87f-43e3-915c-f9907081af06" tvg-name="DIEMA SPORT 2 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/BG/Diema%20Sport%202%204K.png" group-title="4K/UHD",Diema Sport 2 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1470227
+#EXTINF:-1 tvg-id="" tvg-name="LIGUE 1+ 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/FR/Ligue1%2B.png" group-title="4K/UHD",Ligue1+ 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1470230
+#EXTINF:-1 tvg-id="stream-bece87f2-61f0-4ba9-8ff7-dcbf642159f5" tvg-name="BLUE SPORT 1 LIVE 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CH/Blue%20Sport.png" group-title="4K/UHD",Blue Sport 1 LIVE 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1281087
+#EXTINF:-1 tvg-id="stream-09842f12-ac5d-4f98-a1b0-742893241980" tvg-name="BLUE SPORT 2 LIVE 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CH/Blue%20Sport.png" group-title="4K/UHD",Blue Sport 2 LIVE 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1281088
+#EXTINF:-1 tvg-id="stream-6ddba5cb-a08b-44eb-80ec-8e1d1dc20fe8" tvg-name="BLUE SPORT 3 LIVE 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CH/Blue%20Sport.png" group-title="4K/UHD",Blue Sport 3 LIVE 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1281089
+#EXTINF:-1 tvg-id="stream-442efe95-c1f1-4815-9613-acda3290db73" tvg-name="BLUE SPORT 4 LIVE 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CH/Blue%20Sport.png" group-title="4K/UHD",Blue Sport 4 LIVE 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1281090
+#EXTINF:-1 tvg-id="stream-0ad68d9e-ded3-48f2-9e9c-013b3292fa69" tvg-name="CANAL+ POLAND 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PL/Canal%2B%204K.png" group-title="4K/UHD",Canal+ 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1412559
+#EXTINF:-1 tvg-id="stream-92673495-720b-4d57-ad6f-d204ba8dbb1d" tvg-name="DIGI 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/RO/DIGI%204K.png" group-title="4K/UHD",DIGI 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1287085
+#EXTINF:-1 tvg-id="stream-951b97fa-314f-427b-99c0-6193beabfa77" tvg-name="NESN 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/US/NESN.png" group-title="4K/UHD",NESN 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1281073
+#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 TV 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IT/F1%20TV.png" group-title="4K/UHD",FORMULA 1 TV 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1281084
+#EXTINF:-1 tvg-id="" tvg-name="V SPORT 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/NL/V%20Sport%20ULTRA.png" group-title="4K/UHD",V SPORT 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1281078
+#EXTINF:-1 tvg-id="" tvg-name="YES SPORT 5 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/IS/Yes%20Sport%205.png" group-title="4K/UHD",YES SPORT 5 4K
+http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1287087
 
 
 
