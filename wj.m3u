@@ -4395,3 +4395,379 @@ https://4g.158.qzz.io/163189/dlam
 https://4g.158.qzz.io/163189/jddsn
 #EXTINF:-1 tvg-id="448" tvg-name="东离剑游纪-FastTV飞速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(PILI).png" group-title="台湾",东离剑游纪-FastTV飞速看
 https://4g.158.qzz.io/163189/dljy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="a-and-e" tvg-name="A&E" tvg-logo="https://tvnow.st/logo/a-and-e" group-title="美国频道",[Entertainment] A&E
+http://192.168.2.98:34712/play?id=a-and-e&proxy=1
+#EXTINF:-1 tvg-id="abc" tvg-name="ABC" tvg-logo="https://tvnow.st/logo/abc" group-title="美国频道",[Entertainment] ABC
+http://192.168.2.98:34712/play?id=abc&proxy=1
+#EXTINF:-1 tvg-id="abc-new-york" tvg-name="ABC New York" tvg-logo="https://tvnow.st/logo/abc-new-york" group-title="美国频道",[Entertainment] ABC New York
+http://192.168.2.98:34712/play?id=abc-new-york&proxy=1
+#EXTINF:-1 tvg-id="adult-swim" tvg-name="Adult Swim" tvg-logo="https://tvnow.st/logo/adult-swim" group-title="美国频道",[Entertainment] Adult Swim
+http://192.168.2.98:34712/play?id=adult-swim&proxy=1
+#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel" tvg-logo="https://tvnow.st/logo/american-heroes-channel" group-title="美国频道",[Entertainment] American Heroes Channel
+http://192.168.2.98:34712/play?id=american-heroes-channel&proxy=1
+#EXTINF:-1 tvg-id="bbc-america" tvg-name="BBC America" tvg-logo="https://tvnow.st/logo/bbc-america" group-title="美国频道",[Entertainment] BBC America
+http://192.168.2.98:34712/play?id=bbc-america&proxy=1
+#EXTINF:-1 tvg-id="bet" tvg-name="BET" tvg-logo="https://tvnow.st/logo/bet" group-title="美国频道",[Entertainment] BET
+http://192.168.2.98:34712/play?id=bet&proxy=1
+#EXTINF:-1 tvg-id="bravo" tvg-name="Bravo" tvg-logo="https://tvnow.st/logo/bravo" group-title="美国频道",[Entertainment] Bravo
+http://192.168.2.98:34712/play?id=bravo&proxy=1
+#EXTINF:-1 tvg-id="cbs" tvg-name="CBS" tvg-logo="https://tvnow.st/logo/cbs" group-title="美国频道",[Entertainment] CBS
+http://192.168.2.98:34712/play?id=cbs&proxy=1
+#EXTINF:-1 tvg-id="cbs-new-york" tvg-name="CBS New York" tvg-logo="https://tvnow.st/logo/cbs-new-york" group-title="美国频道",[Entertainment] CBS New York
+http://192.168.2.98:34712/play?id=cbs-new-york&proxy=1
+#EXTINF:-1 tvg-id="cmt" tvg-name="CMT" tvg-logo="https://tvnow.st/logo/cmt" group-title="美国频道",[Entertainment] CMT
+http://192.168.2.98:34712/play?id=cmt&proxy=1
+#EXTINF:-1 tvg-id="cw-new-york" tvg-name="CW New York" tvg-logo="https://tvnow.st/logo/cw-new-york" group-title="美国频道",[Entertainment] CW New York
+http://192.168.2.98:34712/play?id=cw-new-york&proxy=1
+#EXTINF:-1 tvg-id="comedy-central" tvg-name="Comedy Central" tvg-logo="https://tvnow.st/logo/comedy-central" group-title="美国频道",[Entertainment] Comedy Central
+http://192.168.2.98:34712/play?id=comedy-central&proxy=1
+#EXTINF:-1 tvg-id="e-entertainment" tvg-name="E! Entertainment" tvg-logo="https://tvnow.st/logo/e-entertainment" group-title="美国频道",[Entertainment] E! Entertainment
+http://192.168.2.98:34712/play?id=e-entertainment&proxy=1
+#EXTINF:-1 tvg-id="fetv" tvg-name="FETV" tvg-logo="https://tvnow.st/logo/fetv" group-title="美国频道",[Entertainment] FETV
+http://192.168.2.98:34712/play?id=fetv&proxy=1
+#EXTINF:-1 tvg-id="fox" tvg-name="FOX" tvg-logo="https://tvnow.st/logo/fox" group-title="美国频道",[Entertainment] FOX
+http://192.168.2.98:34712/play?id=fox&proxy=1
+#EXTINF:-1 tvg-id="fox-new-york" tvg-name="FOX New York" tvg-logo="https://tvnow.st/logo/fox-new-york" group-title="美国频道",[Entertainment] FOX New York
+http://192.168.2.98:34712/play?id=fox-new-york&proxy=1
+#EXTINF:-1 tvg-id="fuse" tvg-name="FUSE" tvg-logo="https://tvnow.st/logo/fuse" group-title="美国频道",[Entertainment] FUSE
+http://192.168.2.98:34712/play?id=fuse&proxy=1
+#EXTINF:-1 tvg-id="fx" tvg-name="FX" tvg-logo="https://tvnow.st/logo/fx" group-title="美国频道",[Entertainment] FX
+http://192.168.2.98:34712/play?id=fx&proxy=1
+#EXTINF:-1 tvg-id="fxx" tvg-name="FXX" tvg-logo="https://tvnow.st/logo/fxx" group-title="美国频道",[Entertainment] FXX
+http://192.168.2.98:34712/play?id=fxx&proxy=1
+#EXTINF:-1 tvg-id="freeform" tvg-name="Freeform" tvg-logo="https://tvnow.st/logo/freeform" group-title="美国频道",[Entertainment] Freeform
+http://192.168.2.98:34712/play?id=freeform&proxy=1
+#EXTINF:-1 tvg-id="game-show-network" tvg-name="Game Show Network" tvg-logo="https://tvnow.st/logo/game-show-network" group-title="美国频道",[Entertainment] Game Show Network
+http://192.168.2.98:34712/play?id=game-show-network&proxy=1
+#EXTINF:-1 tvg-id="grit" tvg-name="Grit" tvg-logo="https://tvnow.st/logo/grit" group-title="美国频道",[Entertainment] Grit
+http://192.168.2.98:34712/play?id=grit&proxy=1
+#EXTINF:-1 tvg-id="heroes-and-icons" tvg-name="Heroes & Icons" tvg-logo="https://tvnow.st/logo/heroes-and-icons" group-title="美国频道",[Entertainment] Heroes & Icons
+http://192.168.2.98:34712/play?id=heroes-and-icons&proxy=1
+#EXTINF:-1 tvg-id="ion" tvg-name="ION" tvg-logo="https://tvnow.st/logo/ion" group-title="美国频道",[Entertainment] ION
+http://192.168.2.98:34712/play?id=ion&proxy=1
+#EXTINF:-1 tvg-id="logo" tvg-name="Logo TV" tvg-logo="https://tvnow.st/logo/logo" group-title="美国频道",[Entertainment] Logo TV
+http://192.168.2.98:34712/play?id=logo&proxy=1
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-logo="https://tvnow.st/logo/mtv" group-title="美国频道",[Entertainment] MTV
+http://192.168.2.98:34712/play?id=mtv&proxy=1
+#EXTINF:-1 tvg-id="metv" tvg-name="MeTV" tvg-logo="https://tvnow.st/logo/metv" group-title="美国频道",[Entertainment] MeTV
+http://192.168.2.98:34712/play?id=metv&proxy=1
+#EXTINF:-1 tvg-id="my9" tvg-name="My9" tvg-logo="https://tvnow.st/logo/my9" group-title="美国频道",[Entertainment] My9
+http://192.168.2.98:34712/play?id=my9&proxy=1
+#EXTINF:-1 tvg-id="nbc" tvg-name="NBC" tvg-logo="https://tvnow.st/logo/nbc" group-title="美国频道",[Entertainment] NBC
+http://192.168.2.98:34712/play?id=nbc&proxy=1
+#EXTINF:-1 tvg-id="nbc-new-york" tvg-name="NBC New York" tvg-logo="https://tvnow.st/logo/nbc-new-york" group-title="美国频道",[Entertainment] NBC New York
+http://192.168.2.98:34712/play?id=nbc-new-york&proxy=1
+#EXTINF:-1 tvg-id="pbs" tvg-name="PBS" tvg-logo="https://tvnow.st/logo/pbs" group-title="美国频道",[Entertainment] PBS
+http://192.168.2.98:34712/play?id=pbs&proxy=1
+#EXTINF:-1 tvg-id="pop-tv" tvg-name="Pop TV" tvg-logo="https://tvnow.st/logo/pop-tv" group-title="美国频道",[Entertainment] Pop TV
+http://192.168.2.98:34712/play?id=pop-tv&proxy=1
+#EXTINF:-1 tvg-id="tbs" tvg-name="TBS" tvg-logo="https://tvnow.st/logo/tbs" group-title="美国频道",[Entertainment] TBS
+http://192.168.2.98:34712/play?id=tbs&proxy=1
+#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://tvnow.st/logo/tnt" group-title="美国频道",[Entertainment] TNT
+http://192.168.2.98:34712/play?id=tnt&proxy=1
+#EXTINF:-1 tvg-id="tv-land" tvg-name="TV Land" tvg-logo="https://tvnow.st/logo/tv-land" group-title="美国频道",[Entertainment] TV Land
+http://192.168.2.98:34712/play?id=tv-land&proxy=1
+#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One" tvg-logo="https://tvnow.st/logo/tv-one" group-title="美国频道",[Entertainment] TV One
+http://192.168.2.98:34712/play?id=tv-one&proxy=1
+#EXTINF:-1 tvg-id="telemundo" tvg-name="Telemundo" tvg-logo="https://tvnow.st/logo/telemundo" group-title="美国频道",[Entertainment] Telemundo
+http://192.168.2.98:34712/play?id=telemundo&proxy=1
+#EXTINF:-1 tvg-id="cw" tvg-name="The CW" tvg-logo="https://tvnow.st/logo/cw" group-title="美国频道",[Entertainment] The CW
+http://192.168.2.98:34712/play?id=cw&proxy=1
+#EXTINF:-1 tvg-id="usa-network" tvg-name="USA Network" tvg-logo="https://tvnow.st/logo/usa-network" group-title="美国频道",[Entertainment] USA Network
+http://192.168.2.98:34712/play?id=usa-network&proxy=1
+#EXTINF:-1 tvg-id="univision" tvg-name="Univision" tvg-logo="https://tvnow.st/logo/univision" group-title="美国频道",[Entertainment] Univision
+http://192.168.2.98:34712/play?id=univision&proxy=1
+#EXTINF:-1 tvg-id="vh1" tvg-name="VH1" tvg-logo="https://tvnow.st/logo/vh1" group-title="美国频道",[Entertainment] VH1
+http://192.168.2.98:34712/play?id=vh1&proxy=1
+#EXTINF:-1 tvg-id="vice" tvg-name="VICE TV" tvg-logo="https://tvnow.st/logo/vice" group-title="美国频道",[Entertainment] VICE TV
+http://192.168.2.98:34712/play?id=vice&proxy=1
+#EXTINF:-1 tvg-id="wetv" tvg-name="WE tv" tvg-logo="https://tvnow.st/logo/wetv" group-title="美国频道",[Entertainment] WE tv
+http://192.168.2.98:34712/play?id=wetv&proxy=1
+#EXTINF:-1 tvg-id="trutv" tvg-name="truTV" tvg-logo="https://tvnow.st/logo/trutv" group-title="美国频道",[Entertainment] truTV
+http://192.168.2.98:34712/play?id=trutv&proxy=1
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://tvnow.st/logo/boomerang" group-title="美国频道",[Kids] Boomerang
+http://192.168.2.98:34712/play?id=boomerang&proxy=1
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://tvnow.st/logo/cartoon-network" group-title="美国频道",[Kids] Cartoon Network
+http://192.168.2.98:34712/play?id=cartoon-network&proxy=1
+#EXTINF:-1 tvg-id="discovery-family" tvg-name="Discovery Family" tvg-logo="https://tvnow.st/logo/discovery-family" group-title="美国频道",[Kids] Discovery Family
+http://192.168.2.98:34712/play?id=discovery-family&proxy=1
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney Channel" tvg-logo="https://tvnow.st/logo/disney-channel" group-title="美国频道",[Kids] Disney Channel
+http://192.168.2.98:34712/play?id=disney-channel&proxy=1
+#EXTINF:-1 tvg-id="disney-junior" tvg-name="Disney Junior" tvg-logo="https://tvnow.st/logo/disney-junior" group-title="美国频道",[Kids] Disney Junior
+http://192.168.2.98:34712/play?id=disney-junior&proxy=1
+#EXTINF:-1 tvg-id="disney-xd" tvg-name="Disney XD" tvg-logo="https://tvnow.st/logo/disney-xd" group-title="美国频道",[Kids] Disney XD
+http://192.168.2.98:34712/play?id=disney-xd&proxy=1
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr." tvg-logo="https://tvnow.st/logo/nick-jr" group-title="美国频道",[Kids] Nick Jr.
+http://192.168.2.98:34712/play?id=nick-jr&proxy=1
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://tvnow.st/logo/nickelodeon" group-title="美国频道",[Kids] Nickelodeon
+http://192.168.2.98:34712/play?id=nickelodeon&proxy=1
+#EXTINF:-1 tvg-id="nicktoons" tvg-name="Nicktoons" tvg-logo="https://tvnow.st/logo/nicktoons" group-title="美国频道",[Kids] Nicktoons
+http://192.168.2.98:34712/play?id=nicktoons&proxy=1
+#EXTINF:-1 tvg-id="teennick" tvg-name="TeenNick" tvg-logo="https://tvnow.st/logo/teennick" group-title="美国频道",[Kids] TeenNick
+http://192.168.2.98:34712/play?id=teennick&proxy=1
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids" tvg-logo="https://tvnow.st/logo/universal-kids" group-title="美国频道",[Kids] Universal Kids
+http://192.168.2.98:34712/play?id=universal-kids&proxy=1
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet" tvg-logo="https://tvnow.st/logo/animal-planet" group-title="美国频道",[Lifestyle] Animal Planet
+http://192.168.2.98:34712/play?id=animal-planet&proxy=1
+#EXTINF:-1 tvg-id="cooking-channel" tvg-name="Cooking Channel" tvg-logo="https://tvnow.st/logo/cooking-channel" group-title="美国频道",[Lifestyle] Cooking Channel
+http://192.168.2.98:34712/play?id=cooking-channel&proxy=1
+#EXTINF:-1 tvg-id="crime-and-investigation" tvg-name="Crime + Investigation" tvg-logo="https://tvnow.st/logo/crime-and-investigation" group-title="美国频道",[Lifestyle] Crime + Investigation
+http://192.168.2.98:34712/play?id=crime-and-investigation&proxy=1
+#EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America" tvg-logo="https://tvnow.st/logo/destination-america" group-title="美国频道",[Lifestyle] Destination America
+http://192.168.2.98:34712/play?id=destination-america&proxy=1
+#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="https://tvnow.st/logo/discovery-channel" group-title="美国频道",[Lifestyle] Discovery Channel
+http://192.168.2.98:34712/play?id=discovery-channel&proxy=1
+#EXTINF:-1 tvg-id="discovery-life" tvg-name="Discovery Life" tvg-logo="https://tvnow.st/logo/discovery-life" group-title="美国频道",[Lifestyle] Discovery Life
+http://192.168.2.98:34712/play?id=discovery-life&proxy=1
+#EXTINF:-1 tvg-id="fyi" tvg-name="FYI" tvg-logo="https://tvnow.st/logo/fyi" group-title="美国频道",[Lifestyle] FYI
+http://192.168.2.98:34712/play?id=fyi&proxy=1
+#EXTINF:-1 tvg-id="food-network" tvg-name="Food Network" tvg-logo="https://tvnow.st/logo/food-network" group-title="美国频道",[Lifestyle] Food Network
+http://192.168.2.98:34712/play?id=food-network&proxy=1
+#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://tvnow.st/logo/hgtv" group-title="美国频道",[Lifestyle] HGTV
+http://192.168.2.98:34712/play?id=hgtv&proxy=1
+#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="https://tvnow.st/logo/history" group-title="美国频道",[Lifestyle] History
+http://192.168.2.98:34712/play?id=history&proxy=1
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="Investigation Discovery" tvg-logo="https://tvnow.st/logo/investigation-discovery" group-title="美国频道",[Lifestyle] Investigation Discovery
+http://192.168.2.98:34712/play?id=investigation-discovery&proxy=1
+#EXTINF:-1 tvg-id="lifetime" tvg-name="Lifetime" tvg-logo="https://tvnow.st/logo/lifetime" group-title="美国频道",[Lifestyle] Lifetime
+http://192.168.2.98:34712/play?id=lifetime&proxy=1
+#EXTINF:-1 tvg-id="lifetime-movies" tvg-name="Lifetime Movies" tvg-logo="https://tvnow.st/logo/lifetime-movies" group-title="美国频道",[Lifestyle] Lifetime Movies
+http://192.168.2.98:34712/play?id=lifetime-movies&proxy=1
+#EXTINF:-1 tvg-id="magnolia-network" tvg-name="Magnolia Network" tvg-logo="https://tvnow.st/logo/magnolia-network" group-title="美国频道",[Lifestyle] Magnolia Network
+http://192.168.2.98:34712/play?id=magnolia-network&proxy=1
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="https://tvnow.st/logo/nat-geo-wild" group-title="美国频道",[Lifestyle] Nat Geo Wild
+http://192.168.2.98:34712/play?id=nat-geo-wild&proxy=1
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="https://tvnow.st/logo/national-geographic" group-title="美国频道",[Lifestyle] National Geographic
+http://192.168.2.98:34712/play?id=national-geographic&proxy=1
+#EXTINF:-1 tvg-id="oprah-winfrey-network" tvg-name="OWN" tvg-logo="https://tvnow.st/logo/oprah-winfrey-network" group-title="美国频道",[Lifestyle] OWN
+http://192.168.2.98:34712/play?id=oprah-winfrey-network&proxy=1
+#EXTINF:-1 tvg-id="outdoor-channel" tvg-name="Outdoor Channel" tvg-logo="https://tvnow.st/logo/outdoor-channel" group-title="美国频道",[Lifestyle] Outdoor Channel
+http://192.168.2.98:34712/play?id=outdoor-channel&proxy=1
+#EXTINF:-1 tvg-id="oxygen" tvg-name="Oxygen True Crime" tvg-logo="https://tvnow.st/logo/oxygen" group-title="美国频道",[Lifestyle] Oxygen True Crime
+http://192.168.2.98:34712/play?id=oxygen&proxy=1
+#EXTINF:-1 tvg-id="science-channel" tvg-name="Science Channel" tvg-logo="https://tvnow.st/logo/science-channel" group-title="美国频道",[Lifestyle] Science Channel
+http://192.168.2.98:34712/play?id=science-channel&proxy=1
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://tvnow.st/logo/tlc" group-title="美国频道",[Lifestyle] TLC
+http://192.168.2.98:34712/play?id=tlc&proxy=1
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="https://tvnow.st/logo/travel-channel" group-title="美国频道",[Lifestyle] Travel Channel
+http://192.168.2.98:34712/play?id=travel-channel&proxy=1
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://tvnow.st/logo/amc" group-title="美国频道",[Movies] AMC
+http://192.168.2.98:34712/play?id=amc&proxy=1
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://tvnow.st/logo/cinemax" group-title="美国频道",[Movies] Cinemax
+http://192.168.2.98:34712/play?id=cinemax&proxy=1
+#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel" tvg-logo="https://tvnow.st/logo/fx-movie-channel" group-title="美国频道",[Movies] FX Movie Channel
+http://192.168.2.98:34712/play?id=fx-movie-channel&proxy=1
+#EXTINF:-1 tvg-id="great-american-family" tvg-name="Great American Family" tvg-logo="https://tvnow.st/logo/great-american-family" group-title="美国频道",[Movies] Great American Family
+http://192.168.2.98:34712/play?id=great-american-family&proxy=1
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://tvnow.st/logo/hbo" group-title="美国频道",[Movies] HBO
+http://192.168.2.98:34712/play?id=hbo&proxy=1
+#EXTINF:-1 tvg-id="hbo-2" tvg-name="HBO 2" tvg-logo="https://tvnow.st/logo/hbo-2" group-title="美国频道",[Movies] HBO 2
+http://192.168.2.98:34712/play?id=hbo-2&proxy=1
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO Comedy" tvg-logo="https://tvnow.st/logo/hbo-comedy" group-title="美国频道",[Movies] HBO Comedy
+http://192.168.2.98:34712/play?id=hbo-comedy&proxy=1
+#EXTINF:-1 tvg-id="hbo-family" tvg-name="HBO Family" tvg-logo="https://tvnow.st/logo/hbo-family" group-title="美国频道",[Movies] HBO Family
+http://192.168.2.98:34712/play?id=hbo-family&proxy=1
+#EXTINF:-1 tvg-id="hbo-signature" tvg-name="HBO Signature" tvg-logo="https://tvnow.st/logo/hbo-signature" group-title="美国频道",[Movies] HBO Signature
+http://192.168.2.98:34712/play?id=hbo-signature&proxy=1
+#EXTINF:-1 tvg-id="hbo-zone" tvg-name="HBO Zone" tvg-logo="https://tvnow.st/logo/hbo-zone" group-title="美国频道",[Movies] HBO Zone
+http://192.168.2.98:34712/play?id=hbo-zone&proxy=1
+#EXTINF:-1 tvg-id="hallmark" tvg-name="Hallmark Channel" tvg-logo="https://tvnow.st/logo/hallmark" group-title="美国频道",[Movies] Hallmark Channel
+http://192.168.2.98:34712/play?id=hallmark&proxy=1
+#EXTINF:-1 tvg-id="hallmark-mystery" tvg-name="Hallmark Mystery" tvg-logo="https://tvnow.st/logo/hallmark-mystery" group-title="美国频道",[Movies] Hallmark Mystery
+http://192.168.2.98:34712/play?id=hallmark-mystery&proxy=1
+#EXTINF:-1 tvg-id="ifc" tvg-name="IFC" tvg-logo="https://tvnow.st/logo/ifc" group-title="美国频道",[Movies] IFC
+http://192.168.2.98:34712/play?id=ifc&proxy=1
+#EXTINF:-1 tvg-id="mgm-plus" tvg-name="MGM+" tvg-logo="https://tvnow.st/logo/mgm-plus" group-title="美国频道",[Movies] MGM+
+http://192.168.2.98:34712/play?id=mgm-plus&proxy=1
+#EXTINF:-1 tvg-id="paramount-network" tvg-name="Paramount Network" tvg-logo="https://tvnow.st/logo/paramount-network" group-title="美国频道",[Movies] Paramount Network
+http://192.168.2.98:34712/play?id=paramount-network&proxy=1
+#EXTINF:-1 tvg-id="reelz" tvg-name="Reelz" tvg-logo="https://tvnow.st/logo/reelz" group-title="美国频道",[Movies] Reelz
+http://192.168.2.98:34712/play?id=reelz&proxy=1
+#EXTINF:-1 tvg-id="syfy" tvg-name="SYFY" tvg-logo="https://tvnow.st/logo/syfy" group-title="美国频道",[Movies] SYFY
+http://192.168.2.98:34712/play?id=syfy&proxy=1
+#EXTINF:-1 tvg-id="showtime" tvg-name="Showtime" tvg-logo="https://tvnow.st/logo/showtime" group-title="美国频道",[Movies] Showtime
+http://192.168.2.98:34712/play?id=showtime&proxy=1
+#EXTINF:-1 tvg-id="showtime-2" tvg-name="Showtime 2" tvg-logo="https://tvnow.st/logo/showtime-2" group-title="美国频道",[Movies] Showtime 2
+http://192.168.2.98:34712/play?id=showtime-2&proxy=1
+#EXTINF:-1 tvg-id="showtime-extreme" tvg-name="Showtime Extreme" tvg-logo="https://tvnow.st/logo/showtime-extreme" group-title="美国频道",[Movies] Showtime Extreme
+http://192.168.2.98:34712/play?id=showtime-extreme&proxy=1
+#EXTINF:-1 tvg-id="showtime-showcase" tvg-name="Showtime Showcase" tvg-logo="https://tvnow.st/logo/showtime-showcase" group-title="美国频道",[Movies] Showtime Showcase
+http://192.168.2.98:34712/play?id=showtime-showcase&proxy=1
+#EXTINF:-1 tvg-id="starz" tvg-name="Starz" tvg-logo="https://tvnow.st/logo/starz" group-title="美国频道",[Movies] Starz
+http://192.168.2.98:34712/play?id=starz&proxy=1
+#EXTINF:-1 tvg-id="sundance-tv" tvg-name="SundanceTV" tvg-logo="https://tvnow.st/logo/sundance-tv" group-title="美国频道",[Movies] SundanceTV
+http://192.168.2.98:34712/play?id=sundance-tv&proxy=1
+#EXTINF:-1 tvg-id="tmc" tvg-name="The Movie Channel" tvg-logo="https://tvnow.st/logo/tmc" group-title="美国频道",[Movies] The Movie Channel
+http://192.168.2.98:34712/play?id=tmc&proxy=1
+#EXTINF:-1 tvg-id="turner-classic-movies" tvg-name="Turner Classic Movies" tvg-logo="https://tvnow.st/logo/turner-classic-movies" group-title="美国频道",[Movies] Turner Classic Movies
+http://192.168.2.98:34712/play?id=turner-classic-movies&proxy=1
+#EXTINF:-1 tvg-id="bbc-news" tvg-name="BBC News" tvg-logo="https://tvnow.st/logo/bbc-news" group-title="美国频道",[News] BBC News
+http://192.168.2.98:34712/play?id=bbc-news&proxy=1
+#EXTINF:-1 tvg-id="c-span" tvg-name="C-SPAN" tvg-logo="https://tvnow.st/logo/c-span" group-title="美国频道",[News] C-SPAN
+http://192.168.2.98:34712/play?id=c-span&proxy=1
+#EXTINF:-1 tvg-id="cnbc" tvg-name="CNBC" tvg-logo="https://tvnow.st/logo/cnbc" group-title="美国频道",[News] CNBC
+http://192.168.2.98:34712/play?id=cnbc&proxy=1
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://tvnow.st/logo/cnn" group-title="美国频道",[News] CNN
+http://192.168.2.98:34712/play?id=cnn&proxy=1
+#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business" tvg-logo="https://tvnow.st/logo/fox-business" group-title="美国频道",[News] Fox Business
+http://192.168.2.98:34712/play?id=fox-business&proxy=1
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News" tvg-logo="https://tvnow.st/logo/fox-news" group-title="美国频道",[News] Fox News
+http://192.168.2.98:34712/play?id=fox-news&proxy=1
+#EXTINF:-1 tvg-id="fox-weather" tvg-name="Fox Weather" tvg-logo="https://tvnow.st/logo/fox-weather" group-title="美国频道",[News] Fox Weather
+http://192.168.2.98:34712/play?id=fox-weather&proxy=1
+#EXTINF:-1 tvg-id="hln" tvg-name="HLN" tvg-logo="https://tvnow.st/logo/hln" group-title="美国频道",[News] HLN
+http://192.168.2.98:34712/play?id=hln&proxy=1
+#EXTINF:-1 tvg-id="msnbc" tvg-name="MSNBC" tvg-logo="https://tvnow.st/logo/msnbc" group-title="美国频道",[News] MSNBC
+http://192.168.2.98:34712/play?id=msnbc&proxy=1
+#EXTINF:-1 tvg-id="newsnation" tvg-name="NewsNation" tvg-logo="https://tvnow.st/logo/newsnation" group-title="美国频道",[News] NewsNation
+http://192.168.2.98:34712/play?id=newsnation&proxy=1
+#EXTINF:-1 tvg-id="newsmax" tvg-name="Newsmax" tvg-logo="https://tvnow.st/logo/newsmax" group-title="美国频道",[News] Newsmax
+http://192.168.2.98:34712/play?id=newsmax&proxy=1
+#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel" tvg-logo="https://tvnow.st/logo/the-weather-channel" group-title="美国频道",[News] The Weather Channel
+http://192.168.2.98:34712/play?id=the-weather-channel&proxy=1
+#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network" tvg-logo="https://tvnow.st/logo/acc-network" group-title="美国频道",[Sports] ACC Network
+http://192.168.2.98:34712/play?id=acc-network&proxy=1
+#EXTINF:-1 tvg-id="altitude-sports" tvg-name="Altitude Sports" tvg-logo="https://tvnow.st/logo/altitude-sports" group-title="美国频道",[Sports] Altitude Sports
+http://192.168.2.98:34712/play?id=altitude-sports&proxy=1
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network" tvg-logo="https://tvnow.st/logo/big-ten-network" group-title="美国频道",[Sports] Big Ten Network
+http://192.168.2.98:34712/play?id=big-ten-network&proxy=1
+#EXTINF:-1 tvg-id="cbs-sports-golazo" tvg-name="CBS Sports Golazo" tvg-logo="https://tvnow.st/logo/cbs-sports-golazo" group-title="美国频道",[Sports] CBS Sports Golazo
+http://192.168.2.98:34712/play?id=cbs-sports-golazo&proxy=1
+#EXTINF:-1 tvg-id="cbs-sports-network" tvg-name="CBS Sports Network" tvg-logo="https://tvnow.st/logo/cbs-sports-network" group-title="美国频道",[Sports] CBS Sports Network
+http://192.168.2.98:34712/play?id=cbs-sports-network&proxy=1
+#EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network" tvg-logo="https://tvnow.st/logo/chicago-sports-network" group-title="美国频道",[Sports] Chicago Sports Network
+http://192.168.2.98:34712/play?id=chicago-sports-network&proxy=1
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://tvnow.st/logo/espn" group-title="美国频道",[Sports] ESPN
+http://192.168.2.98:34712/play?id=espn&proxy=1
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes" tvg-logo="https://tvnow.st/logo/espn-deportes" group-title="美国频道",[Sports] ESPN Deportes
+http://192.168.2.98:34712/play?id=espn-deportes&proxy=1
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" tvg-logo="https://tvnow.st/logo/espn2" group-title="美国频道",[Sports] ESPN2
+http://192.168.2.98:34712/play?id=espn2&proxy=1
+#EXTINF:-1 tvg-id="espnu" tvg-name="ESPNU" tvg-logo="https://tvnow.st/logo/espnu" group-title="美国频道",[Sports] ESPNU
+http://192.168.2.98:34712/play?id=espnu&proxy=1
+#EXTINF:-1 tvg-id="espnews" tvg-name="ESPNews" tvg-logo="https://tvnow.st/logo/espnews" group-title="美国频道",[Sports] ESPNews
+http://192.168.2.98:34712/play?id=espnews&proxy=1
+#EXTINF:-1 tvg-id="fanduel-arizona" tvg-name="FanDuel Sports Arizona" tvg-logo="https://tvnow.st/logo/fanduel-arizona" group-title="美国频道",[Sports] FanDuel Sports Arizona
+http://192.168.2.98:34712/play?id=fanduel-arizona&proxy=1
+#EXTINF:-1 tvg-id="fanduel-midwest" tvg-name="FanDuel Sports Midwest" tvg-logo="https://tvnow.st/logo/fanduel-midwest" group-title="美国频道",[Sports] FanDuel Sports Midwest
+http://192.168.2.98:34712/play?id=fanduel-midwest&proxy=1
+#EXTINF:-1 tvg-id="fanduel-new-orleans" tvg-name="FanDuel Sports New Orleans" tvg-logo="https://tvnow.st/logo/fanduel-new-orleans" group-title="美国频道",[Sports] FanDuel Sports New Orleans
+http://192.168.2.98:34712/play?id=fanduel-new-orleans&proxy=1
+#EXTINF:-1 tvg-id="fanduel-north" tvg-name="FanDuel Sports North" tvg-logo="https://tvnow.st/logo/fanduel-north" group-title="美国频道",[Sports] FanDuel Sports North
+http://192.168.2.98:34712/play?id=fanduel-north&proxy=1
+#EXTINF:-1 tvg-id="fanduel-ohio" tvg-name="FanDuel Sports Ohio" tvg-logo="https://tvnow.st/logo/fanduel-ohio" group-title="美国频道",[Sports] FanDuel Sports Ohio
+http://192.168.2.98:34712/play?id=fanduel-ohio&proxy=1
+#EXTINF:-1 tvg-id="fanduel-oklahoma" tvg-name="FanDuel Sports Oklahoma" tvg-logo="https://tvnow.st/logo/fanduel-oklahoma" group-title="美国频道",[Sports] FanDuel Sports Oklahoma
+http://192.168.2.98:34712/play?id=fanduel-oklahoma&proxy=1
+#EXTINF:-1 tvg-id="fanduel-socal" tvg-name="FanDuel Sports SoCal" tvg-logo="https://tvnow.st/logo/fanduel-socal" group-title="美国频道",[Sports] FanDuel Sports SoCal
+http://192.168.2.98:34712/play?id=fanduel-socal&proxy=1
+#EXTINF:-1 tvg-id="fanduel-south" tvg-name="FanDuel Sports South" tvg-logo="https://tvnow.st/logo/fanduel-south" group-title="美国频道",[Sports] FanDuel Sports South
+http://192.168.2.98:34712/play?id=fanduel-south&proxy=1
+#EXTINF:-1 tvg-id="fanduel-southeast" tvg-name="FanDuel Sports Southeast" tvg-logo="https://tvnow.st/logo/fanduel-southeast" group-title="美国频道",[Sports] FanDuel Sports Southeast
+http://192.168.2.98:34712/play?id=fanduel-southeast&proxy=1
+#EXTINF:-1 tvg-id="fanduel-sun" tvg-name="FanDuel Sports Sun" tvg-logo="https://tvnow.st/logo/fanduel-sun" group-title="美国频道",[Sports] FanDuel Sports Sun
+http://192.168.2.98:34712/play?id=fanduel-sun&proxy=1
+#EXTINF:-1 tvg-id="fanduel-west" tvg-name="FanDuel Sports West" tvg-logo="https://tvnow.st/logo/fanduel-west" group-title="美国频道",[Sports] FanDuel Sports West
+http://192.168.2.98:34712/play?id=fanduel-west&proxy=1
+#EXTINF:-1 tvg-id="fanduel-wisconsin" tvg-name="FanDuel Sports Wisconsin" tvg-logo="https://tvnow.st/logo/fanduel-wisconsin" group-title="美国频道",[Sports] FanDuel Sports Wisconsin
+http://192.168.2.98:34712/play?id=fanduel-wisconsin&proxy=1
+#EXTINF:-1 tvg-id="fox-deportes" tvg-name="Fox Deportes" tvg-logo="https://tvnow.st/logo/fox-deportes" group-title="美国频道",[Sports] Fox Deportes
+http://192.168.2.98:34712/play?id=fox-deportes&proxy=1
+#EXTINF:-1 tvg-id="fox-soccer-plus" tvg-name="Fox Soccer Plus" tvg-logo="https://tvnow.st/logo/fox-soccer-plus" group-title="美国频道",[Sports] Fox Soccer Plus
+http://192.168.2.98:34712/play?id=fox-soccer-plus&proxy=1
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1" tvg-logo="https://tvnow.st/logo/fox-sports-1" group-title="美国频道",[Sports] Fox Sports 1
+http://192.168.2.98:34712/play?id=fox-sports-1&proxy=1
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2" tvg-logo="https://tvnow.st/logo/fox-sports-2" group-title="美国频道",[Sports] Fox Sports 2
+http://192.168.2.98:34712/play?id=fox-sports-2&proxy=1
+#EXTINF:-1 tvg-id="golf-channel" tvg-name="Golf Channel" tvg-logo="https://tvnow.st/logo/golf-channel" group-title="美国频道",[Sports] Golf Channel
+http://192.168.2.98:34712/play?id=golf-channel&proxy=1
+#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network" tvg-logo="https://tvnow.st/logo/mlb-network" group-title="美国频道",[Sports] MLB Network
+http://192.168.2.98:34712/play?id=mlb-network&proxy=1
+#EXTINF:-1 tvg-id="msg" tvg-name="MSG Network" tvg-logo="https://tvnow.st/logo/msg" group-title="美国频道",[Sports] MSG Network
+http://192.168.2.98:34712/play?id=msg&proxy=1
+#EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network" tvg-logo="https://tvnow.st/logo/marquee-sports-network" group-title="美国频道",[Sports] Marquee Sports Network
+http://192.168.2.98:34712/play?id=marquee-sports-network&proxy=1
+#EXTINF:-1 tvg-id="masn" tvg-name="Mid-Atlantic Sports Network" tvg-logo="https://tvnow.st/logo/masn" group-title="美国频道",[Sports] Mid-Atlantic Sports Network
+http://192.168.2.98:34712/play?id=masn&proxy=1
+#EXTINF:-1 tvg-id="monumental-sports-network" tvg-name="Monumental Sports Network" tvg-logo="https://tvnow.st/logo/monumental-sports-network" group-title="美国频道",[Sports] Monumental Sports Network
+http://192.168.2.98:34712/play?id=monumental-sports-network&proxy=1
+#EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV" tvg-logo="https://tvnow.st/logo/nba-tv" group-title="美国频道",[Sports] NBA TV
+http://192.168.2.98:34712/play?id=nba-tv&proxy=1
+#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area" tvg-logo="https://tvnow.st/logo/nbc-sports-bay-area" group-title="美国频道",[Sports] NBC Sports Bay Area
+http://192.168.2.98:34712/play?id=nbc-sports-bay-area&proxy=1
+#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston" tvg-logo="https://tvnow.st/logo/nbc-sports-boston" group-title="美国频道",[Sports] NBC Sports Boston
+http://192.168.2.98:34712/play?id=nbc-sports-boston&proxy=1
+#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California" tvg-logo="https://tvnow.st/logo/nbc-sports-california" group-title="美国频道",[Sports] NBC Sports California
+http://192.168.2.98:34712/play?id=nbc-sports-california&proxy=1
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia" tvg-logo="https://tvnow.st/logo/nbc-sports-philadelphia" group-title="美国频道",[Sports] NBC Sports Philadelphia
+http://192.168.2.98:34712/play?id=nbc-sports-philadelphia&proxy=1
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" tvg-logo="https://tvnow.st/logo/nfl-network" group-title="美国频道",[Sports] NFL Network
+http://192.168.2.98:34712/play?id=nfl-network&proxy=1
+#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone" tvg-logo="https://tvnow.st/logo/nfl-redzone" group-title="美国频道",[Sports] NFL RedZone
+http://192.168.2.98:34712/play?id=nfl-redzone&proxy=1
+#EXTINF:-1 tvg-id="nhl-network" tvg-name="NHL Network" tvg-logo="https://tvnow.st/logo/nhl-network" group-title="美国频道",[Sports] NHL Network
+http://192.168.2.98:34712/play?id=nhl-network&proxy=1
+#EXTINF:-1 tvg-id="nesn" tvg-name="New England Sports Network" tvg-logo="https://tvnow.st/logo/nesn" group-title="美国频道",[Sports] New England Sports Network
+http://192.168.2.98:34712/play?id=nesn&proxy=1
+#EXTINF:-1 tvg-id="root-sports-northwest" tvg-name="Root Sports Northwest" tvg-logo="https://tvnow.st/logo/root-sports-northwest" group-title="美国频道",[Sports] Root Sports Northwest
+http://192.168.2.98:34712/play?id=root-sports-northwest&proxy=1
+#EXTINF:-1 tvg-id="sec-network" tvg-name="SEC Network" tvg-logo="https://tvnow.st/logo/sec-network" group-title="美国频道",[Sports] SEC Network
+http://192.168.2.98:34712/play?id=sec-network&proxy=1
+#EXTINF:-1 tvg-id="space-city-home-network" tvg-name="Space City Home Network" tvg-logo="https://tvnow.st/logo/space-city-home-network" group-title="美国频道",[Sports] Space City Home Network
+http://192.168.2.98:34712/play?id=space-city-home-network&proxy=1
+#EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum SportsNet" tvg-logo="https://tvnow.st/logo/spectrum-sportsnet" group-title="美国频道",[Sports] Spectrum SportsNet
+http://192.168.2.98:34712/play?id=spectrum-sportsnet&proxy=1
+#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA" tvg-logo="https://tvnow.st/logo/spectrum-sportsnet-la" group-title="美国频道",[Sports] Spectrum SportsNet LA
+http://192.168.2.98:34712/play?id=spectrum-sportsnet-la&proxy=1
+#EXTINF:-1 tvg-id="sny" tvg-name="SportsNet New York" tvg-logo="https://tvnow.st/logo/sny" group-title="美国频道",[Sports] SportsNet New York
+http://192.168.2.98:34712/play?id=sny&proxy=1
+#EXTINF:-1 tvg-id="sportsnet-360" tvg-name="Sportsnet 360" tvg-logo="https://tvnow.st/logo/sportsnet-360" group-title="美国频道",[Sports] Sportsnet 360
+http://192.168.2.98:34712/play?id=sportsnet-360&proxy=1
+#EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet East" tvg-logo="https://tvnow.st/logo/sportsnet-east" group-title="美国频道",[Sports] Sportsnet East
+http://192.168.2.98:34712/play?id=sportsnet-east&proxy=1
+#EXTINF:-1 tvg-id="sportsnet-one" tvg-name="Sportsnet One" tvg-logo="https://tvnow.st/logo/sportsnet-one" group-title="美国频道",[Sports] Sportsnet One
+http://192.168.2.98:34712/play?id=sportsnet-one&proxy=1
+#EXTINF:-1 tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario" tvg-logo="https://tvnow.st/logo/sportsnet-ontario" group-title="美国频道",[Sports] Sportsnet Ontario
+http://192.168.2.98:34712/play?id=sportsnet-ontario&proxy=1
+#EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West" tvg-logo="https://tvnow.st/logo/sportsnet-west" group-title="美国频道",[Sports] Sportsnet West
+http://192.168.2.98:34712/play?id=sportsnet-west&proxy=1
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1" tvg-logo="https://tvnow.st/logo/tsn1" group-title="美国频道",[Sports] TSN1
+http://192.168.2.98:34712/play?id=tsn1&proxy=1
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2" tvg-logo="https://tvnow.st/logo/tsn2" group-title="美国频道",[Sports] TSN2
+http://192.168.2.98:34712/play?id=tsn2&proxy=1
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3" tvg-logo="https://tvnow.st/logo/tsn3" group-title="美国频道",[Sports] TSN3
+http://192.168.2.98:34712/play?id=tsn3&proxy=1
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4" tvg-logo="https://tvnow.st/logo/tsn4" group-title="美国频道",[Sports] TSN4
+http://192.168.2.98:34712/play?id=tsn4&proxy=1
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5" tvg-logo="https://tvnow.st/logo/tsn5" group-title="美国频道",[Sports] TSN5
+http://192.168.2.98:34712/play?id=tsn5&proxy=1
+#EXTINF:-1 tvg-id="tennis-channel" tvg-name="Tennis Channel" tvg-logo="https://tvnow.st/logo/tennis-channel" group-title="美国频道",[Sports] Tennis Channel
+http://192.168.2.98:34712/play?id=tennis-channel&proxy=1
+#EXTINF:-1 tvg-id="yes-network" tvg-name="YES Network" tvg-logo="https://tvnow.st/logo/yes-network" group-title="美国频道",[Sports] YES Network
+http://192.168.2.98:34712/play?id=yes-network&proxy=1
