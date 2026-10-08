@@ -1250,7 +1250,8 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4
 
 
 
-
+#EXTINF:-1 tvg-name="Apple TV 4K Dolby Vision F1" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/f1.png" group-title="4K/UHD",Apple TV 4K Dolby Vision F1
+https://kan.waiguotai.top/appletvf1.m3u8
 #EXTINF:-1 tvg-id="stream-64801ac6-0f01-4c14-bc29-4680f1869fc8" tvg-name="ASTRO SUPERSPORT 1 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Astro%20Sports%20UHD.png" group-title="4K/UHD",Astro SuperSports 4K
 http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1470225
 #EXTINF:-1 tvg-id="stream-2807979f-3698-4061-aed1-0304cc281082" tvg-name="ELEVEN SPORTS 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/PL/Eleven%20Sports%201.png" group-title="4K/UHD",Eleven Sports 4K
