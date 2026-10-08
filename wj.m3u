@@ -100,10 +100,6 @@ http://39.77.162.24:4002/rtp/239.253.254.252:8000
 http://39.77.23.127:4002/rtp/239.253.254.252:8000
 http://39.77.23.205:4002/rtp/239.253.254.252:8000
 #EXTINF:-1 tvg-id="stream-b8d61ade-72fc-45af-917a-00df0cdd200a" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/QTV5.png",QTV5
-http://39.77.162.24:4002/rtp/239.253.254.253:8000
-http://39.77.23.127:4002/rtp/239.253.254.253:8000
-http://39.77.23.205:4002/rtp/239.253.254.253:8000
-#EXTINF:-1 tvg-id="stream-a691d701-8205-4d95-adac-e3d8ae23d53f" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/QTV6.png",QTV6
 http://39.77.162.24:4002/rtp/239.253.254.254:8000
 http://39.77.23.127:4002/rtp/239.253.254.254:8000
 http://39.77.23.205:4002/rtp/239.253.254.254:8000
