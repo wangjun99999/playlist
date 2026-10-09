@@ -80,13 +80,13 @@ http://39.77.23.205:4002/rtp/239.253.254.254:8000
 #EXTINF:-1 tvg-id="崂山综合" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/青岛崂山.png",崂山
 http://39.77.23.127:4002/rtp/239.253.254.242:8000
 http://39.77.23.205:4002/rtp/239.253.254.242:8000
-#EXTINF:-1 tvg-id="西海岸新闻" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/青岛西海岸.png",西海岸新闻
+#EXTINF:-1 tvg-id="西海岸新闻" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E8%A5%BF%E6%B5%B7%E5%B2%B8%E7%BB%BC%E5%90%88.png",西海岸综合
 http://39.77.23.127:4002/rtp/239.253.254.243:8000
 http://39.77.23.205:4002/rtp/239.253.254.243:8000
-#EXTINF:-1 tvg-id="西海岸生活" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/青岛西海岸.png",西海岸生活
+#EXTINF:-1 tvg-id="西海岸生活" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E8%A5%BF%E6%B5%B7%E5%B2%B8%E7%94%9F%E6%B4%BB.png",西海岸生活
 http://39.77.23.127:4002/rtp/239.253.254.244:8000
 http://39.77.23.205:4002/rtp/239.253.254.244:8000
-#EXTINF:-1 tvg-id="即墨综合" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/青岛即墨.png",即墨
+#EXTINF:-1 tvg-id="即墨综合" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/CN/%E5%8D%B3%E5%A2%A8%E7%BB%BC%E5%90%88.png",即墨综合
 http://39.77.23.127:4002/rtp/239.253.254.245:8000
 http://39.77.23.205:4002/rtp/239.253.254.245:8000
 #EXTINF:-1 tvg-id="青岛胶州" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/青岛胶州.png",胶州综合
@@ -95,7 +95,7 @@ http://39.77.23.205:4002/rtp/239.253.254.246:8000
 #EXTINF:-1 tvg-id="莱西综合" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/青岛莱西.png",莱西综合
 http://39.77.23.127:4002/rtp/239.253.254.247:8000
 http://39.77.23.205:4002/rtp/239.253.254.247:8000
-#EXTINF:-1 tvg-id="平度综合" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/青岛平度.png",平度电视台
+#EXTINF:-1 tvg-id="平度综合" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东/青岛平度.png",平度综合
 http://39.77.23.127:4002/rtp/239.253.254.248:8000
 http://39.77.23.205:4002/rtp/239.253.254.248:8000
 #EXTINF:-1 tvg-id="stream-70309f87-69db-4b28-8146-95fb9dd7e313" group-title="青岛联通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png",山东卫视
