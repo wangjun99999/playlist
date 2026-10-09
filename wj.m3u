@@ -337,9 +337,9 @@ http://39.77.23.205:4002/rtp/239.253.254.132:8000
 
 
 #EXTINF:-1 tvg-id="stream-094d6e7d-f0d9-4acb-80c8-ccae8a13e9f2" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%E6%98%9F%E5%BD%B1.png" group-title="香港频道",Now星影台
-
+http://good.852851.xyz/l/tfQTfU0y8ToFYYYttrJugF_rwxoghyE_k1QSqkPud9_zLJmMHY-Q-zGHpZ9pc2Ib/index.m3u8
 #EXTINF:-1 tvg-id="stream-c398950b-309c-4d32-bfe1-296a22ef3891" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/Now%E7%88%86%E8%B0%B7.png" group-title="香港频道",Now爆谷台
-
+http://good.852851.xyz/l/8KJ0Jn06DVmLfRsuPSogYPhSlxwA7iqWd-LPIs0gSXz45Jm9D-z2zi5jYV70k_rB/index.m3u8
 #EXTINF:-1 tvg-id="stream-6bb42d76-a6d8-4a92-8128-cbf44ed20711" tvg-name="天映频道(新加坡)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png" group-title="香港频道",天映频道(新加坡)
 https://cdn.qd.je/163189/typd
 #EXTINF:-1 tvg-id="stream-d1d68fce-029c-4ad8-b82d-a48bfa03446c" tvg-name="天映经典(新加坡)" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png" group-title="香港频道",天映经典(新加坡)
@@ -351,7 +351,7 @@ https://cdn.qd.je/163189/ccm2
 #EXTINF:-1 tvg-id="stream-2d047310-d371-4654-9713-94f5c108af2b" tvg-name="Now新聞台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/now%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="香港频道",Now新聞台
 https://cdn.qd.je/163189/now
 #EXTINF:-1 tvg-id="" tvg-name="Now Sports 精選" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_170_122" group-title="香港频道",Now Sports 精選
-
+http://good.852851.xyz/l/oKTA_Pmd5DEEuTpgDM8nTY1rM9LK7SdHRAkMgpTQlmoZAxXHssEIOzBq6k3OA1uC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now Sports 618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="香港频道",Now Sports 618
 
 #EXTINF:-1 tvg-id="stream-3ed8ab44-994e-4c96-9c19-d86d19ef2f49" tvg-name="HOY 國際財經台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/HOY76.png" group-title="香港频道",HOY 國際財經台
