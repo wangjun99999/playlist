@@ -464,6 +464,272 @@ http://31.43.191.125:8080/restream/restream/34907
 http://31.43.191.125:8080/restream/restream/34825
 #EXTINF:-1 tvg-id="" tvg-name="美亚电影" group-title="台湾频道",美亚电影
 http://31.43.191.125:8080/restream/restream/34848
+#EXTINF:-1 tvg-id="stream-5681a4c3-2da8-4931-91a2-eebbeca2250a" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B21%E5%8F%B0.png" group-title="台湾频道",愛爾達體育1台
+http://good.852851.xyz/l/ggDVPqbJZh7HOWIe6dZHRxA8GkJV_JuSniyLg7_DteCzPuCmIR38dXe_8OJahZmP/index.m3u8
+#EXTINF:-1 tvg-id="stream-9790fed2-89e6-41a1-bb04-6701f7d4eb91" tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B22%E5%8F%B0.png" group-title="台湾频道",愛爾達體育2台
+http://good.852851.xyz/l/qi2FLM1ZLut3tyN95qrqx2ge_amC11dywCNBtelxuWviJRbhd1YCK6Grwp19x5Wx/index.m3u8
+#EXTINF:-1 tvg-id="stream-b2da47e3-45e8-4696-a94e-a4ca5b4e2979" tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B23%E5%8F%B0.png" group-title="台湾频道",愛爾達體育3台
+http://good.852851.xyz/l/vWc3EX_PC8KXibiBYYYp4hzgM3UNNacs4gbhUjvw53_mG-TLkcN-FaFjMsbvcL83/index.m3u8
+#EXTINF:-1 tvg-id="stream-1f1da9af-b234-4f90-a5b8-db2474b23c62" tvg-name="愛爾達體育4台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B24%E5%8F%B0.png" group-title="台湾频道",愛爾達體育4台
+http://good.852851.xyz/l/zIBQ2g1INRjn1wwewBwHz_lFwPKZKKUy6rKV0EYeDiU0PhUobkSnfSlfgooaSqEp/index.m3u8
+#EXTINF:-1 tvg-id="stream-70a16ae1-cdc0-489e-9ef2-bd79b0c0b438" tvg-name="緯來電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland2.png" group-title="台湾频道",緯來電影台
+http://good.852851.xyz/l/lYRIVAdohXWG1R8mVioQg5PnFAovQRJ_knbKHfKoIwZgUDYJBrwTLpN45jl_LWGn/index.m3u8
+#EXTINF:-1 tvg-id="stream-b8e3e8f7-d327-401c-a615-301a373ecdd5" tvg-name="緯來日本台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland5.png" group-title="台湾频道",緯來日本台
+http://good.852851.xyz/l/A_QDJPu15X4G7_e44yrpJodyYJMlbKl4w8Rs0wmC6ID11Is9Jaa6I-lmpqadf3n7/index.m3u8
+#EXTINF:-1 tvg-id="stream-a6986829-e5c2-43ab-8197-5560d6ef39df" tvg-name="緯來戲劇台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%BA%AC%E6%9D%A5%E6%88%8F%E5%89%A7%E5%8F%B0.png" group-title="台湾频道",緯來戲劇台
+
+#EXTINF:-1 tvg-id="stream-cd804fb3-59b1-43a8-9fb6-922434a07cc8" tvg-name="緯來體育台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2%E5%8F%B0.png" group-title="台湾频道",緯來體育台
+http://good.852851.xyz/l/jhC-DvSr-KaR9oIZGJiJEUx4sJJizgcjXEYcrHEvMEb8gvpSOY7C_0eqyrfDDoAV/index.m3u8
+#EXTINF:-1 tvg-id="stream-ad9f5701-37e2-4ce8-aec1-6f26471d98a4" tvg-name="緯來綜合台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E7%BA%AC%E6%9D%A5%E7%BB%BC%E5%90%88%E5%8F%B0.png" group-title="台湾频道",緯來綜合台
+
+#EXTINF:-1 tvg-id="stream-385e68f9-7435-441d-b625-7be5ba547542" tvg-name="龍祥時代" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E9%BE%99%E7%A5%A5%E6%97%B6%E4%BB%A3%E5%8F%B0.png" group-title="台湾频道",龍祥時代
+http://good.852851.xyz/l/-4p59AC_LIPf-L6mVjoOWuu8zPXBYDpXK7e_aJ_GouVEu9jWUQ3YOAzwDisPXS8v/index.m3u8
+#EXTINF:-1 tvg-id="stream-37f72c9e-85d5-4122-b0fe-bb0bdfc5220c" tvg-name="東森電影台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1%E5%8F%B0.png" group-title="台湾频道",東森電影台
+
+#EXTINF:-1 tvg-id="stream-8b3c180f-5910-400a-8e15-b2c6127bb84a" tvg-name="東森戲劇台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7%E5%8F%B0.png" group-title="台湾频道",東森戲劇台
+
+#EXTINF:-1 tvg-id="stream-4fec8c91-fba6-472f-b61f-881f130fa839" tvg-name="東森洋片台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87%E5%8F%B0.png" group-title="台湾频道",東森洋片台
+
+#EXTINF:-1 tvg-id="stream-709c8457-0519-4189-a08f-0c0201f3955c" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="台湾频道",民視第一台
+http://good.852851.xyz/l/lMl0X5yCBFnwDinVlbmsJC5cQ-7QB-b6NkbrwEDEm306zozlJd9TUIvmjLsrU66W/index.m3u8
+#EXTINF:-1 tvg-id="stream-9130a1af-3302-4455-8acc-36648283ab0f" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="台湾频道",民視台灣台
+http://good.852851.xyz/l/C-6ErUpTSFOgGVaelTTo_wMhCDR2CbH8RNtTnhujcCHxLZnVgH1oV_kTCheOd1f-/index.m3u8
+#EXTINF:-1 tvg-id="stream-2b7948b0-ed6d-4731-b861-544d78e93603" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="台湾频道",民視
+http://good.852851.xyz/l/Gvih2MaikKubTMH4_zTuGz5Yfzx6x4Mrt_iCqEBicwXRRa8dYyC_ft_Q8C_Pf5qj/index.m3u8
+#EXTINF:-1 tvg-id="stream-489aec9e-1380-4304-ba2f-c796ba002467" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png" group-title="台湾频道",大愛電視
+http://good.852851.xyz/l/nlstMKWG-MrdKz_BgSnYdmbpkTfh5pnBiwxy3_Ywu7oWGRlpx2th8qklASckRzFi/index.m3u8
+#EXTINF:-1 tvg-id="stream-6c1efb81-0549-4f58-8158-b9537507199f" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="台湾频道",中視
+http://good.852851.xyz/l/Z5RsZnTVqJMJ1lGbxbwGhk1vEnI7poEOHD-e1wA7Zr84irfVF4GNQvEProc39o1e/index.m3u8
+#EXTINF:-1 tvg-id="stream-70863e25-0585-4418-95bc-1e974de2f5a1" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="台湾频道",華視
+http://good.852851.xyz/l/6wJSFp-u4DlVgE5eLKnNJhdr0XUg7cl1HshOkG29blQtZpdsnCwG06barcjIHejU/index.m3u8
+#EXTINF:-1 tvg-id="stream-8837d4a9-75c2-4cb2-9f76-46c1fb954e4f" tvg-name="三立綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" group-title="台湾频道",三立綜合台
+http://good.852851.xyz/l/6boACLm2cI4JtJ2GNWLHmO5dOVCH1XQcPE4e2fBmspc_kvSg_SZom5rNnx7kL_pE/index.m3u8
+#EXTINF:-1 tvg-id="stream-6d1e3860-c77e-4d12-b4f0-9ab01b8694d5" tvg-name="客家電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv043_mobile.png" group-title="台湾频道",客家電視台
+http://good.852851.xyz/l/ZblgmkJ8GwPxNwexmTIvWJI_4aGHzUZ6Idr9VafQMtTTiIiDemHgbMCmQWfImSvg/index.m3u8
+#EXTINF:-1 tvg-id="stream-59663861-ce50-4aec-be75-fd73372dcf1b" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="台湾频道",八大綜藝台
+http://good.852851.xyz/l/mik-tKgjmmO60BWUuOamU9Uuuf0J1TSCtunpDG1sH9wUPvXA-TMeFiszfsQm9_jL/index.m3u8
+#EXTINF:-1 tvg-id="stream-e0028bee-7da3-41f7-a6e4-2e953784a6bf" tvg-name="TVBS精采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="台湾频道",TVBS精采台
+http://good.852851.xyz/l/t9OI3b4uAmUdTs1jALflTQGVdTBcGOv8-51GB9iw49c5TW81POdYj_L7Eipsk449/index.m3u8
+#EXTINF:-1 tvg-id="stream-3f4e1117-f17c-40d6-9853-0132a68d72f0" tvg-name="靖天綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png" group-title="台湾频道",靖天綜合台
+http://good.852851.xyz/l/0KTh6MpyDVfG9_j6oCE4pox_rLAvCd4LItvOmGfArKXBuk1AHFmLdoZZCCZ1qrcR/index.m3u8
+#EXTINF:-1 tvg-id="stream-f825dfbc-578d-4a31-b008-7857e5b7aa68" tvg-name="靖天日本台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png" group-title="台湾频道",靖天日本台
+http://good.852851.xyz/l/iSQfB6_zf2Zw0Cg-EvvnjcoeExetyJ2xWZIlNVf2JvW9lYdNSuVQ7UCRFOLepOcF/index.m3u8
+#EXTINF:-1 tvg-id="stream-9e7ca236-2ce1-40cc-9f3b-f53a86c23118" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv079_1_mobile.png" group-title="台湾频道",ARIRANG阿里郎頻道
+http://good.852851.xyz/l/EjjjO_Fe8vw26n688invj8431NKAjTEAR1O1kBdt_ipto30WS9mtZQfAHBxCxuYS/index.m3u8
+#EXTINF:-1 tvg-id="stream-e5cdfbeb-262a-45da-a3e6-19d77f2cecd1" tvg-name="Global Trekker" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live112_mobile.png" group-title="台湾频道",Global Trekker
+http://good.852851.xyz/l/ShTYPL-4ywli1eNocWOzP7L_79zEI62KzM0bcbV7kn-zVjBQve5r2ome5_hg1pAz/index.m3u8
+#EXTINF:-1 tvg-id="stream-1d713700-1028-4902-a1a8-5daa2ef51865" tvg-name="原住民族電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live014_mobile.webp" group-title="台湾频道",原住民族電視台
+http://good.852851.xyz/l/aOkzBR639ObjBWuABi1TMu7yTAyUyNCgR_9ejxkg-CAIG7AcoCi5QP6LGOH0B6mp/index.m3u8
+#EXTINF:-1 tvg-id="stream-206d3c82-cf28-4fcc-a163-ffe731a4032c" tvg-name="東森購物二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.webp" group-title="台湾频道",東森購物二台
+http://good.852851.xyz/l/Ozf8DaWfmRgw6dRk8VxGW4yvnfm6a-sfzuuMahKmP_mw5z2fO7711FkuCyMyjPyY/index.m3u8
+#EXTINF:-1 tvg-id="stream-919290c5-ec5f-40ec-88af-a37a9c9237a2" tvg-name="LiveABC互動英語頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live030_mobile.png" group-title="台湾频道",LiveABC互動英語頻道
+http://good.852851.xyz/l/dyA-aCmJ55L1m8PiUAhcSLPuXXdj2K3ERa8CcdYP1NHHKV5xBzDOcnTT-mxqQjym/index.m3u8
+#EXTINF:-1 tvg-id="stream-9acc42f6-f89c-46b8-914c-3494001167a1" tvg-name="達文西頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="台湾频道",達文西頻道
+http://good.852851.xyz/l/au5lrlCntLYRcwKx-xQ99WU9n62y-Fjg0Ub-jKxVEOW5XmNgAokF_4voNtx3zM-_/index.m3u8
+#EXTINF:-1 tvg-id="stream-3317cea8-071a-4ba3-90d7-e67f8565aff9" tvg-name="ELTV生活英語台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.webp" group-title="台湾频道",ELTV生活英語台
+http://good.852851.xyz/l/m5CE_d1sujJCXL-9YFinRnPL8tbklykMoBl-eVisfO-eEByuFy-Frq2I54nbfFbM/index.m3u8
+#EXTINF:-1 tvg-id="stream-7a5c0ef7-5bc2-4bfc-b758-b7ace86dec57" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032.png" group-title="台湾频道",Nick Jr. 兒童頻道
+http://good.852851.xyz/l/nOSKWAZMfXIczuRsG1an9OGYgTQxKDaGXC8E_T867At7eP0hkMe3eO8BUavPUsnL/index.m3u8
+#EXTINF:-1 tvg-id="stream-13bcb09c-3254-482b-91f6-ca7f250d005f" tvg-name="尼克兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live105.png" group-title="台湾频道",尼克兒童頻道
+http://good.852851.xyz/l/hYR6LktOvRcSd4Sj9QVqZ-b_hejK7youYEB1J4aAlrVeb_LX5ahXQ0BoubW_gAkw/index.m3u8
+#EXTINF:-1 tvg-id="stream-654ea587-960e-43a0-ba08-1379ff68faa0" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="台湾频道",DreamWorks 夢工廠動畫
+http://good.852851.xyz/l/zqK9QOMk7nG2Qdp7qtOhEAvPa1gd24SHdvJ7kC3qK6FqA2ljO6iFENidl6hH9O4N/index.m3u8
+#EXTINF:-1 tvg-id="stream-d898e58e-6b9d-44f4-8c6f-2df12341222c" tvg-name="靖天卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv044_mobile.png" group-title="台湾频道",靖天卡通台
+http://good.852851.xyz/l/uymtqcK-vpFD-2EB9J33G1nStN36feKu5rg-KnUf_-bLovN5CGOLErGwvlCyCooj/index.m3u8
+#EXTINF:-1 tvg-id="stream-b4dfc02f-4413-4ecb-82ec-ba435ba135c6" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv057_mobile.png" group-title="台湾频道",靖洋卡通Nice Bingo
+http://good.852851.xyz/l/MCcW7mm-RoCfmNGLvJb2naUHWW3KeUDHjFmm3478sihBbdLSGfiFK806Dn8rYEmN/index.m3u8
+#EXTINF:-1 tvg-id="stream-6862017b-0b05-41f8-ba50-ea4e7f3f0713" tvg-name="MOMO親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/4gtv-live107.png" group-title="台湾频道",MOMO親子台
+http://good.852851.xyz/l/2JYS6JLgvm0PLubU-E5AErrh5NUrpWQ-1KH3bTcu6bP8cVmvKajVCGCu2_ddxyTq/index.m3u8
+#EXTINF:-1 tvg-id="stream-634682ff-fe45-45c5-bb2b-5e89ebcd5f6f" tvg-name="東森購物一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="台湾频道",東森購物一台
+http://good.852851.xyz/l/rcJSyAwSEuVRxEf7JYcE2NpGNXH4JqXnXtSepxmPbVUuLQXXtvLwYPNJewwdhrsZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-6f45067f-7902-4d16-a7e9-77163f7bf3e8" tvg-name="鏡電視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="台湾频道",鏡電視新聞台
+http://good.852851.xyz/l/IhsxOLZkBrLfOBOhIL43aBOmONqFGcbM9etJSrcy66pT_qUlRy4fNdz9BqG3VYSp/index.m3u8
+#EXTINF:-1 tvg-id="stream-c791bb57-56f3-46ae-9e59-ae9145318eae" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live114_mobile.png" group-title="台湾频道",東森新聞台
+http://good.852851.xyz/l/S7Z6rCTeb-r8jTzm8zFkQntudxwJPc5hVQbJfmm-J56Z8Lbf6W6HYfrscWUq-INM/index.m3u8
+#EXTINF:-1 tvg-id="stream-77bce054-8308-4f05-8767-5ca1a458e1be" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="台湾频道",華視新聞
+http://good.852851.xyz/l/DvHuej9zD9I-nZv-yPLCnl-Yd51rW1EVMepkZXr1Nld3QYqdoyuCM_oi5txexnXC/index.m3u8
+#EXTINF:-1 tvg-id="stream-6e1948b2-4d55-4da9-a632-691b3caea88e" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="台湾频道",民視新聞台
+http://good.852851.xyz/l/aIGpH0XJvM_mqgC0zIn1oCRF7GeeK4vEhrlJ5VUK8zggaaVJf5Er4oUZlujeblPC/index.m3u8
+#EXTINF:-1 tvg-id="stream-e91db409-4506-43b1-8926-b02bf95c0a7f" tvg-name="三立新聞iNEWS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live089_mobile.png" group-title="台湾频道",三立新聞iNEWS
+http://good.852851.xyz/l/SNZcvs1tgzuvH-aRrfGsnH1JO3VM9ASFy0rVFjFlPacWKh_ob3oBCUp86YuMgAyf/index.m3u8
+#EXTINF:-1 tvg-id="stream-04cab7f7-6f98-4db9-9962-b5dcb1948ca4" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv072_mobile.png" group-title="台湾频道",TVBS新聞
+http://good.852851.xyz/l/qnG4TrYXarraq1YANGeR4A00HDn3u4qelbA7jd2cvlxspLrrhf-GQL6avBXUJJMY/index.m3u8
+#EXTINF:-1 tvg-id="stream-81878f0c-1b1c-4c9f-adf3-6d91852427be" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live019_mobile.png" group-title="台湾频道",東森財經新聞台
+http://good.852851.xyz/l/zrZuzmVu4TeQ8N9iIGJy6orfZr7piIKeiMqUO4IvkjxYLNym_02lOfpiyZY_H7yP/index.m3u8
+#EXTINF:-1 tvg-id="stream-481d859f-09c3-49b0-81fb-7a35dee442f7" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="台湾频道",中視新聞
+http://good.852851.xyz/l/uZ9zvQdHsWwYznvT8zzT1qHAZGBIBuq9JzoDfVhRBYzMRuZUC2S_ZMiHuA6i4mI0/index.m3u8
+#EXTINF:-1 tvg-id="stream-3c9ac74c-c7c4-464e-ae80-e595ee7926ac" tvg-name="Bloomberg TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live0_mobile.png" group-title="台湾频道",Bloomberg TV
+http://good.852851.xyz/l/MqqFMkPpiQOWzgy32i11a8O_v_BzxYx8BHPkhcPGKFaZxVOSMpUEq5fPMKovOOrk/index.m3u8
+#EXTINF:-1 tvg-id="stream-8e767d2e-c6c9-4430-b54a-286e3ba83bbd" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14.png" group-title="台湾频道",寰宇新聞台
+http://good.852851.xyz/l/JaozpEN3XbAZzHV8hAlcZJB434lhuQiNyYWdU8c3lmlexWEuT1Mgnq2mYnLSPQOO/index.m3u8
+#EXTINF:-1 tvg-id="stream-06c486ac-b67d-47f0-9fdd-9e0f0295f695" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv156.png" group-title="台湾频道",寰宇新聞台灣台
+http://good.852851.xyz/l/qxKYIQib6Ll0EI7IeAu7Vgc7V75p8Z8Ogx8J7mEFLjg42GT1CP8C1vT2W7EaiT0p/index.m3u8
+#EXTINF:-1 tvg-id="stream-bf6e65db-aa09-43d1-ab92-e176f6c0d673" tvg-name="SBN全球財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live060_mobile.png" group-title="台湾频道",SBN全球財經台
+http://good.852851.xyz/l/d4YDUGUFFqcT545MXDqhAwdsow_1Af15aRGha52fOHrWfjq4nAuo3cx3cbPb9xwy/index.m3u8
+#EXTINF:-1 tvg-id="stream-7bb61b00-385b-4d28-a6f8-4a2d057a47fe" tvg-name="寰宇財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv158.png" group-title="台湾频道",寰宇財經台
+http://good.852851.xyz/l/ttd7OcwL9ZDdUKDQcOSs0O_D8WYhnKVQdxFQSRQM6ASjxtZ_xNGop6J6_t1TPtY9/index.m3u8
+#EXTINF:-1 tvg-id="stream-760b9cae-939b-4a3f-8993-e07c5076b1aa" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="台湾频道",TVBS
+http://good.852851.xyz/l/5R9dDS3AOWzdzKy2iJOLfgeuddmueaamw_mK3BmhDV1YKpzhqqXEZShuIrPvU7cT/index.m3u8
+#EXTINF:-1 tvg-id="stream-97abdcc8-6ff3-417b-b758-4bb67b09ec12" tvg-name="東森購物四台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.webp" group-title="台湾频道",東森購物四台
+http://good.852851.xyz/l/SaGpzMac6TnALoWiyacm8dTTYuNXLeJ9-yT1TzTplxCuAe_t52YgRXpOd6Rpw1EW/index.m3u8
+#EXTINF:-1 tvg-id="stream-4da134c2-51ae-4de3-877b-9f85f66a1732" tvg-name="民視綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="台湾频道",民視綜藝台
+
+#EXTINF:-1 tvg-id="stream-1a1fc207-bdcd-45f0-a772-8274de3e3515" tvg-name="豬哥亮歌廳秀" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="台湾频道",豬哥亮歌廳秀
+http://good.852851.xyz/l/aWD6xl5puFQ6kJLP86R0xl4oA9hSipUCCmS89O_7FgObkZAvKlrMHSrbVh3tmc75/index.m3u8
+#EXTINF:-1 tvg-id="stream-97d57f77-d7f4-478f-97e3-f9b36d8e21c5" tvg-name="靖天育樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv062_mobile.png" group-title="台湾频道",靖天育樂台
+http://good.852851.xyz/l/hi8XQatgSXntzwPy7YYK2-mguftzb7aY7KDPe0bUZORJca6zp5EUQL33PDUcg6II/index.m3u8
+#EXTINF:-1 tvg-id="stream-459decbd-901c-4564-b026-6020e67599fd" tvg-name="KLT-靖天國際台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv063_mobile.png" group-title="台湾频道",KLT-靖天國際台
+http://good.852851.xyz/l/s6jkhqnGqiUub0tE2jiEPbvHf688c2AWz6mSbxYAM-2bC2X87nXW3waS2PDSS5HC/index.m3u8
+#EXTINF:-1 tvg-id="stream-60651f54-0511-491f-85d7-d69f3d0f2691" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv054_mobile.png" group-title="台湾频道",Nice TV 靖天歡樂台
+http://good.852851.xyz/l/lIacCH5t-vVlv2_gl2M-s_4wqRN3pyr43Gq9M8DbMuorx_u1QNnjtH28pKu2qKWU/index.m3u8
+#EXTINF:-1 tvg-id="stream-63c5dc6b-50c9-43cb-8768-71e5160374e1" tvg-name="靖天資訊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv065_mobile.png" group-title="台湾频道",靖天資訊台
+http://good.852851.xyz/l/r-M8fB17kujFASMVPRViyXPB3cPApvzYTh5voSMOsc_SnDDPVNRmu6KiuGTGSq5i/index.m3u8
+#EXTINF:-1 tvg-id="stream-e685ca48-8f3e-4297-a6bf-232ee1c56f8f" tvg-name="TVBS歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" group-title="台湾频道",TVBS歡樂台
+http://good.852851.xyz/l/NI1xziAruMLN4i6jMNHG5aj_HBh2YbIrqfkYEcmyv1hzmvMPIvZN0DR5njiWOrrS/index.m3u8
+#EXTINF:-1 tvg-id="stream-08575899-cdf2-485f-8861-e34183f5336b" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png" group-title="台湾频道",韓國娛樂台 KMTV
+http://good.852851.xyz/l/oIBNsxkgZzhwzasQ3un3ZgEP28d0YkZLpHx4Q4nTS2o_k5tVtGj2mulUVr2K3Zix/index.m3u8
+#EXTINF:-1 tvg-id="stream-d60bc9d5-2839-4160-9a01-3e065b655a25" tvg-name="ROCK Entertainment" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live080_mobile.png" group-title="台湾频道",ROCK Entertainment
+http://good.852851.xyz/l/hhTExRHBCphU2nZLg4ZTzt30CM6UmalANzTCteeSPFvZEdH5acYpo567uNR8iyyX/index.m3u8
+#EXTINF:-1 tvg-id="stream-b8b250ab-a035-4e89-9f69-c0d2f680ef8f" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="台湾频道",Lifetime 娛樂頻道
+http://good.852851.xyz/l/cndSdSp-ioK-dIRTRCXGFfqipMnJDaIcWTgGkWn8cQUoi_loBTWNmMxI-04xEF_p/index.m3u8
+#EXTINF:-1 tvg-id="stream-d60a3e7c-4801-49b5-8d29-dfe62ffab3fc" tvg-name="電影原聲台CMusic" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png" group-title="台湾频道",電影原聲台CMusic
+http://good.852851.xyz/l/trbiBa3wvaVzPqdWbeRqn_edF_CanqaZkSxUIgTw2MIUCE7GI66VNHRojORioaXI/index.m3u8
+#EXTINF:-1 tvg-id="stream-11124cb9-3a54-4a44-ba76-13ad6abf243e" tvg-name="TRACE Urban" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv082_mobile.png" group-title="台湾频道",TRACE Urban
+http://good.852851.xyz/l/kAncDXgzzMXLUAvot5Ag-pKWqAqASx_V_pPbCx96hDB93oImbVoFnqnJppzQwO2y/index.m3u8
+#EXTINF:-1 tvg-id="stream-6eba3298-374e-4b84-9745-294dafc2b5e8" tvg-name="Mezzo Live HD" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv083_mobile.png" group-title="台湾频道",Mezzo Live HD
+http://good.852851.xyz/l/2GiquFFRW86XLs6dYD0A3qR-s7LDqbg5ZOH8YEyBhzq5Is-8XrKg5g6TBvBqVckv/index.m3u8
+#EXTINF:-1 tvg-id="stream-ef08fa3a-eb66-4241-a38a-5765f54ca5d8" tvg-name="CLASSICA 古典樂" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv059_mobile.png" group-title="台湾频道",CLASSICA 古典樂
+http://good.852851.xyz/l/YU17X7dSka86ddKKTu26U4-EJnf_BA-AJz3uou8KxPRzLm378BS6UueyqfN-BNtF/index.m3u8
+#EXTINF:-1 tvg-id="stream-c8de7229-dbdc-4e13-a5e1-5203519a3c68" tvg-name="東森購物三台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="台湾频道",東森購物三台
+http://good.852851.xyz/l/N_xDrbMWR9DxNpFwWeYHe_EycbyUbByqDzOZql6xBmExS5bBjHFkPmWwgH3A1LhD/index.m3u8
+#EXTINF:-1 tvg-id="stream-cbf067e3-d5c2-4f85-ad67-38935c4f756a" tvg-name="getwin sport運動台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/getwin頻道LOGO.png" group-title="台湾频道",getwin sport運動台
+http://good.852851.xyz/l/sN_yz346ZJIXVr_Mp-9VVs9TKW9dzgnQFa66MZDWaYQLKEE3zTMh2ksNk1xh-XQn/index.m3u8
+#EXTINF:-1 tvg-id="stream-7e86ab1b-fa98-42e1-92d7-1aa41321a4b9" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_INULTRA_mobile.webp" group-title="台湾频道",INULTRA
+http://good.852851.xyz/l/DzHx4iidyUmV0G0qgG2UQKClieMn9byjBQaG0xcjkfNLZf6WYGGKEKAgw_AfrvYS/index.m3u8
+#EXTINF:-1 tvg-id="stream-303680e3-d4bb-4ce7-8cb5-03383099495e" tvg-name="博斯高球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn05_mobile.png" group-title="台湾频道",博斯高球台
+http://good.852851.xyz/l/CIC0EtwW4MxUNLdgZ-9BmyATo5WpyR0eBLbCXEDHKeryfQ2_0mQU491BBYpxFaMv/index.m3u8
+#EXTINF:-1 tvg-id="stream-c43cf6bb-b63f-4ed8-b62c-0cba45a0018e" tvg-name="博斯高球二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang06.png" group-title="台湾频道",博斯高球二台
+http://good.852851.xyz/l/5WlMCI4V3ognDOIo2G9w25aIttHFva1cUvPw1yrPT95eQ7Bbk6mTB2mXxjv4342F/index.m3u8
+#EXTINF:-1 tvg-id="stream-c57d8de0-ca81-48bb-bd33-91f75cbc400c" tvg-name="博斯運動一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn07_mobile.png" group-title="台湾频道",博斯運動一台
+http://good.852851.xyz/l/EJv176SqMAtmINt53zGREKbsVJMXW-9zH6UFciuZouDPX_eTeEJnDoeQWiQcMd2I/index.m3u8
+#EXTINF:-1 tvg-id="stream-a2acbe14-9f2a-48e7-bf12-9895c34fc0df" tvg-name="博斯無限台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn10_mobile.png" group-title="台湾频道",博斯無限台
+http://good.852851.xyz/l/7h1PnTq9GUfoSipefrDP1IaYq89m30Jx4N5x6bXfgCeQ2_5Z17_l4dr6PvyOZKkT/index.m3u8
+#EXTINF:-1 tvg-id="stream-04a2927a-de27-4c21-b5bd-6f73676e0925" tvg-name="博斯網球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn09_mobile.png" group-title="台湾频道",博斯網球台
+http://good.852851.xyz/l/NuWQbM3-O1URR9e30ueUzt-E6AsmcruCfLa25muOkCyGtXpmIwi4DOG4orjXRK_G/index.m3u8
+#EXTINF:-1 tvg-id="stream-f8cf06b1-ab79-4741-9ee8-6848150c454e" tvg-name="博斯運動二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang08.png" group-title="台湾频道",博斯運動二台
+http://good.852851.xyz/l/QKNTnNJSmv1CnmXOOVJ13DRA-wIPZxTSAbRvOnyGsLNaUlczmnXYPkTAXlh0F1mu/index.m3u8
+#EXTINF:-1 tvg-id="stream-00be90d7-b53f-49fb-85b0-4bf11baca551" tvg-name="博斯魅力台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang04.png" group-title="台湾频道",博斯魅力台
+http://good.852851.xyz/l/xFVZ3O441tFMm6h_ZL9vpPp6ppL5u-cjtDPR7UJeRu7itguxtIEuq42h3uLs6rAR/index.m3u8
+#EXTINF:-1 tvg-id="stream-1d3ed848-c421-4c17-85b2-2ecf185637cb" tvg-name="博斯無限二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang13.png" group-title="台湾频道",博斯無限二台
+http://good.852851.xyz/l/na2CPZhOpVoBpgZxgsdJcntBA-5qzkm5gYoZFdIzX-Jl4qmo6vx6ddXnKEUXPfVf/index.m3u8
+#EXTINF:-1 tvg-id="stream-7eff27d7-b320-4ebc-b8ce-7d886cf4cfb1" tvg-name="TRACE Sport Stars" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv077_mobile.png" group-title="台湾频道",TRACE Sport Stars
+http://good.852851.xyz/l/0-IsNPZPGiWHYe8sISohl0DCGyprvxTe4vpFwkaMuTiwImnAbvYnLCG-MKRxjiHX/index.m3u8
+#EXTINF:-1 tvg-id="stream-21d9b55f-7699-4098-9820-c730bc8e5adc" tvg-name="智林體育台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv101_mobile.png" group-title="台湾频道",智林體育台
+http://good.852851.xyz/l/ZbKkaEGaSwAMZwwr6AzdsJ9mFS3amKciH5ZyF94yUXusJuAyYRKGp9_N6hNKi5TZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-902c06c2-e823-4540-afdc-afd3056089ca" tvg-name="時尚運動X" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv014_mobile.png" group-title="台湾频道",時尚運動X
+http://good.852851.xyz/l/1uH42LcJnwZyo0a9-W6OFlcY6bZ5-dZBHwdywEbin3OS3CvJU3mvemcpN_49r-TL/index.m3u8
+#EXTINF:-1 tvg-id="stream-93626e4b-de80-490c-bab3-ed61f77c324a" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="台湾频道",車迷TV
+http://good.852851.xyz/l/FB5btTRVCzbseiC5o7pMPeOqTaH_TiMXQIxnaLxrl2mIrqzNmrPGdtE9Ij6X9Lo9/index.m3u8
+#EXTINF:-1 tvg-id="stream-f0545303-9c92-4d9f-8078-72f654560444" tvg-name="GINX Esports TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv053_mobile.png" group-title="台湾频道",GINX Esports TV
+http://good.852851.xyz/l/Y9Y0W8hmGqtQrVHhYWqnoep7tc947XckwnlXC0Ir8OQuMMTVtnG_6CpYgniRohVJ/index.m3u8
+#EXTINF:-1 tvg-id="stream-b0465519-6e9f-466c-a2d0-3a167f287c48" tvg-name="Pet Club TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live110_mobile.png" group-title="台湾频道",Pet Club TV
+http://good.852851.xyz/l/7lctCNpzbmK8ZTCdWF1Mu1chq95fhQ6lpPZVRaEp11kunv1Bm8NZeilJeUjiT77v/index.m3u8
+#EXTINF:-1 tvg-id="stream-49dd9e9b-d1f2-4c20-b590-290b8358ba31" tvg-name="民視旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv07_mobile.png" group-title="台湾频道",民視旅遊台
+http://good.852851.xyz/l/ZbVlv4m87URUrDJbs1SO65CVrs-lrf94URCFrDiI1uMPGdd4W0HIzlRYpmWijyfA/index.m3u8
+#EXTINF:-1 tvg-id="stream-a3069f69-d39b-4898-92dd-79300dd4e461" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="台湾频道",滾動力rollor
+http://good.852851.xyz/l/Yyc99uRefpyu-huHT-BgqU8gsXLimhAIoyrMLphrVAusEJz4UtO6tcpCeog4cL0C/index.m3u8
+#EXTINF:-1 tvg-id="stream-7eb7a21b-f3e9-4ad6-966a-4de9eaa7f504" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="台湾频道",亞洲旅遊台
+http://good.852851.xyz/l/jwm6MQHi_ZXTtEg9M2u9MgXVUwtjnSfd7H98Nzep3Ys9s733Aykd4bGFg3e-ydjZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-3cebb8de-7949-4b93-89de-c38180f8f36d" tvg-name="fun探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="台湾频道",fun探索娛樂台
+http://good.852851.xyz/l/CaU9yepHazynJV5Guk8XRWXls7lVMSmCquKSdDLiNl-ANat1kH_QiEpQRBDbQJW0/index.m3u8
+#EXTINF:-1 tvg-id="stream-edf4a47b-0173-42c7-b2e1-c3bcbc0c81ad" tvg-name="幸福空間居家台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live206_mobile.webp" group-title="台湾频道",幸福空間居家台
+http://good.852851.xyz/l/c5YSvD4E7We5l-eCVnTSUIYIEBsN_EbBKE83achKb0aVQRk3iJxlLlCEDNLWqnTh/index.m3u8
+#EXTINF:-1 tvg-id="stream-d0f6958a-bfd9-453e-86f8-dfc1523e1e04" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live208_mobile.png" group-title="台湾频道",Love Nature
+http://good.852851.xyz/l/xUcJhgnFGo9pdI04PY1NwHge5Co2dMTnqxmY4gI-lQgxskUGjagXJ4G_pqX4mxhU/index.m3u8
+#EXTINF:-1 tvg-id="stream-241af0c7-ac73-42de-aefe-7c25c660efc7" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png" group-title="台湾频道",History 歷史頻道
+http://good.852851.xyz/l/pnfLCH1TcC88HoTbTXtHb9IW9lCUCXNak9EaFniHZT-A6ZyM6mNOF2L6rJePjQem/index.m3u8
+#EXTINF:-1 tvg-id="stream-67fd2780-0526-494a-abf2-787aaf4e0b29" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="台湾频道",愛爾達生活旅遊台
+http://good.852851.xyz/l/qObR2jaaz10foL2IV18Rlx5Aep5H2vvzxtdUX0CsUmvqXwVLo7O8d-KjWOPBPCDA/index.m3u8
+#EXTINF:-1 tvg-id="stream-84dc5f4a-e197-4149-986f-3f68ba368e9c" tvg-name="LUXE TV Channel" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="台湾频道",LUXE TV Channel
+http://good.852851.xyz/l/l4j8wWEkUttkPuiJgZ-_W183XpPGwyJehBKXKfoEHW7aCQlH-j0qbxfmQAW6lESW/index.m3u8
+#EXTINF:-1 tvg-id="stream-67f72f65-61dd-46e0-8901-06bfbd8dc555" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="台湾频道",TV5MONDE STYLE 生活時尚
+http://good.852851.xyz/l/Q0NBAJ9gJ0jQ4gmYzzXFm-4AmrVhlrvV6uCn53TeLJX9b2QfK7hLWZpbXWIAZZJe/index.m3u8
+#EXTINF:-1 tvg-id="stream-fd44b889-9041-424c-b802-edbe24e05090" tvg-name="MagellanTV頻道 (麥哲倫頻道)" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="台湾频道",MagellanTV頻道 (麥哲倫頻道)
+http://good.852851.xyz/l/z9UeVNgkQ9qcKwIM2qIoB9UtNru3vovxjgecd9gxLFnrzkOFMquve1RFvMEXQ92V/index.m3u8
+#EXTINF:-1 tvg-id="stream-74ca25a4-9a4d-47d1-aeda-c5bd299ea7f5" tvg-name="ROCK Xstream搖滾極限頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live124.png" group-title="台湾频道",ROCK Xstream搖滾極限頻道
+http://good.852851.xyz/l/ilI2vEoj5ILdU_kTkRfMvK8WAq6VqGLn61XUoEXpA4DEd-wf-g6Te1A9bMg1wLgm/index.m3u8
+#EXTINF:-1 tvg-id="stream-e8723606-fe16-4634-a0eb-94d430161863" tvg-name="公視戲劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv042_mobile.png" group-title="台湾频道",公視戲劇
+http://good.852851.xyz/l/yisBv4rxjSOFv2Jm01YU6PlkixIvgqkVcGPdZz-Dnz7OFHDTD-CLtQNtfjZ_wPS9/index.m3u8
+#EXTINF:-1 tvg-id="stream-107fda55-e015-4702-8661-31ba15807200" tvg-name="民視影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv09_mobile.png" group-title="台湾频道",民視影劇台
+http://good.852851.xyz/l/IYKN6_ZiVdrkgqxnm_xntUJZUdkGFu8TMqW1JlfPh08Hnkin087E6EiHNuvsCrHr/index.m3u8
+#EXTINF:-1 tvg-id="stream-20985a4d-3504-40bb-a47d-aabc01e1f491" tvg-name="HITS頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live620_mobile.png" group-title="台湾频道",HITS頻道
+http://good.852851.xyz/l/MN2psRHk9vq87fd1e5afV2AERVNGaYLG8C5cGtkFVYa5IBDKPTp0Rn4d5y4TsLpv/index.m3u8
+#EXTINF:-1 tvg-id="stream-bf79805b-3118-431e-9e81-72cf739dab52" tvg-name="八大精彩台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png" group-title="台湾频道",八大精彩台
+http://good.852851.xyz/l/GO5Dcjp3iwoEf98PlBISB2RSqzBnkU_CRadmPtHjbY_JltHOHNUTwVXCkVDrZTiv/index.m3u8
+#EXTINF:-1 tvg-id="stream-da9c05ff-3af4-4fab-a1b5-b44f990f26bc" tvg-name="靖天戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png" group-title="台湾频道",靖天戲劇台
+http://good.852851.xyz/l/alkLOm__J72czZV5xYkZoVNrEaQyd9X5ZRdUQkIddoMTIZFUUrR7bsDatDH83mTd/index.m3u8
+#EXTINF:-1 tvg-id="stream-57e4360e-912f-4b34-b8ef-a34d5c5eaad5" tvg-name="靖洋戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv045_mobile.png" group-title="台湾频道",靖洋戲劇台
+http://good.852851.xyz/l/sO_pu6eGaWdxshnHq2LTAtbxDKDAcV9E8rVdn6ujMHiNfHzmdpq_mx77S6ANhnEq/index.m3u8
+#EXTINF:-1 tvg-id="stream-952168f8-69d0-4f31-bf51-a0eeb922dd07" tvg-name="CI 罪案偵查頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live027_mobile.png" group-title="台湾频道",CI 罪案偵查頻道
+http://good.852851.xyz/l/GUif7iidHhijCnmT5yoxuTKImy7bHCqhncrjnSBLXcA12ezhJBinI3-ib4i2ldU1/index.m3u8
+#EXTINF:-1 tvg-id="stream-7aaa1fc2-15ec-4624-bb62-b1ce89692efc" tvg-name="視納華仁紀實頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv013_mobile.png" group-title="台湾频道",視納華仁紀實頻道
+http://good.852851.xyz/l/TasEOybW0hsqX54HmKjWxO5mVph2k9xQdcW9Dj8Jj-ZvMQLj5KZ_IVv-I2DWk0L2/index.m3u8
+#EXTINF:-1 tvg-id="stream-1e93e33e-7c0a-4d16-ae99-780a50029a60" tvg-name="影迷數位紀實台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live023_mobile.png" group-title="台湾频道",影迷數位紀實台
+http://good.852851.xyz/l/WyqZxfPPhLZGlVXTnfH0BaaaJ8GDLMmqmk2wr_cNaosvsHZuTZB6UMF4gv00dWUB/index.m3u8
+#EXTINF:-1 tvg-id="stream-dad4eab7-fe90-4a2d-96e6-f2fadfba18fd" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live144_mobile.png" group-title="台湾频道",金光布袋戲
+http://good.852851.xyz/l/_MDHkXDfDdHJEUwFzPoeNsnlyQYkKDC6pbRDN7O_3_02eNtT2QZ7w-VJ5M8kRBbw/index.m3u8
+#EXTINF:-1 tvg-id="stream-1f8785cf-51fe-4df6-bed4-7b755a2379c3" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="台湾频道",ROCK Action
+http://good.852851.xyz/l/5d6nLuFjKLfxQQXA9_21wl1YZnjoJkqxq5kMaVRkweDp_Q8qPargySU6DUV8njHT/index.m3u8
+#EXTINF:-1 tvg-id="stream-5b079334-4f94-4c58-9bd6-0faf651efee3" tvg-name="OUTtv" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live140.png" group-title="台湾频道",OUTtv
+http://good.852851.xyz/l/wrlfzQ5hR_AyL2QPiciWWyHGcEUchcBuOXaeSODMXeGGIFHNpbC0lWG2_zG-8s_P/index.m3u8
+#EXTINF:-1 tvg-id="stream-16ea7596-565c-4aa7-ba3c-33f7ccc6a37c" tvg-name="采昌影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" group-title="台湾频道",采昌影劇台
+http://good.852851.xyz/l/hJ0TH9WkVESkA88k8VSNmOILK9l8fNkbAux5FgrEBE7JzMMP4wcgmaTOj_1mC5IR/index.m3u8
+#EXTINF:-1 tvg-id="stream-9fe19b77-9ee7-4825-afe5-77ff906e3295" tvg-name="靖天映畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="台湾频道",靖天映畫
+http://good.852851.xyz/l/XH9_dBMdtI_y3h-nK3k6Fe25ycjDDvYsJHqfJaKjgxz03d75n0heERWRgmAo1WRq/index.m3u8
+#EXTINF:-1 tvg-id="stream-ccc34256-e32e-408d-b773-93e6c7b82834" tvg-name="靖天電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="台湾频道",靖天電影台
+http://good.852851.xyz/l/7moTRidiJkipjoxMPFlelGTZLZFUNDLtob1hMJ4kqnOFQdwjYKC2eYhzPnuHBLqR/index.m3u8
+#EXTINF:-1 tvg-id="stream-1e1d12c1-0135-4f93-bada-795cc7cb74e9" tvg-name="wedotv Movies" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live148.png" group-title="台湾频道",wedotv Movies
+http://good.852851.xyz/l/aJUZAsFek98ODOiVrRrZBVBNSbKazYNCj9usT7iklIssRQ0vBCw-KAqEcPBSya5t/index.m3u8
+#EXTINF:-1 tvg-id="stream-e48594a7-bf59-4ea5-baf2-9226376b9430" tvg-name="影迷數位電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile-1.png" group-title="台湾频道",影迷數位電影台
+http://good.852851.xyz/l/-E94exPBIeJ2Caw4VgKol_KqZMYVl77voKtK32oqZS14hdHFjBtAJClughpSGYvV/index.m3u8
+#EXTINF:-1 tvg-id="stream-b7c2c057-a012-44e6-8579-8ac4fcccce04" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="台湾频道",amc電影台
+http://good.852851.xyz/l/3oxfpffhdv6yl4QkR5rOQG3S12SPUNAFQw0ERz4UYltYG9qa_FFzisAfK8GjfOsl/index.m3u8
+#EXTINF:-1 tvg-id="stream-af861a6a-9009-4f6c-9ecd-fb848a95b9bb" tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="台湾频道",CinemaWorld
+http://good.852851.xyz/l/jXpZX1hb5BWjAUY__Z_sscikvE4evKOcxhYgwLf_QzcEZLhrpYmbBi9oQF1GOP2t/index.m3u8
+#EXTINF:-1 tvg-id="stream-25e05254-9b18-4a88-8fff-7f5ca3be1b05" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png" group-title="台湾频道",My Cinema Europe HD 我的歐洲電影
+http://good.852851.xyz/l/TaGxfV9t6_JNHWYO-GqpJ8fGtpBsYFL83BdKHQjt5TUdw4gpwUc_GcaC56S9lZ9d/index.m3u8
+#EXTINF:-1 tvg-id="stream-a1665536-cccb-4a6b-b6f3-b1737d76655c" tvg-name="好消息" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv16_mobile.png" group-title="台湾频道",好消息
+http://good.852851.xyz/l/7YJ-0zhb3TYuPGATJybPMOCd5J5SkPcyEo1w9uBNYGI824XEWuYsoUAKOzOzuNlO/index.m3u8
+#EXTINF:-1 tvg-id="stream-c12b431f-0ea0-4e59-b878-0506ae03ff79" tvg-name="好消息2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png" group-title="台湾频道",好消息2台
+http://good.852851.xyz/l/ZD6unExtU0axlHMFhXRAL1ouVu2Ymtsq16jkkqMb7loVqCxxhLt-OUAU-A_G2Rcc/index.m3u8
+#EXTINF:-1 tvg-id="stream-99bec49f-410a-446f-9178-e06205e997e9" tvg-name="大愛二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live106_mobile.png" group-title="台湾频道",大愛二台
+http://good.852851.xyz/l/tteKwMFVUL2SgVG_pWymlpxqKOpBEkmIjIzuGWcejAxprGaDRhaUx5XikiTkHoo0/index.m3u8
+#EXTINF:-1 tvg-id="stream-4b1df1e2-9c4a-49e4-8088-5b0ca5352e32" tvg-name="人間衛視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png" group-title="台湾频道",人間衛視
+http://good.852851.xyz/l/HYBR97eL2GU2rM0kCQZHGk9_eUwlBe2svzSUV2skX4wGHW-NwWP3icoYG4laRIs6/index.m3u8
+#EXTINF:-1 tvg-id="stream-5136f2bc-3ee1-4281-b730-0b8f6d548bf8" tvg-name="ABC Australia 澳洲公廣頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live167.png" group-title="台湾频道",ABC Australia 澳洲公廣頻道
+http://good.852851.xyz/l/OXQSolm31fM--OflGmmoOmxY-JGaMZbIwCoNJf7bOHzWH3Nc1THavO2JYJEnTrX3/index.m3u8
+#EXTINF:-1 tvg-id="stream-68aa3744-c243-401a-9b85-28fe9a325387" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live168_mobile.png" group-title="台湾频道",NHK WORLD-JAPAN
+http://good.852851.xyz/l/nq3tMkkRIEays_rfZLngZvhwdm4hyPjCm9qakdxAgjrdO6fV4Gr-Kgn1UwPJb_Vm/index.m3u8
+#EXTINF:-1 tvg-id="stream-a9b4b6b6-7894-4d7f-9a47-555df9f5ad54" tvg-name="FRANCE24 英文台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv_mobile.png" group-title="台湾频道",FRANCE24 英文台
+http://good.852851.xyz/l/BUQXaVqKWaWMuK77z_ImvDGI34ZBJOzV8CYBt_ALeCbe0v_5SfbUD5DYVkoP6uX3/index.m3u8
+#EXTINF:-1 tvg-id="stream-630ba9f1-519f-417f-88a2-d3b7368467af" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="台湾频道",半島國際新聞台
+http://good.852851.xyz/l/YW1BhOosK6rvBnOqganBlco5o0ZeHWZSaiH2qS-q1OhAj5STR9d0ekU6P6DgEtWI/index.m3u8
+#EXTINF:-1 tvg-id="stream-abd637cf-5a07-4288-ac73-1040b15b99a4" tvg-name="CNBC Asia 財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv130_mobile.png" group-title="台湾频道",CNBC Asia 財經台
+http://good.852851.xyz/l/WVE2Nt_D83dQ93a0jfEBLP4WgiajJObnseqh4EDrsVwiGVdosegAWBKhGk46Jp0S/index.m3u8
+#EXTINF:-1 tvg-id="stream-bdbdf5df-955d-48e6-93e2-31147f61e804" tvg-name="DW德國之聲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live071_mobile.png" group-title="台湾频道",DW德國之聲
+http://good.852851.xyz/l/tZgX7m3RzI7oZJmfC67FddytdRzjBD8lQMI2sq0wSHVgc2Ls2RzsKAStl_pfPNBl/index.m3u8
+#EXTINF:-1 tvg-id="stream-a1e82a69-5b0c-462c-a787-1e64351e3607" tvg-name="國會頻道1" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv084_mobile_0204.png" group-title="台湾频道",國會頻道1
+http://good.852851.xyz/l/JkwRIljN2elcVxkVbFx5YjZUjZetLEP1vomTxrOjzScceTAYorQRzd-c3LC6Yloj/index.m3u8
+#EXTINF:-1 tvg-id="stream-99010b85-0755-4552-94e8-72a340b37326" tvg-name="國會頻道2" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv085_mobile_0204.png" group-title="台湾频道",國會頻道2
+http://good.852851.xyz/l/_tJXaoFKRSGEYMwNuS1sVAeZdtBHsGjF8vIhjEHlkgqokGl43wCSmCDfivqHZK7F/index.m3u8
+#EXTINF:-1 tvg-id="stream-ca17c7fa-9751-43fc-9104-48ef698a9ba1" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="台湾频道",經典電影台
+http://good.852851.xyz/l/oZ9vQ6a8l7SQYwRC6AMKt8oYl4UnpVnVx-1udQrplje0dSe-vWgfbPgEtRP0kL14/index.m3u8
+#EXTINF:-1 tvg-id="stream-de4bfe0f-56c3-4995-b5ee-d5b427ea8080" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="台湾频道",經典卡通台
+http://good.852851.xyz/l/VDyhbhoUOYJLfpeKbRYZdaDvFx9w0N9ENeld8MAi2A1FKmUwitbdNIuI2mH7ReKY/index.m3u8
+#EXTINF:-1 tvg-id="stream-a7fe510e-ba24-4be3-bde8-bc028de418ab" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="台湾频道",精選動漫台
+http://good.852851.xyz/l/pu0Fp3y35F9Aa2V3SidvI-X2yN56_yhPWFXS7QWBA0mlzGOkUFLlCeOexfWKU9mU/index.m3u8
+
+
 
 
 
