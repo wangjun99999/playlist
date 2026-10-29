@@ -1,0 +1,29 @@
+name: Mirror to Codeberg
+
+on:
+  push:
+    branches:
+      - '**'          # 所有分支都触发
+    tags:
+      - '**'          # 所有标签也同步
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # 必须完整历史，否则分支/标签会丢
+
+      - name: Push to Codeberg
+        env:
+          CODEBERG_TOKEN: ${{ secrets.CODEBERG_TOKEN }}
+        run: |
+          # 添加 Codeberg 远程（用 HTTPS + Token）
+          git remote add codeberg https://oauth2:${CODEBERG_TOKEN}@codeberg.org/wangjun99999/tv.git
+          
+          # 强制推送所有分支和标签（实现完整镜像）
+          git push codeberg --force --all
+          git push codeberg --force --tags
