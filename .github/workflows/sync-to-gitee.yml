@@ -1,0 +1,18 @@
+name: Sync to Gitee
+
+on:
+  push:
+    branches: [ main, master ]   # 根据你的默认分支修改
+  workflow_dispatch:             # 支持手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync Repository
+        uses: wearerequired/git-mirror-action@v1
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}  # 或用 token 方式
+        with:
+          source-repo: git@github.com:你的GitHub用户名/仓库名.git
+          destination-repo: git@gitee.com:你的Gitee用户名/仓库名.git
