@@ -1530,8 +1530,9 @@ http://vca.easy747.com:80/MAGCQQMQ1C/n6v5JIUxBQ/1287087
 #EXTINF:-1 tvg-id="stream-4cbd02f8-4b49-4ca5-a5ef-6e0abc2b4920" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20Main%20Event.png" group-title="beesports",Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://beesports.site/
 #EXTVLCOPT:http-origin=https://beesports.site
-http://192.168.2.98:34701/play?id=Sky-Sports-Main-Event-BU&proxy=1
 http://192.168.2.98:34701/play?id=Sky-Sports-Main-Event&proxy=1
+http://192.168.2.98:34701/play?id=Sky-Sports-Main-Event-BU&proxy=1
+http://192.168.2.98:9100/l/_Pm6aknUBQY-91kC4yXPdZqSBuVtNgc0AFPe-s3-wbGlxGEMtXkozgiO0cdvCZWd/index.m3u8
 #EXTINF:-1 tvg-id="stream-18fff4f0-67b2-44e6-a7cf-f40b0e939816" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Sky%20Sports%20F1.png" group-title="beesports",Sky Sports F1
 #EXTVLCOPT:http-referrer=https://beesports.site/
 #EXTVLCOPT:http-origin=https://beesports.site
