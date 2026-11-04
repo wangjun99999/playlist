@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://100.105.245.77:9100/sub/ZdwVk4dR6d3N/epg.xml.gz"
+#EXTM3U x-tvg-url="http://192.168.2.98:9100/sub/ZdwVk4dR6d3N/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="stream-0e7bae82-854b-4977-b93b-4f886a9e622e" tvg-name="CCTV-1 综合" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-1.png" group-title="央视频1",CCTV-1 综合
 http://192.168.2.98:19980/live/cctv1.m3u8
