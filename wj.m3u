@@ -3909,3 +3909,1427 @@ http://192.168.2.98:34712/play?id=yes-network&proxy=1
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="stream-4ab0f078-f3d2-4f2c-a1ac-a8439296a011" tvg-name="Ch 5 (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/ch-5-hd.png" group-title="Singtel CAST",Ch 5 (HD)
+http://38.134.40.167:9100/l/Wq-uSvMVFXaEEv7BUZUDyB4pxgTFApuxkiw1mlt5bUOyz2G-v9Dc_KG88AXtOCzM/index.m3u8
+#EXTINF:-1 tvg-id="stream-41f0ddd4-2e44-408c-ab4f-973e32f4f4d4" tvg-name="Ch 8 (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/ch-8-hd.png" group-title="Singtel CAST",Ch 8 (HD)
+http://38.134.40.167:9100/l/SHhBuHC0TLCpD1gBUm98TLy0fkkNkA3sGmFvqucKXD_JTtqdO7ib9yd9Dyte4qjd/index.m3u8
+#EXTINF:-1 tvg-id="stream-9417f8bc-ce83-4682-a782-6d28ac8c7549" tvg-name="Suria (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/suria-hd.png" group-title="Singtel CAST",Suria (HD)
+http://38.134.40.167:9100/l/tztgYuVpb0ewqmUTv62mcx6FQ2IALqLLyqxEuhQRRklkg_gMUn-ToEQqvox1u4NJ/index.m3u8
+#EXTINF:-1 tvg-id="stream-c322ef65-7194-47e1-a3bf-2565866d9529" tvg-name="Vasantham (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/vasantham-hd.png" group-title="Singtel CAST",Vasantham (HD)
+http://38.134.40.167:9100/l/i4BKoIl13OtA-Yrlxac5823nQuZVhECxDOTfbeydjXvOYdd0kypdKSsYx0vfbH0l/index.m3u8
+#EXTINF:-1 tvg-id="stream-6acd755a-7b6f-4b59-b6e5-0a8751bfcaa8" tvg-name="CNA" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cna.png" group-title="Singtel CAST",CNA
+http://38.134.40.167:9100/l/VfXoAeUaZ9Zat483e9aQMxAr7sHZMa0UDy0If-Ik131WNuTdJlR2ZBAsbq7G8Gu6/index.m3u8
+#EXTINF:-1 tvg-id="stream-db01fdcb-ea5a-4dec-93d8-3f481cdb5df3" tvg-name="MediaCorp Ch U" tvg-logo="https://asset.v3.singtelcast.com/channel/img/mediacorp-ch-u.png" group-title="Singtel CAST",MediaCorp Ch U
+http://38.134.40.167:9100/l/edQhigAQjwWq26034zNImO43mhV1lQZRrcVqoUE1q0ibDREnv9ayOi0Lwt1FuAOn/index.m3u8
+#EXTINF:-1 tvg-id="stream-6c821a9f-1c05-4392-933c-9a2331b3f9ea" tvg-name="mio Sports" tvg-logo="https://asset.v3.singtelcast.com/channel/img/mio-sports.png" group-title="Singtel CAST",mio Sports
+http://38.134.40.167:9100/l/Ia4qSg6Mmfl-cqREOf5p5DSa660WnzVZl6n1sYDt3x-SBvu3EuchmKJKbikAmiu6/index.m3u8
+#EXTINF:-1 tvg-id="stream-d98f3d91-1ac6-4c77-b6a4-fa392a8497d4" tvg-name="mio Sports 2" tvg-logo="https://asset.v3.singtelcast.com/channel/img/mio-sports-2.png" group-title="Singtel CAST",mio Sports 2
+http://38.134.40.167:9100/l/Zs8p72XVFNpnNCCD3ZtHIvPs9coA_ZVLZ-QMvO8RCEU6-ihdpVRYPwasKraPv1hr/index.m3u8
+#EXTINF:-1 tvg-id="stream-27c4ed03-bb7a-4412-815a-a977bb555e62" tvg-name="mio Sports 3" tvg-logo="https://asset.v3.singtelcast.com/channel/img/mio-sports-3.png" group-title="Singtel CAST",mio Sports 3
+http://38.134.40.167:9100/l/cSaqJuJebv4TqwcBC1cwanQX0iUALTxIhzbmWh2AwJiRXFv3TxsE8RsTqKuQ6In2/index.m3u8
+#EXTINF:-1 tvg-id="stream-a066dd35-12e9-4888-b8fc-7a6c72c2b53e" tvg-name="SPOTV (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/spotv-hd.png" group-title="Singtel CAST",SPOTV (HD)
+http://38.134.40.167:9100/l/F-B09mvRr35lHiJ-2H-ylJqXBn9HZYx4vAJanTQzakXYIGUPLn8_lt5r8vp77RQa/index.m3u8
+#EXTINF:-1 tvg-id="stream-f10b9789-9b92-4b29-81be-78dd98de7d5f" tvg-name="SPOTV 2 (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/spotv-2-hd.png" group-title="Singtel CAST",SPOTV 2 (HD)
+http://38.134.40.167:9100/l/eRqv_5EhV9uUwk6Elw6kabg6DjVB_D9HcA7CVgNW-x6NpOzYXIDhp6OEAflFYdl6/index.m3u8
+#EXTINF:-1 tvg-id="stream-88f80ea6-8c66-458d-a8d5-c504ac7c4e50" tvg-name="Premier Sports" tvg-logo="https://asset.v3.singtelcast.com/channel/img/premier-sports.png" group-title="Singtel CAST",Premier Sports
+http://38.134.40.167:9100/l/5siL8ZFbL7f41JaLw2n2Ziolq-TbuaMK2_sDbFehnNuJyoGxuSSy753fsY7K2GK4/index.m3u8
+#EXTINF:-1 tvg-id="stream-7a9cec56-876e-4c18-9014-2b4bb9a9bb33" tvg-name="Fight Sports (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/fight-sports-hd.png" group-title="Singtel CAST",Fight Sports (HD)
+http://38.134.40.167:9100/l/MOP8kNPvCxrMP3Da2B5uPcGKzNY7qjOaYoCpDDrx6tmOjqdy4n3rpXjn2ujgCJ1a/index.m3u8
+#EXTINF:-1 tvg-id="stream-800d7af7-e068-4deb-8c39-4760c6b417ae" tvg-name="Pickleball Now" tvg-logo="https://asset.v3.singtelcast.com/channel/img/pickleball-now.png" group-title="Singtel CAST",Pickleball Now
+http://38.134.40.167:9100/l/s5XcVXz-mZZcQpn626_zRiupmnRFmhw7O2JNDqPRyf6jYkPeqkszoXTpH--zVy-r/index.m3u8
+#EXTINF:-1 tvg-id="stream-d48ae356-110d-4e36-a43b-d3fc471230d4" tvg-name="Cricbuzz 2 (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cricbuzz-2-hd.png" group-title="Singtel CAST",Cricbuzz 2 (HD)
+http://38.134.40.167:9100/l/BVRleP-D2hbJBqcrblvTP82SRn4hleK0VEEq4vvH-S7iAWQQRslDyJXitaRbWPy7/index.m3u8
+#EXTINF:-1 tvg-id="stream-dae3919c-8039-4e07-b09f-95b99c158827" tvg-name="beIN SPORTS (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/bein-sports-hd.png" group-title="Singtel CAST",beIN SPORTS (HD)
+http://38.134.40.167:9100/l/LFIblc93z7AKgp8lcjwKBhwiHzIFT9Dcvv_89gSbKaqy69PykBZxnW4zW6Cw6WlZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-1dfb761c-fd8b-4ea5-bf0b-67975da87afd" tvg-name="beIN SPORTS 2 (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/bein-sports-2-hd.png" group-title="Singtel CAST",beIN SPORTS 2 (HD)
+http://38.134.40.167:9100/l/jQ7fXxbZyNSdYP3oCEGGno3TE7DY3YdFmC8Xa0EbMuzfje82Fl5eoaPHYZVT3S-7/index.m3u8
+#EXTINF:-1 tvg-id="stream-1e1fca17-0894-4861-8017-778b7331664f" tvg-name="beIN SPORTS 3 (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/bein-sports-3-hd.png" group-title="Singtel CAST",beIN SPORTS 3 (HD)
+http://38.134.40.167:9100/l/OwB8KC1jhrDC4UZNQsL5mpJr96H9Tho6PyBp_M8nSfRt-J3C99Tp3vd59Xx4j4Us/index.m3u8
+#EXTINF:-1 tvg-id="stream-f6280cfe-9a3a-4959-aca5-e6db16581a2b" tvg-name="Sky News HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/sky-news-hd.png" group-title="Singtel CAST",Sky News HD
+http://38.134.40.167:9100/l/RbFvj78rdBefZyj77PPfxI6OsRbi5b72x4LwJf-5GSRR5RN7NGqXTQY3F8grQi70/index.m3u8
+#EXTINF:-1 tvg-id="stream-b2ac6b62-d09e-4165-b4ad-c0e54c94835f" tvg-name="CGTN (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cgtn.png" group-title="Singtel CAST",CGTN (HD)
+http://38.134.40.167:9100/l/4QzInLAUv_q_OoIHgF0V3asyIlbacQ6KAJMZbDF84ccFlNKAY69ewslweIK70nBJ/index.m3u8
+#EXTINF:-1 tvg-id="stream-050f2c37-f03c-4ad2-a7ee-0c2c84ced484" tvg-name="NHK World - Japan" tvg-logo="https://asset.v3.singtelcast.com/channel/img/nhk-world-japan.png" group-title="Singtel CAST",NHK World - Japan
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://38.134.40.167:9100/l/pcjUU9yrltiu4D8ZuZZg-5qLIdlf0a9BEDVegK_AIqVzRrhPKaxo77EHe5-QT1sL/key
+http://38.134.40.167:9100/l/pcjUU9yrltiu4D8ZuZZg-5qLIdlf0a9BEDVegK_AIqVzRrhPKaxo77EHe5-QT1sL/play
+#EXTINF:-1 tvg-id="stream-4520852e-40a1-4c58-8208-f9da8b52c3ec" tvg-name="France 24 (English)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/france-24-english.png" group-title="Singtel CAST",France 24 (English)
+http://38.134.40.167:9100/l/UYngXQ4ZvddH4C516e9B6ZzN1Urt8OvcSOShetxlIlIxVd_1WTOzQkWI66_Tk2Xw/index.m3u8
+#EXTINF:-1 tvg-id="stream-b36bd6cb-9828-47f7-940e-2ed5f62240ff" tvg-name="Vietnam Today" tvg-logo="https://asset.v3.singtelcast.com/channel/img/vietnam-today.png" group-title="Singtel CAST",Vietnam Today
+http://38.134.40.167:9100/l/D4l6Hx73K9nonb4z6j5CJRA9-6bkJkuMfuS2J5UbTxQbVkI4pgMOitHLOg9XhbA3/index.m3u8
+#EXTINF:-1 tvg-id="stream-8e9522fc-2bcd-4cee-8555-3e43f6427022" tvg-name="DW (English)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/dw-english.png" group-title="Singtel CAST",DW (English)
+http://38.134.40.167:9100/l/JHJpwwXBysuDNoZnDDM_ATsxLczjpX2_oXx2eZzgxiaW40GrMfFHh42_J_uccRsV/index.m3u8
+#EXTINF:-1 tvg-id="stream-995a76e9-10eb-4baf-b358-6e5491808fb9" tvg-name="FOX News Channel HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/fox-news-channel.png" group-title="Singtel CAST",FOX News Channel HD
+http://38.134.40.167:9100/l/yEfAKDNe3LKsdg3cyB5X43WWcbN2eiLKRT_TetqgGjL-MeNuallnklMDFC9Ch5y7/index.m3u8
+#EXTINF:-1 tvg-id="stream-bdae88cb-8067-4a63-b3c0-851f8e1b0bde" tvg-name="BBC News (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/bbc-news.png" group-title="Singtel CAST",BBC News (HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://38.134.40.167:9100/l/E9lnZOQRQ2itQ0-hCrnvloSA8juwdAkCcRSStw6vQ97rTCv9cRmVp3WxjbkmfLUr/key
+http://38.134.40.167:9100/l/E9lnZOQRQ2itQ0-hCrnvloSA8juwdAkCcRSStw6vQ97rTCv9cRmVp3WxjbkmfLUr/play
+#EXTINF:-1 tvg-id="stream-4729a718-9fe5-4b32-bf70-7fca0e1cdcde" tvg-name="CNN International" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cnn.png" group-title="Singtel CAST",CNN International
+http://38.134.40.167:9100/l/MO_zaNX3jumRzZlOQeU3kixBgzPcpSX9aqhauSztIKwH-NIWpFbngHm_R3_QXMzg/index.m3u8
+#EXTINF:-1 tvg-id="stream-e8c06984-891b-4232-b32d-27034ed2ca64" tvg-name="Bloomberg TV (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/bloomberg-tv-hd.png" group-title="Singtel CAST",Bloomberg TV (HD)
+http://38.134.40.167:9100/l/2wuolDILrcImk7gJsTRlDo-K8CTWSdYu_BjjLQzsIszW1E9DvgSec-hR5AlNUgyS/index.m3u8
+#EXTINF:-1 tvg-id="stream-bbb2995a-f7b6-46dc-9e50-865fd1072232" tvg-name="Bloomberg Originals" tvg-logo="https://asset.v3.singtelcast.com/channel/img/bloomberg-originals.png" group-title="Singtel CAST",Bloomberg Originals
+http://38.134.40.167:9100/l/-DiKp8oi7RjvFUp15Iq5tTKFmYTZakUhYzMUQN0WTMd5sDbz0GU15yqDmWJ5v8RT/index.m3u8
+#EXTINF:-1 tvg-id="stream-7ab35d95-e2c4-4055-93a5-434659578ecd" tvg-name="CNBC Asia (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cnbc-asia.png" group-title="Singtel CAST",CNBC Asia (HD)
+http://38.134.40.167:9100/l/_m7rYEywvs-zaSZTubKd_lgmvJWg8dzxtlHixkSlQnucKHth12mam9I8ffZ5aPSQ/index.m3u8
+#EXTINF:-1 tvg-id="stream-a917e874-2bbf-425f-9df8-497a9c924838" tvg-name="Discovery Ch (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/discovery-ch-hd.png" group-title="Singtel CAST",Discovery Ch (HD)
+http://38.134.40.167:9100/l/rABAOUcVApyyxFtFjl86N7d8hgJiwKzYslewYZO0WFoUvOAZTAY559Bh2upTGa74/index.m3u8
+#EXTINF:-1 tvg-id="stream-0aef66b3-379a-4e70-af68-21b1074eff48" tvg-name="BBC Earth (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/bbc-earth-hd.png" group-title="Singtel CAST",BBC Earth (HD)
+http://38.134.40.167:9100/l/ErXSv3nQuJ7-PIY1mOoXUfidXAIGDWfaKqoL9rIcHlkwiOqbLr1Khm69ER_3BSeY/index.m3u8
+#EXTINF:-1 tvg-id="stream-99d26ec1-e03e-4884-8379-931cfcb0fc42" tvg-name="C+I (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/c-i-hd.png" group-title="Singtel CAST",C+I (HD)
+http://38.134.40.167:9100/l/RgGplA5ZCenr-2_qYod9Up4FvEKj8157Ah3SpPUXxSwqsV0WsjT3U7WhUnp-Lcd9/index.m3u8
+#EXTINF:-1 tvg-id="stream-57e27d6a-bbed-48e0-bf83-6296adb2ed4a" tvg-name="Animal Planet (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/animal-planet-hd.png" group-title="Singtel CAST",Animal Planet (HD)
+http://38.134.40.167:9100/l/Mq4ObWMrVh1aAdG2ZU_nYdQYR9drEzd9YKw7SmQZXcdz6erhxgdDG2KCqAYS-SgH/index.m3u8
+#EXTINF:-1 tvg-id="stream-b7b4284f-9487-49b7-b07e-2a5515b630ba" tvg-name="HISTORY (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/history-hd.png" group-title="Singtel CAST",HISTORY (HD)
+http://38.134.40.167:9100/l/SLg3R4nqV7iB7-rz0zTjtpMwR83JrJwODmTQlSuEKYZOIenwDepBflMyGSu3HYn_/index.m3u8
+#EXTINF:-1 tvg-id="stream-68fdaa90-dba5-46c5-8b7c-639687347fe3" tvg-name="CGTN-Documentary" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cgtn-documentary.png" group-title="Singtel CAST",CGTN-Documentary
+http://38.134.40.167:9100/l/tQoNXggTIVrG2VrY-5NR5BNjmIYTCvsEGQxicftBadKrCeAe3iHVHPhccduhMgwT/index.m3u8
+#EXTINF:-1 tvg-id="stream-6c012038-dcb3-48e3-896e-600c6dab350b" tvg-name="Global Trekker (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/global-trekker-hd.png" group-title="Singtel CAST",Global Trekker (HD)
+http://38.134.40.167:9100/l/NUrlVxeHIm2PjFquzjUMldgQuFeazL1-45tztFVkP0v_CQ7KQH1vUy2RyEHe9gon/index.m3u8
+#EXTINF:-1 tvg-id="stream-22119745-c514-41c6-8306-d97e4dc0634f" tvg-name="Love Nature (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/love-nature-hd.png" group-title="Singtel CAST",Love Nature (HD)
+http://38.134.40.167:9100/l/h8Qnl0iM68O6D7cVkOz0qmVrngIF_IG8w4zzc81No-vZBSaGfiIPidYhvuAXmoV-/index.m3u8
+#EXTINF:-1 tvg-id="stream-e7a076fd-748c-493f-8e72-8ff813fbfeb8" tvg-name="Cartoon Network (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cartoon-network-hd.png" group-title="Singtel CAST",Cartoon Network (HD)
+http://38.134.40.167:9100/l/Y74mg5Rstpvbd_KmPIBouIbYYqwscwm-W2JweHLk3qBPwCB0_TEZBOHbj2_v5LzI/index.m3u8
+#EXTINF:-1 tvg-id="stream-353e0b88-2809-473d-afe1-f1551efa5de8" tvg-name="CBeebies (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cbeebies-hd.png" group-title="Singtel CAST",CBeebies (HD)
+http://38.134.40.167:9100/l/VoRNFlL6iuDl3YmH5xLGCDVwwBYsJnRIgTUo_J2LG4v6tPrqk0bsRKGD2gBuwlgO/index.m3u8
+#EXTINF:-1 tvg-id="stream-f312dbf8-a669-4ac8-9c6d-677485dee274" tvg-name="Nick Jr (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/nick-jr.png" group-title="Singtel CAST",Nick Jr (HD)
+http://38.134.40.167:9100/l/ADvjVkhyXi4QdFkVYL7FX6WVI3h_x-YC6hEIq3m5Fsh7qPre3WFEugCG241iYmEb/index.m3u8
+#EXTINF:-1 tvg-id="stream-142c7958-a504-4e20-957d-70a2424581dd" tvg-name="Nickelodeon Asia HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/nickelodeon-asia-hd.png" group-title="Singtel CAST",Nickelodeon Asia HD
+http://38.134.40.167:9100/l/swExl8NAentVX20rJ45jCtpHATTZTaFMrzE3NgHFvCL_vc2nOkd7Mwjk77tvImK6/index.m3u8
+#EXTINF:-1 tvg-id="stream-bb983179-3acd-42f2-af9d-3e26cdcec240" tvg-name="HGTV (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/hgtv-hd.png" group-title="Singtel CAST",HGTV (HD)
+http://38.134.40.167:9100/l/BvnYEs4fM_dchOAFWuqnNgtEg6N9nL5sZ-HRwVZcO6k2wbloj7pPIsrTGHzEJoti/index.m3u8
+#EXTINF:-1 tvg-id="stream-0ba2de57-3282-4400-bf20-d548eb24d9f1" tvg-name="ABC Australia" tvg-logo="https://asset.v3.singtelcast.com/channel/img/abc-australia.png" group-title="Singtel CAST",ABC Australia
+http://38.134.40.167:9100/l/9OcPN7GDnHgyq8Qyro0o-n3LJISThv1XWvgiPpC1_u8mMsbSZ1BwN7LACELyRF_v/index.m3u8
+#EXTINF:-1 tvg-id="stream-d828d01a-aa48-474a-8e42-2c25d5c4401f" tvg-name="TLC (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tlc-hd.png" group-title="Singtel CAST",TLC (HD)
+http://38.134.40.167:9100/l/g-9IUpQEldBQwwQx77cpCBJSlZA49pcLYC84YrhMFzA9H4TK-YPnFUn0HUElE8qI/index.m3u8
+#EXTINF:-1 tvg-id="stream-9e105845-437b-4527-ad34-00df69b9371b" tvg-name="BBC Lifestyle (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/bbc-lifestyle-hd.png" group-title="Singtel CAST",BBC Lifestyle (HD)
+http://38.134.40.167:9100/l/fxtrdU0sUuFtL8pPgeACBpD3P1ceW0HaNc1uGj31XWyZK52F7OCfL0ggk-9rgsF8/index.m3u8
+#EXTINF:-1 tvg-id="stream-0a2e7133-e355-48a9-9f0c-c3784f9ec8d9" tvg-name="AFN (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/afn-hd.png" group-title="Singtel CAST",AFN (HD)
+http://38.134.40.167:9100/l/w-KvC2aspifOrKeJ8MZHO0PTBGgeSpMrMd-q457PCg7WQg0cRdA4L25YoqHoIBYK/index.m3u8
+#EXTINF:-1 tvg-id="stream-f8449981-2125-48be-8e7b-475408ce9389" tvg-name="TRACE Sport Stars HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/trace-sport-stars-hd.png" group-title="Singtel CAST",TRACE Sport Stars HD
+http://38.134.40.167:9100/l/DHD2Ix_MxL3wXjqUC8OFxWjxGZi1RpXbHYy40bKZ6jUBbS7z7B-bAsgDsjlsEr6b/index.m3u8
+#EXTINF:-1 tvg-id="stream-50da318c-27ab-4fb7-aa97-ae36855eff29" tvg-name="Arirang TV (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/arirang-tv-hd.png" group-title="Singtel CAST",Arirang TV (HD)
+http://38.134.40.167:9100/l/1F-0SznqNXLIm9ro0Cr7nogE7DBgZrXjIZbdHnE6_WMW0WMA0ZFJiqLnBCzqScXv/index.m3u8
+#EXTINF:-1 tvg-id="stream-5e400618-7877-4920-ac2f-4700b5f6b1bd" tvg-name="Makeful (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/makeful-hd.png" group-title="Singtel CAST",Makeful (HD)
+http://38.134.40.167:9100/l/Ya6pGykttNFuWAEPGQPXygdYjKNFZpmZTnZZoJGdKiA5CUu9QqRx23NicCUUdYMd/index.m3u8
+#EXTINF:-1 tvg-id="stream-c32a6afe-36fd-404a-9d4b-d8ddfc9597e7" tvg-name="HITS MOVIES (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/hits-movies-hd.png" group-title="Singtel CAST",HITS MOVIES (HD)
+http://38.134.40.167:9100/l/LQvqa1UnYeVGlY2XecfL838CTTINXlj8-HZOqzpWvs9GNNPiAQBq74I8UAPOHWwy/index.m3u8
+#EXTINF:-1 tvg-id="stream-f3338eba-2b0c-4e71-bb9c-4c943075707f" tvg-name="Lifetime (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/lifetime-hd.png" group-title="Singtel CAST",Lifetime (HD)
+http://38.134.40.167:9100/l/3dkpUCYB_tlytMQ02DJs-9a3Er9Nd5d9bBtAkePpWhXhUrIXnJ-m1cmDCmsoGcAT/index.m3u8
+#EXTINF:-1 tvg-id="stream-69fde504-d615-4256-9708-874dff1caa09" tvg-name="HITS NOW (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/hits-now-hd.png" group-title="Singtel CAST",HITS NOW (HD)
+http://38.134.40.167:9100/l/ATvgfBSssXDPxA9lmdoWDyGGL4ufVOkyIn1wqrm0Ii8XIBv8VB9he_bCLcJ9HDwW/index.m3u8
+#EXTINF:-1 tvg-id="stream-4dc1a315-c056-4479-92ed-7aba4fe22afa" tvg-name="AXN (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/axn-hd.png" group-title="Singtel CAST",AXN (HD)
+http://38.134.40.167:9100/l/-ggEn9lHXC45wkDCw7kkz0AZeoFSbsLBEDPBojbPzC46XwQrhuRKll9-GppREzeL/index.m3u8
+#EXTINF:-1 tvg-id="stream-7244727b-3206-41b9-9560-91050775e173" tvg-name="ROCK Action (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/rock-action-hd.png" group-title="Singtel CAST",ROCK Action (HD)
+http://38.134.40.167:9100/l/u7taFUA42db2O_ENiynRcDUh6oR06_Wl3EFpKrT1DP9osdh6BGpjYHR874i1zcVK/index.m3u8
+#EXTINF:-1 tvg-id="stream-a2c86e4d-2659-4fd0-8cf9-4c24479f7a3a" tvg-name="ROCK ENT (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/rock-ent-hd.png" group-title="Singtel CAST",ROCK ENT (HD)
+http://38.134.40.167:9100/l/BO_5FVT3DrHh35Qyb2kh5cHAaaY5a-ffVZBZI2OPl389dFzaiF4OMEeoA6-3vPvv/index.m3u8
+#EXTINF:-1 tvg-id="stream-5e4d1d77-2f57-49b4-968d-4aafbb1d8db4" tvg-name="HITS (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/hits-hd.png" group-title="Singtel CAST",HITS (HD)
+http://38.134.40.167:9100/l/86o24_VZsIa8rigOcoPeIj4kbHCMGZOFB_9xzxWpnlzziiylZRzhFo_85IN9zxHg/index.m3u8
+#EXTINF:-1 tvg-id="stream-ce05d4e6-0e61-4fbd-949c-abbdf96689e9" tvg-name="ANIPLUS HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/aniplus-hd.png" group-title="Singtel CAST",ANIPLUS HD
+http://38.134.40.167:9100/l/u2Dd-cz2MYUulLMikNuHL58O4DozT7Afiv8Ec7sz7cADPzHmeauDLyDd0uPaywk8/index.m3u8
+#EXTINF:-1 tvg-id="stream-0f6238ee-c84d-4b90-a749-889f810f1133" tvg-name="Animax (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/animax-hd.png" group-title="Singtel CAST",Animax (HD)
+http://38.134.40.167:9100/l/lMI-A0fV-06ebGrttbHwIjA-jZClzIGFW0xbQHRtRGCw09z4H4XpISW3woR0LR8W/index.m3u8
+#EXTINF:-1 tvg-id="stream-4d92a30a-b445-4813-b51c-4cab3ce3d1ba" tvg-name="HBO HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/hbo-hd.png" group-title="Singtel CAST",HBO HD
+http://38.134.40.167:9100/l/EqkP5eFf7pr4SuNoN2KoylmgrzR9tT4qzFFx6MJ3qRWe-NGnlNvcIdoq3BXVndS-/index.m3u8
+#EXTINF:-1 tvg-id="stream-5e81fa16-40a5-40bd-ba1e-e536e7c1e289" tvg-name="HBO Signature (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/hbo-signature-hd.png" group-title="Singtel CAST",HBO Signature (HD)
+http://38.134.40.167:9100/l/FwFCBpgNb3C6aiemeUpBbCBeK8Y_xqBXaXu-Wy2_jOP7qS-0qbmwpv3T2I-bSKO4/index.m3u8
+#EXTINF:-1 tvg-id="stream-0e62d3b8-475e-4e23-86d4-2923ae30e24c" tvg-name="HBO Family (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/hbo-family-hd.png" group-title="Singtel CAST",HBO Family (HD)
+http://38.134.40.167:9100/l/JNxbBoxU7rGElhkAqxyiZoTRN7asuJP7ug45Mzqq0JsNfWhKYCxPGjKAo7SBTSN9/index.m3u8
+#EXTINF:-1 tvg-id="stream-253e82bb-892b-464c-93bf-86bec9bf545e" tvg-name="HBO Hits (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/hbo-hits-hd.png" group-title="Singtel CAST",HBO Hits (HD)
+http://38.134.40.167:9100/l/9ow4wNHL-5oTpH4nntYyYENcT6kcIyVsfmbiM4OJ4RgzQ1y3e9JUtc2oeQVaLQ7J/index.m3u8
+#EXTINF:-1 tvg-id="stream-2721b4b5-32ca-47ae-8b09-ac4737d46350" tvg-name="CINEMAX (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cinemax-hd.png" group-title="Singtel CAST",CINEMAX (HD)
+http://38.134.40.167:9100/l/Trda6uuhhh0lXvvphefGQlMQ0CfLyfoRjpqWoIyVsGjCgduFdf2gv5JsMbBFgjMG/index.m3u8
+#EXTINF:-1 tvg-id="stream-c352480a-7e62-4bcd-b4e7-6acbcd224431" tvg-name="e-Le (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/e-le-hd.png" group-title="Singtel CAST",e-Le (HD)
+http://38.134.40.167:9100/l/FAr_qxvhiWF6WIr5UBChBIuSB00HGAUrWHfCdteP9TVzDld5m0np1vgu3h-7e2H9/index.m3u8
+#EXTINF:-1 tvg-id="stream-0da2bdd0-f42c-4bd5-a397-97527e9d8213" tvg-name="Jia Le Channel (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/jia-le-channel-hd.png" group-title="Singtel CAST",Jia Le Channel (HD)
+http://38.134.40.167:9100/l/zqDlaRED7oL0vAxBH12V7PCtSS9HF2U2VHXQAB7BZ6nLRnXldjoQPY8Mrl7Dz4oR/index.m3u8
+#EXTINF:-1 tvg-id="stream-e1efa5b2-63bc-49b2-a002-42ed025c30e7" tvg-name="Ju Le Cool" tvg-logo="https://asset.v3.singtelcast.com/channel/img/ju-le-cool.png" group-title="Singtel CAST",Ju Le Cool
+http://38.134.40.167:9100/l/9B2djcY00pDfCyqfBihY9C6O7T1c4zwceHdz3dah1J-TiZ1drxtQ2lZF-aOaTFBb/index.m3u8
+#EXTINF:-1 tvg-id="stream-a88473cc-59ac-49da-94ec-fe2efd717351" tvg-name="TVBS Asia" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tvbs-asia.png" group-title="Singtel CAST",TVBS Asia
+http://38.134.40.167:9100/l/h7LT9b6yoWayWsFGOJ-PSGNZeiwT14KnQVLdVdXUc7HNiSqXNhydiMtVw2Tk5ZNk/index.m3u8
+#EXTINF:-1 tvg-id="stream-7a8aa954-4a5c-4ac2-8c0d-7306fe5ed5db" tvg-name="TVB Jade (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tvb-jade-hd.png" group-title="Singtel CAST",TVB Jade (HD)
+http://38.134.40.167:9100/l/_xs_sAFfn4FVCNkuj6qnklCkM2YqkZhwBB642fCGmHkX8Z7PWSiPnkLKlzBZfCKc/index.m3u8
+#EXTINF:-1 tvg-id="stream-e906292d-9983-4eb8-9b9a-34fdf88d0b58" tvg-name="now Jelli (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/now-jelli-hd.png" group-title="Singtel CAST",now Jelli (HD)
+http://38.134.40.167:9100/l/VpSRFWqQB03ck09yywSYggGE4ebkKzh239Aw7iFJ2wQwYJ-kBxeRPlHqNqUXmQ8u/index.m3u8
+#EXTINF:-1 tvg-id="stream-e9910e4e-60f8-4647-bc5b-3ab38f3dcdb1" tvg-name="TVBS News" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tvbs-news.png" group-title="Singtel CAST",TVBS News
+http://38.134.40.167:9100/l/S5TetjgAZk1-lzIodnk6JcLxULBS5mZcATh8iVk5R7OOhEKMGijmfd9TnOi1bvUg/index.m3u8
+#EXTINF:-1 tvg-id="stream-1d4fa790-4a41-4396-8550-a5ad118ac64d" tvg-name="TVB Xing He (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tvb-xing-he-hd.png" group-title="Singtel CAST",TVB Xing He (HD)
+http://38.134.40.167:9100/l/PM4icNa5Qa6YMIA1lNzfOw2OCTrcWULh8rOrR7h-2GuOzUHI_nhIOOEAlfcPJ3Ym/index.m3u8
+#EXTINF:-1 tvg-id="stream-23106f8b-1425-4c33-a7ba-8ff61aca2486" tvg-name="TV5MONDE" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tv5-monde-hd.png" group-title="Singtel CAST",TV5MONDE
+http://38.134.40.167:9100/l/hOwgEQydIlcRcfICqR1Jm0fsk6y7QWJy91MMH9LcvSSCUglBuQTzNaKbp7wikM6z/index.m3u8
+#EXTINF:-1 tvg-id="stream-f5b72ed5-b9d3-48f4-ab90-8b852f509b75" tvg-name="ETTV Asia (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/ettv-asia-hd.png" group-title="Singtel CAST",ETTV Asia (HD)
+http://38.134.40.167:9100/l/j3w2kU3jUBDdnQ-spFGSJ83TVJDWtJ8T50Ayj6pP6CODqWqj-6AgyGlJTSMEHoE2/index.m3u8
+#EXTINF:-1 tvg-id="stream-ba66afc0-e29f-48e9-a791-fefae50e5d50" tvg-name="KBS World (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/kbs-world-hd.png" group-title="Singtel CAST",KBS World (HD)
+http://38.134.40.167:9100/l/bAnB12lthKCR7OmZxmFEVKfmTv0TYaQP1PusfWyaMUw9K2XddetRAAHe4GgrIK5y/index.m3u8
+#EXTINF:-1 tvg-id="stream-bb64fc04-56e5-405b-8194-b47eaac7121d" tvg-name="CCTV Entertainment" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cctv-entertainment.png" group-title="Singtel CAST",CCTV Entertainment
+http://38.134.40.167:9100/l/Yrga9DswgcyIpIwp52rCbWcNgKvEK2Kr_1hjVfqqbtYPks0GZVAvZ_1CRwJyPQIn/index.m3u8
+#EXTINF:-1 tvg-id="stream-8cac3792-404a-4407-876c-855c1d049838" tvg-name="Dragon TV Intl" tvg-logo="https://asset.v3.singtelcast.com/channel/img/dragon-tv-intl.png" group-title="Singtel CAST",Dragon TV Intl
+http://38.134.40.167:9100/l/pmOAAUW3BhmMbxRBm7l7CrWBxV06Wyjzjzvub7R6J-vPvJ5_FxaYSECd2Nr0Xp-Z/index.m3u8
+#EXTINF:-1 tvg-id="stream-702d424e-3912-42a4-b4bd-04ef7aac88e2" tvg-name="Hunan International" tvg-logo="https://asset.v3.singtelcast.com/channel/img/hunan-international.png" group-title="Singtel CAST",Hunan International
+http://38.134.40.167:9100/l/lEaqvRwOHG9H4OgfQN1w7RtvGgYDk2JmPQ-gTf5VBV1nV16Sw57KMX4EwPJBpxVV/index.m3u8
+#EXTINF:-1 tvg-id="stream-2e9cc29f-ac62-497a-b63b-978f1f2771c7" tvg-name="BRTV International" tvg-logo="https://asset.v3.singtelcast.com/channel/img/brtv-international.png" group-title="Singtel CAST",BRTV International
+http://38.134.40.167:9100/l/cZdv4gAiXjeH53jViLf9aTWr5EPkYd2etkrYbzpgBQNiKqf75khFt121CNAZBHWZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-304b543b-efa9-435b-bbf6-df354be6cdd9" tvg-name="China Movie Channel" tvg-logo="https://asset.v3.singtelcast.com/channel/img/china-movie-channel.png" group-title="Singtel CAST",China Movie Channel
+http://38.134.40.167:9100/l/cPlJAuYcuDliTP1b9XpAr1OgpYkxKTceHxHq2pmzt6oH38JeLBlk_FHD8PjSyZ0R/index.m3u8
+#EXTINF:-1 tvg-id="stream-a5777357-d96a-4455-bf55-4a40cc81139f" tvg-name="Phoenix InfoNews" tvg-logo="https://asset.v3.singtelcast.com/channel/img/phoenix-infonews.png" group-title="Singtel CAST",Phoenix InfoNews
+http://38.134.40.167:9100/l/NISaOFCMJ3FCPMkLQA7t0aa-8o3HLZsON1_awpR4NaPx2iYmYplied7S0Irc7qNz/index.m3u8
+#EXTINF:-1 tvg-id="stream-1de944d8-6ca2-42f9-a246-d91176308250" tvg-name="CCTV-4 (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cctv-4-hd.png" group-title="Singtel CAST",CCTV-4 (HD)
+http://38.134.40.167:9100/l/7vCqQuF8bZbjquJhVlxafchISqDmPaoenhl6QM8DEJaq6EU8sCY8J4RK3MZgW9TH/index.m3u8
+#EXTINF:-1 tvg-id="stream-7227d5dc-9369-41e9-a1fb-378e00a44f46" tvg-name="CTI Asia (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cti-asia-hd.png" group-title="Singtel CAST",CTI Asia (HD)
+http://38.134.40.167:9100/l/TG-_d8-DL2P9vEa1ywHayMT-jgFwemr7htjaZxhIDA-KBO_I4ttf_eryUsOTN8eG/index.m3u8
+#EXTINF:-1 tvg-id="stream-9a3514bd-e387-40b2-a13b-1c6f99e207f6" tvg-name="ETTV Asia News (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/ettv-news.png" group-title="Singtel CAST",ETTV Asia News (HD)
+http://38.134.40.167:9100/l/6hU4Ayitwaq4yI6Kxja_aYcpcWRgPCZpvMCtxdpfoZYF7a1W9mQCEscfQARLvdBb/index.m3u8
+#EXTINF:-1 tvg-id="stream-22dd4c55-e426-4a88-a27a-f1ce00be9f56" tvg-name="CM+" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cmplus.png" group-title="Singtel CAST",CM+
+http://38.134.40.167:9100/l/JN5dXPxzjG2lUCQp8cMnEHBdzL5RAFRJUesbEX3qLvU_njzaGI0fpkJYYVLWeKqW/index.m3u8
+#EXTINF:-1 tvg-id="stream-12580f22-3729-493f-8e1f-e0fce5459948" tvg-name="CCM" tvg-logo="https://asset.v3.singtelcast.com/channel/img/ccm.png" group-title="Singtel CAST",CCM
+http://38.134.40.167:9100/l/HiVpmK9pblWdmJ5BezNOGn8oYMJMTGOckVgzUpDQuwRrfPPhQpcaB4JGLQY80da5/index.m3u8
+#EXTINF:-1 tvg-id="stream-ebabd12f-650a-4777-924a-2620760561e6" tvg-name="Celestial Movies(HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/celestial-movieshd.png" group-title="Singtel CAST",Celestial Movies(HD)
+http://38.134.40.167:9100/l/OGCAIp8Jbg127LyRPdf2wfmP5O5j6g9U1dOmNa9Jb5mjqDHmjIvBEphxWl_n_OeL/index.m3u8
+#EXTINF:-1 tvg-id="stream-6d524c35-d68d-473c-a708-7ab6faba0e34" tvg-name="Astro Prima HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/astro-prima-hd.png" group-title="Singtel CAST",Astro Prima HD
+http://38.134.40.167:9100/l/OOpXKjRL_bfwlRx6aWc7ff7m-NmzsLE4QsiWjHNgeq8XvJbrsQqkwvv5N0xc4pt6/index.m3u8
+#EXTINF:-1 tvg-id="stream-878063a7-8db2-40ee-a016-0d06bf27f223" tvg-name="Pesona HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/pesona-hd.png" group-title="Singtel CAST",Pesona HD
+http://38.134.40.167:9100/l/OCNLOeACA0g7ZDQNTJYqSpEhHcp4ASjJb6CSotXn1cXLALv3eblK98otOtrIQ6fE/index.m3u8
+#EXTINF:-1 tvg-id="stream-4381f713-e8b6-4555-be1a-aa5a2290f3bd" tvg-name="Astro Ria HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/astro-ria-hd.png" group-title="Singtel CAST",Astro Ria HD
+http://38.134.40.167:9100/l/tbUwq-JNlFNLo6ED7Evl8rDqwVw7VmBEdJaGhbOzdfmZi1--gNPUcH7rjl1LhUdl/index.m3u8
+#EXTINF:-1 tvg-id="stream-75b759f4-a8c5-408b-92c5-e6a80d5ba83d" tvg-name="Citra Drama (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/citra-drama-hd.png" group-title="Singtel CAST",Citra Drama (HD)
+http://38.134.40.167:9100/l/hAOxve5e7aFw9KXaClx2Ri_BgIr5tcQegu8Hm-h2Z_7cR-cPMYLd0eYYLyeqBk1p/index.m3u8
+#EXTINF:-1 tvg-id="stream-12df20ea-67d5-4ef1-97bd-40f1c9a212dc" tvg-name="Drama Channel" tvg-logo="https://asset.v3.singtelcast.com/channel/img/drama-channel.png" group-title="Singtel CAST",Drama Channel
+http://38.134.40.167:9100/l/wvl1FfUHtHodwQgRYcVUwibtIZ6SuzOmfBUF7ubinCo28VTKdk3aOLFfX5Vri7Bg/index.m3u8
+#EXTINF:-1 tvg-id="stream-251a91de-91a5-4548-b5bc-9f198efc7223" tvg-name="tvN HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/tvn-hd.png" group-title="Singtel CAST",tvN HD
+http://38.134.40.167:9100/l/DFtIqR2OsG_ikJTbXbzCNtqVF0Zu6rYpTP0a2DxjHSaPOd2BUIKPWrnfLCrcqqys/index.m3u8
+#EXTINF:-1 tvg-id="stream-dd2fb0fc-b886-41cc-a197-7d7e3e8aedb4" tvg-name="Sun TV HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/sun-tv-hd.png" group-title="Singtel CAST",Sun TV HD
+http://38.134.40.167:9100/l/TiLuUF7C2a5eN3437LfDrJtZyF8TI0UoiUwIYIb9Zym4Aj49xfN5f24enL5M84l3/index.m3u8
+#EXTINF:-1 tvg-id="stream-4aad8750-bb57-4606-855a-a47bc74df6e7" tvg-name="Colors Tamil HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/colors-tamil-hd.png" group-title="Singtel CAST",Colors Tamil HD
+http://38.134.40.167:9100/l/zxf7qXReWyx261pKSgc4ksDtM8r804fqJ3-5x1HZfebiVarNOUqaaoJkUmp9YDX9/index.m3u8
+#EXTINF:-1 tvg-id="stream-fab46f82-a00e-4153-ac47-34663956ddb0" tvg-name="Zee Thirai" tvg-logo="https://asset.v3.singtelcast.com/channel/img/zee-thirai.png" group-title="Singtel CAST",Zee Thirai
+http://38.134.40.167:9100/l/2X2ZoLw8UaBDugKaVqm69JOkWsyyeiYLxfRP9x8llpIIkpVNOogIN5eJii3BUygJ/index.m3u8
+#EXTINF:-1 tvg-id="stream-7b41d8dd-90e9-4960-bb26-b5a6198cc78a" tvg-name="KTV HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/ktv-hd.png" group-title="Singtel CAST",KTV HD
+http://38.134.40.167:9100/l/PmJ3Xh2mtpierdiX0sqDd3dMd73EBMq3572zJsLl2uT_3Wdroi-1Mj5RWjFU7liW/index.m3u8
+#EXTINF:-1 tvg-id="stream-69f39e46-2fc9-439c-8ee8-8524d7fd1356" tvg-name="Sun Music HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/sun-music-hd.png" group-title="Singtel CAST",Sun Music HD
+http://38.134.40.167:9100/l/V1s9_0UdTXRvP-2NYxJ-skJ3iTLea8pMbpchaaMjtGGg1xjn-BzEjIRiV6YVb77c/index.m3u8
+#EXTINF:-1 tvg-id="stream-8c52ac0d-7c0e-4d38-be85-65a4869ef648" tvg-name="Adithya TV" tvg-logo="https://asset.v3.singtelcast.com/channel/img/adithya-tv.png" group-title="Singtel CAST",Adithya TV
+http://38.134.40.167:9100/l/PxfUQm7wFL9Sc2TC5TOzuuu_G72OR12ksPF-Tn_4aQovDt8YdCplSo4xpXz4s9E9/index.m3u8
+#EXTINF:-1 tvg-id="stream-0d44aabb-6349-49fa-9df7-41036fe858e4" tvg-name="Sony YAY" tvg-logo="https://asset.v3.singtelcast.com/channel/img/sony_yay.png" group-title="Singtel CAST",Sony YAY
+http://38.134.40.167:9100/l/zNUI-wGlm2AF7dElXVpc7LRnA8oF6J_hQh7Wj2FuNJQ2oEeYpmdVFWq7XFlSgzCi/index.m3u8
+#EXTINF:-1 tvg-id="stream-b355fb1f-c70b-4e4e-acb1-4afd0e028e90" tvg-name="Zee Tamil HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/zee-tamil-hd.png" group-title="Singtel CAST",Zee Tamil HD
+http://38.134.40.167:9100/l/PFc57bZrj6xDEtKGwTEtLZNhZ_0u3TdJ-3OQdwdSw9lizqOytXMGzSU590tFjTbl/index.m3u8
+#EXTINF:-1 tvg-id="stream-2d23e690-db9d-44e2-9312-ca225eefa835" tvg-name="Vijay TV (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/vijay.png" group-title="Singtel CAST",Vijay TV (HD)
+http://38.134.40.167:9100/l/vdicDfhLhqsL6fTvb7VK_H4QdJxNfVOG7uETaJaAGqgXOayaoCl1jM91XUX33u56/index.m3u8
+#EXTINF:-1 tvg-id="stream-d64af19d-eb79-4768-967b-2f2a1499f8cd" tvg-name="Asianet" tvg-logo="https://asset.v3.singtelcast.com/channel/img/asianet.png" group-title="Singtel CAST",Asianet
+http://38.134.40.167:9100/l/3zpAv_H5iZIEuPg1CRWVhOegS6o34Vdy-AzKpTIdTpb4tdmAFPJGyHB-kd3dKVM1/index.m3u8
+#EXTINF:-1 tvg-id="stream-85cea6ae-5668-4738-a7b7-ba484a142d89" tvg-name="Asianet Movies" tvg-logo="https://asset.v3.singtelcast.com/channel/img/asianet_movies.png" group-title="Singtel CAST",Asianet Movies
+http://38.134.40.167:9100/l/hOihP4iwQe8sEevBcqCORC2E5uytNcGf-x2bTc_nv4Rt_8uoa_PGLFebuRt9WEPf/index.m3u8
+#EXTINF:-1 tvg-id="stream-a93ae17b-0bed-4615-83e5-89ddf1aa9e91" tvg-name="SET (HINDI)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/set-hindi.png" group-title="Singtel CAST",SET (HINDI)
+http://38.134.40.167:9100/l/wYuaEjUhhL98IHVgq9wHzcRr2WXVynfo_M48AJZvE4Ywk5BBHquACT0nQdmZKgCP/index.m3u8
+#EXTINF:-1 tvg-id="stream-632ee394-1e79-467a-8e46-1fd2b350c529" tvg-name="Zee TV" tvg-logo="https://asset.v3.singtelcast.com/channel/img/zee-tv.png" group-title="Singtel CAST",Zee TV
+http://38.134.40.167:9100/l/HbY1KeK4hRsv1TaJw0YoxbQW9eeGjCzazdzpWzFQ4zFZwlkeNOeNQvUdkNp7yb_w/index.m3u8
+#EXTINF:-1 tvg-id="stream-80506f24-23aa-4a99-ac45-44961833f192" tvg-name="SAB TV" tvg-logo="https://asset.v3.singtelcast.com/channel/img/sab-tv.png" group-title="Singtel CAST",SAB TV
+http://38.134.40.167:9100/l/HJ9al7hl9aw-WQJaYUwSqQzt90f3Uk7FvTUM5uuIUjfRpQlldLILSNTOiev_yjLk/index.m3u8
+#EXTINF:-1 tvg-id="stream-0e5b51e7-8558-48ea-8475-ae0bbf70826c" tvg-name="Colors" tvg-logo="https://asset.v3.singtelcast.com/channel/img/colors.png" group-title="Singtel CAST",Colors
+http://38.134.40.167:9100/l/ZIosyTB6e_yqUi8t0aQEpS4tpZeaWWvi9Znkt7FHUEWUXL5kMDvT7qxN2sgCMAcv/index.m3u8
+#EXTINF:-1 tvg-id="stream-d0807e9e-e8c0-4c0d-92da-46bd0eff4372" tvg-name="Star Bharat" tvg-logo="https://asset.v3.singtelcast.com/channel/img/star-bharat.png" group-title="Singtel CAST",Star Bharat
+http://38.134.40.167:9100/l/Emsb2NXACMMxqb32JLDY1dYH43gg11-iON_K344QH4GYV8q5fPUu1pISBPPSiB4w/index.m3u8
+#EXTINF:-1 tvg-id="stream-c87427d7-31f6-49c9-9f1c-f6c5c710b589" tvg-name="STAR Plus" tvg-logo="https://asset.v3.singtelcast.com/channel/img/star-plus.png" group-title="Singtel CAST",STAR Plus
+http://38.134.40.167:9100/l/6gE2lj45FvoxkEoNwo6ftDuF1pgziKxJufgKABGvoTufdJv6VqeT4eDlel64X3bB/index.m3u8
+#EXTINF:-1 tvg-id="stream-b3371b2a-3248-45e5-b407-0ad28c136c19" tvg-name="MTV India" tvg-logo="https://asset.v3.singtelcast.com/channel/img/mtv-india.png" group-title="Singtel CAST",MTV India
+http://38.134.40.167:9100/l/nwHIgsxJG4hOh_3FZ1w8XiHvbn2qQJtvO_rOX3dO2dJ1ewyOMmdbG8RkNLV1g37i/index.m3u8
+#EXTINF:-1 tvg-id="stream-704d7eeb-9db1-4a4a-97c0-e324bd052740" tvg-name="STAR Gold" tvg-logo="https://asset.v3.singtelcast.com/channel/img/star-gold.png" group-title="Singtel CAST",STAR Gold
+http://38.134.40.167:9100/l/LtPR2WbowE8JvSsTH4-7ic6Yln8SaWK6iwwQmo5sJlfroh2EEMP1yewXzIN3pBvJ/index.m3u8
+#EXTINF:-1 tvg-id="stream-45c1f137-1829-40b6-b4c5-ca8801f2cae7" tvg-name="Sony MAX" tvg-logo="https://asset.v3.singtelcast.com/channel/img/sony-max.png" group-title="Singtel CAST",Sony MAX
+http://38.134.40.167:9100/l/OtMomRAfmovNG9W5KCF4wYn7idvk5yXLyE3QYZugAoiFAlnwgF1-QPK4AsPkXzRr/index.m3u8
+#EXTINF:-1 tvg-id="stream-a63c4ce3-053e-433c-9900-990005b017db" tvg-name="maa movies" tvg-logo="https://asset.v3.singtelcast.com/channel/img/maa_movies.png" group-title="Singtel CAST",maa movies
+http://38.134.40.167:9100/l/wmcDGDLmnEliat-AzaPhXMoInSSSXL562lWKVVI2HSuSepPZT-jVWFtMPtuCz8Vu/index.m3u8
+#EXTINF:-1 tvg-id="stream-0d392663-bf76-4700-bc27-3fc0a2468691" tvg-name="Star Maa" tvg-logo="https://asset.v3.singtelcast.com/channel/img/maa_tv.png" group-title="Singtel CAST",Star Maa
+http://38.134.40.167:9100/l/El2u-_uX6ZJfy2BHhxw8dv9mro4f4CTQFWsgebcHXtHszuRzdSjmsy3K2YAldwN-/index.m3u8
+#EXTINF:-1 tvg-id="stream-a0b37ccf-e5b4-4897-a174-c2b92ff12037" tvg-name="Times Now" tvg-logo="https://asset.v3.singtelcast.com/channel/img/times-now.png" group-title="Singtel CAST",Times Now
+http://38.134.40.167:9100/l/gEsC_2z8eS5lYmI05H9fdWbVrvLAtYH6lSSJYbWeq-da2_foxAcww_oZ2GypaDO4/index.m3u8
+#EXTINF:-1 tvg-id="stream-46ba7d55-8922-4da7-9818-6999c4d76606" tvg-name="Zoom TV" tvg-logo="https://asset.v3.singtelcast.com/channel/img/zoom-tv.png" group-title="Singtel CAST",Zoom TV
+http://38.134.40.167:9100/l/pJJgHuNnQ_dDfh75LAyNiz47wJj2DeMM6l-ctKnn1cqIbyepvPISwAgK0CVEphLX/index.m3u8
+#EXTINF:-1 tvg-id="stream-3d78708b-8d32-4486-bc3d-8f117235cadc" tvg-name="WION" tvg-logo="https://asset.v3.singtelcast.com/channel/img/wion.png" group-title="Singtel CAST",WION
+http://38.134.40.167:9100/l/bHYrtJNyTWWX5U5UoLwUmIp_b69hsJq350m0EDYvWFsj6hfO0g1Fgqt0miKcMy05/index.m3u8
+#EXTINF:-1 tvg-id="stream-af0d6346-d995-46b3-80ef-862e85aae9a4" tvg-name="NHK World Premium HD" tvg-logo="https://asset.v3.singtelcast.com/channel/img/nhk_world_premium.png" group-title="Singtel CAST",NHK World Premium HD
+http://38.134.40.167:9100/l/lFiZved1-X8UI5L9dc3ol0pJgAX8Rlku4URyI1VrDDwXuZpIKXdmyTU-Bn4Rdllv/index.m3u8
+#EXTINF:-1 tvg-id="stream-4a0c2112-6b83-494c-8fd2-00b61e30a198" tvg-name="France 24 (French)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/france-24-french.png" group-title="Singtel CAST",France 24 (French)
+http://38.134.40.167:9100/l/oBI9m5PE3NA5tkN7Bi18ndPAi3Bx4Nt9hYOo_0gMqx6lvT5Kk5PuxGGRbpp6CECw/index.m3u8
+#EXTINF:-1 tvg-id="stream-a1bf5a7d-f3bc-4696-9c75-36d1f0bb560f" tvg-name="GMA Pinoy TV" tvg-logo="https://asset.v3.singtelcast.com/channel/img/gma_pinoy_tv.png" group-title="Singtel CAST",GMA Pinoy TV
+http://38.134.40.167:9100/l/AGAqvgd7GNXEOImwG79441stKaLyBL8QKMfaOKs5yUC06UYs2nle8NS161OWuNIL/index.m3u8
+#EXTINF:-1 tvg-id="stream-87eee415-4bd8-464f-8d42-8506df354864" tvg-name="GMA Life TV" tvg-logo="https://asset.v3.singtelcast.com/channel/img/gma_life_tv.png" group-title="Singtel CAST",GMA Life TV
+http://38.134.40.167:9100/l/9ghPEOQojGuUG37gdTEQsirsz2cSiZbE9OJHC6cH05ezvPA-CKqNVlAw0Z9p8Rml/index.m3u8
+#EXTINF:-1 tvg-id="stream-f7bde490-3e22-4b36-831b-2a6b7a93adc8" tvg-name="GMA News TV Intl" tvg-logo="https://asset.v3.singtelcast.com/channel/img/gma_news_tv_intl.png" group-title="Singtel CAST",GMA News TV Intl
+http://38.134.40.167:9100/l/1k_CTs2e_w5Tv_2v2hDgjAqnFnr8LUXZMgNerhi-dTiLuHTE_PFcFuQBqTyJ4lYM/index.m3u8
+#EXTINF:-1 tvg-id="stream-80d831eb-9f74-4a42-9bd1-0bde40780d89" tvg-name="Cinema One Global" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cinema_one_global.png" group-title="Singtel CAST",Cinema One Global
+http://38.134.40.167:9100/l/hcCJn7T6Y6yn1-jAeGlWLhStgbgZV4PtF3P3mFe4kbTf0GMibNPfglJ7EqAvtf00/index.m3u8
+#EXTINF:-1 tvg-id="stream-8bb12812-8f3c-4970-ac09-46758eb4dda8" tvg-name="The Filipino Ch (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/the-filipino-channel.png" group-title="Singtel CAST",The Filipino Ch (HD)
+http://38.134.40.167:9100/l/4A--RoCcCGpoizo-uMeCPunkVd2CXt6cJEHelqFdi5cjrlWM6xFYjybswgjnlFvy/index.m3u8
+#EXTINF:-1 tvg-id="stream-46fc1882-0147-431b-ae12-c3309ea7bb73" tvg-name="ABS-CBN News Channel" tvg-logo="https://asset.v3.singtelcast.com/channel/img/abs-cbn_news_channel.png" group-title="Singtel CAST",ABS-CBN News Channel
+http://38.134.40.167:9100/l/N8rgO0Ho0RRyN5sqkYsTqizJO45QjX4XS6-gpDHwTL5ikkMV_XKk3P2BJQhdjkiR/index.m3u8
+#EXTINF:-1 tvg-id="stream-59236d17-e244-45b5-a14d-223e1f0e356a" tvg-name="Cricbuzz (HD)" tvg-logo="https://asset.v3.singtelcast.com/channel/img/cricbuzz-hd.png" group-title="Singtel CAST",Cricbuzz (HD)
+http://38.134.40.167:9100/l/efuNwBvgMVRjymwJ3MZBnNqY-SHAfhwIUhoilfKIL_S2e_kfK7kk0S3GcuFD6nC4/index.m3u8
+#EXTINF:-1 tvg-id="stream-5a68f7ca-b06b-4550-89bb-2426a9ae73a9" tvg-name="Astro Football" group-title="Astro",Astro Football
+http://38.134.40.167:9100/l/lwrB_fBaOHbSB3LbwaeOvT2WKhvlWKNhvSNFh2ZUc6zgOWqu9RTgdjZN7z0Zbwkd/index.m3u8
+#EXTINF:-1 tvg-id="stream-f5b645b3-1dff-4bd9-a24e-6080f36d4d40" tvg-name="爱奇艺" group-title="Astro",爱奇艺
+http://38.134.40.167:9100/l/sptFc_8KzWsd24LAtjYnbSNtP7yfRAnveI6h_oVGLyTt2g4lzWi6xDBvgJ648QIx/index.m3u8
+#EXTINF:-1 tvg-id="stream-14e523a8-f556-4c91-bc48-9677833d7d30" tvg-name="板球" group-title="Astro",板球
+http://38.134.40.167:9100/l/ziLzgXUw9l37f1mmWqECeAUGKHmzEWkERTfz-c1QyMl8y163l63oZXo1KOo0ZZDj/index.m3u8
+#EXTINF:-1 tvg-id="stream-dd8d6411-126d-47c8-bda9-8f2e9ada4ef2" tvg-name="astro Oasis" group-title="Astro",astro Oasis
+http://38.134.40.167:9100/l/2pJXREKV4dWxFzDWT9niK0YVwdtjjI56m5n0sI6SnD6wUlLIFTwkZvwmcB-SYEBl/index.m3u8
+#EXTINF:-1 tvg-id="stream-efab80d5-f911-43c0-b977-e74023a3ba31" tvg-name="Astro Tennis" group-title="Astro",Astro Tennis
+http://38.134.40.167:9100/l/YhBdZWpN1rm_Ul_qw52KsDRhMVcYeMpb0bdTHItGdvYSz3BqasxvzURZ4dX1ae77/index.m3u8
+#EXTINF:-1 tvg-id="stream-9abe9fd8-f03b-404b-ad8d-93b533874196" tvg-name="astro Sports UHD" group-title="Astro",astro Sports UHD
+http://38.134.40.167:9100/l/Vojnq0LKf5toXy_K4PZHLlIPEyB0DWozcjLnoOlwbZ4B2cqi3IbWwRIQqKj7qzpn/index.m3u8
+#EXTINF:-1 tvg-id="stream-2f5cc68e-65a7-4231-ae47-6224798b89f9" tvg-name="PREMIUM SPORTS" group-title="Astro",PREMIUM SPORTS
+http://38.134.40.167:9100/l/kZzg08jJBVmHoVfwhhr2yFOd_L8kx1cFGpOirB5sUc1kScxvwAqQbRs7MC8dFJMA/index.m3u8
+#EXTINF:-1 tvg-id="stream-397d0816-307b-4795-8c85-1fb25a6b8767" tvg-name="CCTV4" group-title="Astro",CCTV4
+http://38.134.40.167:9100/l/eH2RqlElM2IMHKgiXS3t46StjrigSJ02bhtL8IT0R_zKzJTeGK6bj4fplPrD0oJ4/index.m3u8
+#EXTINF:-1 tvg-id="stream-e31fdb46-a357-4bb5-8082-2fab5217853f" tvg-name="中天亚洲台" group-title="Astro",中天亚洲台
+http://38.134.40.167:9100/l/5eea_RfXDmxXf-G5VN5wJtfUhT5lK3BCibIASfXbc0Dgp_Ms2OC90t9RHyy1L3vr/index.m3u8
+#EXTINF:-1 tvg-id="stream-b337f308-1bb6-446f-8bc7-26f89cc3d6a0" tvg-name="KBS国际频道" group-title="Astro",KBS国际频道
+http://38.134.40.167:9100/l/T0Q__iXTsmESwJxaJvY6gUWXZKw-Xn8VTyQ7gmM8X-ofny4hWDj49-nOx6I5aBQG/index.m3u8
+#EXTINF:-1 tvg-id="stream-0a00b88e-955b-4211-ad6c-c877eae50019" tvg-name="Astro Showtime" group-title="Astro",Astro Showtime
+http://38.134.40.167:9100/l/AXF-N4uoPjMnxiVhwWAFAM8lZFanoh0W1fMjtTkTTQ6AbdR2vLp-83-L0xacWQ7O/index.m3u8
+#EXTINF:-1 tvg-id="stream-8720753f-0147-4c07-8d6b-6de5fd734fae" tvg-name="astro AOD" group-title="Astro",astro AOD
+http://38.134.40.167:9100/l/r_2fKNDmYRyopLXneGzv93V7fpFeG657gLi-1CMwQNdoZB5eeEcWShnuO8qPDLo9/index.m3u8
+#EXTINF:-1 tvg-id="stream-c9931f47-ed31-4476-8334-65a4ff777374" tvg-name="astro ACE" group-title="Astro",astro ACE
+http://38.134.40.167:9100/l/HLEt9OhlOxzCF1oUInBy5bSgf7wXjCenJ-nDPVxDG_92jS2M8-AMeUCm3bPDkeZQ/index.m3u8
+#EXTINF:-1 tvg-id="stream-22a6790f-a1f2-4daf-bd3b-95f65f58ac5f" tvg-name="TVB星河频道" group-title="Astro",TVB星河频道
+http://38.134.40.167:9100/l/GTzqtAegYM4c2Z6DUDCM-_uj1zCO44sPlbnG8g82ChkWUedQBIgPjspBQLSS9GXl/index.m3u8
+#EXTINF:-1 tvg-id="stream-78f514b3-01f1-4a87-8f49-276975eced63" tvg-name="TVBS亚洲" group-title="Astro",TVBS亚洲
+http://38.134.40.167:9100/l/0HlsYeh631s18YqzjwqCrEEMGLAc9bn2nAg4C8G1eQnJSCN-sEvYV18fiV-VPzDW/index.m3u8
+#EXTINF:-1 tvg-id="stream-4d3086f4-d853-4550-8b54-9318dbb658ad" tvg-name="astro 欢喜台" group-title="Astro",astro 欢喜台
+http://38.134.40.167:9100/l/wt_AvmWBO3Ftb4nAtVvxmrieuWcbV7gPj0c7PP3txCQ_Q8otfoo1My5PmxNlw7S7/index.m3u8
+#EXTINF:-1 tvg-id="stream-1e6945e6-f487-41c0-ba37-f95aef1879ff" tvg-name="翡翠台" group-title="Astro",翡翠台
+http://38.134.40.167:9100/l/s4YKRGk4kNDsDsqDXWz5uJbB9udW0BnrfwRwXi40ffIrWiNBYEcn_MnKr5dCkf94/index.m3u8
+#EXTINF:-1 tvg-id="stream-5bc96af2-35b9-4376-ab48-3161caa5dab7" tvg-name="千禧经典台" group-title="Astro",千禧经典台
+http://38.134.40.167:9100/l/hOXDFoYzD8iBF5exvLCPJmFxND67fwIw0psiD1Qhkn3PCaz49SuVihUfMzM6qJxN/index.m3u8
+#EXTINF:-1 tvg-id="stream-f6dff297-9b65-4f64-b808-66765b1a5178" tvg-name="娱乐新闻台" group-title="Astro",娱乐新闻台
+http://38.134.40.167:9100/l/Zgh59L2hoc3rEeNIwqsp9zg4D-8ROoQVwtiyrxBAcpclIiATU-QheJ8UYfQjD20m/index.m3u8
+#EXTINF:-1 tvg-id="stream-0eafef46-918f-40f0-94a1-1400e3f810e0" tvg-name="凤凰中文台" group-title="Astro",凤凰中文台
+http://38.134.40.167:9100/l/i4EjUiSUTiAXlwG1eWSAnHBQLxR7LntE9qKF52e9YqUTXVRtB58JcOjNxz1wFz6T/index.m3u8
+#EXTINF:-1 tvg-id="stream-2ca3682e-f3c4-45e7-b707-ec910485b1c1" tvg-name="天映经典频道" group-title="Astro",天映经典频道
+http://38.134.40.167:9100/l/Rp0GZuXYYy3wh2XCZJV8rXVqZYms9bGTrqLzywF_yBACCIsN8wT8cF9Lvm9ZGaNi/index.m3u8
+#EXTINF:-1 tvg-id="stream-2d2049fa-b0d1-4b69-8f0b-6fff4f072b9f" tvg-name="天映频道" group-title="Astro",天映频道
+http://38.134.40.167:9100/l/Xzj3U81vOQ01s1B0oHd2l3bYkwzUoRLwu3F4bgv2-9LFbrWniW86VaaRUT-k-S4B/index.m3u8
+#EXTINF:-1 tvg-id="stream-a73c905a-c94b-4228-9c5c-f7e9af870567" tvg-name="astro FAM Time" group-title="Astro",astro FAM Time
+http://38.134.40.167:9100/l/a9WhvZ6apEJMEZX7IzuDS3DyHqP65g5wq3O2RneZSkU8d_beSAT5fXJdBwsqy4M6/index.m3u8
+#EXTINF:-1 tvg-id="stream-08fcc0f7-4429-4975-806d-5e43c27532ba" tvg-name="astro Showcase" group-title="Astro",astro Showcase
+http://38.134.40.167:9100/l/lcc7vOB2LFKA__B67xF23hydzX2K1JiQslJkofq6bMXVqOsOSeOpJ-Am2DCQx2ZB/index.m3u8
+#EXTINF:-1 tvg-id="stream-25e37cfb-2836-4494-ac84-5d6d7ae01c89" tvg-name="HOTS MOVIES" group-title="Astro",HOTS MOVIES
+http://38.134.40.167:9100/l/HAO52L26qq85GuZFN3Gubvo2EvydGNG-QJw_2VjF_xGagN9U2Q0muJOxFSz22gQj/index.m3u8
+#EXTINF:-1 tvg-id="stream-441125cd-865c-4521-a88f-032c57aad795" tvg-name="tvN" group-title="Astro",tvN
+http://38.134.40.167:9100/l/Il8h13F3CPQkBzKxQDzA43kQgN84Sq2BCB7dR9f6P88HnKG0NSRR1NHCVus3eNMW/index.m3u8
+#EXTINF:-1 tvg-id="stream-82caaa48-bcd9-4fa7-b834-8b942846ded8" tvg-name="tvN MOVIES" group-title="Astro",tvN MOVIES
+http://38.134.40.167:9100/l/_EhZF01GJrPygMLffjDzkwMF_1uF_h-L4vCBR2nt7h5Ui2b841baXUm1zMMeYQjA/index.m3u8
+#EXTINF:-1 tvg-id="stream-469a254a-a199-43cb-9ced-94258e39f082" tvg-name="K+" group-title="Astro",K+
+http://38.134.40.167:9100/l/winMGJm2liJsUadyww1_iALXUrnRuF3CMsNBKcP9VIa2sXnoPP6DicIL1aNG3nXQ/index.m3u8
+#EXTINF:-1 tvg-id="stream-2f0ab9f2-c62f-4a96-b502-d84a4b6e2c76" tvg-name="AXN" group-title="Astro",AXN
+http://38.134.40.167:9100/l/728_lECR3h0cf_RPl3OWw30U9gnqyBo_uSo-7wzS9HQY7xxfAtJy_8bzW5uNMA_G/index.m3u8
+#EXTINF:-1 tvg-id="stream-3db7d139-8c5d-485f-9439-9e1729b73260" tvg-name="HGTV" group-title="Astro",HGTV
+http://38.134.40.167:9100/l/151kgdeWGMCcFdnfvaMYtFzHDw71BD04qCSarYHGi0NXbgyHOYt9useJ6b3ZT_x0/index.m3u8
+#EXTINF:-1 tvg-id="stream-16959cfd-5e42-41a2-8e00-0d7ef285bc34" tvg-name="Lifetime" group-title="Astro",Lifetime
+http://38.134.40.167:9100/l/jtvkI7r_q_tKlqSQrYHm1s--8kHj2E4rQKNyBD_qaHuQRvL6zD9HVjaxcHDzkq9w/index.m3u8
+#EXTINF:-1 tvg-id="stream-5c2e702c-170d-465a-8f6c-d16c03c81336" tvg-name="HITS" group-title="Astro",HITS
+http://38.134.40.167:9100/l/yOKCUQUvo3dp6uIamtRlZ7XxjY6UCqQ5Ew2H6VZDr2J3yTVWTPPYzdhSeE9sj6zl/index.m3u8
+#EXTINF:-1 tvg-id="stream-97b7002f-1bd3-4487-97a5-cc96535e2ca0" tvg-name="HITS NOW" group-title="Astro",HITS NOW
+http://38.134.40.167:9100/l/JcF9667NH--Ihybozo6GFk19TU8GYXAkTuhX735NEFnFnftKzDD_8Q996w38Cjxz/index.m3u8
+#EXTINF:-1 tvg-id="stream-15a7c326-93f1-4ac4-8fe5-e75fe3805666" tvg-name="CRIME INVESTIGATION" group-title="Astro",CRIME INVESTIGATION
+http://38.134.40.167:9100/l/qNcagEY1yMvsw6A0IyzNxGe8xfG1qqM79AdHAzh3p0iG3mPjj5neS2_QI-cP9nQD/index.m3u8
+#EXTINF:-1 tvg-id="stream-1fa53f6f-9d37-4333-bb62-eba036982ca3" tvg-name="爱自然" group-title="Astro",爱自然
+http://38.134.40.167:9100/l/F3O_vjDcMA1R3Bv76_ELdaK-LIxoqtdf5MTiQSOW0WdKmwCTiHiX4xb7WPpkSZi-/index.m3u8
+#EXTINF:-1 tvg-id="stream-17e0b75d-944c-44cb-8b4e-102a26ab59d7" tvg-name="afn" group-title="Astro",afn
+http://38.134.40.167:9100/l/eKb3il-uFy-EzbvWshYPnDyfXzmPSReyDQH1enRZuf3VZbRPZHkDqHsKr2brWZDv/index.m3u8
+#EXTINF:-1 tvg-id="stream-b5bbcf2d-e94f-4e0b-8882-492c0969e6d4" tvg-name="TLC" group-title="Astro",TLC
+http://38.134.40.167:9100/l/JlSCFIERjTKMoy7mhc9Dl3fOcxtao3BjsIL0kNO2oBSxe2fIi2gE-E_a4Oj_pbYa/index.m3u8
+#EXTINF:-1 tvg-id="stream-4b52a546-2cd9-4b6d-a1df-9f75b485c37d" tvg-name="探索频道" group-title="Astro",探索频道
+http://38.134.40.167:9100/l/hOvHQhuJff9xTZH70_k6A44MZeqsDe2evm3QyXxj927lqJ2UBiDofBFKNNtgZmBA/index.m3u8
+#EXTINF:-1 tvg-id="stream-b999ddd4-d0be-440d-8e96-a09bdc3cc77b" tvg-name="探索亚洲频道" group-title="Astro",探索亚洲频道
+http://38.134.40.167:9100/l/PSPntSOiheju3_lWgy7HXwvIuevPtZCy4I8wcNkluWCfwyvWXc8UgKkB0MxDIdj6/index.m3u8
+#EXTINF:-1 tvg-id="stream-b8bb34e5-146d-4640-b3ae-e1002043b516" tvg-name="BBC 地球" group-title="Astro",BBC 地球
+http://38.134.40.167:9100/l/nKlkt8UxLX8s_uLzz1bK4AIyZYqmQ6MXgu-0vdpHuay0amm0NokKee47SgPkWssS/index.m3u8
+#EXTINF:-1 tvg-id="stream-4126a53e-5fd5-493e-af75-b9acaba45789" tvg-name="MOONBUG" group-title="Astro",MOONBUG
+http://38.134.40.167:9100/l/XV6JRB2CAkeq8O2iZsTdlrWSsbWPNGVTuAhjqR7kLPlAegEj0nb6ZFeIb9amvWYX/index.m3u8
+#EXTINF:-1 tvg-id="stream-6d8cbfe1-a8bd-406b-a7f0-c38edca57a12" tvg-name="尼克少儿" group-title="Astro",尼克少儿
+http://38.134.40.167:9100/l/AMzKxZrjEQi18Vt4SouRproK0u_UwEfaD8HD4b2SA_oKqAYeFHHViXFqf1zO9Eb_/index.m3u8
+#EXTINF:-1 tvg-id="stream-5db2e81a-f669-4a2a-9564-769f74315ca8" tvg-name="尼克幼儿" group-title="Astro",尼克幼儿
+http://38.134.40.167:9100/l/ndqMetC8dAm2k44WQe-iIU40ENhBYdG9qRCoVulsLtyCC1fZM-cjB95UrfHx05Km/index.m3u8
+#EXTINF:-1 tvg-id="stream-1f1fdc95-59d4-479a-afcf-ac34b0db8c31" tvg-name="CN卡通" group-title="Astro",CN卡通
+http://38.134.40.167:9100/l/doZlrnzevj151PI72kT03BWLVMxdLOl9hbBEdLeHoij9ThH1nmFYlMp0Z0mTGlIY/index.m3u8
+#EXTINF:-1 tvg-id="stream-3d335380-38dc-4e9c-9dd9-692309bbf6bc" tvg-name="Blippi & Friends" group-title="Astro",Blippi & Friends
+http://38.134.40.167:9100/l/MqWzanxNbszCG6d84QcDHJNmBDpA9PZMT-5JAySNidL0P0_MhTvsEVbyEgNlCJwJ/index.m3u8
+#EXTINF:-1 tvg-id="stream-54bac1ff-a07d-430d-8310-96b89f959398" tvg-name="爱自然4k" group-title="Astro",爱自然4k
+http://38.134.40.167:9100/l/XeyZzzlzqUbI06g7IUK3mti1C5GKxf524VOqjgzmG4pRZXU7_wy83NfPrUdx0inn/index.m3u8
+#EXTINF:-1 tvg-id="stream-b303b21b-7c32-4545-b8da-00ccf33646b3" tvg-name="Astro Arena" group-title="Astro",Astro Arena
+http://38.134.40.167:9100/l/5sSRfQaarQwiNBlWxqmyzZXhJ7cyHwFEpz_XAAhvnspsre1NW1emAeSZB5iRmOw1/index.m3u8
+#EXTINF:-1 tvg-id="stream-63298190-b109-4c1f-b13c-3b3f7b932c97" tvg-name="Astro 体育" group-title="Astro",Astro 体育
+http://38.134.40.167:9100/l/TVXPylxrjDpKzhWB-q0TPyDqhJcxId9PWQ6TsDaqctzkD04rn14yurksnGDLN0WZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-aa9bbd96-56c1-4efa-a1fe-45d9281609a2" tvg-name="Astro Arena 2" group-title="Astro",Astro Arena 2
+http://38.134.40.167:9100/l/Qc0z0ashmRMeWiQsLxsaQp57RrMCu2TqxCXUE2DvC67cCzymiJFwr01C_kCb2HOX/index.m3u8
+#EXTINF:-1 tvg-id="stream-e6a271c4-da1e-4653-8115-2b98892e05bf" tvg-name="Astro Sports Plus" group-title="Astro",Astro Sports Plus
+http://38.134.40.167:9100/l/FEqSYOJe5YGXvdMmTnLA6FDkZlV5hNraevYwSBafZVKrIV5xe5nT7-jiCyctaaGq/index.m3u8
+#EXTINF:-1 tvg-id="stream-6283bb21-bf15-4031-8910-afef4cc94813" tvg-name="Astro Sports Plus2" group-title="Astro",Astro Sports Plus2
+http://38.134.40.167:9100/l/NUMvJCASGZ9eBqx6NAr0NpABwmwxTZgqbyVDYaBGEhjlLfTGfKUvnALq56u2vDdh/index.m3u8
+#EXTINF:-1 tvg-id="stream-39c9696d-8ad3-432a-9285-3b1080ef9a57" tvg-name="W-Sport" group-title="Astro",W-Sport
+http://38.134.40.167:9100/l/4Kz2GRAD3bGj5nkf7ZDP1SHSeJSxoZ5Qy-q1XyXLhZ3PKAyl2lKJQeXUGcUbxelw/index.m3u8
+#EXTINF:-1 tvg-id="stream-56d50e85-3a38-46aa-b46e-191de00297bc" tvg-name="Astro Golf" group-title="Astro",Astro Golf
+http://38.134.40.167:9100/l/UrLH88F26vmPNBxzAhx-Qv35n56d-cUIgzFYcmhtG9yUTil9vTyEmXwcjtt9FOIn/index.m3u8
+#EXTINF:-1 tvg-id="stream-a8210081-c716-4f5a-b561-fe1584651fa3" tvg-name="Astro Daebak" group-title="Astro",Astro Daebak
+http://38.134.40.167:9100/l/jlw9VLrzaNdlp7r7CZc9I0e_VkYqBMK0DBCEs3N5xivwhvkqBNTmoOJlv-_gDG-f/index.m3u8
+#EXTINF:-1 tvg-id="stream-158c82ea-7d14-4ceb-b8cb-33547ae186bb" tvg-name="Astro Stadium" group-title="Astro",Astro Stadium
+http://38.134.40.167:9100/l/vCX7jwmWxNcZcwP1g78BtRL4zQ1vbY-yAayJn2FvlNtu3SP3_Ot2A7zGLyXMnsQA/index.m3u8
+#EXTINF:-1 tvg-id="stream-1e1fe2ef-c56f-44e9-a50d-3dc808280f7b" tvg-name="Astro30" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro30.png" group-title="Astro",Astro30
+http://38.134.40.167:9100/l/vFi-4bDAEEC2aNjrt1qXIi3qcuDog4aARaoEzu1yusFy0L1URo6AMvtDoXRczlk9/index.m3u8
+#EXTINF:-1 tvg-id="stream-3f76289e-4bbd-4b15-bc6a-cf6f5b0836fc" tvg-name="Astro Aniplus" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Aniplus.png" group-title="Astro",Astro Aniplus
+http://38.134.40.167:9100/l/sZ-O13uypILG1YF0kPeqTE_FbMvafR4q2Me3jfV5nos8QvbCZiUr4jbIYr-krGkf/index.m3u8
+#EXTINF:-1 tvg-id="stream-336b77cb-e0fb-487f-9963-b6337f179672" tvg-name="凤凰资讯台" group-title="Astro",凤凰资讯台
+http://38.134.40.167:9100/l/DEqkeRxi3V_wuzd9bEES8KNea8sRWrHeoY-YzClA8HvQJV8134yUpltyo34g7rxt/index.m3u8
+#EXTINF:-1 tvg-id="stream-1b3dfc65-38cc-4917-a6cd-f59501f8dc2a" tvg-name="NHK付费频道" group-title="Astro",NHK付费频道
+http://38.134.40.167:9100/l/t1Gwba70WLyKi-KU7F-7uIiEvS_dcBAfbYR0bYcKAp9aUracJYOUdgK19au-Su25/index.m3u8
+#EXTINF:-1 tvg-id="stream-89bf3a25-85b7-4d87-9e41-17962f6ed342" tvg-name="GOLF PLUS" group-title="Astro",GOLF PLUS
+http://38.134.40.167:9100/l/df-XnKsYZktYRk_jHmIxyA7HpqKeA7cSMVXZrXtdzlsDRCbzwuFVi2bVKoCfaPbD/index.m3u8
+#EXTINF:-1 tvg-id="stream-c306ca7f-92ba-44ed-818e-400a12db9495" tvg-name="SUN MUSIC HD" group-title="Astro",SUN MUSIC HD
+http://38.134.40.167:9100/l/GJwSRz_r33qQAeYYPm5wKRsd1u-X684TRM4c6wxEb1PdM9G-8pT394_QW1RxOqmO/index.m3u8
+#EXTINF:-1 tvg-id="stream-86e101a8-d4f5-45e5-bd67-03b50b166260" tvg-name="ADITHYA" group-title="Astro",ADITHYA
+http://38.134.40.167:9100/l/mSigz-f5BD1YUjdcfHrem3CNk-OOTQ_Eyxx3IZZ7CAr0v17dfy92pxTlXVHtbwLL/index.m3u8
+#EXTINF:-1 tvg-id="stream-b761a13c-0db9-4ccd-ae12-ff34bdc755ad" tvg-name="BOO" group-title="Astro",BOO
+http://38.134.40.167:9100/l/ha25xPLDAzlAl3fzB09hlSRdToTNpg2PwvIOXso-orWnlWQXDq69OBCkieQq5T-U/index.m3u8
+#EXTINF:-1 tvg-id="stream-e958fe4b-ff0a-4faf-82b9-9e30cd679ef5" tvg-name="FRANCE24 HD" group-title="Astro",FRANCE24 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://38.134.40.167:9100/l/Nb84qZkiQhJXEaPLcl7CXQFblb7BOpEi_FbufxzAV42e6EZDKe-4wSZJfFWyWz5O/key
+http://38.134.40.167:9100/l/Nb84qZkiQhJXEaPLcl7CXQFblb7BOpEi_FbufxzAV42e6EZDKe-4wSZJfFWyWz5O/play
+#EXTINF:-1 tvg-id="stream-fc5eb6e1-5dfb-4738-b591-d9c2432e5e29" tvg-name="Bernama TV" group-title="Astro",Bernama TV
+http://38.134.40.167:9100/l/jJkW9vB9M4_cg4nJ9ylDCZ1qOPkZW9FqchonpIqlKV6yWMysTTf204OJ2vscnm4i/index.m3u8
+#EXTINF:-1 tvg-id="stream-57fb544d-35da-4ffb-bc83-15475dae5739" tvg-name="TUTOR TV" group-title="Astro",TUTOR TV
+http://38.134.40.167:9100/l/jC0KmZgaf2XyccwZJdseM6y2Pj5k-r-6dd3chl8TIMpw2B0UdBxe9ykHThCR7m88/index.m3u8
+#EXTINF:-1 tvg-id="stream-d6fb6035-66e6-4372-9d61-ad735c1437a7" tvg-name="DW HD" group-title="Astro",DW HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://38.134.40.167:9100/l/b6UcuEP2bFUFxc8y1EJOUaoyII2CHOJUXb2foLpwPejj6TErhCHnrkT84DrP99d9/key
+http://38.134.40.167:9100/l/b6UcuEP2bFUFxc8y1EJOUaoyII2CHOJUXb2foLpwPejj6TErhCHnrkT84DrP99d9/play
+#EXTINF:-1 tvg-id="stream-315dd8fa-1a4a-4fc6-b540-ed69d8346381" tvg-name="AWANI HD" group-title="Astro",AWANI HD
+http://38.134.40.167:9100/l/FyYMvQDvdYobIcSzve9Mgl7VNfcZWLptkAtzl7Z_4kfaUlfzGjmCxsAMTCtLN_L7/index.m3u8
+#EXTINF:-1 tvg-id="stream-98cc0134-afb6-49eb-83c4-1ab08cf018df" tvg-name="Sun Life" group-title="Astro",Sun Life
+http://38.134.40.167:9100/l/j3dJJQQz6wVj2W0nCtVEaz2DJzdzw-PgglfFnuOj5elFuSflUlAJPriyAc4q1HG5/index.m3u8
+#EXTINF:-1 tvg-id="stream-646ba358-7860-427f-816c-861b0a8de676" tvg-name="SUN TV HD" group-title="Astro",SUN TV HD
+http://38.134.40.167:9100/l/qfZkfHKEcR7WP7pwh1nL4DiYw_-lsO6IU8TROseNpptyr9ftBy7MywXbky0CaHrU/index.m3u8
+#EXTINF:-1 tvg-id="stream-814e0ee7-293f-4eaf-a16c-9d9d5b2fcc61" tvg-name="ZEE TAMIL HD" group-title="Astro",ZEE TAMIL HD
+http://38.134.40.167:9100/l/gotsW5JJjDKuxMO09F5HwZ4z33IlQhiC3aS0DntSw0jnQ8l1v04Jj-CRiGl7GKcI/index.m3u8
+#EXTINF:-1 tvg-id="stream-68224beb-52d1-48ad-8b34-2abdf5a908b8" tvg-name="STAR VIJAY HD" group-title="Astro",STAR VIJAY HD
+http://38.134.40.167:9100/l/mH1LHjM3HaUmVL5BLTke7RgL1DnRXnuwU8v6Cz9JT9zz5DDrzIEsda_fQI5LAVxF/index.m3u8
+#EXTINF:-1 tvg-id="stream-e8d3dc1a-19df-4a00-ba3e-5664196c2c3f" tvg-name="KTV" group-title="Astro",KTV
+http://38.134.40.167:9100/l/uKfISZ3k7rBuOB4TJ1bHBt0V99WlkCo3LwRhZx4C8psQ328cvOCRcqnwbKsN_-Yn/index.m3u8
+#EXTINF:-1 tvg-id="stream-9631b9dd-dcbf-45f0-a30d-5103bcbbe407" tvg-name="COLORS TAMIL" group-title="Astro",COLORS TAMIL
+http://38.134.40.167:9100/l/HiZI8JmgPpTjaliieVBuzmtSdG7AYNlgeuz1-mXJLHoo4zJaMdw0wIpQCgleQSUy/index.m3u8
+#EXTINF:-1 tvg-id="stream-bae9d98f-28b9-474e-b37a-dc6c89081024" tvg-name="TV ALHIJRAH" group-title="Astro",TV ALHIJRAH
+http://38.134.40.167:9100/l/cRuNSrFMZFE1KjKd4aU0DhD5wO882R0BGJ0UsiZmJpyo-WeFL6hQ3s--Uq8iYWPb/index.m3u8
+#EXTINF:-1 tvg-id="stream-f2becb7c-a895-49b5-b946-d32694644ff8" tvg-name="Zee Cinema" group-title="Astro",Zee Cinema
+http://38.134.40.167:9100/l/Rya77Y47KI4u7aLjMVfhcpUEjL2IEPomX1DZb1A2Zt3WCxyVWY0IxsTbyN3_lnxt/index.m3u8
+#EXTINF:-1 tvg-id="stream-d0e5fdfa-8ba0-41d1-8fbf-d157fc5e15f8" tvg-name="AL JAZEERA HD" group-title="Astro",AL JAZEERA HD
+http://38.134.40.167:9100/l/fIgUojl3LJyBw5NiuQuqw8qTrYCsrmMM7VMUSxa3oiOlTpbfdq3wGO7o6KHED4tp/index.m3u8
+#EXTINF:-1 tvg-id="stream-70c71e96-4b66-4406-9e17-79a1bbbfd091" tvg-name="HISTORY HD" group-title="Astro",HISTORY HD
+http://38.134.40.167:9100/l/yQgFJJyNQwDYyY5WNP5yt9s9t3hsVlPmWc8jps2ZzuIRCuHC6Hr5zM2yF6tfwLVj/index.m3u8
+#EXTINF:-1 tvg-id="stream-b14e03b4-44f1-4369-b328-2044be9e3085" tvg-name="COLORS HD" group-title="Astro",COLORS HD
+http://38.134.40.167:9100/l/cb5wySpz5FY00TnEWti6wZXD2Nk8EjaT5Wd0ODg-D4YTIXt-6Q3hXuTlDUw9vdc5/index.m3u8
+#EXTINF:-1 tvg-id="stream-c5d0640b-9657-41f1-a9c5-8374bdcfcae1" tvg-name="BBC News HD" group-title="Astro",BBC News HD
+http://38.134.40.167:9100/l/SlYCsk0vvkUheqlWrV3gnuKagr67-QqUduD2h8YhNsMtEZUjq_D6LXe5SXobWwFv/index.m3u8
+#EXTINF:-1 tvg-id="stream-2ff58ea4-caac-4ad7-99c9-9dbf7164afe1" tvg-name="BLOOMBERG  TV HD" group-title="Astro",BLOOMBERG  TV HD
+http://38.134.40.167:9100/l/X17AnKmcIMRzI4xI6HmLOwfbfmgucnzkpOd6aYJGt6Nd0w7mL1OI-FTBsOoK-rWy/index.m3u8
+#EXTINF:-1 tvg-id="stream-5b1e2aa7-348c-4ace-b24a-ace12ce60d7a" tvg-name="TV1" group-title="Astro",TV1
+http://38.134.40.167:9100/l/4PD-u5iocJUt1iOi5aoicqYeFofcPhxn_K1oIJMzhZ8T9ObqXaDP2Gy96-Zep3xx/index.m3u8
+#EXTINF:-1 tvg-id="stream-bde956bf-c731-43a7-b447-b373c851f141" tvg-name="CNN HD" group-title="Astro",CNN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://38.134.40.167:9100/l/W1SsMnHe50jFQze4LEurVXNhR3E18HPY-Gm-8Eg2TP0kp_sOzxhaYtpC-4q86Mua/key
+http://38.134.40.167:9100/l/W1SsMnHe50jFQze4LEurVXNhR3E18HPY-Gm-8Eg2TP0kp_sOzxhaYtpC-4q86Mua/play
+#EXTINF:-1 tvg-id="stream-c5a32900-67c4-42a9-a2cc-5529ba6ca98b" tvg-name="THANGATHIRAI HD" group-title="Astro",THANGATHIRAI HD
+http://38.134.40.167:9100/l/JQkTTlvp5q4z506qKj6TdS0-3j40DgRs8ef2zQ3u3gWaVPrHC-GHFyskV7f_cm2X/index.m3u8
+#EXTINF:-1 tvg-id="stream-a2caef03-c547-4a2d-892b-79c2af0a7a35" tvg-name="CNA HD" group-title="Astro",CNA HD
+http://38.134.40.167:9100/l/oWpAobQUj1xTHGa-BUlDed_hP6m__zD8cvwNElqscaGgwMbBMPDSPBUnXYOimjVG/index.m3u8
+#EXTINF:-1 tvg-id="stream-071f51c8-2a6f-4703-b293-2bea58cefdf0" tvg-name="VAANAVIL HD" group-title="Astro",VAANAVIL HD
+http://38.134.40.167:9100/l/7fDUOEJHLYBIxTwLuWI7jS3k7Rvpc9C_wh_LySNfSGJ-yQQgomHAnks9PDfb3-q7/index.m3u8
+#EXTINF:-1 tvg-id="stream-7cc7174e-6f75-45f5-968b-952db0786a0e" tvg-name="ABC AUSTRALIA" group-title="Astro",ABC AUSTRALIA
+http://38.134.40.167:9100/l/m22ifdTo3vQ2KSSrGGBYB077B0rBZ3eMOfufPFeJKYlmviMhwYVdySVEjjvanKhX/index.m3u8
+#EXTINF:-1 tvg-id="stream-6cbe2633-7fb4-4acc-80d8-eb110e73b461" tvg-name="Rock X Stream" group-title="Astro",Rock X Stream
+http://38.134.40.167:9100/l/5m6VhEdxYBDXRoHpzSwbui0fxclPIigAO-oIFNpzMFbPBD955t4OA6JF4w0_TOF_/index.m3u8
+#EXTINF:-1 tvg-id="stream-69431c7e-7f49-480d-b6a0-ea83328dcc8a" tvg-name="TV2" group-title="Astro",TV2
+http://38.134.40.167:9100/l/E-ieFsmvG2ptdbkQo8Mj8qp1sJGe11w9Rr91n80A_Cwg-XZOH9mM7E5kZBvpbO7Z/index.m3u8
+#EXTINF:-1 tvg-id="stream-9fc53b8d-00bc-443b-8ec6-9431cf9deadb" tvg-name="Rock Action" group-title="Astro",Rock Action
+http://38.134.40.167:9100/l/fXo5kQizKhxjPFcb--I4BiuwLmQrWzhR3hTZjgRpXgpSCNyTXTYcdK4kN57utA8Q/index.m3u8
+#EXTINF:-1 tvg-id="stream-7f39a2d6-0f17-4a6b-913d-1d6c776aba8f" tvg-name="TVS" group-title="Astro",TVS
+http://38.134.40.167:9100/l/FlUx3zL6eaQrlBUGXs11hldrGBSZ6kKfrkHvVu2mkYL4dYTKPX_VAYf0FVElgeio/index.m3u8
+#EXTINF:-1 tvg-id="stream-7aeaf2d2-5c02-4042-951b-796a5caec015" tvg-name="CNBC HD" group-title="Astro",CNBC HD
+http://38.134.40.167:9100/l/Ia4f2FKSyESzFd9mCo2kUMApadG4Z5EeBBt711Yj43XkkiR7VFFgXPgizs0q6jn0/index.m3u8
+#EXTINF:-1 tvg-id="stream-6701c757-316c-41ef-a8ca-f6c04de3ebde" tvg-name="TV OKEY" group-title="Astro",TV OKEY
+http://38.134.40.167:9100/l/axEO8KgoOO_fGD1cksevSXCFDhb_XXdj3eTZXhcxrvX_Tkua3KUS-tA3HPLac05f/index.m3u8
+#EXTINF:-1 tvg-id="stream-36f4f371-ecb7-4869-92de-ea5d96481833" tvg-name="VINMEEN HD" group-title="Astro",VINMEEN HD
+http://38.134.40.167:9100/l/EXRsawqLj-nG_TeqQXZYsylYy14FTQN074TizOPbEU5ChJxxf7enm73xqPzn3cVf/index.m3u8
+#EXTINF:-1 tvg-id="stream-b386cb57-ecb7-4fbe-9e6e-cb0f381d3e48" tvg-name="Sun News" group-title="Astro",Sun News
+http://38.134.40.167:9100/l/nNox9Ujjeb7anAL7wbuRLwGiBeBJVGCLysFnix7j5lTTJ_vDRgGOhBKpzgLg9Yry/index.m3u8
+#EXTINF:-1 tvg-id="stream-6794be6c-f234-4b23-976f-d7e8a01d4edc" tvg-name="CGTN HD" group-title="Astro",CGTN HD
+http://38.134.40.167:9100/l/nlwICQVcvYAheInM97XVHpptkg8Neu4YcJM9JywjjQ59OtKQBvzBgme8Znj887Nq/index.m3u8
+#EXTINF:-1 tvg-id="stream-d9433bf5-311e-494f-bc96-29b36d76c5d5" tvg-name="历史频道" group-title="Astro",历史频道
+http://38.134.40.167:9100/l/5u5YK6zIyxmgPBYbxBCM4T2GQO83QwLYnXE4QaH5s-UE5ORjjN75AWbh8srLZ8jW/index.m3u8
+#EXTINF:-1 tvg-id="stream-a3cd1680-018f-4d09-8f75-57f3b703e95c" tvg-name="Astro Badminton" group-title="Astro",Astro Badminton
+http://38.134.40.167:9100/l/VHUECyBi7_gGhFPnhFFYBPzAur7tt55dzTPu2RZ_vhqwvuhtl0ODg3yAAc6LgRrJ/index.m3u8
+#EXTINF:-1 tvg-id="stream-1ad09a75-4b0e-4dbf-a0ac-99b7e2296d74" tvg-name="拜恩体育3" group-title="Astro",拜恩体育3
+http://38.134.40.167:9100/l/-r2DAZxQ__IqaxaiRlNaYui2x9kv2YLeR37xzo7NBnvCQhq0VNzz_g0ZTYUnw5EM/index.m3u8
+#EXTINF:-1 tvg-id="stream-cdc02fad-2790-489d-a575-f2966b336499" tvg-name="Hami熱播台" group-title="台湾",Hami熱播台
+http://38.134.40.167:9100/l/s_SHNFUsd0jeZpw95g7EBO9k1rqxPrVSvGMUcmUlFN4Z7W03dB90Bkgmp-aL8mI6/index.m3u8
+#EXTINF:-1 tvg-id="stream-00b933fa-ff03-4d4a-adfc-a075b23e2fd8" tvg-name="Hami大聯盟1台" group-title="台湾",Hami大聯盟1台
+http://38.134.40.167:9100/l/qWaB0DiJQnB8GMYlWsTFzYDZrmw3kKJ7o0_R8gRBAkDPttm0IT2BvEGYZQPzlmcZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-043d3257-3832-423e-a746-6616fa458fda" tvg-name="Hami大聯盟2台" group-title="台湾",Hami大聯盟2台
+http://38.134.40.167:9100/l/l08Sqzjzfdej_v5LqAwsJr3hnm3n9Zmao181o9CGSCfewetK5PKCBdvSn8HoKlqr/index.m3u8
+#EXTINF:-1 tvg-id="stream-664fa839-97ff-46cf-ad06-1f2e7527d7fc" tvg-name="Hami體育1台" group-title="台湾",Hami體育1台
+http://38.134.40.167:9100/l/U8uBxpYuPH7IKTomL81jG5Qqvjc_MeOBkBzFXUkb_CZduFDYyFN6y_H9n7kEAkXY/index.m3u8
+#EXTINF:-1 tvg-id="stream-e5764ff9-f4d5-491a-b7d8-83b990b8c8c5" tvg-name="Hami足球1台" group-title="台湾",Hami足球1台
+http://38.134.40.167:9100/l/mu1nz5lmRXLbJNUe8sIxLK6FyKPCNQ2q0Ddx5M4lmkSiWsQtUVkyMS82ybD3FXuM/index.m3u8
+#EXTINF:-1 tvg-id="stream-a86ec8f7-7eb6-4d5a-b97e-7ad43073e511" tvg-name="Hami WBC1台" group-title="台湾",Hami WBC1台
+http://38.134.40.167:9100/l/JRICT8RfquD_-pkLPtGzowqeJSugg7Rn9FJNL4k9v15zKmA8oc57o-lcVykpDPQV/index.m3u8
+#EXTINF:-1 tvg-id="stream-20bce5d0-3328-4527-aa31-9e4bb69044ba" tvg-name="Hami體育2台" group-title="台湾",Hami體育2台
+http://38.134.40.167:9100/l/pgqNgFVwa5R14EiV8g1XPMPzemyL2vqe5OCKZG5USm7Nn6p35-GJzXx0EYh16w7K/index.m3u8
+#EXTINF:-1 tvg-id="stream-4eea6829-229e-459d-95b6-cf9a5f6d5daa" tvg-name="EUROSPORT" group-title="台湾",EUROSPORT
+http://38.134.40.167:9100/l/xnDWuRZpHsf-bRWtWlbkaJEtHBQedoh00XBNuTT5AXBQmsOVFTT5m9-tljIUtxy-/index.m3u8
+#EXTINF:-1 tvg-id="stream-162ef631-8400-4209-a85b-8f91ce443a95" tvg-name="CATCHPLAY電影台" group-title="台湾",CATCHPLAY電影台
+http://38.134.40.167:9100/l/gD5jzhA_G64BNFIkp7qII1GoxE-yEmQDHMDhp9TFPUikNxgClvEc4bllLfQDu0ke/index.m3u8
+#EXTINF:-1 tvg-id="stream-b739066c-b233-4762-b17d-6d696fb9e30c" tvg-name="愛爾達日韓台" group-title="台湾",愛爾達日韓台
+http://38.134.40.167:9100/l/LD-0TuLapdgdVPAtU6eDhZwMmdUcz24Eax8n1OOIEhAV35_i-96UPY5SUYhyXbAS/index.m3u8
+#EXTINF:-1 tvg-id="stream-d10c88dd-0d33-4ac2-b2b6-38aed78d0a53" tvg-name="靖洋戲劇台" group-title="台湾",靖洋戲劇台
+http://38.134.40.167:9100/l/AktiuuuPgYUdSmGsD5a8gaunX2g2i4Sd7AdqfMZslOu63S659fhFuEZmtYQSHIpV/index.m3u8
+#EXTINF:-1 tvg-id="stream-e7673955-552f-4cdc-982d-ba18274506b6" tvg-name="Warner TV" group-title="台湾",Warner TV
+http://38.134.40.167:9100/l/NQ01Tw5iuwvR9Fssx1cKHOb642oMDEIJFeNpH65Cx6hdPUElXqHeU4fhCNP4dksN/index.m3u8
+#EXTINF:-1 tvg-id="stream-2cdaa53a-6bd6-4deb-9c19-fed1104c741d" tvg-name="momo綜合台" group-title="台湾",momo綜合台
+http://38.134.40.167:9100/l/ZTA1BZewBGkHFQOnnqygisGaSNJtoIaFu3bhtOzZ-wQn-naHH7GgVgCRTp0nqShu/index.m3u8
+#EXTINF:-1 tvg-id="stream-d47e9cd1-0441-48d2-977b-61015e7608e8" tvg-name="中視菁采台" group-title="台湾",中視菁采台
+http://38.134.40.167:9100/l/b-y73jZUHONRWj9NfLB3Btq9DFxWPEVPmdXzBbdtsBprWp-0DWf9uQ5JbAdQYAyT/index.m3u8
+#EXTINF:-1 tvg-id="stream-c32af72d-ffa8-4727-81c7-dba638a2bf57" tvg-name="台視綜合台" group-title="台湾",台視綜合台
+http://38.134.40.167:9100/l/WLFX6sn3L6Iik2gkO5QKqkvFDU4wGfcw_wKKmB3WOlBJBoyNOGM7cO7G1-MViNXw/index.m3u8
+#EXTINF:-1 tvg-id="stream-662a8caa-2061-4fdd-85d3-24f74480d412" tvg-name="中視經典台" group-title="台湾",中視經典台
+http://38.134.40.167:9100/l/zJ5oGrHCUkCLT_1sWYg-JTshd_aiUL6Av78jy10Nx5HGJEyYK5mSab4C8yFA3AYT/index.m3u8
+#EXTINF:-1 tvg-id="stream-44c490b7-0941-4b58-9719-9b1410573447" tvg-name="華藝中文台" group-title="台湾",華藝中文台
+http://38.134.40.167:9100/l/lHq4OibiMVLnydsXLNSsxBFphVdV6EsFNeI7a2nEGm9JFnpF75q14yXmDpFgswf_/index.m3u8
+#EXTINF:-1 tvg-id="stream-06ad8d0e-375a-4f9d-ba4f-bdf274b81f93" tvg-name="人間衛視" group-title="台湾",人間衛視
+http://38.134.40.167:9100/l/SOUM4ts_w4vP4XBCcMKL2OnWZaw93Apfk8VmsKXRtoPGRC-k5By9kixed_Dd0xDQ/index.m3u8
+#EXTINF:-1 tvg-id="stream-bec80125-825f-417c-a5e1-150b914d2668" tvg-name="三立新聞台" group-title="台湾",三立新聞台
+http://38.134.40.167:9100/l/2W2BY2N9OFesZ5ugqRHUWvZ5rifTWOOaPRES06038mOvJJO8_Q1lTWGS6RsHsjt3/index.m3u8
+#EXTINF:-1 tvg-id="stream-cb63b006-aa44-4038-abc4-bd5d2bcd06aa" tvg-name="非凡新聞台" group-title="台湾",非凡新聞台
+http://38.134.40.167:9100/l/dokraJB_NMi-5lmgJXilE4_F0Envtc6cuvmlF6yq7Yj0aXFaJp-1Sx8u9mzvheGx/index.m3u8
+#EXTINF:-1 tvg-id="stream-544e7f8b-a3a6-40fa-9c9f-fe8db6b1acb0" tvg-name="非凡商業台" group-title="台湾",非凡商業台
+http://38.134.40.167:9100/l/4Mx-HkIB9CMp9TgGi-gT3BDHymMnnCH6uEuK9bZvU01vfUFX12Ke4DL7JJkKwZTa/index.m3u8
+#EXTINF:-1 tvg-id="stream-3f243f49-6824-4135-aa1d-bc26be0998f1" tvg-name="台視新聞台" group-title="台湾",台視新聞台
+http://38.134.40.167:9100/l/zfXbOKH0Wltbx21h1Gn0d_sEY6fUp4woHJ2tT9i3MvLsmm9E7O3S3QldQM9ezsd_/index.m3u8
+#EXTINF:-1 tvg-id="stream-dc4cdfbd-213b-4b22-b020-0e8934f44e02" tvg-name="CNN頭條新聞台(HLN)" group-title="台湾",CNN頭條新聞台(HLN)
+http://38.134.40.167:9100/l/DfLbfHmqLwaL3qjrUyquj8cSYMm9Ace6n4A-3XvU7h7g5FiPp91Kmtrbkkc-edR5/index.m3u8
+#EXTINF:-1 tvg-id="stream-9e9ca7d9-b1fc-4eb2-ae79-a3db2bc7da6d" tvg-name="HGTV居家樂活頻道" group-title="台湾",HGTV居家樂活頻道
+http://38.134.40.167:9100/l/-xqihfVfZMNtox5IFI67gkyqMMCltuO3lIU93smA5KJCd4CPTD-fjJfBr_W0L4E2/index.m3u8
+#EXTINF:-1 tvg-id="stream-ee0b8145-c099-40fc-b0fd-1342cbf06101" tvg-name="Asian Food Network亞洲美食頻道" group-title="台湾",Asian Food Network亞洲美食頻道
+http://38.134.40.167:9100/l/3JYGiOPxOhXtt7DbmBr7mKKUubRdgd19GUP25VBKQhdWBG76oT9oINW6_7wzDkUm/index.m3u8
+#EXTINF:-1 tvg-id="stream-675ff34b-d2ff-4e85-bebc-da8c25486681" tvg-name="Discovery科學台(Science)" group-title="台湾",Discovery科學台(Science)
+http://38.134.40.167:9100/l/2X2_cuYYll1ipJS9NkQD3HEQjHVvjHPhRZSnSp1pJ-9bPDD38erSrB_VS9FMyV6e/index.m3u8
+#EXTINF:-1 tvg-id="stream-9dd0b8e0-398c-4b4e-bf49-6b6d1b641c68" tvg-name="空中英語教室" group-title="台湾",空中英語教室
+http://38.134.40.167:9100/l/fd9jtijQnwfQ3KviyrBifS-gVkqXkaWBQLHl69QDdCazmBrYmXlSl6svnMXdNHZe/index.m3u8
+#EXTINF:-1 tvg-id="stream-b3015329-036a-4c0a-b457-c114cbc003c6" tvg-name="Discovery Asia" group-title="台湾",Discovery Asia
+http://38.134.40.167:9100/l/AH6oAy9py7sTKSPMz3NFKd3cSuQEI_7QFw_53_wnqSTvVMHE5Erghz2u6OPvonyv/index.m3u8
+#EXTINF:-1 tvg-id="stream-18134da4-bb31-4f33-883f-e1d6338a94d4" tvg-name="Discovery EVE" group-title="台湾",Discovery EVE
+http://38.134.40.167:9100/l/wb_gc8LeDfOovz8v-pdXimCrX7WVYx1c9yVhQJCDZ4JpZ20FYq1PWsgO54tqedaN/index.m3u8
+#EXTINF:-1 tvg-id="stream-593ac612-5939-4943-be5e-48b83fbdda09" tvg-name="Travel Channel" group-title="台湾",Travel Channel
+http://38.134.40.167:9100/l/MiBLcNlWny1HWv_jl3D4sZSHl9ivXdC_Lq9oOKNR63ZijcvBxvRQOBDbsNdB-E9y/index.m3u8
+#EXTINF:-1 tvg-id="stream-0aa29c35-a48b-4d78-a695-11ab8c74597e" tvg-name="Discovery DMAX" group-title="台湾",Discovery DMAX
+http://38.134.40.167:9100/l/fyNVg4GtR7EXZ7fO4xpE_6NyY0Hyb2mG8yk1r9U7TjNMlw4XwywgM7BcYtaEu_dR/index.m3u8
+#EXTINF:-1 tvg-id="stream-0eb1bc8c-dddf-4df0-950c-ff7b30b017a2" tvg-name="麥卡貝綜藝" group-title="台湾",麥卡貝綜藝
+http://38.134.40.167:9100/l/t8J11Yicas88XB5PYL2RVTsoAyVQeiPX7seOim-QBK8HROvHvO42NmTOrxRyQM-A/index.m3u8
+#EXTINF:-1 tvg-id="stream-0cf368a7-cb2d-4d6d-a522-ce9d1217f263" tvg-name="CN卡通頻道" group-title="台湾",CN卡通頻道
+http://38.134.40.167:9100/l/Drv4aDY0VhMqGOoyzO9q_3ZQ6ACdzcmbFFYNwxf3hgy1E3VvUgN1C7nefh_iuWUQ/index.m3u8
+#EXTINF:-1 tvg-id="stream-de39c492-f0a0-4753-abb2-cbccdc234e1b" tvg-name="CARTOONITO" group-title="台湾",CARTOONITO
+http://38.134.40.167:9100/l/kptLAq4yo05Mq1wANR3SRstK8DG_A9qolgpIykG_HnpexUlQTW3poD0gzz8J1XXq/index.m3u8
+#EXTINF:-1 tvg-id="stream-a72bbf10-65ea-4b61-82e9-0de62967aba2" tvg-name="靖天中文台" group-title="台湾",靖天中文台
+http://38.134.40.167:9100/l/ENAW00GUE5JBTnAddfXhPoPA_RMwftL542YGSb3WEDj00_kpcrYbl8NzESOpot-Y/index.m3u8
+#EXTINF:-1 tvg-id="stream-0b33cc2d-2873-4603-a310-04697c68a8ae" tvg-name="愛爾達體育 1 台" group-title="台湾",愛爾達體育 1 台
+http://38.134.40.167:9100/l/QXBvoZNU5LAMFZW6B95xOD7D9sThmjTCatR4veBFWSxgWwVbg2cTSiaOEDFGdd_a/index.m3u8
+#EXTINF:-1 tvg-id="stream-ba84df14-f3ea-4c92-9119-e891eb862fae" tvg-name="愛爾達體育 2 台" group-title="台湾",愛爾達體育 2 台
+http://38.134.40.167:9100/l/XCBBYK40KSNQCAzHi6sTYcaoSgG54yz_ehlnu-Wj2ObrpxE5_MoJm9cgXh3uYGoi/index.m3u8
+#EXTINF:-1 tvg-id="stream-6e40e657-ef27-4356-847e-ae5600003e26" tvg-name="愛爾達體育 4 台" group-title="台湾",愛爾達體育 4 台
+http://38.134.40.167:9100/l/85_-H06nYKfTKw69CxRxJRyM8Iv4MdtwY9zzgNVZ0jKxYht6ZJLxa9zztUs_nyTr/index.m3u8
+#EXTINF:-1 tvg-id="stream-3f0ed692-6428-4c0d-834a-a87a2a3d269a" tvg-name="愛爾達體育MAX1台" group-title="台湾",愛爾達體育MAX1台
+http://38.134.40.167:9100/l/3w_hypx5jlYTr4SWvhcXkj_m-XfA3iXDP7s3wIrhJ7pu3nRwktHMibY-E3vEP3Wr/index.m3u8
+#EXTINF:-1 tvg-id="stream-19103af3-a794-4e1f-aa14-66d781650ff8" tvg-name="愛爾達體育MAX2台" group-title="台湾",愛爾達體育MAX2台
+http://38.134.40.167:9100/l/kvboeSOBaUCCPVw4NGQgw87b2SI-fk_atkEWYMPMw31EbUyrjuZkYDD11EeDGfZe/index.m3u8
+#EXTINF:-1 tvg-id="stream-c57d2de7-147e-4fd2-a651-e0b646322e45" tvg-name="愛爾達體育MAX3台" group-title="台湾",愛爾達體育MAX3台
+http://38.134.40.167:9100/l/6mthwLNKPxDo3RaG6BITkrLRKJL7venov5Q08RHfx_zlNAG5mCg2YBodvc-jQBml/index.m3u8
+#EXTINF:-1 tvg-id="stream-787f9021-e75a-4ed4-8c84-d4b01ac49f5e" tvg-name="愛爾達體育MAX4台" group-title="台湾",愛爾達體育MAX4台
+http://38.134.40.167:9100/l/hPLDJIu6Pc9Zf32XIQOc0206a1ZhkFljOEmYBEO3hMSJx9eRp5Gp-NH71t2IR0ZF/index.m3u8
+#EXTINF:-1 tvg-id="stream-90b27c38-1b44-4686-9111-6e44b8e3b000" tvg-name="愛爾達體育 3 台" group-title="台湾",愛爾達體育 3 台
+http://38.134.40.167:9100/l/RK2pb1AewFP5Grl4Qt_d4K9a8J6m-AmkWWX_rgtSvQ0nGwizbzwh7pUssKOMTLFs/index.m3u8
+#EXTINF:-1 tvg-id="stream-c3088d73-5780-49a2-93fa-56247565d932" tvg-name="民視台灣台" group-title="台湾",民視台灣台
+http://38.134.40.167:9100/l/LYd4kAB58Z1PYst7XPz7lSl8P-UUrCRukT7NQ2Cdaky6gD2EMYlgneGdhK9ik2oA/index.m3u8
+#EXTINF:-1 tvg-id="stream-f1261521-aaf0-4a38-a7ea-0217ed88e34c" tvg-name="民視" group-title="台湾",民視
+http://38.134.40.167:9100/l/wDbCHXQwMrbQvD6ipUvzB8nNLe1ndk_JzGyCLwVXvc-p77dd6lqKPudmatLY4pSq/index.m3u8
+#EXTINF:-1 tvg-id="stream-3f5142ac-cdf5-437f-a09c-094da4a8cfc6" tvg-name="民視第一台" group-title="台湾",民視第一台
+http://38.134.40.167:9100/l/Wqwp3ZWOyym6Hyl9NxOs2liJYkUIqPlZhl5A58ejT1SbdVSfCbH8yxLhWamdUo7M/index.m3u8
+#EXTINF:-1 tvg-id="stream-e3f66d81-2d31-402f-83c7-233aee37f242" tvg-name="民視綜藝台" group-title="台湾",民視綜藝台
+http://38.134.40.167:9100/l/gP494cBOkKE_GXH84OL88UiTmBHIWh9BRC5Zil6OLb-uwuFLzGM_xqxR4g9jhhvM/index.m3u8
+#EXTINF:-1 tvg-id="stream-a6ae71af-94c7-4f68-ac31-20751f5aa943" tvg-name="豬哥亮歌廳秀" group-title="台湾",豬哥亮歌廳秀
+http://38.134.40.167:9100/l/66TGs3OTtQKIGZ4NryWEGNoMl7Vp4a76sypKKlPEddoxASGKZV06cV0wPsx9tRVK/index.m3u8
+#EXTINF:-1 tvg-id="stream-4c5933d6-19c7-4de6-8319-089c958a607c" tvg-name="中天新聞台" group-title="台湾",中天新聞台
+http://38.134.40.167:9100/l/jfqwKRNUZe2eMu547Sgmc4PBkzIJIuQBvCtV9kyNtS0ODdyVjg_ObbuxE5qe2nak/index.m3u8
+#EXTINF:-1 tvg-id="stream-3de8fd01-fe9d-44b2-a651-333bc614bdb0" tvg-name="影迷數位電影台" group-title="台湾",影迷數位電影台
+http://38.134.40.167:9100/l/OpyWIsVTTHNQbzeQd2C0nkeTqi6M6AjIKGUSYzOx9IVji7uJbbLyxRuaR63z7CgJ/index.m3u8
+#EXTINF:-1 tvg-id="stream-27002733-f62e-4b06-a745-8d0e9131f2ee" tvg-name="視納華仁紀實頻道" group-title="台湾",視納華仁紀實頻道
+http://38.134.40.167:9100/l/5TScNWvo1yrXFzcvtQJSVPZTfraddl6qDKXnmewKNk6VL4Ojm-0o0z1zRT2BpoIC/index.m3u8
+#EXTINF:-1 tvg-id="stream-98b838a5-eeca-4361-989b-86093ef5b55f" tvg-name="時尚運動X" group-title="台湾",時尚運動X
+http://38.134.40.167:9100/l/9wyO0uJ64Bzijd6ZmMHaxDTrIRomRWxeenU5Q4vraTwCkbrVKvgi8_cPIXaWGv41/index.m3u8
+#EXTINF:-1 tvg-id="stream-cf41d3f5-c6ea-4913-a1c4-6a45587f7cfa" tvg-name="韓國娛樂台 KMTV" group-title="台湾",韓國娛樂台 KMTV
+http://38.134.40.167:9100/l/fiaHIbBM3TKMo3GtMeXy6OFTFZUHIt00YUofgz5ZTGM_goD-9IlHWHd1MHvJBaQg/index.m3u8
+#EXTINF:-1 tvg-id="stream-24cb59d1-b973-4394-b27e-38c4ca684947" tvg-name="amc電影台" group-title="台湾",amc電影台
+http://38.134.40.167:9100/l/-JrW4pxYPB5vGou7Zxwmbt0a-Z8f_jPVVcQw_UJpP6vK0TQZ1HZb0f8x8S9uNpHf/index.m3u8
+#EXTINF:-1 tvg-id="stream-618672a5-6ac4-4f07-a925-c9a663b5ce8d" tvg-name="達文西頻道" group-title="台湾",達文西頻道
+http://38.134.40.167:9100/l/_FTpFxYdx_d6oumLs02LHpomq25cPgKmYqHWvAvPYJb4O66HqD6XOfYQQBH_FKVc/index.m3u8
+#EXTINF:-1 tvg-id="stream-e4bee8c4-be47-4562-bf16-3a5eac05af2f" tvg-name="八大精彩台" group-title="台湾",八大精彩台
+http://38.134.40.167:9100/l/BFM9Bi8rrUnAP0b5Tp10c0tMAzYVFgiJ9Zgm7te1AH9Ai_9CxmKXrpEffV3L4EQQ/index.m3u8
+#EXTINF:-1 tvg-id="stream-e2219a05-bbc6-4294-95bd-60b3f371bbbd" tvg-name="getwin sport運動台" group-title="台湾",getwin sport運動台
+http://38.134.40.167:9100/l/cBgAiskqyfg0Ix_r0FN6sN5nhuyKmhylJVqn3fW1Un5MF4yH077EsK8Lt6X1AgoI/index.m3u8
+#EXTINF:-1 tvg-id="stream-574cccce-4ca1-4c52-8d2f-14a486a5bce5" tvg-name="香蕉直擊台" group-title="台湾",香蕉直擊台
+http://38.134.40.167:9100/l/U6s-gqIqjJr4BUIFEmRDdeYUS530-rMu_RHRgNVJBozLGm13Pqe4j38mgJl2R_XA/index.m3u8
+#EXTINF:-1 tvg-id="stream-dbde9503-ecdf-4fee-97b2-fe708abcd8ac" tvg-name="八大綜藝台" group-title="台湾",八大綜藝台
+http://38.134.40.167:9100/l/IZzZ2Nbzqx6EtVzAB3BZI4qI40VXPju4i1Q-PkTFpiyuZP_OIADYxC1fsOW6M1K6/index.m3u8
+#EXTINF:-1 tvg-id="stream-2d8e5ece-7181-48b4-aac9-7378ff114eb9" tvg-name="中視" group-title="台湾",中視
+http://38.134.40.167:9100/l/AQTxdDJBzqrWf4syTtLuaEEtywMgHKXENKISHpXgasBYsA81lnnFDceuYcLex1xs/index.m3u8
+#EXTINF:-1 tvg-id="stream-b3004599-8c7b-43e4-a967-8891acacc422" tvg-name="華視" group-title="台湾",華視
+http://38.134.40.167:9100/l/anV-A_joEReoLmLZtfsF0YliCCootTzESiRs5GtE-LLMDa0QX4bwE02XU68jOv5G/index.m3u8
+#EXTINF:-1 tvg-id="stream-4703b6b5-9771-4ef8-bfd9-25bff2efc393" tvg-name="公視戲劇" group-title="台湾",公視戲劇
+http://38.134.40.167:9100/l/ZsXgV2rJyUsfTsJMpyWGmBzumCznYohQh-8-cg3euMyD2Q2kfqQUCQFeVKJCPAFM/index.m3u8
+#EXTINF:-1 tvg-id="stream-af68b852-ea56-45b9-90cb-235304c654d5" tvg-name="客家電視台" group-title="台湾",客家電視台
+http://38.134.40.167:9100/l/KiUylKgWkVQ3n8xtXASWBQa--YTND8UFdbClPvHjBOiilT2z-XL5apA4pzHr_HIn/index.m3u8
+#EXTINF:-1 tvg-id="stream-40d848eb-275d-41a1-abff-fd965d80b45b" tvg-name="靖天卡通台" group-title="台湾",靖天卡通台
+http://38.134.40.167:9100/l/cy2u8mzWTpQV6DmNuPiI9cFllRP535pmOm0Dt6WUoxBmM0gq3Pwvxqu27HQLO4XQ/index.m3u8
+#EXTINF:-1 tvg-id="stream-410f02db-b6df-448b-a163-ec9caa0c4015" tvg-name="靖洋戲劇台" group-title="台湾",靖洋戲劇台
+http://38.134.40.167:9100/l/GoujHbRKrXUNA0GGOHy0BxZadmTZNvSleXynsl_92gU8hw1Sb-KLG0659TW-EU0A/index.m3u8
+#EXTINF:-1 tvg-id="stream-4bc3d959-f596-4783-beda-e21addd3f041" tvg-name="靖天綜合台" group-title="台湾",靖天綜合台
+http://38.134.40.167:9100/l/uTcclUumqM0n6u12uyG2e_uAWW0SSrAAucS77dzs3A_VGf7IQjULnDrkJdSoJTqb/index.m3u8
+#EXTINF:-1 tvg-id="stream-b4c69f9c-2ab4-401a-8bbe-47300bb00ba6" tvg-name="靖天日本台" group-title="台湾",靖天日本台
+http://38.134.40.167:9100/l/8Yvv0xDzyVq0ZsbX29DhZFOi24CUcN6tIW9q4RMo3KvKJJ7nH3C2iGcNbgivfa3z/index.m3u8
+#EXTINF:-1 tvg-id="stream-66f08e98-a866-4692-8c97-5e5f310e95c0" tvg-name="采昌影劇台" group-title="台湾",采昌影劇台
+http://38.134.40.167:9100/l/vZ9l0ahVYP_s5Q2DJ-rMLQ0bVZ1M8LDMxx3UAQgRWsCAFNet5X1xHp6k5LQ5nIEd/index.m3u8
+#EXTINF:-1 tvg-id="stream-814b575c-ab0b-4fc3-aadf-7faaabee4f17" tvg-name="華視新聞" group-title="台湾",華視新聞
+http://38.134.40.167:9100/l/Nb7QR3O5baSyEl1GfqfyOQSWlo-9G4Hithq7ikBLkfx3py0xpFozhtZwOSUkAV2N/index.m3u8
+#EXTINF:-1 tvg-id="stream-f7412c13-e425-410b-b290-871a6e25131d" tvg-name="GINX Esports TV" group-title="台湾",GINX Esports TV
+http://38.134.40.167:9100/l/sR17PVaKAmlzO0MJtEifbtoYVBj0stkLtcBrslchIC3DZBGSNCM3d1IFl1yartsV/index.m3u8
+#EXTINF:-1 tvg-id="stream-f1723ef4-aebe-4014-8163-e9f72e1e9fbe" tvg-name="NICETV靖天歡樂台" group-title="台湾",NICETV靖天歡樂台
+http://38.134.40.167:9100/l/wcS54zwoidsUG1NveWwYhW3Dl47V2lCG-rkFr1uJFi8AX1xM0FJa0FZJ_yAiW78N/index.m3u8
+#EXTINF:-1 tvg-id="stream-09fdb442-9c4f-42fd-ad37-d5f33fcfc275" tvg-name="靖天映畫" group-title="台湾",靖天映畫
+http://38.134.40.167:9100/l/NG5btLteDLTZ2S0Z46kyJYmCy8H9qzPvKpS3K60CDKwbnsqf0clvEoShUnMOxMFS/index.m3u8
+#EXTINF:-1 tvg-id="stream-3646d327-0329-477b-9f6d-75ac4a5a6ee5" tvg-name="台視財經" group-title="台湾",台視財經
+http://38.134.40.167:9100/l/haOcqkaz10Ifw4MgKg9jWrHNFyZvjVcGYSBbthik4O_fQC7aBfu5iZQkf0qZQki0/index.m3u8
+#EXTINF:-1 tvg-id="stream-08387eca-2ab2-4994-be11-8f4b3b9258a0" tvg-name="靖洋卡通台Nice Bingo" group-title="台湾",靖洋卡通台Nice Bingo
+http://38.134.40.167:9100/l/v5BdtMM-Q_956o9NNJaF2XUfCwG2CieO8JbnACHLK6gcEkK_rsiD11s5SimbfBMV/index.m3u8
+#EXTINF:-1 tvg-id="stream-b047a263-8113-4d03-9c8b-272572f8c5b7" tvg-name="靖天戲劇台" group-title="台湾",靖天戲劇台
+http://38.134.40.167:9100/l/JE8l12VzFVpD3Oqltx3jBDpglygDzuEARQmx35EOdUnzG0_ePKMvEBAhVBQRAEQU/index.m3u8
+#EXTINF:-1 tvg-id="stream-4bcc28c2-da76-4cda-bd4d-07cd5af65047" tvg-name="CLASSICA 古典樂" group-title="台湾",CLASSICA 古典樂
+http://38.134.40.167:9100/l/Lfr6dzR3i56hc-oSK5QYNdCXiJAzZUCN1wGSYpvdR7W_-llWQJU8BdKATyFixzMN/index.m3u8
+#EXTINF:-1 tvg-id="stream-1a78deee-4c41-434d-ae22-c5d4149c9dc9" tvg-name="靖天電影台" group-title="台湾",靖天電影台
+http://38.134.40.167:9100/l/JbP_E5HbUQbrQaxpElJsetYfkTjvCEC1KYUaRWinrw7zeVhMDEfW8O_Vlt3gS2w5/index.m3u8
+#EXTINF:-1 tvg-id="stream-d718e7cb-8149-4012-a823-e6759e262359" tvg-name="靖天育樂台" group-title="台湾",靖天育樂台
+http://38.134.40.167:9100/l/SfWlxdHc3QFuyLzDqt3aBO3iWppYnQBA5bolLxURc-KjlkqMa5iy58Q1mCnb5DUY/index.m3u8
+#EXTINF:-1 tvg-id="stream-658f74c4-b66f-4b32-9478-88536026cb5c" tvg-name="KLT-靖天國際台" group-title="台湾",KLT-靖天國際台
+http://38.134.40.167:9100/l/aBCqkvNhsnlMoGjXOYn3ZqJDE_5zrU6PwBA4M7vTcy3LDJUwdQ7NjTq3AhZM_ev_/index.m3u8
+#EXTINF:-1 tvg-id="stream-5885f84e-6dbc-4567-815a-54ee94d537ac" tvg-name="幸福空間居家台" group-title="台湾",幸福空間居家台
+http://38.134.40.167:9100/l/FEYQ_EQH9hQSzv0olKOFUacQ7_JkzTMf4buj361nAo5Kwl-3koSfcSgRW2-zs9L_/index.m3u8
+#EXTINF:-1 tvg-id="stream-c4253d1c-f65f-4e5d-bdd3-fa931d5f31d9" tvg-name="靖天資訊台" group-title="台湾",靖天資訊台
+http://38.134.40.167:9100/l/bUfSXgNu0MEDh46InSWls4A3UZm0F84DCTcyI_8Zimh0_WVrs3EiUA4Hekx_kHny/index.m3u8
+#EXTINF:-1 tvg-id="stream-3a8dda86-5376-4591-aaa4-8d332f79cb19" tvg-name="台視" group-title="台湾",台視
+http://38.134.40.167:9100/l/91-HC2FkbH_VNcQZRBVjotnvFmrBUiR7-4_EL_TgLPpA0gH9-lk6jfar5mc2P6QT/index.m3u8
+#EXTINF:-1 tvg-id="stream-392eb5a4-8e06-419b-b96a-3a0fb648c215" tvg-name="TVBS精采台" group-title="台湾",TVBS精采台
+http://38.134.40.167:9100/l/Zp9dVwKIc924FUbOlnz1JLjBPNvffqTI2261YwigKTVd1qCEoNgZt1qV81UGBKhX/index.m3u8
+#EXTINF:-1 tvg-id="stream-4488c019-2cd5-47da-bdd9-2f0ef33971c6" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
+http://38.134.40.167:9100/l/tKobm9139nPm8HDGrwqsbjD63NmhBMKMoJASHdcfejiXs4VatvHKzknBOBOyc8Ir/index.m3u8
+#EXTINF:-1 tvg-id="stream-a12c59a1-9e4b-4bb4-9526-afbd8e5672ce" tvg-name="INULTRA" group-title="台湾",INULTRA
+http://38.134.40.167:9100/l/wx7i1lj4yr1oqnz0T0uHiYKTdZ-Tq7si3CMM-0nd1MvCmn_LQdMQ2WJTazv_kjl3/index.m3u8
+#EXTINF:-1 tvg-id="stream-ac6c854a-b3c3-4e9a-b705-18bba1f9efd3" tvg-name="TVBS新聞" group-title="台湾",TVBS新聞
+http://38.134.40.167:9100/l/j1RlxT0iq0jZfeXzWR9gTH5WnBJMQk9yOPfngau9vk6AoPDcBi2kjCmOlFUamsZ7/index.m3u8
+#EXTINF:-1 tvg-id="stream-efa8a7e0-f4b8-4bdc-a685-db592fc790f8" tvg-name="TVBS" group-title="台湾",TVBS
+http://38.134.40.167:9100/l/mNyBoG-PIGw4K8rA0Xo-45kC7OoBqwztY3jJ-U6MkL3wigqBGe061gKsmHxIGwBG/index.m3u8
+#EXTINF:-1 tvg-id="stream-da649b5b-4d15-4dc1-9dc6-c064737bc60e" tvg-name="中視新聞" group-title="台湾",中視新聞
+http://38.134.40.167:9100/l/hujbqPZ8D1mZ7VvCTEb6vxBPKVrBQDgvqZJTcBZCgN7aJ69J6iHDUm55oLkPgMmG/index.m3u8
+#EXTINF:-1 tvg-id="stream-8810dd90-2b17-4c71-a5c3-92050248a589" tvg-name="鏡電視新聞台" group-title="台湾",鏡電視新聞台
+http://38.134.40.167:9100/l/xe7910i4P7Wmr3ojRpjaf7xdky5vX9wtKJXVWaXVfX-rKLt6YegCzUwaLBvYKcIu/index.m3u8
+#EXTINF:-1 tvg-id="stream-5a52e049-af7f-4b75-a484-53dc626f7165" tvg-name="亞洲旅遊台" group-title="台湾",亞洲旅遊台
+http://38.134.40.167:9100/l/3EBaoO5sLtQnP1yWA3jwhrQeACGCXBOBWSpxypQj2k-gFg3jWKHMJcULmQ8lj0fD/index.m3u8
+#EXTINF:-1 tvg-id="stream-5d300f47-b359-4987-a371-7468e7d724cf" tvg-name="TRACE Sport Stars" group-title="台湾",TRACE Sport Stars
+http://38.134.40.167:9100/l/2pcZ4QoAGn2wJArft2znMayg559Z36imbGnZbE337FFbe35f59crHA9s40tYC5Om/index.m3u8
+#EXTINF:-1 tvg-id="stream-030a6a90-5757-4ee8-90e6-2c40edf67e19" tvg-name="ARIRANG阿里郎頻道" group-title="台湾",ARIRANG阿里郎頻道
+http://38.134.40.167:9100/l/z5j7Eb-huxELR32fGU-fD4W8ABduRZPR7UKLmB-FvQ7m6AWjAVEEs0Xb_B0ZDh4Y/index.m3u8
+#EXTINF:-1 tvg-id="stream-7907ab20-9d4e-414f-bafc-8525f5df7540" tvg-name="原住民族電視台" group-title="台湾",原住民族電視台
+http://38.134.40.167:9100/l/Tdl1kh5l0FW2IpL6B9UeoYrWjc0byggr-gDZG-eH18T1KsoqpT4JK1UWYYztaJWw/index.m3u8
+#EXTINF:-1 tvg-id="stream-07c26b6d-2d86-44ab-bb5f-b7a9ff2044ca" tvg-name="TRACE Urban" group-title="台湾",TRACE Urban
+http://38.134.40.167:9100/l/Z_-OOWGp3wUe67JLpf0Wdk-Y9N8t4Y7NqoRjuSnoTkZ2_cA2zc8BKqMYRfgoS0tz/index.m3u8
+#EXTINF:-1 tvg-id="stream-498dbec0-bc55-4180-80cd-6956bd009c0d" tvg-name="Mezzo Live HD" group-title="台湾",Mezzo Live HD
+http://38.134.40.167:9100/l/KV7Mljh0cy6H76lNWbOKF7Vt867_Yd-mPisp4hXfBoefjndsWY30Y5CgrCclTGhN/index.m3u8
+#EXTINF:-1 tvg-id="stream-8ec3f3ab-5621-48fe-bc1d-e46b44b6fef4" tvg-name="國會頻道1台" group-title="台湾",國會頻道1台
+http://38.134.40.167:9100/l/0ZcXEipgnkz0nN1AVUqLt1mwp4_4lXuHxP2b2nmgR8J9OvIbpXH_TkseI8Phpizb/index.m3u8
+#EXTINF:-1 tvg-id="stream-5c04cb4a-b6e7-4439-b092-946a272a7eaa" tvg-name="國會頻道2台" group-title="台湾",國會頻道2台
+http://38.134.40.167:9100/l/rbm70nUwwBjVgtAaEOvUA_1jORjuz7ivlygdrohlfmr8ndRTuqhw-wff_e95xpp4/index.m3u8
+#EXTINF:-1 tvg-id="stream-c915483d-7a52-4f96-943a-b3a737f27713" tvg-name="智林體育台" group-title="台湾",智林體育台
+http://38.134.40.167:9100/l/ScBllSiGR-0uKIV0JHia_2NO3OzXkrbgbZlFONpAfsI5O0psMc9rImK4IefCauv2/index.m3u8
+#EXTINF:-1 tvg-id="stream-0d4c389e-ca89-4c60-8902-5f65142dd9bc" tvg-name="第1商業" group-title="台湾",第1商業
+http://38.134.40.167:9100/l/xMAvEQTPocHrFTVPOmyLUgQNfCN3ps27hVfwdvq0MisY7V_fJ1frzR2gTAYceyc9/index.m3u8
+#EXTINF:-1 tvg-id="stream-ffa33832-7dc2-4a4a-8153-df4207735372" tvg-name="中天亞洲台" group-title="台湾",中天亞洲台
+http://38.134.40.167:9100/l/8qKc6pohseSIGpco-slyYwY3i6oN2k2aZx0OH_k_Mymw25ngYi_t6dBiR_OAbfXG/index.m3u8
+#EXTINF:-1 tvg-id="stream-c1258dc8-f69e-4fe3-800d-7d95ad98b631" tvg-name="Pet Club TV" group-title="台湾",Pet Club TV
+http://38.134.40.167:9100/l/zz9LbL4sWphE_rtQ7BHL57wbksuCCeQBfSEcnkI0UCyhK0cWBwC4S05S6hcuxWqV/index.m3u8
+#EXTINF:-1 tvg-id="stream-a1a00e7c-c5e3-4957-b39b-af59d0ee07ad" tvg-name="東森新聞台" group-title="台湾",東森新聞台
+http://38.134.40.167:9100/l/ywagXsdxck_HFpgwyo9IRZaVIVblIhk43UufpQaCZYenVbcnZx9Om48I6-ouXUkv/index.m3u8
+#EXTINF:-1 tvg-id="stream-7ea7a1c1-52db-4590-a1b3-a0646e0a8fa4" tvg-name="東森財經新聞台" group-title="台湾",東森財經新聞台
+http://38.134.40.167:9100/l/dZ3Vg-ceyIzmLwwdNvLyMbvO4fTlZuXhCOAFel00pv9UbsvhHX-y9ek8-XX2soYP/index.m3u8
+#EXTINF:-1 tvg-id="stream-8cfc2e33-94f1-463d-b218-2f9f57384718" tvg-name="寰宇新聞台灣台" group-title="台湾",寰宇新聞台灣台
+http://38.134.40.167:9100/l/zikZd_BMkb-KOZabpmtqwv6DoFEWHWP-GLu7P9K6qmNZUWKLtE9h1M8KILBlxZgB/index.m3u8
+#EXTINF:-1 tvg-id="stream-e0f9cb15-acfa-402e-91bf-a81a6471ad5f" tvg-name="寰宇財經台" group-title="台湾",寰宇財經台
+http://38.134.40.167:9100/l/ABrCmO6MesYTd45oKeq5mhGseeOrtsEYXzZIqeR76JWLxQVQ07MKQD_cvu3fD9sv/index.m3u8
+#EXTINF:-1 tvg-id="stream-8e92169e-49fc-455b-a794-5bcce70f5a2b" tvg-name="愛爾達體育MAX9台" group-title="台湾",愛爾達體育MAX9台
+http://38.134.40.167:9100/l/jfjFtwa1rZIRcQwMDdxha7mwXI34aZyWezMd08uLIW3nfr1KIo51Xk3F6DsfrhRk/index.m3u8
+#EXTINF:-1 tvg-id="stream-4bc2ba6a-9eeb-491a-a4ed-7f46b1b6891e" tvg-name="愛爾達體育MAX10台" group-title="台湾",愛爾達體育MAX10台
+http://38.134.40.167:9100/l/yVPQfQ42FAUTY9fcJ2jJCAcKSNT6B_lG055R8c-u3DwoZg2On3rWsxSo5m0y-QdP/index.m3u8
+#EXTINF:-1 tvg-id="stream-699f879d-f89e-4c00-a46f-f8e9c82f098f" tvg-name="愛爾達體育MAX5台" group-title="台湾",愛爾達體育MAX5台
+http://38.134.40.167:9100/l/paeL265LhG2R5fi0GXO5774nd8592z4SPN1wR4c4DAH-G20Pf8e0yRbMsZrH_GRF/index.m3u8
+#EXTINF:-1 tvg-id="stream-d4f2b84b-e737-4bb9-ac27-50ad1e4efab6" tvg-name="愛爾達體育MAX6台" group-title="台湾",愛爾達體育MAX6台
+http://38.134.40.167:9100/l/SOH3D3fjd9WBcTBgGC2fU42S7God9gor85AnDrlhVWo9lGQYkxa1Xgjp2KOKIOWv/index.m3u8
+#EXTINF:-1 tvg-id="stream-09243854-e0a3-43cf-a49d-d0bb491a5611" tvg-name="愛爾達體育MAX7台" group-title="台湾",愛爾達體育MAX7台
+http://38.134.40.167:9100/l/WYjjwkVW-sAwLT2a5Up3TUPy0_Uq624QS0pR5VeiazimJyyKi3uOxw1GN6gRnrUg/index.m3u8
+#EXTINF:-1 tvg-id="stream-ae16ddbe-f2df-4bc7-aacc-c4271c02f5cc" tvg-name="愛爾達體育MAX8台" group-title="台湾",愛爾達體育MAX8台
+http://38.134.40.167:9100/l/x1xNtvIsXHCxgnl8g36uetQyy-_1-TJ-BWPj4xr1wZNPyIR8wpJOPjuWTmwtJqzf/index.m3u8
+#EXTINF:-1 tvg-id="stream-1a6a4359-fcfb-4be7-9dec-138179abe905" tvg-name="愛爾達綜合台" group-title="台湾",愛爾達綜合台
+http://38.134.40.167:9100/l/uXEkPvgSmCVo99B7_1idsNmhXHpZ8L4Lw3okjuzEdefT77_lV69nJWJcig_X1NHv/index.m3u8
+#EXTINF:-1 tvg-id="stream-f2198024-8c1c-492f-8452-f3f24fd9d2b6" tvg-name="愛爾達寵物運動台" group-title="台湾",愛爾達寵物運動台
+http://38.134.40.167:9100/l/DwGCu1hpSs-hCSNGJ_O2sxCLoARApKh64tuji-wks2vCzRK3ERB_cpaqYnkCajlv/index.m3u8
+#EXTINF:-1 tvg-id="stream-29ca4ca7-eb2c-4cff-b726-62f07b135d23" tvg-name="愛爾達影劇台" group-title="台湾",愛爾達影劇台
+http://38.134.40.167:9100/l/uWrh45fA5vfh2P0kf2n4QC3Oer2k0iy4vprrpPqVV2sFaaEDDOi4IcqMp2VQsUAC/index.m3u8
+#EXTINF:-1 tvg-id="stream-37c6d422-89c9-4d11-a0bb-c271b527a3f1" tvg-name="民視旅遊台" group-title="台湾",民視旅遊台
+http://38.134.40.167:9100/l/mrrmropqojUvApDi8DomcFrj_X7c6BqdIe_MmT5PxfzQLIyRA_pXvKrHk27-9UMq/index.m3u8
+#EXTINF:-1 tvg-id="stream-186c58aa-3550-4cba-a3be-52a90620a2b3" tvg-name="民視影劇台" group-title="台湾",民視影劇台
+http://38.134.40.167:9100/l/BKO-XFWa5BIKDHlfbvb3zUvusNuXLocOwiF85hG2SRyn0di6G-UmfvjFb9Go0DIp/index.m3u8
+#EXTINF:-1 tvg-id="stream-f6701326-86c7-4430-8874-6e3cc3a4685e" tvg-name="My Cinema Europe HD 我的歐洲電影" group-title="台湾",My Cinema Europe HD 我的歐洲電影
+http://38.134.40.167:9100/l/c4zaAz1If6GFc8uU2P9sM3s39SsNh3ZaM0Wq8iUnKZUI8b4HCTJWIB4rnbYQKnCG/index.m3u8
+#EXTINF:-1 tvg-id="stream-18bbc0ec-040b-476f-b770-8f4de69203d3" tvg-name="民視新聞台" group-title="台湾",民視新聞台
+http://38.134.40.167:9100/l/mxCqgsbwpBWAflZFm8yy0bV3PemmCg--3g_la5xVqv2-uy-egJmKDs_xrTD0JxZw/index.m3u8
+#EXTINF:-1 tvg-id="stream-32c42cb1-248c-4b0a-aa11-85f937aa5c85" tvg-name="影迷數位紀實台" group-title="台湾",影迷數位紀實台
+http://38.134.40.167:9100/l/Ib3MrR3wpLbLEa7jrMPcq-NwOmi46QVTe4Y3xqc7yodnEUuthPHdAOdHNZKfSRHH/index.m3u8
+#EXTINF:-1 tvg-id="stream-a520e600-0d05-404b-b753-3f1d0e34fb07" tvg-name="好消息" group-title="台湾",好消息
+http://38.134.40.167:9100/l/nsTBR2QefYelSskhgfyxkxjCGSliozuvnRBRws8KvZuxN96kdX1UNm1hUCKjIwdT/index.m3u8
+#EXTINF:-1 tvg-id="stream-9bc4ca6c-1440-46eb-aa0c-ca03018a8caa" tvg-name="好消息2台" group-title="台湾",好消息2台
+http://38.134.40.167:9100/l/uVB-geCmEObg5hXs6Ro8PcOv9H1DbAnReBa-LHC_EZD1dj5MnVoCbKNvAnKLw6Jq/index.m3u8
+#EXTINF:-1 tvg-id="stream-85ce8968-3433-44c3-a8ad-ba747389b9b3" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
+http://38.134.40.167:9100/l/ibTANnAe1hBwfw4PNInPkQ4EvctvxvE-jk_W1mkUya_RyxjPvARDYpGYhECMlBU7/index.m3u8
+#EXTINF:-1 tvg-id="stream-71dbdc53-51ea-429b-912f-99178a23bf81" tvg-name="龍華卡通台" group-title="台湾",龍華卡通台
+http://38.134.40.167:9100/l/MSLKd3JSs7caCKIKqwE_8uYdLn3CJYMBqNAn3HyDPtcqXe48jw3Xq816nCtiL3Q9/index.m3u8
+#EXTINF:-1 tvg-id="stream-ca6a37e3-bb67-4280-8833-b5292d987289" tvg-name="龍華洋片台" group-title="台湾",龍華洋片台
+http://38.134.40.167:9100/l/BpyFZ0fxcCnl6coGWX8lkXxmF3CXfhxXa9ongMeYt2JUQ1iyiPgFa5l90drubpZt/index.m3u8
+#EXTINF:-1 tvg-id="stream-a91ac9ac-fd95-47dd-bc9b-687ca398dd34" tvg-name="龍華電影台" group-title="台湾",龍華電影台
+http://38.134.40.167:9100/l/U3eBv-JragndJYQ76RevOwO06UyXeohUVA_atcGvpUMn8xgCjsWduhFZBbG1H_RD/index.m3u8
+#EXTINF:-1 tvg-id="stream-82d93d04-3678-4049-a215-b050b90210ed" tvg-name="博斯魅力台" group-title="台湾",博斯魅力台
+http://38.134.40.167:9100/l/YO4xDXw-rRcx73qwkZIJ5n1KFXGtWMubNr9JAzscRmR0QIqYjjE6qMnxZgHvu0In/index.m3u8
+#EXTINF:-1 tvg-id="stream-c7698106-165b-43e8-8463-4ba81ae8b262" tvg-name="博斯高球台" group-title="台湾",博斯高球台
+http://38.134.40.167:9100/l/fxN8ONPZXCRj_Yx1drygsFZGqaRhV8f5QW8gmEP1QCudwZq0PFAE6jbRC0mO5pIl/index.m3u8
+#EXTINF:-1 tvg-id="stream-79bc95ac-ae9e-453d-9fb8-7cd379401c5c" tvg-name="博斯高球二台" group-title="台湾",博斯高球二台
+http://38.134.40.167:9100/l/Cfv-71HetvIuXh1to0P41gFcFDen32GARlDTiuDP1Out9B-LTq7FzOCjsbmD8ns2/index.m3u8
+#EXTINF:-1 tvg-id="stream-fed1bf06-d243-4a18-8041-1f48850dc05f" tvg-name="博斯運動一台" group-title="台湾",博斯運動一台
+http://38.134.40.167:9100/l/-pt_z-Zxv8AoQreVBVjeh48R0kNo5YE-HA0gAYJC6of6IZ_6YZnM0viDEugCapfI/index.m3u8
+#EXTINF:-1 tvg-id="stream-0e568d03-ac0f-4058-a30b-2e9064969666" tvg-name="博斯運動二台" group-title="台湾",博斯運動二台
+http://38.134.40.167:9100/l/cgrtkAG7JbnN6sEOLH6ud07znBgXolq5v32D79BKbtkVEPq4c4hL5GVqlY_OY7je/index.m3u8
+#EXTINF:-1 tvg-id="stream-12ad1d55-702a-4443-ac40-0bfbae7bf9e4" tvg-name="博斯網球台" group-title="台湾",博斯網球台
+http://38.134.40.167:9100/l/dTXR-k6q4tXdG72MM0XhYl64aC6FH0mVOtV8yxtbIa5ROzVfVcaD5zMgA_gWh_-1/index.m3u8
+#EXTINF:-1 tvg-id="stream-5e98c9ba-cd3c-40fc-9582-48130dfe490a" tvg-name="博斯無限台" group-title="台湾",博斯無限台
+http://38.134.40.167:9100/l/qq1XiX7GK6XbsyTO0U9jmE45H8du0QR_N088Oun8JTvdFMQUgkYIDq5z4qz9F5x2/index.m3u8
+#EXTINF:-1 tvg-id="stream-cf09cd68-f2a3-4bbe-8a0d-2156b1dccdcb" tvg-name="龍華日韓台" group-title="台湾",龍華日韓台
+http://38.134.40.167:9100/l/Aw3F7Q6taQwxrGSiF908vqe4NWpHCEyrhE2rAN9Eq4FBdUZzDqdIMnMMx7Ul-YJR/index.m3u8
+#EXTINF:-1 tvg-id="stream-757025ef-972e-460f-8f9d-87bc84728fe0" tvg-name="龍華偶像台" group-title="台湾",龍華偶像台
+http://38.134.40.167:9100/l/jheq8Qm4zjfI17UtqlD9ug_wLXbQJwaLhAHOQ7Wl_1GGuXAS5ZQJF-CqMaSlhxWn/index.m3u8
+#EXTINF:-1 tvg-id="stream-ac01c833-30ba-4218-9cc7-11886f62d5c6" tvg-name="博斯無限二台" group-title="台湾",博斯無限二台
+http://38.134.40.167:9100/l/xbGcizIi1bwJV2REsfMfoPNFGs4x8YoiMWbUDjMI2Bv7LtDeEjt5lkuYnl1oNqWO/index.m3u8
+#EXTINF:-1 tvg-id="stream-aa78d4b9-e21f-4735-b16f-8b7c7e52637d" tvg-name="龍華戲劇台" group-title="台湾",龍華戲劇台
+http://38.134.40.167:9100/l/uM3Q6GX34CVUb0cwk1znsVjMLjgDfkwlYAaeEjMr93Z6D32gGK-W3ywLUuEUi8PP/index.m3u8
+#EXTINF:-1 tvg-id="stream-b5460605-d52e-4fc7-801d-278f8b4f32d1" tvg-name="SMART知識台" group-title="台湾",SMART知識台
+http://38.134.40.167:9100/l/tR0wj6dV0UiqmJW1g3MfctQfYEuWwEzTtlTlIHNSyt2GAV71Wh0ayBstwc9_UN1X/index.m3u8
+#EXTINF:-1 tvg-id="stream-1bb03214-1954-4c3c-bd08-a3062045d448" tvg-name="ELTV英語學習台" group-title="台湾",ELTV英語學習台
+http://38.134.40.167:9100/l/NJ8rz1nsfmK0NJe9JqdgQtLR3x05bSi6dHnOGZdunKcMukKyOOHjfrsgp9NXLXnY/index.m3u8
+#EXTINF:-1 tvg-id="stream-cf9c4a37-6683-4cc5-8c78-b97dd0836363" tvg-name="龍華經典台" group-title="台湾",龍華經典台
+http://38.134.40.167:9100/l/MRuL8phcJ55i9y4Bl35sgByvgv4IeYlJniR7HbptCDEa50GALlcVCN1jFSe0F0-m/index.m3u8
+#EXTINF:-1 tvg-id="stream-51e7859b-183e-46dc-afa7-1671999fd810" tvg-name="台灣戲劇台" group-title="台湾",台灣戲劇台
+http://38.134.40.167:9100/l/X7CFwFfbc_ykve_Rd310nwQFwBz9gDrg1Ho8mcsVVFiqJaufhWVJLiMXfZDDitxd/index.m3u8
+#EXTINF:-1 tvg-id="stream-fd86f805-2fb5-49a3-b7e1-59f3e85fe0e5" tvg-name="民視第一台" group-title="台湾",民視第一台
+http://38.134.40.167:9100/l/ft6BVr6ReoFoigPd_EPp2rZZIz33dNNrEF4wWO1QCjKh2hax6Q4m0L1V0-v3PWY0/index.m3u8
+#EXTINF:-1 tvg-id="stream-a20486de-bf0e-457d-a619-ab9267deeb8e" tvg-name="民視台灣台" group-title="台湾",民視台灣台
+http://38.134.40.167:9100/l/jCh3r7TDgyqUZ_UpjQu1z4IMTRiRB95Rm5Xl3RtGOyA2PAXSyoOouVvCAPzililf/index.m3u8
+#EXTINF:-1 tvg-id="stream-b0fe1fe3-1e20-4c54-bd33-6c93c9bac5b6" tvg-name="民視" group-title="台湾",民視
+http://38.134.40.167:9100/l/nUx0yO_L8fid78yiMbDOcoKJRSSAnRe8lmA-B2238H7CmZeGJcsIpjUush5fOQyY/index.m3u8
+#EXTINF:-1 tvg-id="stream-17832c15-a77e-40ab-9f1b-7944eb002ae6" tvg-name="大愛電視" group-title="台湾",大愛電視
+http://38.134.40.167:9100/l/6T47dt5lnYdYQYYrbgcAujeybXZDcE5J39BavLkRmQe3jguPoyVoaNa7Ptk1ivhS/index.m3u8
+#EXTINF:-1 tvg-id="stream-4f357cd7-f127-41ea-b9a1-ccb636b42c53" tvg-name="中視" group-title="台湾",中視
+http://38.134.40.167:9100/l/iCzcbaIE40t8tjSl5XGemSeEknZ9wiAly8Z6jREa2AD4kmaoJEHX_Y8X9fl9DAcX/index.m3u8
+#EXTINF:-1 tvg-id="stream-d7d35743-ede6-4d51-84e5-0ce678aabb9e" tvg-name="華視" group-title="台湾",華視
+http://38.134.40.167:9100/l/PMZtxAuc1ycnfwMIyx1iUcRHBwW90iGltsWxMsLSsZnbVzfJhqSF8VpjytzLtWci/index.m3u8
+#EXTINF:-1 tvg-id="stream-c544a1e2-aa0b-497f-afb9-e65e09bc6139" tvg-name="三立綜合台" group-title="台湾",三立綜合台
+http://38.134.40.167:9100/l/iqBRNz4viIwhSakUnBrogFbaWh4S9iZZeicP2D6-Kn_ltSnBgTKyqmLtK5BZJuEv/index.m3u8
+#EXTINF:-1 tvg-id="stream-03ae898b-10c8-47b8-94e2-4414863ea2c3" tvg-name="客家電視台" group-title="台湾",客家電視台
+http://38.134.40.167:9100/l/mANQI41qXl7xXIv3Sy6Ilae9Ng2STtzDZ_KqBVayMRYefYclF5EaYTws1haioRBu/index.m3u8
+#EXTINF:-1 tvg-id="stream-18e78ff9-7df2-41f5-a7a4-348bdaf53158" tvg-name="八大綜藝台" group-title="台湾",八大綜藝台
+http://38.134.40.167:9100/l/7KBYwkbuW268OYxMaoMMw2kSLJYBQzsjRkz-CUM9jPnv9PeYGRUt4oJUD7GBUao_/index.m3u8
+#EXTINF:-1 tvg-id="stream-c52296d4-bb38-4c2c-b85f-e96a234dd614" tvg-name="TVBS精采台" group-title="台湾",TVBS精采台
+http://38.134.40.167:9100/l/IhFNBaiP1unJ5UR01gDBEPG8KsbQC0r9Hn37xb9ie_nwOuI73ap_ghk4wjxZdcN_/index.m3u8
+#EXTINF:-1 tvg-id="stream-99e7564e-5ef8-498c-b48f-1f45a2a58c7a" tvg-name="靖天綜合台" group-title="台湾",靖天綜合台
+http://38.134.40.167:9100/l/FDwH7FNUBAM2JKgSsm8CP8aiTWFg0uGmHk26Xxki9XqkWr9STPaEsyPq9tKPajqK/index.m3u8
+#EXTINF:-1 tvg-id="stream-f9655cd9-8628-453e-98ce-5de34e8f5676" tvg-name="新唐人亞太台" group-title="台湾",新唐人亞太台
+http://38.134.40.167:9100/l/6CCf-9fJuzc44QWqBP7oUvDVhHiyJYeGhAGJfHPWM2Xb8lv7CkKYRt_GyHuf86h-/index.m3u8
+#EXTINF:-1 tvg-id="stream-b36dfa58-b4a0-41aa-92c8-407b6385f7e3" tvg-name="ARIRANG阿里郎頻道" group-title="台湾",ARIRANG阿里郎頻道
+http://38.134.40.167:9100/l/UpTUrLluxDjCjhF6x31D2Govxib_msXUo5QBhqHmInMsbxOZH7VK4HkC56np06sf/index.m3u8
+#EXTINF:-1 tvg-id="stream-be46f0a9-8b33-4a83-8fb3-e8d4ad3d8f71" tvg-name="Global Trekker" group-title="台湾",Global Trekker
+http://38.134.40.167:9100/l/00u0j3wZ83_hJU34-eEDraF08lFAgsUGiJBMf4wc8JVOCERMOnEBmU7TmgEUSO-l/index.m3u8
+#EXTINF:-1 tvg-id="stream-c452c131-768b-4636-a4b3-39ccb6f277b8" tvg-name="原住民族電視台" group-title="台湾",原住民族電視台
+http://38.134.40.167:9100/l/GSHB7h1w8lbfTs0FF_WhwvlgzV5I6eHtEnsaW104vvYtjyTIEDUTZ1JQPe_5cXi5/index.m3u8
+#EXTINF:-1 tvg-id="stream-a2ebef29-c7e4-48b5-9694-fb702e37aa7e" tvg-name="Nice TV 靖天歡樂台" group-title="台湾",Nice TV 靖天歡樂台
+http://38.134.40.167:9100/l/z3XM6RcO2XC6i6BQfqQ5bqi6mW092WMjbRHLtrS40gN26G1mMT57Zvvu03P7b94a/index.m3u8
+#EXTINF:-1 tvg-id="stream-e435d4d4-251c-4a24-9b06-544f2bad3e5e" tvg-name="韓國娛樂台 KMTV" group-title="台湾",韓國娛樂台 KMTV
+http://38.134.40.167:9100/l/BFJ1mNnNwYNH-OC2Akqe5lbFFQ0QS0pnhRrFEcov7Fshco-9VT2FYVPYXzOnCcib/index.m3u8
+#EXTINF:-1 tvg-id="stream-de961d30-7f17-4818-816c-daf21100ca31" tvg-name="ROCK Entertainment" group-title="台湾",ROCK Entertainment
+http://38.134.40.167:9100/l/k2PKQwtvVjH84luJPQGRuA-ZL_zE5J9fXRM-njgpdiymTMj2oZ7sfNEPQSWIutEr/index.m3u8
+#EXTINF:-1 tvg-id="stream-023ffdab-fcd1-435e-aa23-49e2405ef70d" tvg-name="INULTRA" group-title="台湾",INULTRA
+http://38.134.40.167:9100/l/dXzX1nY4TwJ7fsjuJcmjsYWbUFcsvQNPVOV0c6EGFlW9dKhChTdzKoAjoZsHpINA/index.m3u8
+#EXTINF:-1 tvg-id="stream-fe96c948-f8db-49fb-ac8a-d8cb31db3d2e" tvg-name="fun探索娛樂台" group-title="台湾",fun探索娛樂台
+http://38.134.40.167:9100/l/oK6Y2c5iOiU0G-n9u0uzlVI7louGe_9_-czuQxwptiPPdPysgbsg0cdSVO10uRUH/index.m3u8
+#EXTINF:-1 tvg-id="stream-bc1b6c81-0070-497d-a240-7b198ca88e33" tvg-name="OUTtv" group-title="台湾",OUTtv
+http://38.134.40.167:9100/l/MgPAKQ22CtALWJrHdzyREtcxy516c_p5YyPvn-D5aCFkkH8VGBjKicyvONSxUNg3/index.m3u8
+#EXTINF:-1 tvg-id="stream-698a9147-bfa1-4e5f-b43e-fdf142262e89" tvg-name="好消息" group-title="台湾",好消息
+http://38.134.40.167:9100/l/BsGrJYwdp99Fui5k8igLTXZMBreGNgMXSt5FuKMbe00qWYwybOaJcsd8KbH_cwRb/index.m3u8
+#EXTINF:-1 tvg-id="stream-e077a76c-c8a3-4ebc-8614-aa4952e2a063" tvg-name="好消息2台" group-title="台湾",好消息2台
+http://38.134.40.167:9100/l/RD690hXNTcuq75fYXSyNfwHetEMF0Cf-oXqboPDlVJPDvdav_JX_Pu3ObdD3aAWO/index.m3u8
+#EXTINF:-1 tvg-id="stream-4efff59b-619b-4342-a1d9-f45743959287" tvg-name="大愛二台" group-title="台湾",大愛二台
+http://38.134.40.167:9100/l/5N3elphzB8irAGye7IAWn6NtArez_Vh4g58GnBbGFjm89wsSe2DZLNonDrmNB8Zf/index.m3u8
+#EXTINF:-1 tvg-id="stream-8cd206e1-7283-417e-bb50-412ca75a455b" tvg-name="人間衛視" group-title="台湾",人間衛視
+http://38.134.40.167:9100/l/BpWEkNOT2LrXD8MmZzvJH2AXv0DpUiqIqkbGunu2DdC3fNTAIK_-PV7VsbVj73Ef/index.m3u8
+#EXTINF:-1 tvg-id="stream-a5c8e432-2fa5-41c1-ace7-54a1ce3b5c9e" tvg-name="靖天日本台" group-title="台湾",靖天日本台
+http://38.134.40.167:9100/l/SdYzav9rU0Y13zunL2JXQ7ZPzlT-29RcjEM_ydeB1OdbvcqVmKGbVP5hIDogMZka/index.m3u8
+#EXTINF:-1 tvg-id="stream-e46f1859-dc4f-411d-946e-04c1b9ef656e" tvg-name="民視綜藝台" group-title="台湾",民視綜藝台
+http://38.134.40.167:9100/l/4uffvq-scO8Aa6ZuvXd8MT87FDTM0IdqL0ENC5-XpI_AVEhsl1hQFqbc-C2jdbrZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-46a05eee-ec0e-4308-af37-6172548041de" tvg-name="豬哥亮歌廳秀" group-title="台湾",豬哥亮歌廳秀
+http://38.134.40.167:9100/l/xc_G248Yh64KN3sXjx8H5g8BmgjXsbL3dJNamTj28eUvk7Ue3afZgYMmoWcbHBED/index.m3u8
+#EXTINF:-1 tvg-id="stream-1621dff3-c308-4c34-a3fc-d74b5115857d" tvg-name="靖天育樂台" group-title="台湾",靖天育樂台
+http://38.134.40.167:9100/l/UzOz6TYtId6TFh2w9N-a8u10GfkDOGVPKHkttAKbtJGZpAWR0ABc-v2NYPZYFByS/index.m3u8
+#EXTINF:-1 tvg-id="stream-90303f29-3662-403b-99d3-3a5d35964973" tvg-name="KLT-靖天國際台" group-title="台湾",KLT-靖天國際台
+http://38.134.40.167:9100/l/E_3v08j4il3kAuAD7r-QFukTvhbq6tlq6BPtQYaaQmSKOF_2Bn8rW3OpETEK8pXt/index.m3u8
+#EXTINF:-1 tvg-id="stream-10b4ce04-2deb-4c6f-b8a0-aab10a3c800f" tvg-name="靖天資訊台" group-title="台湾",靖天資訊台
+http://38.134.40.167:9100/l/ZtLb_Y-wQFo7a510JPudFmzdpolz2-bH9lhqK04b-p7FXajVkoEGK3fBKjFJHl15/index.m3u8
+#EXTINF:-1 tvg-id="stream-4664593c-6f73-4fba-a8c7-caef83a73c29" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
+http://38.134.40.167:9100/l/d4U0WSZkriT7qCw0ALIByhqKwVZKnLtLtSG85Jsjxw5e6Gbq2uM_X2nl-IMIXLVD/index.m3u8
+#EXTINF:-1 tvg-id="stream-18c23493-00db-4be2-b10c-a4ce705e0ee9" tvg-name="Lifetime 娛樂頻道" group-title="台湾",Lifetime 娛樂頻道
+http://38.134.40.167:9100/l/KCalLVMb1yIRq9eolEUJQ4-7p_kEq3Fku7XkWB486XNa_KrOTSDRAeUxF2E4WyWt/index.m3u8
+#EXTINF:-1 tvg-id="stream-8df7b482-c9c7-4d6b-a480-5359ae59f6a0" tvg-name="電影原聲台CMusic" group-title="台湾",電影原聲台CMusic
+http://38.134.40.167:9100/l/L9C8wDtHJmxvAXXtZWXRzTq6l8N_-_s7ec62jCIhRZYKFV-HAMvcEjkj1-06PBL7/index.m3u8
+#EXTINF:-1 tvg-id="stream-9790d157-1ec7-4687-8f89-d123f0353025" tvg-name="TRACE Urban" group-title="台湾",TRACE Urban
+http://38.134.40.167:9100/l/XNH6mtEMtbbsuuTy0nbT3qheG3Tw_R99ubZO9xMHJcIABZB_cmtPKmy5CtQgMe1U/index.m3u8
+#EXTINF:-1 tvg-id="stream-68f5f8b2-41f8-4d20-8018-4e14aade32a5" tvg-name="Mezzo Live HD" group-title="台湾",Mezzo Live HD
+http://38.134.40.167:9100/l/FoK50lqv6pUubY8919uE0kC1HZyXQb6H5jFHNa13NH5xd_a00U7tL5HqJV0O-dmt/index.m3u8
+#EXTINF:-1 tvg-id="stream-1662bcc4-1604-492b-97a3-f0f94d4a9c3c" tvg-name="CLASSICA 古典樂" group-title="台湾",CLASSICA 古典樂
+http://38.134.40.167:9100/l/boIxAQXlU8GwbZILuWPBz1i9VwNg5LqySBaiptzeBFJYQy8HTJlQSU_8GUtdsFe3/index.m3u8
+#EXTINF:-1 tvg-id="stream-ec686edc-8bc6-474e-be27-a879bafcb93e" tvg-name="灣聲線上音樂廳" group-title="台湾",灣聲線上音樂廳
+http://38.134.40.167:9100/l/SH2I62vSQKucWewg9c6vU-o3pdONAAQc3W1_vbF0Rs5Xo17BH8G8V-bYyIv4m2GD/index.m3u8
+#EXTINF:-1 tvg-id="stream-13b70c1d-5fcc-4227-96cd-f0209da74da3" tvg-name="LiveABC互動英語頻道" group-title="台湾",LiveABC互動英語頻道
+http://38.134.40.167:9100/l/loexpX4X-GKmZEk8btLX8Yp5DL5SOZ6MgMLGkxgLz3cQ9TkYRxUIQK-msdfoRPzx/index.m3u8
+#EXTINF:-1 tvg-id="stream-4a6a66c6-8792-4a68-b412-544de07519df" tvg-name="達文西頻道" group-title="台湾",達文西頻道
+http://38.134.40.167:9100/l/KZbGX3Jxh5lGGd3Djeu6P4Dp16F9El9OvvltP15DWQ-dJ0mT5s2louKUjtsofEg-/index.m3u8
+#EXTINF:-1 tvg-id="stream-644e4775-00a6-45b9-b560-51a3cf211c6e" tvg-name="ELTV生活英語台" group-title="台湾",ELTV生活英語台
+http://38.134.40.167:9100/l/PYIBPu3GOEfxwn6xiYQTMyJzLufwgZoY3AANqpyDQ7Q_mmVpYhA7o6FcFIwxJw8S/index.m3u8
+#EXTINF:-1 tvg-id="stream-28abf1c9-de1d-45a9-a081-cce9b04d1bec" tvg-name="Nick Jr. 兒童頻道" group-title="台湾",Nick Jr. 兒童頻道
+http://38.134.40.167:9100/l/Z-Q7__4NcRJ2sOoYfIezsq-KqkSdPRrnnlyLspSWcfqKla4SyN9VWdM_hNnNu7PM/index.m3u8
+#EXTINF:-1 tvg-id="stream-b97727d3-325e-4a0d-9317-59aa3d648c0c" tvg-name="尼克兒童頻道" group-title="台湾",尼克兒童頻道
+http://38.134.40.167:9100/l/20LWlcpglLVQpecELIQ9Kk7E3is6k3bL1CdauoNXYf7lUebL9jBCrd6rc0uF0Fac/index.m3u8
+#EXTINF:-1 tvg-id="stream-cb6c8045-c687-42bd-8d4e-bcae23b5b108" tvg-name="DreamWorks 夢工廠動畫" group-title="台湾",DreamWorks 夢工廠動畫
+http://38.134.40.167:9100/l/Fx1KV0hIZlBXBHF0pL957IfG4awG_viEe2eNNe8GJpSEIf6xELkglfa_x2S0GcYo/index.m3u8
+#EXTINF:-1 tvg-id="stream-5a38f5c2-1462-4142-8f9a-501e64c09a33" tvg-name="靖天卡通台" group-title="台湾",靖天卡通台
+http://38.134.40.167:9100/l/f0-vSLR2kKlie29M1H5q2xn-7y4oHV6Kn5f1jKkOFiGi0mvNQLU_AZgkYLzB9i4A/index.m3u8
+#EXTINF:-1 tvg-id="stream-dbc25b71-8055-4ac0-913e-bc6c1ed657e6" tvg-name="靖洋卡通Nice Bingo" group-title="台湾",靖洋卡通Nice Bingo
+http://38.134.40.167:9100/l/0WHTJvMTjk_Scj1NRZpQI7vzPCf8vU_C8JEgkN6xf_eJDB_4o71C1aPaI3aG4G_h/index.m3u8
+#EXTINF:-1 tvg-id="stream-05a1b841-fb07-44fa-bf3d-9d49633652f9" tvg-name="MOMO親子台" group-title="台湾",MOMO親子台
+http://38.134.40.167:9100/l/MXFpbX3qjw96ecgLnMNqjSleJbj1R7X52XJZB0OzVkyfrzn-8fnNs9TjNZnSnw50/index.m3u8
+#EXTINF:-1 tvg-id="stream-e3f7f6ea-0bf8-4164-8391-4458027dbe34" tvg-name="經典卡通台" group-title="台湾",經典卡通台
+http://38.134.40.167:9100/l/3K_juxMI_G9jAvIGyoMupsE50cddEAPGxDUw8I5z_XNNljmPeqCB0_xiHNEQ9GvO/index.m3u8
+#EXTINF:-1 tvg-id="stream-094bbc7b-087d-4ba2-b600-370117cbc5a1" tvg-name="精選動漫台" group-title="台湾",精選動漫台
+http://38.134.40.167:9100/l/fx5wCbJzdnrI69DdpS7e3SNL0LNJx3Bc0zvIy9ch01rXa10viek2I_ffYv0H9F0q/index.m3u8
+#EXTINF:-1 tvg-id="stream-000a66f7-66e1-4c2c-9bcc-6aad7722b520" tvg-name="鏡電視新聞台" group-title="台湾",鏡電視新聞台
+http://38.134.40.167:9100/l/ymfnmCPh7CbcezcOilBCHLXwDTGk6IY_XzHTS1qafGdH5rMHn7bDTxMF_cRgnBDI/index.m3u8
+#EXTINF:-1 tvg-id="stream-32eaee1e-7de6-4526-b883-b713af635cad" tvg-name="東森新聞台" group-title="台湾",東森新聞台
+http://38.134.40.167:9100/l/bl4_mES9CcWrAXg-fS4multEnCkhOsrzcaghMzE-qJ83achfAQmaQE6CO2WihJj-/index.m3u8
+#EXTINF:-1 tvg-id="stream-a4ec96f4-34af-43c7-8ec9-16ac9afc4621" tvg-name="華視新聞" group-title="台湾",華視新聞
+http://38.134.40.167:9100/l/xBjkD7vpDjra8_leyfk-q_2bP6B3XtIe6JAl_cNkB4bOh_tsIuB0tR7wNHSJpl4Y/index.m3u8
+#EXTINF:-1 tvg-id="stream-f836f8a8-c3b7-4b8f-bc29-a2a33aac948b" tvg-name="民視新聞台" group-title="台湾",民視新聞台
+http://38.134.40.167:9100/l/g9ZWJnOyPIsuERJZRQyH1-bF5kChd0Oijwiu96uTP1hsBtnQLqvuGgIXoAawAZMR/index.m3u8
+#EXTINF:-1 tvg-id="stream-be858eb0-b515-478e-ae90-02f0fdb993ce" tvg-name="三立新聞iNEWS" group-title="台湾",三立新聞iNEWS
+http://38.134.40.167:9100/l/Sw2TEf4yGPQwFD8yzM3mkcneQTPqu5t2khLnmdBDuEqX2WanPAZTnQu3nzKLnXvZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-0ba1b09a-e1be-4ad7-b301-ef85cdec6367" tvg-name="TVBS新聞" group-title="台湾",TVBS新聞
+http://38.134.40.167:9100/l/pp9nQ_byZBRbSdnSpIxqwghKhHMo184PAgoewpPI_YmP8EXQT0-eUMqvFJ00peFh/index.m3u8
+#EXTINF:-1 tvg-id="stream-ef69065e-8e66-44ac-bf25-c8a2dbd1b26f" tvg-name="東森財經新聞台" group-title="台湾",東森財經新聞台
+http://38.134.40.167:9100/l/SZgo4z3iak14KV84_WSF-5uTuY08gRnRnjEtFF8U-pjFTfNO1GqIUt7Ta62SoHhL/index.m3u8
+#EXTINF:-1 tvg-id="stream-fc4b8c8e-5b82-4c1b-8673-7381d48570cd" tvg-name="中視新聞" group-title="台湾",中視新聞
+http://38.134.40.167:9100/l/C7LcSbQJj2HNbUkfEsQC1gssVyR6-yBlUOoxWbMhs-XeMx_W7j1W4sJzjEtJ_pTH/index.m3u8
+#EXTINF:-1 tvg-id="stream-21c3a57d-f9a9-4bb6-a51c-db3caa6b0e39" tvg-name="Bloomberg TV" group-title="台湾",Bloomberg TV
+http://38.134.40.167:9100/l/bbbtcysgQhJuG6PW0ckToxTwt_9RLROLY74zLloWMcrV8Jroh2XFmrn1WmRWW0eI/index.m3u8
+#EXTINF:-1 tvg-id="stream-47a15779-0cc5-497a-ad30-993fa12db85a" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
+http://38.134.40.167:9100/l/Ioaw6RkSwzUz7Aa9_bxf0IgsSv3F2cVaEvL2JKRsLQ9-CsHq5I0QTTwZXvaYh4kS/index.m3u8
+#EXTINF:-1 tvg-id="stream-011c5022-c011-458e-ac65-32ae7151c7bb" tvg-name="寰宇新聞台灣台" group-title="台湾",寰宇新聞台灣台
+http://38.134.40.167:9100/l/cz3gQl3Rj14n-5I1n9pjesYfBJHipxPqRKSOBRY7hcK9xxaZk9b0vR31tC1B6Bt_/index.m3u8
+#EXTINF:-1 tvg-id="stream-88c25264-9994-4481-88aa-70bb602e430a" tvg-name="SBN全球財經台" group-title="台湾",SBN全球財經台
+http://38.134.40.167:9100/l/mhDUfLw76l7IXQzVFv-nQCOhL7By1TXjX9vMoI4_cCOaVHN0dr4fcbbcIXeDhP8q/index.m3u8
+#EXTINF:-1 tvg-id="stream-9652f305-8930-4e87-81f3-5c7373a37723" tvg-name="寰宇財經台" group-title="台湾",寰宇財經台
+http://38.134.40.167:9100/l/icJ1PmznvYxyPpqMhhwO5d0Ul4bNwjY0DkhxwVwH65H43Sx4pE9vCyQYXrF-qSdA/index.m3u8
+#EXTINF:-1 tvg-id="stream-ed6f7f15-d079-458c-90e6-9600ad2c0e42" tvg-name="TVBS" group-title="台湾",TVBS
+http://38.134.40.167:9100/l/AxbTgnT5kzf16t6GIHxJZieDuFPlAi8VE21XVzDROnB8ICieWzQ5kcGwE-IRLE6U/index.m3u8
+#EXTINF:-1 tvg-id="stream-3ea03627-5e3c-4ae5-a354-13957395e08c" tvg-name="ABC Australia 澳洲公廣頻道" group-title="台湾",ABC Australia 澳洲公廣頻道
+http://38.134.40.167:9100/l/Hmugcke6doPXrrTm0u3QewPR_nuGyu2gb7-xZuwhmOnLE2iRNfKdUmGZWcVl5-je/index.m3u8
+#EXTINF:-1 tvg-id="stream-b2b4e939-ccc8-465b-a105-5db86067e1f5" tvg-name="NHK WORLD-JAPAN" group-title="台湾",NHK WORLD-JAPAN
+http://38.134.40.167:9100/l/_6dUY-xEIul_ngmYjp7RRQVaJnWuxS3whAI8QYrebuZq3LYEdzq7-fQFn1-W8BTt/index.m3u8
+#EXTINF:-1 tvg-id="stream-161447e1-e792-4007-ab80-17873fa89c7f" tvg-name="FRANCE24 英文台" group-title="台湾",FRANCE24 英文台
+http://38.134.40.167:9100/l/adsZWi5X_RJ4G0-j5ra1rkzKHdVLIijejdYODe0ek2vk5WULgSaqU039AoWb3maN/index.m3u8
+#EXTINF:-1 tvg-id="stream-5ee8d6c9-45e3-4713-a6c7-c92748ce81c0" tvg-name="半島國際新聞台" group-title="台湾",半島國際新聞台
+http://38.134.40.167:9100/l/BnnGCSqeLBQ-M9ZMisfPYyBzTl7dFyc4yqXoi0nVlPV5OvmIA_u28ERqlXwuPB5S/index.m3u8
+#EXTINF:-1 tvg-id="stream-e5fe37d8-cb12-448d-9a93-07955bec975d" tvg-name="CNBC Asia 財經台" group-title="台湾",CNBC Asia 財經台
+http://38.134.40.167:9100/l/oJ8VLEiUhEj72-F41QpGsJ4kEFLsLKMYSoRHDDJHD72yrrI_RgaHmXbnj3FqEitV/index.m3u8
+#EXTINF:-1 tvg-id="stream-6d8d10e6-4e31-4f6e-beb1-e354e6e6680a" tvg-name="DW德國之聲" group-title="台湾",DW德國之聲
+http://38.134.40.167:9100/l/KwD6C0PAS80YxdfYb_FxU7_SODXJrH6gqEUItInbB1wADQHEmJKgncEAwl0e3aI4/index.m3u8
+#EXTINF:-1 tvg-id="stream-71cf99f5-6c39-43cd-bf05-89c7f6242582" tvg-name="香蕉直擊台" group-title="台湾",香蕉直擊台
+http://38.134.40.167:9100/l/HNaRi46G7z2eN2_h_BEXu1qP58JtAhLKniAAuz3zJpwx60JOZeEm1F-Uiwe0vlkN/index.m3u8
+#EXTINF:-1 tvg-id="stream-e9b47f35-07de-4bfb-8ba5-5f1b9568003d" tvg-name="國會頻道1" group-title="台湾",國會頻道1
+http://38.134.40.167:9100/l/cNVfRELdiXQCCPMSSytgZlGEr6MI2RGX57E20sxoadfh1txNS7ZWkWZCRaV41w3z/index.m3u8
+#EXTINF:-1 tvg-id="stream-776629dc-a457-47aa-9492-6dec58a66135" tvg-name="國會頻道2" group-title="台湾",國會頻道2
+http://38.134.40.167:9100/l/NvrJ5u1WyMlV588p6xpsuN4kvCDzKLrl6DXdd7vxPAiKdB3UTuvZs_o_oeOqMd-R/index.m3u8
+#EXTINF:-1 tvg-id="stream-c65675a5-564d-4aed-bcd0-0e4c19590390" tvg-name="getwin sport運動台" group-title="台湾",getwin sport運動台
+http://38.134.40.167:9100/l/420aSZaeCcwgSG5XQf4lCQIthHJXiLxZNc6VtfonXwGwExLNIi2JDzKffuUZ8uBu/index.m3u8
+#EXTINF:-1 tvg-id="stream-6cdceb45-0311-47ef-8e26-14de0f865e4a" tvg-name="博斯高球台" group-title="台湾",博斯高球台
+http://38.134.40.167:9100/l/b-FADmkOlbdrs5a2K_0s-2bY5QXqSde5934ZIOxtzvwK6DEuJY1xRFrDIU-nhlr0/index.m3u8
+#EXTINF:-1 tvg-id="stream-e6fef1a2-7c68-4869-82e7-e398332eed2a" tvg-name="博斯高球二台" group-title="台湾",博斯高球二台
+http://38.134.40.167:9100/l/Xbx335rPefD6p-CdksbyTgRdeuObG_tw_mzDOvXrAuEQ4QuvTeMWAX-mtyKzLxFK/index.m3u8
+#EXTINF:-1 tvg-id="stream-9f59df7c-9590-4569-b95f-c851781dafa3" tvg-name="博斯運動一台" group-title="台湾",博斯運動一台
+http://38.134.40.167:9100/l/P0nIDx8Fv8m-GTCt8k15yUTT8KwKhUzH_GKTN7f0xM9xXy3P9vdaUrcR5juAj1Yj/index.m3u8
+#EXTINF:-1 tvg-id="stream-034415ee-b278-4ac7-816e-36b4c7976571" tvg-name="博斯無限台" group-title="台湾",博斯無限台
+http://38.134.40.167:9100/l/gr8cDSgo5tTRMdQ-BR--Nl7_cTg8lNNmqI2FASQSUtwGOZ3EzxNRir70TY3OMF6p/index.m3u8
+#EXTINF:-1 tvg-id="stream-490aa4d2-acb6-4b9e-a58f-7216039695ac" tvg-name="博斯網球台" group-title="台湾",博斯網球台
+http://38.134.40.167:9100/l/P2iYY-d6RTQbo1puJCb_xvwnweulx8LXjmg0xLKTcImfX9DM285jPzL3J8J_ZIDM/index.m3u8
+#EXTINF:-1 tvg-id="stream-3e362f9e-d13b-4e46-a09e-0617a8266da1" tvg-name="博斯運動二台" group-title="台湾",博斯運動二台
+http://38.134.40.167:9100/l/A-UZ91QwAjHmM-hRM441C--cJJEJkX8kmBlm9vgW4fNKdWJTmDWRc4CzZg853Won/index.m3u8
+#EXTINF:-1 tvg-id="stream-5aa232d6-9ec5-4a9f-96d9-68f277fe63d3" tvg-name="博斯魅力台" group-title="台湾",博斯魅力台
+http://38.134.40.167:9100/l/B3VQrzCv-rbVugrXDjo4_fJtfXqtRgH4y1w9pQR-GFvwE3IQ7vsqNyYeDCwOu1tQ/index.m3u8
+#EXTINF:-1 tvg-id="stream-77962e71-74ca-4128-baa4-3d2f98fca15c" tvg-name="博斯無限二台" group-title="台湾",博斯無限二台
+http://38.134.40.167:9100/l/gKXTOzj1cY_syVKNg_uyqQsGL6t5pFJrQH2UddlMwdjnY9asSHKjXta-zZpGzIJO/index.m3u8
+#EXTINF:-1 tvg-id="stream-2dc916f6-ccad-4d08-94af-9b8dd74ade97" tvg-name="TRACE Sport Stars" group-title="台湾",TRACE Sport Stars
+http://38.134.40.167:9100/l/spTFjNwJZv-zU_UT8VmaKfVp7wWZU-WvC48tv4os12MWWpu5qpE5jaB1D4CAq62M/index.m3u8
+#EXTINF:-1 tvg-id="stream-c0ce23bb-e91d-4baa-a4a8-056d4c88db7e" tvg-name="智林體育台" group-title="台湾",智林體育台
+http://38.134.40.167:9100/l/RrkooKWmrcOI3avclDZufm2f0XEZ5TVev1gEGOt3eNEgwJ9hw2vcQdr93JErieV7/index.m3u8
+#EXTINF:-1 tvg-id="stream-cbfee35d-2ed9-434b-ac68-79e743cbd39e" tvg-name="時尚運動X" group-title="台湾",時尚運動X
+http://38.134.40.167:9100/l/_Gzx08w_vy0K1RoMUaFJQSK639n7Qg_a1obgK8h9DPV4fN_QQl4fFstIXwsYj9uB/index.m3u8
+#EXTINF:-1 tvg-id="stream-aec62ec7-8e35-42a2-bb0d-a9761b4fec5e" tvg-name="車迷TV" group-title="台湾",車迷TV
+http://38.134.40.167:9100/l/0YGDwb2j2g-1thziV_29wGUYxIJlWh2CvSGd_hGfmdG9MdKtFrNwBmSXvHCLO1qw/index.m3u8
+#EXTINF:-1 tvg-id="stream-85af7afa-e942-40ad-b965-1d9860cddc0c" tvg-name="GINX Esports TV" group-title="台湾",GINX Esports TV
+http://38.134.40.167:9100/l/OG1Y-mTVQKBtmwt6EOAIIpGzNx8HFxTBO3vThW5xDti8JJg9tgcoUArkHp-28Ctu/index.m3u8
+#EXTINF:-1 tvg-id="stream-a44be73f-ae9a-4db2-9b3c-1efc911386c7" tvg-name="Pet Club TV" group-title="台湾",Pet Club TV
+http://38.134.40.167:9100/l/uYzTXEOzjEeVg7UwvZSUh3YXTtr85V7JglnWwY5llg-BGNN5ZhuE-a82DIvqQVWK/index.m3u8
+#EXTINF:-1 tvg-id="stream-58cdb6f1-2768-4d4a-b401-a0ac81ae4544" tvg-name="民視旅遊台" group-title="台湾",民視旅遊台
+http://38.134.40.167:9100/l/oRr3HI1BqLEkTy4ZezlWjABgBzDBw94uIKGyiH3_FCK9w8fJMFYkTKPuN3F0qwPi/index.m3u8
+#EXTINF:-1 tvg-id="stream-4d8a034d-7c8b-4625-9165-cffbb53b72b8" tvg-name="滾動力rollor" group-title="台湾",滾動力rollor
+http://38.134.40.167:9100/l/qDMbITZ2Cb1qP6VON9nj6wrdEmgNARBel6k0jK1he_OFN4udbnHu4IkkBd4TnWYO/index.m3u8
+#EXTINF:-1 tvg-id="stream-2eaa2ae9-8f78-491d-88d4-a79a1570262a" tvg-name="亞洲旅遊台" group-title="台湾",亞洲旅遊台
+http://38.134.40.167:9100/l/yHVntikH9mXa1XcRWv5ldIOAU30dFBB_qzIM_-MDr6hT-E5EDG9PhaS3R-WdKtok/index.m3u8
+#EXTINF:-1 tvg-id="stream-3a3d8699-639e-40a0-8cbe-8ae11c555d1f" tvg-name="幸福空間居家台" group-title="台湾",幸福空間居家台
+http://38.134.40.167:9100/l/WiyzHDJtGcLNawyUwdiVcx9cO8vTKdjg64Aee3obOrs0sAsmwJgn3FpUx9Gz-QVK/index.m3u8
+#EXTINF:-1 tvg-id="stream-2ee9c739-68e3-4a8a-99c2-26e40e278cdc" tvg-name="Love Nature" group-title="台湾",Love Nature
+http://38.134.40.167:9100/l/YUVLSAQvStG-j8NaGffbPJKaHap2oqrC4CUeNrdF6Nfb7eZobhPtGQ9p_AsTemjX/index.m3u8
+#EXTINF:-1 tvg-id="stream-ba9f4b61-06ad-479f-9281-7e3f1baf6959" tvg-name="History 歷史頻道" group-title="台湾",History 歷史頻道
+http://38.134.40.167:9100/l/r_rHB8ojPjf4e2KyyvFPRwc16Hc_yxnYpyDaMYHCKcd7KwR_up9uZbKWcInUrw8q/index.m3u8
+#EXTINF:-1 tvg-id="stream-621f98f4-1cee-498c-8b4a-4192e55bd19f" tvg-name="愛爾達生活旅遊台" group-title="台湾",愛爾達生活旅遊台
+http://38.134.40.167:9100/l/FfI-fQOest4rvedWeDvfz19p96oJ8xYI8B1X44KL0vvmZ6IvD8ZAmy4TBOHlAxIh/index.m3u8
+#EXTINF:-1 tvg-id="stream-b2b2c451-6b00-46a0-a0ac-0eb515a06c9e" tvg-name="LUXE TV Channel" group-title="台湾",LUXE TV Channel
+http://38.134.40.167:9100/l/5KODIYVF1V0v133ZBZajI6NYwQ73cvjc9VBaGd9rueUkTLLGB8EmopGb3iEHAit8/index.m3u8
+#EXTINF:-1 tvg-id="stream-761062d6-8749-430a-9266-230b9f58550f" tvg-name="TV5MONDE STYLE HD 生活時尚" group-title="台湾",TV5MONDE STYLE HD 生活時尚
+http://38.134.40.167:9100/l/gRwKaPEqVkGe80zOK9VGb6I0nc66l8RxfOSrxLx5aRtREfI7pYHB-RVpE-jgQWPU/index.m3u8
+#EXTINF:-1 tvg-id="stream-892c33fe-30aa-421c-92eb-824b061b63f5" tvg-name="MagellanTV頻道 (麥哲倫頻道)" group-title="台湾",MagellanTV頻道 (麥哲倫頻道)
+http://38.134.40.167:9100/l/OrPsS4xqj5-G2kuTBlZ4WRcxlGBn8chryZAounm_lYgVMZeM5wjf7m34X2chXsg0/index.m3u8
+#EXTINF:-1 tvg-id="stream-9c383a34-cc2d-404a-a0a8-1d00c7d9f2c3" tvg-name="CI 罪案偵查頻道" group-title="台湾",CI 罪案偵查頻道
+http://38.134.40.167:9100/l/a1w8pBbkYbMkWrFfpKoOn8Frw8eGddn6AJSoZqmTtX2sbl-fdMo9yZT12cXMi60R/index.m3u8
+#EXTINF:-1 tvg-id="stream-6a3293e8-c319-467e-b6b7-2ba304da5587" tvg-name="ROCK Xstream搖滾極限頻道" group-title="台湾",ROCK Xstream搖滾極限頻道
+http://38.134.40.167:9100/l/QXLlVJnLIeJYagYnGLnakARqdTg6_SJTlM6ZP5LjBR6W1YA0CsgvF71720e4v9Ak/index.m3u8
+#EXTINF:-1 tvg-id="stream-c11157ef-66e4-4e27-8bf9-1b8bd3bf84c9" tvg-name="公視戲劇" group-title="台湾",公視戲劇
+http://38.134.40.167:9100/l/MKaeRgM0ECUlfxQPaMhF6jFdmtzwPrjmF9lL4p7g69j9oOKCEercUhFDPJVlkR5p/index.m3u8
+#EXTINF:-1 tvg-id="stream-30496229-8d4c-4854-9799-542de5e0926f" tvg-name="民視影劇台" group-title="台湾",民視影劇台
+http://38.134.40.167:9100/l/TEMZnQ6YGUQRhkN5PYaPMg3WTxkLPNJALVPVzvs6e-dJnnriOaOHtPHHuMdHK5KJ/index.m3u8
+#EXTINF:-1 tvg-id="stream-f0609fba-3932-4295-9411-30be428b7069" tvg-name="HITS頻道" group-title="台湾",HITS頻道
+http://38.134.40.167:9100/l/WJwbLOHBjJmqMwWFc1XVhepSklKXcV-bhxMYheFxmj89LmYUpmJ20E1XREik9K_V/index.m3u8
+#EXTINF:-1 tvg-id="stream-8aa39fa8-4682-4788-a128-ef831a7858d8" tvg-name="八大精彩台" group-title="台湾",八大精彩台
+http://38.134.40.167:9100/l/M747KTur93DawhwTshSpuiCHcAlXTm8mXBDLIEiyB_kQBEXvo8Q0qTbx7tOYHjpY/index.m3u8
+#EXTINF:-1 tvg-id="stream-7aa42e63-9e87-4db9-87ad-266240d52683" tvg-name="靖天戲劇台" group-title="台湾",靖天戲劇台
+http://38.134.40.167:9100/l/K23g1PjeQ6GNIty79KRi1sJihW6FbSA_E15APUTRzk2Zb_tkKdOGuiTA30XAAeVX/index.m3u8
+#EXTINF:-1 tvg-id="stream-32496642-e118-4944-a31b-5fc9b028d838" tvg-name="靖洋戲劇台" group-title="台湾",靖洋戲劇台
+http://38.134.40.167:9100/l/IYaQUsN8VCPB173f5pt6XF5ovy3IqLKCOzAPsUAHz6oIoQn8ogOhPznPy_E5RynM/index.m3u8
+#EXTINF:-1 tvg-id="stream-83d43a5d-a913-4997-85e7-8ffcd4bd9651" tvg-name="視納華仁紀實頻道" group-title="台湾",視納華仁紀實頻道
+http://38.134.40.167:9100/l/8_o5HYFDPHSFiXJq7D4YmZuUGlwx_gzfawUn8ACC2vIuPk5zs2VzVPH4xFazyCuY/index.m3u8
+#EXTINF:-1 tvg-id="stream-cd9212d5-18e5-4b62-8efc-384f04d4e7da" tvg-name="影迷數位紀實台" group-title="台湾",影迷數位紀實台
+http://38.134.40.167:9100/l/efXhUIXhLF4q3u5qERZ11PORP7lyf3Ue1633q44ceLqGVBYwe6bvvfH2l7W5x8Rj/index.m3u8
+#EXTINF:-1 tvg-id="stream-192769ae-6c4b-4eb8-8f2f-2f88cf7f12c4" tvg-name="金光布袋戲" group-title="台湾",金光布袋戲
+http://38.134.40.167:9100/l/TKSiVbEkV3xdFu-0IUkcAWbO9lBDRBaadMTYIf2pzt_Xs-AOzaoFL7zUvDBzglCA/index.m3u8
+#EXTINF:-1 tvg-id="stream-a3411bf8-68ae-44ec-bb41-d4c20b7c5440" tvg-name="ROCK Action" group-title="台湾",ROCK Action
+http://38.134.40.167:9100/l/CL9H_4ErCds3-rAhe9CC_GJHqRLyCSedMTuRKVLZYI1ZFa3SC5ZJQeRF4grKOfnd/index.m3u8
+#EXTINF:-1 tvg-id="stream-c268c3c3-2a9e-4e28-a103-9b0bdbfb62ac" tvg-name="采昌影劇台" group-title="台湾",采昌影劇台
+http://38.134.40.167:9100/l/tFPY5qBHN4pFd_7-QWR8qZEfV7krAYyiohiKDxIbrxIaAVgG2wiXbuL6PB5jbZRj/index.m3u8
+#EXTINF:-1 tvg-id="stream-63d8e8d7-e463-4711-b54a-db9898abcb59" tvg-name="靖天映畫" group-title="台湾",靖天映畫
+http://38.134.40.167:9100/l/SxI8xtHYnjAPmsGPtpFc6sdOp2ng38cjElUMYbvqzlSuezYBXP5mK1HMzhXnBLTx/index.m3u8
+#EXTINF:-1 tvg-id="stream-030db5ff-61fd-43d4-b68d-f5919f156d86" tvg-name="靖天電影台" group-title="台湾",靖天電影台
+http://38.134.40.167:9100/l/7zxFcm244eP12uNT_9SdJn6dN5NyC-89L_Fo0T7RM3zb8pCK-hm1vAv7OdmZcaAX/index.m3u8
+#EXTINF:-1 tvg-id="stream-89b8351a-b8e1-4346-8b81-faf1e32c6228" tvg-name="wedotv Movies" group-title="台湾",wedotv Movies
+http://38.134.40.167:9100/l/f0ZlSTnUkiSJHp7Jh8f-Ns5BeQE0ON8zIa4I4di-DOZXLNB267qSIkFuTuT4vyKr/index.m3u8
+#EXTINF:-1 tvg-id="stream-f97ead98-4047-45ed-a9be-7e7cc32a7590" tvg-name="影迷數位電影台" group-title="台湾",影迷數位電影台
+http://38.134.40.167:9100/l/wm2sALZa_595_SxJ50azqViFb-4RksjbriWZAcIuCjagVDrMKO0_26WUdu9PHmiG/index.m3u8
+#EXTINF:-1 tvg-id="stream-a4e98941-a656-4a2a-93d6-2106476e6a31" tvg-name="amc電影台" group-title="台湾",amc電影台
+http://38.134.40.167:9100/l/TznYH9_cq7HRBYVTVF1Rifbw2Rxq5dhQmt2ALWPwgGEGdK7w1t01uFPJViAsieaW/index.m3u8
+#EXTINF:-1 tvg-id="stream-3e1d4f37-fecc-42ad-9caf-a037881eaa47" tvg-name="CinemaWorld" group-title="台湾",CinemaWorld
+http://38.134.40.167:9100/l/1NqB7j97nAWrCAEk3PlJSGp75xT7OQyUNbw7FW9u4JeEe-KNLQSOAvd7VpXhj8hW/index.m3u8
+#EXTINF:-1 tvg-id="stream-be9cb455-62de-4336-8550-879a06825d6a" tvg-name="My Cinema Europe HD 我的歐洲電影" group-title="台湾",My Cinema Europe HD 我的歐洲電影
+http://38.134.40.167:9100/l/3clOcv9ukJjiFvVxQw8iP8sZjc0WLluIgkdjCJSpRJv3DSyklpPE9iJi_TbOehYc/index.m3u8
+#EXTINF:-1 tvg-id="stream-ecd9a343-05fa-4d31-afdb-bcb969e0ae4d" tvg-name="經典電影台" group-title="台湾",經典電影台
+http://38.134.40.167:9100/l/srOE6YQ-KsndbZpa9oX3e182dx7_nJvFQxccL190HAx5EU-bsP9oHsqpt6W9znw_/index.m3u8
+#EXTINF:-1 tvg-id="stream-89b42e23-90d6-497e-ad3b-e848f33ac88c" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
+http://38.134.40.167:9100/l/tc4oigT8VSZbXzXuSz_n-cDsDuIeUHwTkUmoZObxqjN0y6FeF5ZeKkV2o572CvE0/play
+#EXTINF:-1 tvg-id="stream-022724d3-0cac-4f30-88bf-b7511b4fcaff" tvg-name="東森新聞" group-title="台湾",東森新聞
+http://38.134.40.167:9100/l/WzNkiyLdPhkbUsaLMVre2ticjH2vRVlLqjyl0_dl6zf8S4O_ptGvKwKxxqvCuirK/play
+#EXTINF:-1 tvg-id="stream-39d9bf92-ba19-4f97-84cd-669dd61ae3ad" tvg-name="三立iNEWS" group-title="台湾",三立iNEWS
+http://38.134.40.167:9100/l/x9aHC3cahVkZAeYntggXrLCAPQSJgWP4i_Ex8HUFi8VO18wsz8uyRt4theFR55RC/play
+#EXTINF:-1 tvg-id="stream-f95e57c0-c02a-4e59-973b-862d731be2ae" tvg-name="民視新聞台" group-title="台湾",民視新聞台
+http://38.134.40.167:9100/l/QiuptGCla45fKHvYz9AzrCWS5ugOkjOUtPQnlq32R2spSHu1zlhJEBC7do_IqSQl/play
+#EXTINF:-1 tvg-id="stream-26aa9151-4571-48a5-be64-31356b59aad0" tvg-name="鏡電視新聞台" group-title="台湾",鏡電視新聞台
+http://38.134.40.167:9100/l/zJBqiWlvvKanCcIuIUG2A94b2mnBCRwLDUVuOWyITAG2QxEfUkJAUoC0zLd_PoAO/play
+#EXTINF:-1 tvg-id="stream-c6d19da9-9f9b-4781-a253-6ed915f64f1d" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
+http://38.134.40.167:9100/l/A__nhNGIynDpcIW3vYqnSSwgQT803jfNSNeFUq1gKBxdB0yDucD8abwKcjHiUobn/play
+#EXTINF:-1 tvg-id="stream-e35e6b00-c882-4b57-931a-5ece75bf8a3a" tvg-name="Bloomberg TV" group-title="台湾",Bloomberg TV
+http://38.134.40.167:9100/l/uq7T0wZXzH1S4PCo_eK9Na_chfIBDzAx743S8gzwF5W0Z-K19GDhnD0dhMNtBrqn/play
+#EXTINF:-1 tvg-id="stream-136b2675-1454-430d-928d-08f4068a09e6" tvg-name="CNBC Asia" group-title="台湾",CNBC Asia
+http://38.134.40.167:9100/l/osJFqE__Xww7QyYTCtAc_CdxDTVXe2hMQBLg8T35fUU9nrGpqZMOKZSVWA5NiWiR/play
+#EXTINF:-1 tvg-id="stream-cdceace1-3027-49ba-a7f9-8438d24bed07" tvg-name="FRANCE 24" group-title="台湾",FRANCE 24
+http://38.134.40.167:9100/l/Q_tHK6oMDofxWi1_CUOPQqM0hsZ4V-0qTuwLTlTpjpTgQIDGAF1CJ7BzjbJieWe0/play
+#EXTINF:-1 tvg-id="stream-ce6b2028-3f75-4abf-8e36-2f00203c1d5f" tvg-name="亞洲新聞台" group-title="台湾",亞洲新聞台
+http://38.134.40.167:9100/l/ukqjCy4ZfbvP2GN8W9_5iq6VI6eAGLHKGAjx6aZP5aDhCRqeuRHYYu5C--jQyVu6/play
+#EXTINF:-1 tvg-id="stream-61e7493c-2c93-4457-b750-6a6a99b38aca" tvg-name="NHK新聞資訊台" group-title="台湾",NHK新聞資訊台
+http://38.134.40.167:9100/l/ENgQoqKez8mren6X9m2TltnJH3cLf_hyYce1kqgr6HMPq3L-Kr5kL5jh86wpX9pL/play
+#EXTINF:-1 tvg-id="stream-0bf3d125-bfea-4b0f-bb9f-16ac37c117cc" tvg-name="德國之聲電視台" group-title="台湾",德國之聲電視台
+http://38.134.40.167:9100/l/ZQ0QU67_Ql85wdBC_UOw4_bDFNCsDv5X-X8KONqjKRTY-LWDLNfEPlZse7wDVUnj/play
+#EXTINF:-1 tvg-id="stream-a60f8ee9-074f-4db2-8e1d-f0f9c859eba4" tvg-name="DAZN體育台" group-title="台湾",DAZN體育台
+http://38.134.40.167:9100/l/J3sJiqseA_W1Q6jb_JqtP-esBkGJmAcYwUNwgaOrIGokpnkDAEiYonxK8GTsiPD8/play
+#EXTINF:-1 tvg-id="stream-8436b706-f2fc-431a-b456-b2059a61769c" tvg-name="MyVideo體育台" group-title="台湾",MyVideo體育台
+http://38.134.40.167:9100/l/mSYe2ercQgeYEQ1v5JQPkiCz_E-dxlIDyTK7ZUxYW6ZPapGszBMBWXRxfLI_xSop/play
+#EXTINF:-1 tvg-id="stream-5bf3e0c8-b94d-49d8-97b9-59a296daa08b" tvg-name="博斯運動一台" group-title="台湾",博斯運動一台
+http://38.134.40.167:9100/l/4bn8XY2UbZbORD4u2sB3ZyHxWSHOYIVBXRxcX_5QrJLeZLJRPVyEjlyHvACFov5G/play
+#EXTINF:-1 tvg-id="stream-8d37fc65-dc84-48fe-847a-df01758c8c2c" tvg-name="博斯網球台" group-title="台湾",博斯網球台
+http://38.134.40.167:9100/l/ni_J1h0x1kuT7IOhcBS4tkdXj8AEAeZpMNf1GoS5zSSLLAapzOYfVwRyRoLE02MG/play
+#EXTINF:-1 tvg-id="stream-3999fe2b-2f98-4451-a8f6-33d0ea4d30b6" tvg-name="博斯高球台" group-title="台湾",博斯高球台
+http://38.134.40.167:9100/l/WYMuKXUobbYx83BAnKB8Qa33p8b_09NX9l8lmlljOMGuX7Lk28lQh9vCEz0uIbq-/play
+#EXTINF:-1 tvg-id="stream-73e16db6-1efc-4780-a07f-db0149aad98f" tvg-name="智林體育台" group-title="台湾",智林體育台
+http://38.134.40.167:9100/l/NIRbwDFCCkgkUo_E9qmNFh9Ik1JZDdufjUM5f84gbBt1nMQsR8Cg8OMd1JrCcjJM/play
+#EXTINF:-1 tvg-id="stream-e608119b-dfdd-4738-919b-3f2ee696821d" tvg-name="甘霖體育台" group-title="台湾",甘霖體育台
+http://38.134.40.167:9100/l/v6vWajn077Qjng2P9fYY0zM_M_x0G_Lk15I0lMWHP_HiqxZRAobPvpYNZZuF130b/play
+#EXTINF:-1 tvg-id="stream-9a3d2530-a372-4de3-8d6e-6e5b2f3ef094" tvg-name="CBeebies" group-title="台湾",CBeebies
+http://38.134.40.167:9100/l/3BWb3lQGAufIxN3wKaa4WqNflQ__PhmQWfU3NGo9-fcXdeNOXsPdHOoZ5QzeN8x3/play
+#EXTINF:-1 tvg-id="stream-205488c0-baf9-4964-831d-1ffe42d14c51" tvg-name="MOMO親子台" group-title="台湾",MOMO親子台
+http://38.134.40.167:9100/l/szkpbE47F_it8A-LcXIUUGTV-XtiyYbvTi8i7oyfJ_OA5s5HtEsREORDTlwmOmby/play
+#EXTINF:-1 tvg-id="stream-7886371c-0f4b-40f3-aa1b-ffe2517a0d64" tvg-name="BBC Earth" group-title="台湾",BBC Earth
+http://38.134.40.167:9100/l/qmRRZhChMOkzqaZjegWGzu1Q_H7f78GZHx39j2LIUx7drBr5BXsOOLTrcCnWczkX/play
+#EXTINF:-1 tvg-id="stream-d92b190a-1a8d-47b6-9a4e-4f41f88081fa" tvg-name="歷史頻道" group-title="台湾",歷史頻道
+http://38.134.40.167:9100/l/9FUuetDKyvDiEnlS5NpJDsI78UeON9IaOrDn-InUIstS4kql4l0756NEehSuJVge/play
+#EXTINF:-1 tvg-id="stream-0dce9b4f-d86b-4cb9-af2b-c269af0825d1" tvg-name="LOVE NATURE" group-title="台湾",LOVE NATURE
+http://38.134.40.167:9100/l/G3-CuN10LbjEUuvBDMsm-xSlHH51JHAbLDwmeaQfMjihm7hOuWT6vC-KQCGZvoAh/play
+#EXTINF:-1 tvg-id="stream-56610c59-694a-4b0c-ad2f-b94ca595dd98" tvg-name="CI 罪案偵緝頻道" group-title="台湾",CI 罪案偵緝頻道
+http://38.134.40.167:9100/l/vNQFxpnb1MqhIHaX4dZrH0kUv8IY4Ed8YpvqWj6AgRsbzo6qBxbQyZHNVS2GIN-M/play
+#EXTINF:-1 tvg-id="stream-09806e93-5310-4964-9b08-277e22d86b18" tvg-name="TVBS" group-title="台湾",TVBS
+http://38.134.40.167:9100/l/YfYUgm7comGfvt16irm1YMFTglnU0hZWR7VNVboV3BAyORs-iLujV_1eI1XF3QvR/play
+#EXTINF:-1 tvg-id="stream-2b5897e3-9a7f-4351-8582-dce68bb07c40" tvg-name="BBC Lifestyle" group-title="台湾",BBC Lifestyle
+http://38.134.40.167:9100/l/hFaNkGZe2-LsZUWlkPSsD5E04r1klIfUczcVdTJB3ugFUy-P1r5C7M3zF4L0ZKYE/play
+#EXTINF:-1 tvg-id="stream-0023f7a3-9a6e-4995-83db-d271a58bbe5d" tvg-name="Lifetime" group-title="台湾",Lifetime
+http://38.134.40.167:9100/l/LXUd5kPexmxBcGNCOpiWQQgi2bB85EG_sLYoZvF-cYjk-O-cXOuAYy1XZYO9fKnP/play
+#EXTINF:-1 tvg-id="stream-4044b8db-b74f-4162-a7d9-c520de284a52" tvg-name="ROCK Entertainment" group-title="台湾",ROCK Entertainment
+http://38.134.40.167:9100/l/qBCW7d9SMS3DJw6k0dDXT7_qlh-e6syZoA1BzQc_piH0eqRKwExc_8TPzEtAmorM/play
+#EXTINF:-1 tvg-id="stream-23ca3446-81f8-4cb7-aad4-3bcdb3b9a1ce" tvg-name="ROCK X EXTREME" group-title="台湾",ROCK X EXTREME
+http://38.134.40.167:9100/l/yBwaN629p1fTjjaHeglTVQuKf_mNG75g00tS-ArSkmBsc0S_4KxKKc94sGi18DgS/play
+#EXTINF:-1 tvg-id="stream-73468a32-0d12-4777-bc26-7de0c5abbb03" tvg-name="古典音樂台" group-title="台湾",古典音樂台
+http://38.134.40.167:9100/l/VK937RHfsCHoH7ELqZCHSRIJ3lQ9_ccTx71RbzIYX2drJvxLHcHCrjnZHk66tg_N/play
+#EXTINF:-1 tvg-id="stream-dfab3d12-7157-4674-a4d1-53faabd1fca2" tvg-name="Cmusic" group-title="台湾",Cmusic
+http://38.134.40.167:9100/l/q41BemQg2UblMDuQb073hRMqlv1b9E5o18QjOM2SDSj1ZVL3kLcM-F76b4Bic_3A/play
+#EXTINF:-1 tvg-id="stream-7a2db04f-da5a-4b93-88b0-d3ea928ba30d" tvg-name="民視" group-title="台湾",民視
+http://38.134.40.167:9100/l/M5cK0BVLjo3BLmAsefR3eyyVim7zl02s8Q0tWsmLFfUr8X0cql82AL-ZfxkBv5tg/play
+#EXTINF:-1 tvg-id="stream-3f7cd3aa-a9b9-4b29-a46b-20dc9e8b604e" tvg-name="民視第一台" group-title="台湾",民視第一台
+http://38.134.40.167:9100/l/P0Il_cIpmxEywD5K6IavJbe5Z_5hO5tKvlL9GRHJgHd3hUgy2xGRXvy-HRiecbdO/play
+#EXTINF:-1 tvg-id="stream-21cadd00-133a-48c6-b56e-c7c683220ea7" tvg-name="民視台灣台" group-title="台湾",民視台灣台
+http://38.134.40.167:9100/l/YYrqzjrSOmqa6ta8O34WyukeAGcetM0RegQSUZpIk0fjV_OsMtlFViljy0UF4El3/play
+#EXTINF:-1 tvg-id="stream-c028494e-9666-424b-a77e-1a976dc61050" tvg-name="哈哈台" group-title="台湾",哈哈台
+http://38.134.40.167:9100/l/qnXwhBpO4Vt7tmCoKnj3xgMCt8SoFtJfMMd3Fh3Zafm7Kmz4_z6yXzS-5PY3IcfK/play
+#EXTINF:-1 tvg-id="stream-90674716-9afd-4dd3-a624-a1ab399cfdc4" tvg-name="龙华卡通" group-title="台湾",龙华卡通
+http://38.134.40.167:9100/l/GGghhsesjVL7tYpOnY0EJjJC0kkMf9BXpcr1Fw3ZWc58a8EutbGN6ZUEFSlBgJvV/index.m3u8
+#EXTINF:-1 tvg-id="stream-29ac2031-3b8e-46b7-a0b0-7ae5446df3a3" tvg-name="龙华洋片" group-title="台湾",龙华洋片
+http://38.134.40.167:9100/l/FHrQ74VcudWIH7dcQeY6p0MnEmTHj3vh0DIuxm1Hg_GhYttWKsioLI5zda3EkUHF/index.m3u8
+#EXTINF:-1 tvg-id="stream-b8448267-6955-48e2-9888-a84a82328f41" tvg-name="龙华电影" group-title="台湾",龙华电影
+http://38.134.40.167:9100/l/HVuXUpuJ6QoTZnKtKzRGubbb2W8IrMBUBLeBEZudyWOA8aR_ubhzZu1jVP31_DKu/index.m3u8
+#EXTINF:-1 tvg-id="stream-2de990af-9f6d-4b95-b64b-7c971811009d" tvg-name="龙华日韩" group-title="台湾",龙华日韩
+http://38.134.40.167:9100/l/Q3eozojhkg6kZZGE2AijCfiSKcAwJV9DVuFleKalRt_jKDeY7zBSNMSQOw4RHVKA/index.m3u8
+#EXTINF:-1 tvg-id="stream-7b6a66cf-d6ee-4561-bee6-9617563a91bc" tvg-name="龙华偶像" group-title="台湾",龙华偶像
+http://38.134.40.167:9100/l/yb9cXvHZiG8aqu2isngz_i8qJTyMOC3Z0Urph9pBQyXMIY0I726BF2OgZ8rKX0PN/index.m3u8
+#EXTINF:-1 tvg-id="stream-02f26c15-07fc-44ff-a494-c163944319ee" tvg-name="龙华戏剧" group-title="台湾",龙华戏剧
+http://38.134.40.167:9100/l/eAlAR_WcgRzOuDq3FWMU0vqPh3ypPrYszMaI2BLG_qKz2xFUxwJA4f5mu90ipjO1/index.m3u8
+#EXTINF:-1 tvg-id="stream-c080d935-9e4b-4927-a6f9-54fc19947126" tvg-name="龙华经典" group-title="台湾",龙华经典
+http://38.134.40.167:9100/l/ZLDYTls_RHhKfAZnCcsJ_zHT7qxbgbZW82SQO_OUmAWMD1XngI2YIAK91buDoNWk/index.m3u8
+#EXTINF:-1 tvg-id="stream-0cb90548-3728-4eee-96c0-08d6ae670e2d" tvg-name="Now Sports Premier League 1" group-title="香港",Now Sports Premier League 1
+http://38.134.40.167:9100/l/EUAfGHulALHKuXCWVo699DlcoYCdCtCcwxYu3Hz2ztgnblj-YppfdYgB4S7NdqWz/index.m3u8
+#EXTINF:-1 tvg-id="stream-b7b0143b-1047-43a7-b94b-21a2333c1177" tvg-name="体育台 ch630" group-title="香港",体育台 ch630
+http://38.134.40.167:9100/l/qZ-t2giyYAgx7Y74JlL0dCT-iAf7idl3I_PXRYSpIl8KlR4HQ9S7ER-h61iG9OGu/index.m3u8
+#EXTINF:-1 tvg-id="stream-1103a670-e05f-4256-8f38-9d03f3f91fab" tvg-name="Now Sports 1" group-title="香港",Now Sports 1
+http://38.134.40.167:9100/l/D30ZVibKlB_zaaSOr8c6w0fJDQvIlyP2y_incNY61pXDG3UWmbJVZn3et9oNib9I/index.m3u8
+#EXTINF:-1 tvg-id="stream-12135bb2-fb88-40aa-8da2-a79b81dee791" tvg-name="Now Sports 2" group-title="香港",Now Sports 2
+http://38.134.40.167:9100/l/PHeDGYnG2sB6EuzyVqeGBsQoFEm_r1uy0TKCG-krYC0h80VogSVIvcSB7wiDmwMI/index.m3u8
+#EXTINF:-1 tvg-id="stream-6264faa7-5818-4b06-aeea-871e674f3a30" tvg-name="Now Sports 3" group-title="香港",Now Sports 3
+http://38.134.40.167:9100/l/F-vLK_G4fhdt2I7ZL5Pqcr0zXV3bxUgJK1qyTXQ_skq7v4cbh8bxPd-SLeEXp-hJ/index.m3u8
+#EXTINF:-1 tvg-id="stream-c49e71ee-b7b4-4486-8266-695d249ec517" tvg-name="Now Sports 4" group-title="香港",Now Sports 4
+http://38.134.40.167:9100/l/_3X_awPcn328fn2oQHdoeTqdw_bCeplRrSBNz3nsGtIbxv-irLuWkHvji5CatLrq/index.m3u8
+#EXTINF:-1 tvg-id="stream-1239426e-9c13-412c-ad76-1946c8900f95" tvg-name="Now Sports 5" group-title="香港",Now Sports 5
+http://38.134.40.167:9100/l/zDY0OCBV4bFcqh4-KFQQIXmzGxBfyKH0Kj6i5ljBBcSutq7eEd-95iXqW-XPcS2v/index.m3u8
+#EXTINF:-1 tvg-id="stream-d5f47f75-ca46-4335-87a3-66f693f5c28f" tvg-name="Now Sports 6" group-title="香港",Now Sports 6
+http://38.134.40.167:9100/l/1TnlqYrh5chbckt7CF38xai72Y0mR_DuxHIs2_vWf-hSKiZuUkLjPgptmv6QCHh1/index.m3u8
+#EXTINF:-1 tvg-id="stream-804f41b6-33c7-4f0d-bfe8-4deaeba3981f" tvg-name="Now Sports 7" group-title="香港",Now Sports 7
+http://38.134.40.167:9100/l/EYVqc8H_E4uJPGzpKfEcVduWifmgPDNb5gfvPGfrdOj7mF8iEJpOcJ2jBViNgwjT/index.m3u8
+#EXTINF:-1 tvg-id="stream-b91c9510-5ee4-4d01-8871-5d5ff2ada27b" tvg-name="beIN SPORTS 1" group-title="香港",beIN SPORTS 1
+http://38.134.40.167:9100/l/7MXmQuBOjRvITcgh91iCWawadurG0CJXBD8-6DaidZlARRvmceobpTjleA-bnYCD/index.m3u8
+#EXTINF:-1 tvg-id="stream-00e082e3-b0bc-4b2d-a0da-2a34f22cfade" tvg-name="beIN SPORTS 2" group-title="香港",beIN SPORTS 2
+http://38.134.40.167:9100/l/Aj8ORfzLh0vQhL1kSfq69qMlb_AFeZud6PiBLrLCVxPENk9edc1mzncrEYa2F8WA/index.m3u8
+#EXTINF:-1 tvg-id="stream-2d43c39a-b927-45a2-b06a-d960bfe53d6f" tvg-name="beIN SPORTS 3" group-title="香港",beIN SPORTS 3
+http://38.134.40.167:9100/l/OhMMg-7tTCo2U734UftNAW4gFpPr3abG3inLmQ3qfssZ2cvnMrC1SVmPKeyj3-SO/index.m3u8
+#EXTINF:-1 tvg-id="stream-27d5f169-f785-4986-9a60-303c35c31c87" tvg-name="Now Golf 2" group-title="香港",Now Golf 2
+http://38.134.40.167:9100/l/xHAKfAGx_0MITGZJkhBMlYdtXrqpYIKUpqh6-f4XL8DfpSzXYMEAGpCfnp1j2K7J/index.m3u8
+#EXTINF:-1 tvg-id="stream-a2cee09f-51df-4717-97d2-c7ec1138ef5b" tvg-name="Now Golf 3" group-title="香港",Now Golf 3
+http://38.134.40.167:9100/l/_sRq6L7nJvkTVcsLOVOvlWiU72ryRFECkDX6M6lp5cvV8HzNye4nwrAD6jA9wKlR/index.m3u8
+#EXTINF:-1 tvg-id="stream-853e8f78-a9c3-467c-a4cb-76991bf7db8c" tvg-name="曼聯電視頻道" group-title="香港",曼聯電視頻道
+http://38.134.40.167:9100/l/XX3EWLHGzd2uZbP1I-47cBhPXPjhqi6M2WKJZltGCAHWiKUrqF0CuwpRw9btaHlC/index.m3u8
+#EXTINF:-1 tvg-id="stream-ac763c59-6e43-4d99-b1e4-7adcacc29be7" tvg-name="NBA ch641" group-title="香港",NBA ch641
+http://38.134.40.167:9100/l/HFSwlv8HHfp7_HHbXUgGrR_bGU0ycyfEGsA0i0wIcy-i0N9g2F5xpVT4Om8dXelZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-2d70d0ae-572d-4564-90a0-e5c928ad7b79" tvg-name="BNA ch642" group-title="香港",BNA ch642
+http://38.134.40.167:9100/l/YYsYgYBQxjH2BfNW35InjFLnu8yXwYv-z4VnCbnth8exXrs3vMUjAKqKRTy8D3VM/index.m3u8
+#EXTINF:-1 tvg-id="stream-c2d3e42b-9bc6-44f1-bfaa-84555a25af7b" tvg-name="Now668" group-title="香港",Now668
+http://38.134.40.167:9100/l/9pvsbf_Ce1c4g-BpK2Wg-tX0k50w5ls7h809gV8Nm5zMK8BH84BCiR8KfSpDniLN/index.m3u8
+#EXTINF:-1 tvg-id="stream-1153b24b-45e6-456f-9b5e-7b00bebe2093" tvg-name="爆谷台" group-title="香港",爆谷台
+http://38.134.40.167:9100/l/mGGS4ZjJbZ4roOkz7hae1-O9zBN0zD9iitIA1hUN-11C0L-_YpW1I1TZHuCYkzc9/index.m3u8
+#EXTINF:-1 tvg-id="stream-6d7039bd-e588-4cd8-9a33-6efdebd64344" tvg-name="星影台" group-title="香港",星影台
+http://38.134.40.167:9100/l/UMn0-ntzwK4Mir1fY2poM8-KYPm9WK5RqZg5PifoLpKorQPxg-D-_eKWFwIPrvN6/index.m3u8
+#EXTINF:-1 tvg-id="stream-c741c152-60f3-4ed1-8cf0-7727da9269a9" tvg-name="HBO" group-title="香港",HBO
+http://38.134.40.167:9100/l/TBWLw7wdQrgOEAqo79DIY1-vXVHKF1hi2CDvw-_XaFw0hth_wRSW9G5fqvmJVTLX/index.m3u8
+#EXTINF:-1 tvg-id="stream-87839fb7-9915-4b24-81b2-886f5ae69527" tvg-name="HBO Hits" group-title="香港",HBO Hits
+http://38.134.40.167:9100/l/fb_t7RUZt59GJjMsY7K_Dxh1eW1WKYtH6zwBQW5EoRgRPUf7w3f2vXbemjc3stYf/index.m3u8
+#EXTINF:-1 tvg-id="stream-0b78634e-ed35-4e18-b602-feff0020adc6" tvg-name="HBO Family" group-title="香港",HBO Family
+http://38.134.40.167:9100/l/pfJA1xnks8tscgKx_WvwtKJ1c0gpseKWZ39Ok7qJOUaq62Sr951palPORL_qXlwN/index.m3u8
+#EXTINF:-1 tvg-id="stream-bb038f07-73be-4e9d-a83c-2db3a466ef9c" tvg-name="HBO Signature" group-title="香港",HBO Signature
+http://38.134.40.167:9100/l/CoUiT0o3r9G5BX6--hzsylZkjk1xMniYy0fNooe7Bwaz8w7qoSn0xmadoXYcKomF/index.m3u8
+#EXTINF:-1 tvg-id="stream-8b05dac0-68c6-48e1-b089-1387ca0295fb" tvg-name="MOVIE MOVIE" group-title="香港",MOVIE MOVIE
+http://38.134.40.167:9100/l/ZZR_H7ZvWDysTA_btBagugvgFe3PHn_NW-4gvqxEmUukFZ5Z_CpsIctaJuSfTSxc/index.m3u8
+#EXTINF:-1 tvg-id="stream-0c068c10-c549-43bb-9fa0-23cd40ce1d91" tvg-name="CINEMAX" group-title="香港",CINEMAX
+http://38.134.40.167:9100/l/LPxCjcllosPO65LciJ42UC9mmNGAJWVmggd1wG4wseyA53vqdvEvQJ54JlgxWvH_/index.m3u8
+#EXTINF:-1 tvg-id="stream-55f9fbf2-a941-4112-a1ce-e1df56f96df9" tvg-name="ViuTV" group-title="香港",ViuTV
+http://38.134.40.167:9100/l/EYjVJ72ciw5EymFJI_-0ptmduN8YLauiymyhWABJNq3ylzqSm3yuwL-zR2zXcy03/index.m3u8
+#EXTINF:-1 tvg-id="stream-ddf690f0-e0be-4594-82cf-1c1abd54b746" tvg-name="ViuTV6" group-title="香港",ViuTV6
+http://38.134.40.167:9100/l/ITPV6I4XJx632mmnIlgls2DNwQrasXiCC3CRbI5BDebpqhEOmajIrOJJhxyvQbe3/index.m3u8
+#EXTINF:-1 tvg-id="stream-be870db5-6926-4c1f-8e79-4cac15a9e652" tvg-name="Viu剧集台" group-title="香港",Viu剧集台
+http://38.134.40.167:9100/l/Hch84gApCvCrh0fMNOdmC2N5HiwyGxr13s5NtfiI37A55Sj8ZLoWW8izK6yLrRbO/index.m3u8
+#EXTINF:-1 tvg-id="stream-728d244f-0cf5-48d7-b934-337b66c58cbe" tvg-name="Now華劇台" group-title="香港",Now華劇台
+http://38.134.40.167:9100/l/fMCC7rYkZCr_42d8o2ITfu0UOwfIU_MxECM1gDkJCLcww5K2m_nJzcDwCRrxlJki/index.m3u8
+#EXTINF:-1 tvg-id="stream-2487a8d8-7f48-42f0-b69b-747dfc5094f9" tvg-name="紫金国际台" group-title="香港",紫金国际台
+http://38.134.40.167:9100/l/LvfUPnlchalA6bYmFWJGah_2JuExgP8675ZYHEGAdO1-Zodj39jNwp8ZyFo_4E3v/index.m3u8
+#EXTINF:-1 tvg-id="stream-0c543215-2dc3-4e24-b4be-422a55a7b9c2" tvg-name="Animax" group-title="香港",Animax
+http://38.134.40.167:9100/l/4nK-LWDg2XnwvxxnREnJmH4BaHpnaGdOAzfpmYO2GnSckaHYqeySfEzMQcnrRk5a/index.m3u8
+#EXTINF:-1 tvg-id="stream-4f73f974-ffb3-432d-b9cd-1ec8589a9a26" tvg-name="中天亚洲台" group-title="香港",中天亚洲台
+http://38.134.40.167:9100/l/WxixGj6S1xCfffFHAsrlCl3PtXUMGwkx85SRjJCESfJX3LuhQo-fsZpo5Hq0f5iH/index.m3u8
+#EXTINF:-1 tvg-id="stream-7b46f08c-cc32-40ec-8f34-5b869a0de51d" tvg-name="Now直播台" group-title="香港",Now直播台
+http://38.134.40.167:9100/l/WRpywyEMYRnsjttTSejQBZXGlbnFvh6mCTOQJtAgqy4DAcwsmtOqAUe0dDSdsM3l/index.m3u8
+#EXTINF:-1 tvg-id="stream-b9b70ddb-02ee-44a2-a253-d5403fb2c27e" tvg-name="Now新聞台" group-title="香港",Now新聞台
+http://38.134.40.167:9100/l/-h5pE3wTjJyCUGP17JePX2u6hn5TNCSazUtleCZKd5Q_A4YPorJjY3AWMi86Shkv/index.m3u8
+#EXTINF:-1 tvg-id="stream-c3f8adc0-7846-4c95-8692-5f2a28259f5b" tvg-name="Now財經台" group-title="香港",Now財經台
+http://38.134.40.167:9100/l/JbBGgc0eoUuTf7XaGUrRxKimm8eOqZhU7-TGlXE9WzONTuuOcz8cCj4c6C1ophho/index.m3u8
+#EXTINF:-1 tvg-id="stream-0b2c75e5-a2e7-4672-b96c-e40aa395a3b2" tvg-name="凤凰中文台" group-title="香港",凤凰中文台
+http://38.134.40.167:9100/l/x5gnXIL4G7MXFRCoYJIjyjwcoNsFS_SG3Wd71i-D5XKkm9qEF8p6emS6afV8BrA_/index.m3u8
+#EXTINF:-1 tvg-id="stream-3a18b7a2-c5a6-4760-9743-745a9301a3f8" tvg-name="凤凰资讯台" group-title="香港",凤凰资讯台
+http://38.134.40.167:9100/l/MLK8na1E_H6FvQWO_2f2fR6SzP7NAEQZX2soKhLg1USiCdeiFU5dLBnBCuJDu01e/index.m3u8
+#EXTINF:-1 tvg-id="stream-4c01645d-d0a0-44af-92c5-ecb7dc50c641" tvg-name="凤凰香港台" group-title="香港",凤凰香港台
+http://38.134.40.167:9100/l/ErdHia3ovoLZ6043DFG5D7QszdJmrm_Cgw2Av_8JaXBybgu3LT8t6fcaJ7cvL86m/index.m3u8
+#EXTINF:-1 tvg-id="stream-9e047f2e-e44b-4711-a2a4-dc626fba5db5" tvg-name="852 Hub Ruyi" tvg-logo="https://poster.starhubgo.com/Linear_channels2/852_1920x1080_HTV.png" group-title="hubStarhub",852 Hub Ruyi
+http://38.134.40.167:9100/l/MBIJ32EPmVpy68-v2qzeh-mrY89TbAEcRIPuPkh-dICd5Z3buFrjv2NlJVXsjXlV/index.m3u8
+#EXTINF:-1 tvg-id="stream-599666cf-4ef3-41cf-9a7f-58582aa60965" tvg-name="101 Preview Channel" tvg-logo="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png" group-title="hubStarhub",101 Preview Channel
+http://38.134.40.167:9100/l/iF3j2Nk_4rn0l6VTIctUIqlL2oocZoqPYW5RJ3Ms7u0L3OUqbmYmpvVpjKO0G3Wh/index.m3u8
+#EXTINF:-1 tvg-id="stream-87d0d0a5-91a3-4f19-bf16-6df71e311dd8" tvg-name="102 Channel 5 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="hubStarhub",102 Channel 5 HD
+http://38.134.40.167:9100/l/42OiMvHhzurrtlL9KL9-mBUrDlczIxQpnNc-Sb_z6aFozn8_UtSQ2_GJZ31UqrdD/index.m3u8
+#EXTINF:-1 tvg-id="stream-eb9f9385-8cc1-428a-ad17-d4a5cc221d1a" tvg-name="103 Channel 8 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="hubStarhub",103 Channel 8 HD
+http://38.134.40.167:9100/l/IG7fdHHr3r5uCLihUPGQJSLUv3tCpnrra_-Tff0mCBtbGwdh5U6nUKJ8Omc2PDSG/index.m3u8
+#EXTINF:-1 tvg-id="stream-48576dee-da1b-4db7-8678-53b4b9d3ade4" tvg-name="104 Suria HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="hubStarhub",104 Suria HD
+http://38.134.40.167:9100/l/iG0wndcLcLqOIryXrswNAEFA7vilm-9Dg8VCVP0f8FlJG-tab2kmN1OCK9w3jLn_/index.m3u8
+#EXTINF:-1 tvg-id="stream-9fe92d90-4ee6-437d-8a17-51dfe335972a" tvg-name="105 Vasantham HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-title="hubStarhub",105 Vasantham HD
+http://38.134.40.167:9100/l/2svTTlgf7iFRvIP0szIhq7Uux-bRnYd48pJeeHv5YSWyzILF_jq3u-bkJWJM22Qw/index.m3u8
+#EXTINF:-1 tvg-id="stream-990bdde4-9d4b-4a61-bfc1-a1a68f415eef" tvg-name="106 Channel News Asia HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" group-title="hubStarhub",106 Channel News Asia HD
+http://38.134.40.167:9100/l/Q9eiMCjtIWcs5bNczz6WEsRphb4HtVEWc-9Id4qFekwyBbzD_BIzE15Pcn3bU4iu/index.m3u8
+#EXTINF:-1 tvg-id="stream-5efecee3-6bc2-4126-9107-8f47bf8defd4" tvg-name="107 Channel U HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="hubStarhub",107 Channel U HD
+http://38.134.40.167:9100/l/d_JYBNJoqBtstDcWMlNjMuZIWwtqd5wGRBVc-YE5sOGMIlzDNA5o5Kv0EHGgumEW/index.m3u8
+#EXTINF:-1 tvg-id="stream-d867ca1f-fcae-4b17-b997-ac365991e293" tvg-name="111 Hub E City HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/111_1920x1080_HTV.png" group-title="hubStarhub",111 Hub E City HD
+http://38.134.40.167:9100/l/qBbDE9oOKbKiFtmLM2OlPbaEtJeZ1waxHLwZK-vI2KJsvz7NovM4a9rYPh0E3_S9/index.m3u8
+#EXTINF:-1 tvg-id="stream-ae22a1f6-1362-4f8a-b251-c43fe3fc4aea" tvg-name="115 Citra Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/115_1920x1080_HTV.png" group-title="hubStarhub",115 Citra Entertainment
+http://38.134.40.167:9100/l/6klhh-2Ke6ghknkNEvg3Rr0GSEKZxYIAMKCw2fliE8EwtIdXC3J1RlPhwjEPMG6g/index.m3u8
+#EXTINF:-1 tvg-id="stream-cbd394c1-537f-455a-b475-d5dc0312410c" tvg-name="116 Karisma" tvg-logo="https://poster.starhubgo.com/Linear_channels2/116_1920x1080_HTV.png" group-title="hubStarhub",116 Karisma
+http://38.134.40.167:9100/l/Yxq3gPpUmkUkn4Dow6WJiLw-ulzduu4Caen1X7TyRJVx69RMtnF-bdkB-plU0Nst/index.m3u8
+#EXTINF:-1 tvg-id="stream-b6859d4c-0bac-418a-9b8f-62b80602f8a1" tvg-name="118 Astro Warna HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png" group-title="hubStarhub",118 Astro Warna HD
+http://38.134.40.167:9100/l/bHZLlynxl7Rf9XY_VxEvm9TMGfGsmsQ80Xcjk-EcfbjbeuaUZHdI5IzEAbjqQhRc/index.m3u8
+#EXTINF:-1 tvg-id="stream-c1cf5846-3a9d-4cd0-b2f1-42f04bfe61c3" tvg-name="123 Astro Sensasi HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png" group-title="hubStarhub",123 Astro Sensasi HD
+http://38.134.40.167:9100/l/lknnQM31NwwuwI7t_tAcAef_Aw-FG5UcztofUTSWM1MjY5k55xwWLRE8p1kpqtPH/index.m3u8
+#EXTINF:-1 tvg-id="stream-26577dd2-ada2-42c3-bbbd-e95be8453231" tvg-name="124 ONE (Malay)" tvg-logo="https://poster.starhubgo.com/Linear_channels2/124_1920x1080_HTV.png" group-title="hubStarhub",124 ONE (Malay)
+http://38.134.40.167:9100/l/6-Rgu95eKkWr7Va50vJJMaFJwBR1UE0t3mLeHwO8WmdU3AS9LUJd9CHk8Z3SWMtq/index.m3u8
+#EXTINF:-1 tvg-id="stream-197331cb-929e-4cef-a4b8-fc3ac03460ae" tvg-name="125 Zee TV" tvg-logo="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png" group-title="hubStarhub",125 Zee TV
+http://38.134.40.167:9100/l/JS9L7Z3418x_RQKyYAe8fbZ3i6xdG8jLXyOqb-wclaJDEmaK-ORdCejIMkCs4UZh/index.m3u8
+#EXTINF:-1 tvg-id="stream-a339b05f-ec99-41b2-95ec-cf302b746f69" tvg-name="127 Sony Entertainment Television" tvg-logo="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png" group-title="hubStarhub",127 Sony Entertainment Television
+http://38.134.40.167:9100/l/y8OYQBgNXOcM5l0wJy2RYnAMEwChIMxBuIy856DH8KWXejaBBB3k2PfofpYZELB7/index.m3u8
+#EXTINF:-1 tvg-id="stream-d86ba274-78db-4e8d-8c61-4e5667e24894" tvg-name="128 COLORS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/128_1920x1080_HTV.png" group-title="hubStarhub",128 COLORS
+http://38.134.40.167:9100/l/JvsADrbKyp1K8taSNQAeK_NOpVEFrwdKLmn5tvL2kotsza425uhMCQ8D5x-Wyi-z/index.m3u8
+#EXTINF:-1 tvg-id="stream-f76d5a15-0057-4770-b23e-658249feb08f" tvg-name="130 Zee Cinema" tvg-logo="https://poster.starhubgo.com/Linear_channels2/130_1920x1080_HTV.png" group-title="hubStarhub",130 Zee Cinema
+http://38.134.40.167:9100/l/k4_3k-_kOho26hREJqp1zd7Cuy4Z8b-5enqIF4bXpkcTNrOrAkec2JUfLYCczhtt/index.m3u8
+#EXTINF:-1 tvg-id="stream-2628ab9d-2b14-4bab-9c14-e296c3ab02df" tvg-name="131 SONY MAX" tvg-logo="https://poster.starhubgo.com/Linear_channels2/131_1920x1080_HTV.png" group-title="hubStarhub",131 SONY MAX
+http://38.134.40.167:9100/l/3pgx3EXD76XVEtVCWRZCnD1q290ledspftua1OPWMiFvWl4BdI-V3wgpMBGQHNCk/index.m3u8
+#EXTINF:-1 tvg-id="stream-e42938b4-d4b3-4276-8813-f6eb36a0854b" tvg-name="132 COLORS Tamil HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/132_1920x1080_HTV.png" group-title="hubStarhub",132 COLORS Tamil HD
+http://38.134.40.167:9100/l/cEXboyNvg4mTTyGKwa6kvdxEu5vPT47pbJZhgt5tH0_NKhXiSsUgsqBOXfwfHQQX/index.m3u8
+#EXTINF:-1 tvg-id="stream-05b9c619-2716-4b84-8aaf-d924ce99bef9" tvg-name="133 Sun TV HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png" group-title="hubStarhub",133 Sun TV HD
+http://38.134.40.167:9100/l/KdRRKJIA9R7UqPppPPv-S-PwxbfpoXHN7MCui00IaxSMYiAM-XepQH2ZR93GOhk6/index.m3u8
+#EXTINF:-1 tvg-id="stream-4aee566f-3cf4-46b5-b7d6-66bfeaf98b30" tvg-name="134 Sun Music" tvg-logo="https://poster.starhubgo.com/Linear_channels2/134_1920x1080_HTV.png" group-title="hubStarhub",134 Sun Music
+http://38.134.40.167:9100/l/UvreFIfl6lpHZmaZoV3-fkwEtTtg9x1NhdYf_OqBSGeMCM8roCPwzj--Wig3EfSY/index.m3u8
+#EXTINF:-1 tvg-id="stream-6706b2d2-c11d-4c30-bf40-dd8e051c447b" tvg-name="135 Vijay TV HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/135_1920x1080_HTV.png" group-title="hubStarhub",135 Vijay TV HD
+http://38.134.40.167:9100/l/Sv5W2lmwOWYy5gPaiOkeENP0TMUikOVyB3jRs3VSOJBqIiFo_Zt6mHZI_l2nXFK1/index.m3u8
+#EXTINF:-1 tvg-id="stream-b1c9657d-49c4-465e-bfda-d0f9bd9dd76e" tvg-name="137 Zee Thirai" tvg-logo="https://poster.starhubgo.com/Linear_channels2/137_1920x1080_HTV.png" group-title="hubStarhub",137 Zee Thirai
+http://38.134.40.167:9100/l/CJ_rB0ZR1Xv4Zfpxvo5AKmR1iOKf6EnCr-l88LY6zhTFQZ8NMYCeYMIzzdBd0qUV/index.m3u8
+#EXTINF:-1 tvg-id="stream-53ea5e42-d302-4c88-8545-b2b1bfa0732b" tvg-name="138 Zee Tamil" tvg-logo="https://poster.starhubgo.com/Linear_channels2/138_1920x1080_HTV.png" group-title="hubStarhub",138 Zee Tamil
+http://38.134.40.167:9100/l/zyYtwiHFGh0NPAXReKd1LTm4z4KycHq0OH-mA2pn_7e-3qr6Ry5rQXUXrS6Cw9SI/index.m3u8
+#EXTINF:-1 tvg-id="stream-73163735-e455-4ee1-bdb6-23d24244b73a" tvg-name="139 Asianet" tvg-logo="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png" group-title="hubStarhub",139 Asianet
+http://38.134.40.167:9100/l/8AXzHTgkLEHO8FyytSqcrfDqo_DNrZVAjH6OSKI56j9bOy9vhDInzqDPWI5SvcvR/index.m3u8
+#EXTINF:-1 tvg-id="stream-0ef64623-9449-4b83-97c8-a897c5dd9964" tvg-name="140 Asianet Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png" group-title="hubStarhub",140 Asianet Movies
+http://38.134.40.167:9100/l/r8wMtgobfld6oyrCViqIT7KInpn0XP08OFaVLJZBWKhrFSZ6fjP-9r4YrY_n7X4e/index.m3u8
+#EXTINF:-1 tvg-id="stream-bbae9254-9f71-4b4e-b47e-189d078fe1cc" tvg-name="141 Kalaignar TV" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="hubStarhub",141 Kalaignar TV
+http://38.134.40.167:9100/l/-ffvhLuBUzEn6KAFEpDENIGIH02EVW36fZQJ_F8rhVCc0pl4izSVVr9iSsX0vXnH/index.m3u8
+#EXTINF:-1 tvg-id="stream-4cf96aa6-7d7d-4687-978b-a3dc11a80509" tvg-name="143 ANC" tvg-logo="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png" group-title="hubStarhub",143 ANC
+http://38.134.40.167:9100/l/Qb-1q8Gn4cTwLUD4hztVCEcDT3ZYJ4t5LenffueEOQ32p23ARKPLFXsPe3Mmvky9/index.m3u8
+#EXTINF:-1 tvg-id="stream-5be4fa69-1c73-42c6-ad8e-6f3db144e18a" tvg-name="144 The Filipino Channel HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png" group-title="hubStarhub",144 The Filipino Channel HD
+http://38.134.40.167:9100/l/1pnd6zVMfatrVQkf60wQ5Qrev3nG-ox6LDn7YOIDA7E83C0442KmdoGPsl33GceV/index.m3u8
+#EXTINF:-1 tvg-id="stream-a0abfadd-98da-4ea9-a5ea-c4c2e3856561" tvg-name="145 Cinema One Global" tvg-logo="https://poster.starhubgo.com/Linear_channels2/145_1920x1080_HTV.png" group-title="hubStarhub",145 Cinema One Global
+http://38.134.40.167:9100/l/uEmwIUY1fRrpo71TW5_iRszqpH_xwwWFmygjNJNljeyNxvUfNimHW9Jk5OZSs_Q9/index.m3u8
+#EXTINF:-1 tvg-id="stream-e6e15714-cefe-4565-a4e3-087fbebd5ae9" tvg-name="152 TV5MONDE HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/152_1920x1080_HTV.png" group-title="hubStarhub",152 TV5MONDE HD
+http://38.134.40.167:9100/l/Ya6MgZKyVu6_BFx4fhVj79Tg0hlN7iOk5uhj8LreIHpY7KyprgU543DvmY6gRU1b/index.m3u8
+#EXTINF:-1 tvg-id="stream-24723b82-551f-4c74-88c2-f945bedb0cf4" tvg-name="153 DW English HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png" group-title="hubStarhub",153 DW English HD
+http://38.134.40.167:9100/l/qHTotAM3UjOQ3qI_nTGkjlsca6ZtVzZStYhjCN4aHnnNTX9sd7KAkDUPAihJ3mYe/index.m3u8
+#EXTINF:-1 tvg-id="stream-e7b7d60a-a578-41eb-a9b7-75dcddd40d2f" tvg-name="158 ADITHYA TV" tvg-logo="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png" group-title="hubStarhub",158 ADITHYA TV
+http://38.134.40.167:9100/l/_z8yj5LT0vUrwSv8qx5FkswE9sY2PlvOhkyFmla_PTCtI4ctdz4nTiOlQT214BIV/index.m3u8
+#EXTINF:-1 tvg-id="stream-62cd4c2e-ffe2-45db-8de8-4f22a77729ba" tvg-name="159 KTV HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png" group-title="hubStarhub",159 KTV HD
+http://38.134.40.167:9100/l/9C3WJOEaVTCDhJxLSJ-XVRGvnQ6rl5JvP95lJ2DOqCoUwkqxlOe_B8A_2azOkqLT/index.m3u8
+#EXTINF:-1 tvg-id="stream-218a7c6d-5feb-435a-bd5b-6460873f4d5b" tvg-name="201 Hub Sports 1 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png" group-title="hubStarhub",201 Hub Sports 1 HD
+http://38.134.40.167:9100/l/HcbZX5rglTf4UminVgwSRHi0oE38k8a5Oz1vjqNyteJud7V5thV-ZeGt-1P0DRBH/index.m3u8
+#EXTINF:-1 tvg-id="stream-7cdec5b2-4a16-46e1-b1ea-c26140932009" tvg-name="202 Hub Sports 2 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/202_1920x1080_HTV.png" group-title="hubStarhub",202 Hub Sports 2 HD
+http://38.134.40.167:9100/l/pTtwQSVeojj5C4K2ivV-m40k5VIa95VB0zlIii-MiipFSEbL05YC2BMaXq2YEPxr/index.m3u8
+#EXTINF:-1 tvg-id="stream-a9c372ee-3df2-471f-885b-e607e9fec3d7" tvg-name="203 Hub Sports 3 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/203_1920x1080_HTV.png" group-title="hubStarhub",203 Hub Sports 3 HD
+http://38.134.40.167:9100/l/0yKLuKAEkGZDClGwhNgzy-xAmrCA0KZzjHKT6xlZVQ_sRv2A9DPlbu7iqbNuVMuT/index.m3u8
+#EXTINF:-1 tvg-id="stream-0c935567-a51f-47e8-ac11-870e54cf164b" tvg-name="204 Hub Sports 4 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/204_1920x1080_HTV.png" group-title="hubStarhub",204 Hub Sports 4 HD
+http://38.134.40.167:9100/l/VByXJ412luTzEvjjTSNFdK35qrIYHaiPoJasgoaHIRq-kpu_xNjyP9qWnTY_RSrz/index.m3u8
+#EXTINF:-1 tvg-id="stream-d424b745-821f-463e-909b-2943c725e232" tvg-name="205 Hub Sports 5 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png" group-title="hubStarhub",205 Hub Sports 5 HD
+http://38.134.40.167:9100/l/mjgJEikyzFkf3o0wosWxdyl2rOyZjoU_XM-2ZsqxKEkBGW-AoySw4tLVbqC1s2yj/index.m3u8
+#EXTINF:-1 tvg-id="stream-b3051424-e0cb-4c73-beca-3de60000e369" tvg-name="206 Hub Sports 6" tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png" group-title="hubStarhub",206 Hub Sports 6
+http://38.134.40.167:9100/l/GPFrGDu4r31bzXD287dh60fM0jtr8tivXPFOQXrHMRH6upLauc9obBV3FShWxlhT/index.m3u8
+#EXTINF:-1 tvg-id="stream-0f3014e2-8a72-4634-9f49-017fc701c833" tvg-name="207 Hub Sports 7" tvg-logo="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png" group-title="hubStarhub",207 Hub Sports 7
+http://38.134.40.167:9100/l/GO7os01raOiUetqfWb4dxH_c0gGZdZ7PXRpGvEq_dHdzh85AV3M_OWXthbD22764/index.m3u8
+#EXTINF:-1 tvg-id="stream-9d10cf6e-67c0-49de-b74f-027bb02dde74" tvg-name="208 Hub Sports 8" tvg-logo="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png" group-title="hubStarhub",208 Hub Sports 8
+http://38.134.40.167:9100/l/DVUJnYKDEsBUs38382a7XwQiLkHBULoMTMgYUryI1hSKOnyMYPB_JND4e4b5FiIj/index.m3u8
+#EXTINF:-1 tvg-id="stream-e107c034-2540-4207-81c5-86d36dabffff" tvg-name="209 SPOTV" tvg-logo="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png" group-title="hubStarhub",209 SPOTV
+http://38.134.40.167:9100/l/zio-3gTutcmagqD-e71SF4NO6_ufTQAa4oVcEGYiLyepmMjy-ox2F-dWOf5GZ5qA/index.m3u8
+#EXTINF:-1 tvg-id="stream-a5889834-5ea3-447f-9b1d-56a2508a7714" tvg-name="210 SPOTV2" tvg-logo="https://poster.starhubgo.com/Linear_channels2/210_1920x1080_HTV.png" group-title="hubStarhub",210 SPOTV2
+http://38.134.40.167:9100/l/WwuZZVtPPNA3CNLyN0EVg8wlcTg0w2i5-KHMcKYieT8SvUzFFNrhNxMHn-BLbdks/index.m3u8
+#EXTINF:-1 tvg-id="stream-e4eff011-87b4-4930-b33c-82112659cfff" tvg-name="211 beIN Sports 2 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/211_1920x1080_HTV.png" group-title="hubStarhub",211 beIN Sports 2 HD
+http://38.134.40.167:9100/l/iwECugF4T8I5ji5vbsEL_vQi7fMvuzphylDG1zw22ktPm8obEpsP95vm0ejwjwhy/index.m3u8
+#EXTINF:-1 tvg-id="stream-ffbeb6b3-252e-4ce7-9c14-933ada69779f" tvg-name="213 beIN Sports HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/213_1920x1080_HTV.png" group-title="hubStarhub",213 beIN Sports HD
+http://38.134.40.167:9100/l/J8djFDYpSSkg9zxCZC2MPusHa6U8cqMhAXVdPi3kC4vwQNeDbeF1O5TAoG2tIxoH/index.m3u8
+#EXTINF:-1 tvg-id="stream-ca087246-6665-45de-b090-0551a1e1cabf" tvg-name="214 beIN Sports 3" tvg-logo="https://poster.starhubgo.com/Linear_channels2/214_1920x1080_HTV.png" group-title="hubStarhub",214 beIN Sports 3
+http://38.134.40.167:9100/l/fi0X7w5R3vKNDQXItoEmABeKZjqCYfD44xnkJrxAjq8cavRWjaQYTih0uCFOjVFm/index.m3u8
+#EXTINF:-1 tvg-id="stream-66147475-d3d6-42e6-8e05-3542f3367415" tvg-name="215 beIN Sports 4" tvg-logo="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png" group-title="hubStarhub",215 beIN Sports 4
+http://38.134.40.167:9100/l/8ZS_JKP2ZM2cDFTs-GQ0G7r9fXfMjR3Oic5yZmC3wqxurEcpnjh4V4I0XpliykSQ/index.m3u8
+#EXTINF:-1 tvg-id="stream-3eeb12df-30b4-4ba8-a716-be9a236d16df" tvg-name="216 beIN Sports 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png" group-title="hubStarhub",216 beIN Sports 5
+http://38.134.40.167:9100/l/7evCD0TfQSHZ71uLEPsf-ceH0TH6bJ-ccmDiKxAWMR4v-m-86ezeMOKM341e60iK/index.m3u8
+#EXTINF:-1 tvg-id="stream-c9644b63-f339-4a62-bcf8-d6bd1efa86cb" tvg-name="221 Hub Premier 1" tvg-logo="https://poster.starhubgo.com/Linear_channels2/221_1920x1080_HTV.png" group-title="hubStarhub",221 Hub Premier 1
+http://38.134.40.167:9100/l/1UEELMFDomvn0vq1Iwbp1a0nUpUmDYIo5CnJew2LYyWvm-U0a7L1ETnVCA7CLEjn/index.m3u8
+#EXTINF:-1 tvg-id="stream-22225098-9180-43be-9636-457dd63afbb9" tvg-name="222 Hub Premier 2 (HD)" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png" group-title="hubStarhub",222 Hub Premier 2 (HD)
+http://38.134.40.167:9100/l/JNwTzKnfz8KqZ0hGKIMoBxA4d14GNiXZLIFy-aM_mc-SP-5xnqCm8DjtILJFbRTL/index.m3u8
+#EXTINF:-1 tvg-id="stream-04a94927-e3aa-449f-b009-2652e8b01cb0" tvg-name="223 Hub Premier 3" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png" group-title="hubStarhub",223 Hub Premier 3
+http://38.134.40.167:9100/l/SkxDi11NKRQsa-hWFkKMpadMlZOkjZAeOMhFtObay5M_7vhnNhkBZ1Kq2bqralPM/index.m3u8
+#EXTINF:-1 tvg-id="stream-5f8630f9-1da1-449e-b5d8-d93607b1dfbc" tvg-name="224 Hub Premier 4" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png" group-title="hubStarhub",224 Hub Premier 4
+http://38.134.40.167:9100/l/S2rMqrbSbyiboOdy2S-z9bvKuxFzzCVGb-WYcOcDeeDGOUg_GCmk3a83wmLxnmYW/index.m3u8
+#EXTINF:-1 tvg-id="stream-efc0115e-18c6-4ce8-8302-b67103578e75" tvg-name="225 Hub Premier 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/225_1920x1080_HTV.png" group-title="hubStarhub",225 Hub Premier 5
+http://38.134.40.167:9100/l/sufeDgwlCeis6ynh1nr2NE2p8L992qBSeeadMqqhx4g7Nlnabu5g8cegHmE1FBEK/index.m3u8
+#EXTINF:-1 tvg-id="stream-59231300-25af-41f4-a903-e0c04a3d0fe3" tvg-name="226 Hub Premier 6" tvg-logo="https://poster.starhubgo.com/Linear_channels2/226_1920x1080_HTV.png" group-title="hubStarhub",226 Hub Premier 6
+http://38.134.40.167:9100/l/-BKIIKRh4lP9SIIAlyIpDixLMsWOYPeUYYFVnpm8hqFphWGKJUBvz7D1bQGJ9VMy/index.m3u8
+#EXTINF:-1 tvg-id="stream-e3cc155c-16ac-4470-8efa-e570bddaf795" tvg-name="241 FIGHT SPORTS HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/241_1920x1080_HTV.png" group-title="hubStarhub",241 FIGHT SPORTS HD
+http://38.134.40.167:9100/l/vNjey-fu-SlPtPRPgBzPCEiRTZGiWQuHUogRIzcmu25MyNIrH_RwtgyChiPhJ4gg/index.m3u8
+#EXTINF:-1 tvg-id="stream-e04ad8fb-d00d-48ef-8930-05b068cbb377" tvg-name="303 Cbeebies HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png" group-title="hubStarhub",303 Cbeebies HD
+http://38.134.40.167:9100/l/PRmeZBhfOMR1SJc4cCXATMdcFqq1SNC_Tysm3Sxy_HPf_NDur-WXxFo_SLKusPt0/index.m3u8
+#EXTINF:-1 tvg-id="stream-8e9f0898-adb1-4b83-8a80-f28fae10936d" tvg-name="304 Nick Jr" tvg-logo="https://poster.starhubgo.com/Linear_channels2/304_1920x1080_HTV.png" group-title="hubStarhub",304 Nick Jr
+http://38.134.40.167:9100/l/CesiKrj-7xiCxjFx-WeLhDh-ug-RgRzIJ7dKS8i7tWS4XYiokU_TFM4oxk9mnmA_/index.m3u8
+#EXTINF:-1 tvg-id="stream-bca83ea6-4dda-4a6c-b60b-36c5d22d0819" tvg-name="307 DreamWorks Channel HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/307_1920x1080_HTV.png" group-title="hubStarhub",307 DreamWorks Channel HD
+http://38.134.40.167:9100/l/TmPAV6xXb1yfZ6UkW4qWzMpjiIqC9iv131Q3gOxkvn1kC9t9sXEYvVxdpg_jO0cC/index.m3u8
+#EXTINF:-1 tvg-id="stream-f345aabb-cd73-40cd-9b94-07dd461345a0" tvg-name="314 Nickelodeon Asia HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/314_1920x1080_HTV.png" group-title="hubStarhub",314 Nickelodeon Asia HD
+http://38.134.40.167:9100/l/stoZ1JpzkiAklxsuYBU1yKKe80b2TOH2rfvouTwnAnr5PQtwSa9dvFPCYKhkkDiE/index.m3u8
+#EXTINF:-1 tvg-id="stream-7b723ed9-cbb9-41bf-91ac-95df4c5e7c41" tvg-name="316 Cartoon Network" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="hubStarhub",316 Cartoon Network
+http://38.134.40.167:9100/l/2vExuFNQbk2-guogvY8Hd59MMGFAbMUY5CR1nO_GSi0Ro_j2qZZxgCPJaAO6FCze/index.m3u8
+#EXTINF:-1 tvg-id="stream-1be38a37-d79e-40db-bb80-0f0da9548b87" tvg-name="401 HISTORY HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png" group-title="hubStarhub",401 HISTORY HD
+http://38.134.40.167:9100/l/hRICPAv3PWOhrKJNFA4U_MG4_ypjjRODEHTo65hl2O8Me3hruc19jpjX475gQG2M/index.m3u8
+#EXTINF:-1 tvg-id="stream-844a2f68-96d4-4551-bea2-80369ac1f7e0" tvg-name="403 Crime + Investigation HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png" group-title="hubStarhub",403 Crime + Investigation HD
+http://38.134.40.167:9100/l/C6cOLP2RD9Art0s93MA6_7g_5p-8KBPocoYdpQn5gFXJqeo4x41I1ljrq2hGxGCD/index.m3u8
+#EXTINF:-1 tvg-id="stream-bb182602-4e15-436f-b465-a927742549cb" tvg-name="407 BBC Earth HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png" group-title="hubStarhub",407 BBC Earth HD
+http://38.134.40.167:9100/l/ylwzB7KJmLODq0GWfAw-sVaLlh4wDH2CRfjRgWsAWWTQ2KYvFYgPzxCyrGfHG2DL/index.m3u8
+#EXTINF:-1 tvg-id="stream-88da53a7-88fd-49af-aad8-707d2bb40172" tvg-name="422 Discovery HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/422_1920x1080_HTV.png" group-title="hubStarhub",422 Discovery HD
+http://38.134.40.167:9100/l/-T9AXcKnAZ6eg2dr_47hyIQqPD0Z2YqLB0pwYMfMKhf45KctvdFD3YjZvSdexXOQ/index.m3u8
+#EXTINF:-1 tvg-id="stream-66e0017b-3a20-4732-a4f9-71a058107da9" tvg-name="427 Travelxp HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png" group-title="hubStarhub",427 Travelxp HD
+http://38.134.40.167:9100/l/LnriDKkZifP4OYE0D4AJUjX3UPvWE4DH4w3pZfUL0OrkSrOd16lj7iU67oez7kV5/index.m3u8
+#EXTINF:-1 tvg-id="stream-29580616-b3c2-41af-97b3-3f421aaaeb5d" tvg-name="432 BBC Lifestyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png" group-title="hubStarhub",432 BBC Lifestyle
+http://38.134.40.167:9100/l/fDEtlXbLZ2vbxD9zd6S8SwL8MHaOWmOn7NPyusHUcO8t4DvUlVGrwtGtKtNBNbCU/index.m3u8
+#EXTINF:-1 tvg-id="stream-0dab341a-6634-40ef-bd6a-d35d9e247a4e" tvg-name="437 HGTV" tvg-logo="https://poster.starhubgo.com/Linear_channels2/437_1920x1080_HTV.png" group-title="hubStarhub",437 HGTV
+http://38.134.40.167:9100/l/0fJ4dRl93KC6zAWtfdzEnib5jWAkEM6lex-wbs7XHewHhgN7WTs5ZKsVEUnbOhL4/index.m3u8
+#EXTINF:-1 tvg-id="stream-8a511244-5161-4db1-90e8-00507d405baf" tvg-name="443 FashionTV HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/443_1920x1080_HTV.png" group-title="hubStarhub",443 FashionTV HD
+http://38.134.40.167:9100/l/qzTFJZsDvKQXFali3vr366kCIwU6M56D-IC3fuyKLQFBSk3jSL7YuYSPs91PTgwc/index.m3u8
+#EXTINF:-1 tvg-id="stream-01107ee9-a029-43f1-8267-828fa9b2abed" tvg-name="447 ABC Australia HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png" group-title="hubStarhub",447 ABC Australia HD
+http://38.134.40.167:9100/l/6JUfGu0dkOD0n1Ud47ltHeknxKaYVvJpU1VVxVcfxE2u1m2EI8VRSFnX5IWa1uhl/index.m3u8
+#EXTINF:-1 tvg-id="stream-152419d8-cd51-4aee-bd8d-3925cd6d4271" tvg-name="509 Rock Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/509_1920x1080_HTV.png" group-title="hubStarhub",509 Rock Entertainment
+http://38.134.40.167:9100/l/js8k6_7wUHj_T8aPUXt-WpqlmOIr8Oy90QjB9BeUGavfs4z9fYG52_F_oMPZickk/index.m3u8
+#EXTINF:-1 tvg-id="stream-2e8372f1-e255-4d20-93cd-e2dd7db1d45d" tvg-name="511 AXN HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png" group-title="hubStarhub",511 AXN HD
+http://38.134.40.167:9100/l/ymohkLnDQCcwkAhGevRP4bL53801Ap1dOzwdtDH25cp1OUaVNxERzWmUMuzZ6ZJ7/index.m3u8
+#EXTINF:-1 tvg-id="stream-17a0a9a0-fe68-460c-89c1-0ed362f8ba77" tvg-name="512 HITS MOVIES HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/512_1920x1080_HTV.png" group-title="hubStarhub",512 HITS MOVIES HD
+http://38.134.40.167:9100/l/EcvH614bqswND0nT4PEAMJyY6UWrwgWUKr4hh4Euvj3sxYFMpoqjs9-xvcy2SPT9/index.m3u8
+#EXTINF:-1 tvg-id="stream-0d204564-08ad-47dc-86f4-abbc9085a637" tvg-name="514 Lifetime HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/514_1920x1080_HTV.png" group-title="hubStarhub",514 Lifetime HD
+http://38.134.40.167:9100/l/XogIBK2kLSGOOmEuuRAfg7dNue5hfqZSikZRgSJgSMYoac80InQSPEo8SPY2fdio/index.m3u8
+#EXTINF:-1 tvg-id="stream-76ae9054-cea8-41fa-9e41-628d128b567b" tvg-name="519 Hits HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png" group-title="hubStarhub",519 Hits HD
+http://38.134.40.167:9100/l/oPWYMJeKEWLbX2wVsWEPprN1Re-ONnPrTEuHKt_j40WI3c9KvjZncI_3VhSgk_Py/index.m3u8
+#EXTINF:-1 tvg-id="stream-0b7abafa-9f9f-419d-a914-30e798fe7b29" tvg-name="532 Animax HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png" group-title="hubStarhub",532 Animax HD
+http://38.134.40.167:9100/l/sHbA6EZzqVSpKV0fWzLikpRcypVxdYZ0jOmbIwT3mz_Llc1kjNOGpaUFlf8bnDqH/index.m3u8
+#EXTINF:-1 tvg-id="stream-77fe07ef-3075-4390-9d94-16c21e1d2168" tvg-name="601 HBO HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png" group-title="hubStarhub",601 HBO HD
+http://38.134.40.167:9100/l/jYgqGkFfLmguLCz-_ncg3ec8v4ZZxgEoBPrD1M1jSr_JxAAA_cqBKZEQnNxf4_cP/index.m3u8
+#EXTINF:-1 tvg-id="stream-5dd28395-6b21-424f-9f33-eafcc846f27b" tvg-name="603 HBO Signature HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png" group-title="hubStarhub",603 HBO Signature HD
+http://38.134.40.167:9100/l/EhtbqLMT-UIyfERp_tozi3HvzsEBGVmU2rM2wdXVII5L_zI4GulouPyZiQczEobe/index.m3u8
+#EXTINF:-1 tvg-id="stream-78d577c5-b253-41ce-8969-2148041a883f" tvg-name="604 HBO Family HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png" group-title="hubStarhub",604 HBO Family HD
+http://38.134.40.167:9100/l/jq815VmeYgLZ6ilLCMKPoCTRjzxIWanQzNsJiQC8yvUru88DcprBzAxjoShtXsU4/index.m3u8
+#EXTINF:-1 tvg-id="stream-148c3cee-c6d1-4487-9566-5f155e347413" tvg-name="605 HBO Hits HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png" group-title="hubStarhub",605 HBO Hits HD
+http://38.134.40.167:9100/l/Rpbjvugoue-qXoi6U_3rAgPVd-Rna7Jaaq4Un9JAjdn7GruZ9yRDtJVzn0L1cesY/index.m3u8
+#EXTINF:-1 tvg-id="stream-3586a612-757b-4b9d-9d6f-1e791a8a26b4" tvg-name="611 Cinemax HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png" group-title="hubStarhub",611 Cinemax HD
+http://38.134.40.167:9100/l/Dome8K5HaK6ZV-2OOJPsHGn9kUJEAwbfFuZV4B04UCVXrrvCw1TA2hwyhbr5Qfxd/index.m3u8
+#EXTINF:-1 tvg-id="stream-8e50a5fd-5a6c-4563-8c8e-0d06d5ebbf68" tvg-name="701 BBC World News HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/701_1920x1080_HTV.png" group-title="hubStarhub",701 BBC World News HD
+http://38.134.40.167:9100/l/TIcm1s6hUMz0bNFftyURUqTunEf1-3j6r17DJv3qifDzZ2NLiiS2ZHzCEva5WHzU/index.m3u8
+#EXTINF:-1 tvg-id="stream-0101fda4-1562-4123-b208-706c19ec3771" tvg-name="702 Fox News Channel" tvg-logo="https://poster.starhubgo.com/Linear_channels2/702_1920x1080_HTV.png" group-title="hubStarhub",702 Fox News Channel
+http://38.134.40.167:9100/l/mcgq_pz9AQZ8sV9FVktXllQVCYk5ScyrVuKv8sTpywkNPd-1tEFlm8z0UVr3EWUP/index.m3u8
+#EXTINF:-1 tvg-id="stream-94ad9749-3def-4051-8dbe-37d863f8bdb8" tvg-name="703 Sky News HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png" group-title="hubStarhub",703 Sky News HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://38.134.40.167:9100/l/UpGWu-Ktfq7gRfY2MrzgKGIrv0s4QGs5kpLi9lGGS9GxBSHIHZlALZKOVLIjKFqu/key
+http://38.134.40.167:9100/l/UpGWu-Ktfq7gRfY2MrzgKGIrv0s4QGs5kpLi9lGGS9GxBSHIHZlALZKOVLIjKFqu/play
+#EXTINF:-1 tvg-id="stream-6e79d9c0-657c-4abc-b191-6479a99ae72e" tvg-name="704 Euronews HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/704_1920x1080_HTV.png" group-title="hubStarhub",704 Euronews HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://38.134.40.167:9100/l/SLrj1mZVIWl3XyULTDy3gQvYubnmMtCMDA78aY6pxBlH0xDFYU1lFuclK4zu4JP4/key
+http://38.134.40.167:9100/l/SLrj1mZVIWl3XyULTDy3gQvYubnmMtCMDA78aY6pxBlH0xDFYU1lFuclK4zu4JP4/play
+#EXTINF:-1 tvg-id="stream-75074689-d360-4900-a083-e99ae62a86de" tvg-name="707 CNBC HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/707_1920x1080_HTV.png" group-title="hubStarhub",707 CNBC HD
+http://38.134.40.167:9100/l/ndq0XtXV1CdwFffiaEoENYwXYAyMiWHOh3WcrkYhm0cpSMUmhXAe5BdFSYuzyEzp/index.m3u8
+#EXTINF:-1 tvg-id="stream-df474954-4407-4040-be18-efac163c31e1" tvg-name="708 Bloomberg Television HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png" group-title="hubStarhub",708 Bloomberg Television HD
+http://38.134.40.167:9100/l/G6nn37_jYaEXXzURqL-4mI4onMj-kT4QNAHcAnJC-bWC_5VBaJ86ECRSSY4uNGKS/index.m3u8
+#EXTINF:-1 tvg-id="stream-9a6b4892-2364-479c-94f8-e43f0ffaaa49" tvg-name="709 Bloomberg Originals" tvg-logo="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png" group-title="hubStarhub",709 Bloomberg Originals
+http://38.134.40.167:9100/l/wHx_59Q2hJ4J-47CZKTV9qFpixbkmBCYI5uYgkF961kugU80UMViR7UqQrZhxL2H/index.m3u8
+#EXTINF:-1 tvg-id="stream-f75e9f6c-f149-46a4-af84-fc1c6e469911" tvg-name="711 CNN HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png" group-title="hubStarhub",711 CNN HD
+http://38.134.40.167:9100/l/3yZsjlgOl_8mDFco_vZhJllRjx2mjAmrNoMA0pEACvs_kFf6rAlwVERqSVMi8ObL/index.m3u8
+#EXTINF:-1 tvg-id="stream-7d333bfe-878e-4198-ba54-4b61c4823956" tvg-name="722 CGTN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png" group-title="hubStarhub",722 CGTN
+http://38.134.40.167:9100/l/jPnk-Sd-SzCaPi4TeXeR56QBtqZir735g4sg726Vn0ImyUnzcqMdWFwwKBdzgaXP/index.m3u8
+#EXTINF:-1 tvg-id="stream-58f8f80f-02ca-492c-962c-757a35f80240" tvg-name="724 France24" tvg-logo="https://poster.starhubgo.com/Linear_channels2/724_1920x1080_HTV.png" group-title="hubStarhub",724 France24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://38.134.40.167:9100/l/HQt9A6hTxQ6AYp9befB_8a2ZKKW3AY0INP0m3ezospq7LBhAL0f8xnLU1xS7Kipc/key
+http://38.134.40.167:9100/l/HQt9A6hTxQ6AYp9befB_8a2ZKKW3AY0INP0m3ezospq7LBhAL0f8xnLU1xS7Kipc/play
+#EXTINF:-1 tvg-id="stream-b15ba5f5-9e00-4053-baa5-d7862fb5bedf" tvg-name="801 CCTV-4" tvg-logo="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png" group-title="hubStarhub",801 CCTV-4
+http://38.134.40.167:9100/l/9P0Bl2Z01HZey1Iml1aYhlpN3_WOHNebAkhBdYkFD6X-GPM_RMrDkwd5Zlg-g3lb/index.m3u8
+#EXTINF:-1 tvg-id="stream-95f7284f-acf2-4789-8fab-28eff473b501" tvg-name="805 Phoenix Chinese Channel HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="hubStarhub",805 Phoenix Chinese Channel HD
+http://38.134.40.167:9100/l/bq3u7kUmhj7es74DrtTp8k64mtnCSWZMle40pJCTApJ-atgukBeOWQNkDBUzhejy/index.m3u8
+#EXTINF:-1 tvg-id="stream-9f016eac-1c4e-41e5-8d88-01f93139b390" tvg-name="806 Phoenix InfoNews Channel HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png" group-title="hubStarhub",806 Phoenix InfoNews Channel HD
+http://38.134.40.167:9100/l/m-8y3RETLDc64zAmSyIZWLyG7j_6t8coFXIuB-OL5Pm4VLuiO5IJeVX049PbInYt/index.m3u8
+#EXTINF:-1 tvg-id="stream-0b2362e1-35c0-42ee-b408-3395384b7b94" tvg-name="808 TVBS-NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="hubStarhub",808 TVBS-NEWS
+http://38.134.40.167:9100/l/p539BiOidAj5uzujmm3ybXy6_68-evpe9h-rPL81jcSVHmBFPMZM_cXjlrQO2rEm/index.m3u8
+#EXTINF:-1 tvg-id="stream-54ce8851-82d6-4c90-96ec-2e669f4f5004" tvg-name="811 NHK World Premium HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png" group-title="hubStarhub",811 NHK World Premium HD
+http://38.134.40.167:9100/l/tM6qANWr45zyFa0Q4fxT4rJKZYGGi7igZZxRuIAEy_jVixEmfqicKOLftkJZDmWK/index.m3u8
+#EXTINF:-1 tvg-id="stream-a3729575-6de9-4d86-9abd-0d61032868ed" tvg-name="812 NHK WORLD - JAPAN HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png" group-title="hubStarhub",812 NHK WORLD - JAPAN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://38.134.40.167:9100/l/OcR-XBDPmWXzt5IStLanKg4c2BnsdNkfp5uG1kdvVo5p_u-j9DTK2nM8EWXvZhmV/key
+http://38.134.40.167:9100/l/OcR-XBDPmWXzt5IStLanKg4c2BnsdNkfp5uG1kdvVo5p_u-j9DTK2nM8EWXvZhmV/play
+#EXTINF:-1 tvg-id="stream-96273fae-d791-4138-b817-3c123564e973" tvg-name="815 KBS World HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/815_1920x1080_HTV.png" group-title="hubStarhub",815 KBS World HD
+http://38.134.40.167:9100/l/QZ9seqrWsMiJHd77OspuzK6pVjC-CFVeXTBJjfZtasCP0mt9HKKfaMqBOJ3Oi4YP/index.m3u8
+#EXTINF:-1 tvg-id="stream-f987c593-31eb-41a0-823d-08c13ad4d918" tvg-name="817 Arirang TV HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png" group-title="hubStarhub",817 Arirang TV HD
+http://38.134.40.167:9100/l/xEpA4xt_n3VfsDfyYC0X4y9yowgPwfeR0V9efspgmswXI6Ro7Cuspw_9ZG9uYP0L/index.m3u8
+#EXTINF:-1 tvg-id="stream-61b9cb2a-b3a3-4d8c-a4fe-96808b7f5669" tvg-name="820 ETTV ASIA HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/820_1920x1080_HTV.png" group-title="hubStarhub",820 ETTV ASIA HD
+http://38.134.40.167:9100/l/mb_c5q7xv6RMh8W6HD8bdMl2KkjqDb8JfH-zwo7nsd1KJlmupwpbTqXdJGJGKGuk/index.m3u8
+#EXTINF:-1 tvg-id="stream-ba0af04c-a41d-4b60-83c8-55b04c35aadb" tvg-name="823 ONE HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png" group-title="hubStarhub",823 ONE HD
+http://38.134.40.167:9100/l/hZUNaziWcqD0RyogpAq5PCsY2Z4ef8RYIsl_x6OdUnpX6OOFcivpgYgxWTG2tYgI/index.m3u8
+#EXTINF:-1 tvg-id="stream-f617ff5d-7f8e-4482-8335-143f6248c344" tvg-name="825 Hub E City HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/825_1920x1080_HTV.png" group-title="hubStarhub",825 Hub E City HD
+http://38.134.40.167:9100/l/0UOkAdGIlmRckBDQMkds0YO9yF_eIkJSElS3OUsYACrp2S93Mr5P-CV7cP4Z-OEn/index.m3u8
+#EXTINF:-1 tvg-id="stream-1746f321-c0ee-47da-bccf-861fca1063e9" tvg-name="827 CTI TV HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/827_1920x1080_HTV.png" group-title="hubStarhub",827 CTI TV HD
+http://38.134.40.167:9100/l/9q0WG9lLqnpv8oOjLWF-OO4o5UxkSU8RvdpoUbiLtpjcv5M1oAuObvZnuThcHXvs/index.m3u8
+#EXTINF:-1 tvg-id="stream-aa4c2210-cb16-4287-94fa-83a5f28afb0c" tvg-name="828 TVBS Asia" tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png" group-title="hubStarhub",828 TVBS Asia
+http://38.134.40.167:9100/l/wnoBY979fFkG6uXGULvdKExUvwXJAe82M2Zy3QHaGHcHmAOttrgeZPS66qvUYPUZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-db535ce5-d570-4f91-9948-deaad9c2e815" tvg-name="832 Dragon TV" tvg-logo="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png" group-title="hubStarhub",832 Dragon TV
+http://38.134.40.167:9100/l/4HE6A-Y5ff05kCIZE4xJvhstJdeOp5p6M9M6DEnwoYRrqDNcOVfviGtIrRSJGtnb/index.m3u8
+#EXTINF:-1 tvg-id="stream-b1565ba8-b185-4cd2-8474-32de26d3453b" tvg-name="838 TVB Jade HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="hubStarhub",838 TVB Jade HD
+http://38.134.40.167:9100/l/7x0SltfeggPTiNWvLYmNzl4EsG68IR-abZS8t01eyzqM5SQD7BV24O93LOjquP5Q/index.m3u8
+#EXTINF:-1 tvg-id="stream-bd20c830-5d6c-43ae-978c-b0941562d36f" tvg-name="855 Hub VVDrama" tvg-logo="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png" group-title="hubStarhub",855 Hub VVDrama
+http://38.134.40.167:9100/l/x4k_y9AFUTCCcRX-n1O53gG6AhQu3L-QEVxIXzg-eHVUpTenjvff134r16L7L7Qi/index.m3u8
+#EXTINF:-1 tvg-id="stream-4d9dc7b9-bf87-4bf1-88bc-b5e05a2ce3fb" tvg-name="859 TVB Xing He" tvg-logo="https://poster.starhubgo.com/Linear_channels2/859_1920x1080_HTV.png" group-title="hubStarhub",859 TVB Xing He
+http://38.134.40.167:9100/l/7mIgT_wZgDHP0_00kwOUb9PlKlVbK4dgSpTvXzTr0n1351mucBgCc0irN_hI8fXU/index.m3u8
+#EXTINF:-1 tvg-id="stream-96eed3dc-ed73-4e29-9fe7-0ef23a4cea87" tvg-name="868 Celestial Movies HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="hubStarhub",868 Celestial Movies HD
+http://38.134.40.167:9100/l/iVFfMy6wfhQC287ZKZUTMPCGdd4Mp7i1JI5dhGxAXBn3sLw0vPOUz1l5uCbR0cJG/index.m3u8
+#EXTINF:-1 tvg-id="stream-df10daf1-ec45-4aae-a50b-bdea7add0337" tvg-name="869 CCM" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png" group-title="hubStarhub",869 CCM
+http://38.134.40.167:9100/l/10MOAURwVKpz6Pk8V0RAkY5IOEYhUuGG1O9tkEU4VQ-9JGJyzd7dyBoaukJFCvyp/index.m3u8
+#EXTINF:-1 tvg-id="stream-bcf2527b-90d9-4b76-a669-c1adea201901" tvg-name="HITSNOW" group-title="hubStarhub",HITSNOW
+http://38.134.40.167:9100/l/UknVHGVaT_bctWy5PpEE1w5E2DOjeQ2lVZxg3B8s6LYRjJeS6i1fHK_Guueg60LC/index.m3u8
+#EXTINF:-1 tvg-id="stream-a66a511c-dca9-4023-a42e-ac4cd58b1695" tvg-name="tvN" group-title="hubStarhub",tvN
+http://38.134.40.167:9100/l/a-CiJ6EYU4T6CxLsZ0YA0mW7yPb8_SIK-El5LFNnFTC1QjVGcE01DeqQatwBHZV9/index.m3u8
+#EXTINF:-1 tvg-id="stream-79e69016-6ff0-4256-b783-71f82eeff460" tvg-name="PremierSports 暂时没有" group-title="hubStarhub",PremierSports 暂时没有
+http://38.134.40.167:9100/l/yN15bhtCh4R418x8BZCsRGYTulDGVEzSibT6pucdWwaN7yCtLaKpgJmra9rvJTIS/index.m3u8
+#EXTINF:-1 tvg-id="stream-d67fbe4d-0cb6-4cee-8924-3a14dd1c0f1a" tvg-name="Cbuzz" group-title="hubStarhub",Cbuzz
+http://38.134.40.167:9100/l/2_6FSz0uUhWYR8Mn9dY7VYvcCtzgBChRWwIRDK6-1DSJS4SWlfdFpwDwx1lziCGb/index.m3u8
+#EXTINF:-1 tvg-id="stream-47308f8a-33f8-481a-8c3d-050cdf4569c8" tvg-name="Cbuzz2" group-title="hubStarhub",Cbuzz2
+http://38.134.40.167:9100/l/sJZwl9UmSCzAfruHQG_ZgBTlBJUA5NGqV3DtWOlq0VtM2gLJcTEOnwBoO8X_8SnM/index.m3u8
+#EXTINF:-1 tvg-id="stream-9cf89112-9208-4c22-b81b-6add9869856f" tvg-name="AFN" group-title="hubStarhub",AFN
+http://38.134.40.167:9100/l/hduy5EFNwkuyYZJ4H_nt8dukB8IDmkqiZW0vnLYKDS1W_rV1DqIiYz1sDft8rBxs/index.m3u8
+#EXTINF:-1 tvg-id="stream-4273baf7-421a-49d5-8d32-00981305f2f5" tvg-name="HOY76" group-title="香港",HOY76
+http://38.134.40.167:9100/l/Ka8uIaa8pnvqzfisE5o9w7H8gM0B9opG7YPGRgi8GrwCrbJCXpr75jPWd7wGCpzS/index.m3u8
+#EXTINF:-1 tvg-id="stream-91df275a-1332-4439-8621-5bc8f4ef1f2e" tvg-name="HOY77" group-title="香港",HOY77
+http://38.134.40.167:9100/l/P9iy9XSZrCOJ7m64TxlpWOIWexOVyiJlYcEfa3DkmJAtlsyaJgTN4-Bvf-fMbqQt/index.m3u8
+#EXTINF:-1 tvg-id="stream-a4ed2774-0d4b-46a3-ab24-e89ed1d90266" tvg-name="HOY78" group-title="香港",HOY78
+http://38.134.40.167:9100/l/DMyAauPmFwwtPt_1-M8aEFOwlzcTGbQYXFTRIZyLlaO49__sv8O28e-jkyO91_GC/index.m3u8
