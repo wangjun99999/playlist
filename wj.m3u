@@ -2331,8 +2331,8 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4
 
 
 
-
-
+#EXTINF:-1 tvg-id="stream-34841191-3980-47ae-a784-1f0aaa583028" tvg-name="Love Nature 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/SG/Love%20Nature%204K.png" group-title="4K/UHD",Love Nature 4K
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-name="Apple TV 4K Dolby Vision F1" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/f1.png" group-title="4K/UHD",Apple TV 4K Dolby Vision F1
 https://kan.waiguotai.top/appletvf1.m3u8
 #EXTINF:-1 tvg-id="stream-64801ac6-0f01-4c14-bc29-4680f1869fc8" tvg-name="ASTRO SUPERSPORT 1 4K" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/UK/Astro%20Sports%20UHD.png" group-title="4K/UHD",Astro SuperSports 4K
