@@ -1284,6 +1284,13 @@ https://cdn.qd.je/163189/hoy78
 https://cdn.qd.je/163189/rthk31
 #EXTINF:-1 tvg-id="stream-4556afbe-6699-4a96-9e6e-94777ee5a7c4" tvg-name="RTHKTV 32" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK32.png" group-title="香港频道",RTHKTV 32
 https://cdn.qd.je/163189/rthk32
+http://168.us.kg/api/32
+#EXTINF:-1 tvg-id="" tvg-name="RTHKTV 33" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK33.png" group-title="香港频道",RTHKTV 33
+https://rthktv33-vos-live.akamaized.net/Content/HLS/Live/channel(rthk_ch33)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHKTV 34" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK34.png" group-title="香港频道",RTHKTV 34
+https://rthktv34-vos-live.akamaized.net/Content/HLS/Live/channel(rthk_ch34)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHKTV 35" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/RTHK35.png" group-title="香港频道",RTHKTV 35
+https://rthktv35-vos-live.akamaized.net/Content/HLS/Live/channel(rthk_ch35)/index.m3u8
 #EXTINF:-1 tvg-id="stream-cddc2d48-7d06-4dce-81a8-2ea80ab2d34e" tvg-name="TVB功夫台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/%E5%8A%9F%E5%A4%AB%E5%8F%B0.png" group-title="香港频道",TVB功夫台
 https://cdn.qd.je/163189/yzwx
 #EXTINF:-1 tvg-id="stream-4bb6e4ff-2b55-485c-8d07-59c135aaeb20" tvg-name="TVB星河台" tvg-logo="https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/TVB%E6%98%9F%E6%B2%B3%E5%8F%B0.png" group-title="香港频道",TVB星河台
