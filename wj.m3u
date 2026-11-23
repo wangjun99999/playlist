@@ -2590,7 +2590,454 @@ https://live.koryocdn.org/ryongnamsan/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="abc" tvg-name="ABC" tvg-logo="https://cdn.abcotvs.com/dip/images/11479454_011822-cc-abc-generic-thumb-img.jpg" group-title="TimStreams · Entertainment",ABC
+http://192.168.2.98:34687/play?id=abc
+#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network" tvg-logo="https://theacc.com/images/2018/11/30/ACCN_Launch.png" group-title="TimStreams · Sports",ACC Network
+http://192.168.2.98:34687/play?id=acc-network
+#EXTINF:-1 tvg-id="ae-network" tvg-name="AE" tvg-logo="https://deadline.com/wp-content/uploads/2016/12/ae-network-logo.jpg?w=630&amp;amp;h=383&amp;amp;crop=1" group-title="TimStreams · Entertainment",AE
+http://192.168.2.98:34687/play?id=ae-network
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2014/08/amc02.jpg" group-title="TimStreams · Entertainment",AMC
+http://192.168.2.98:34687/play?id=amc
+#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel" tvg-logo="https://payload.cargocollective.com/1/10/342209/9724942/AHC_15a_3_1340_c.jpg" group-title="TimStreams · Entertainment",American Heroes Channel
+http://192.168.2.98:34687/play?id=american-heroes-channel
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet" tvg-logo="https://imagescdn.designweek.co.uk/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg?fit=max&amp;amp;amp;crop=faces&amp;amp;amp;q=50&amp;amp;amp;auto=compress,format&amp;amp;amp;cs=origin&amp;amp;amp;w=2559&amp;amp;amp;h=1.0" group-title="TimStreams · Entertainment",Animal Planet
+http://192.168.2.98:34687/play?id=animal-planet
+#EXTINF:-1 tvg-id="axs-tv" tvg-name="AXS TV" tvg-logo="https://www.hcc.net/wp-content/uploads/2012/06/AXS_TV_BlueWhite.jpg" group-title="TimStreams · Entertainment",AXS TV
+http://192.168.2.98:34687/play?id=axs-tv
+#EXTINF:-1 tvg-id="bbc-america" tvg-name="BBC America" tvg-logo="https://variety.com/wp-content/uploads/2014/02/bbc-america-logo1.jpg" group-title="TimStreams · Entertainment",BBC America
+http://192.168.2.98:34687/play?id=bbc-america
+#EXTINF:-1 tvg-id="bbc-news" tvg-name="BBC News" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0g6j1tq.jpg" group-title="TimStreams · News/Politics",BBC News
+http://192.168.2.98:34687/play?id=bbc-news
+#EXTINF:-1 tvg-id="bbc-one-london" tvg-name="BBC One London" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0dkt7rv.jpg" group-title="TimStreams · Entertainment",BBC One London
+http://192.168.2.98:34687/play?id=bbc-one-london
+#EXTINF:-1 tvg-id="bbc-two" tvg-name="BBC Two" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0bvs8dg.jpg" group-title="TimStreams · Entertainment",BBC Two
+http://192.168.2.98:34687/play?id=bbc-two
+#EXTINF:-1 tvg-id="bein-max-4-francais" tvg-name="beIN Max 4 Francais" tvg-logo="https://i.postimg.cc/MG3RnXzm/Frame-12-(1).png" group-title="TimStreams · Sports",beIN Max 4 Francais
+http://192.168.2.98:34687/play?id=bein-max-4-francais
+#EXTINF:-1 tvg-id="bein-max-5-francais" tvg-name="beIN Max 5 Francais" tvg-logo="https://i.postimg.cc/MG3RnXzm/Frame-12-(1).png" group-title="TimStreams · Sports",beIN Max 5 Francais
+http://192.168.2.98:34687/play?id=bein-max-5-francais
+#EXTINF:-1 tvg-id="bein-max-6" tvg-name="beIN Max 6 Francais" tvg-logo="https://i.postimg.cc/MG3RnXzm/Frame-12-(1).png" group-title="TimStreams · Sports",beIN Max 6 Francais
+http://192.168.2.98:34687/play?id=bein-max-6
+#EXTINF:-1 tvg-id="bein-max-7-francais" tvg-name="beIN Max 7 Francais" tvg-logo="https://i.postimg.cc/MG3RnXzm/Frame-12-(1).png" group-title="TimStreams · Sports",beIN Max 7 Francais
+http://192.168.2.98:34687/play?id=bein-max-7-francais
+#EXTINF:-1 tvg-id="bein-sports" tvg-name="beIN Sports" tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1318873e-8501-4f79-bb69-182d741cf9ad/beIN%20SPORTS%20Portada.jpg?ver=03-06-2025?w=3840&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;q=75" group-title="TimStreams · Sports",beIN Sports
+http://192.168.2.98:34687/play?id=bein-sports
+#EXTINF:-1 tvg-id="bein-sports-francais-1" tvg-name="beIN Sports Francais 1" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/beinsports.png" group-title="TimStreams · Sports",beIN Sports Francais 1
+http://192.168.2.98:34687/play?id=bein-sports-francais-1
+#EXTINF:-1 tvg-id="bein-sports-francais-2" tvg-name="beIN Sports Francais 2" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/beinsports.png" group-title="TimStreams · Sports",beIN Sports Francais 2
+http://192.168.2.98:34687/play?id=bein-sports-francais-2
+#EXTINF:-1 tvg-id="bein-sports-francais-3" tvg-name="beIN Sports Francais 3" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/beinsports.png" group-title="TimStreams · Sports",beIN Sports Francais 3
+http://192.168.2.98:34687/play?id=bein-sports-francais-3
+#EXTINF:-1 tvg-id="bein-sports-mena-1" tvg-name="beIN Sports MENA 1" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg" group-title="TimStreams · Sports",beIN Sports MENA 1
+http://192.168.2.98:34687/play?id=bein-sports-mena-1
+#EXTINF:-1 tvg-id="bein-sports-mena-2" tvg-name="beIN Sports MENA 2" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg" group-title="TimStreams · Sports",beIN Sports MENA 2
+http://192.168.2.98:34687/play?id=bein-sports-mena-2
+#EXTINF:-1 tvg-id="bein-sports-mena-3" tvg-name="beIN Sports MENA 3" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg" group-title="TimStreams · Sports",beIN Sports MENA 3
+http://192.168.2.98:34687/play?id=bein-sports-mena-3
+#EXTINF:-1 tvg-id="bein-sports-mena-4" tvg-name="beIN Sports MENA 4" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg" group-title="TimStreams · Sports",beIN Sports MENA 4
+http://192.168.2.98:34687/play?id=bein-sports-mena-4
+#EXTINF:-1 tvg-id="bein-sports-mena-5" tvg-name="beIN Sports MENA 5" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg" group-title="TimStreams · Sports",beIN Sports MENA 5
+http://192.168.2.98:34687/play?id=bein-sports-mena-5
+#EXTINF:-1 tvg-id="bein-sports-mena-6" tvg-name="beIN Sports MENA 6" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg" group-title="TimStreams · Sports",beIN Sports MENA 6
+http://192.168.2.98:34687/play?id=bein-sports-mena-6
+#EXTINF:-1 tvg-id="bein-sports-mena-7" tvg-name="beIN Sports MENA 7" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg" group-title="TimStreams · Sports",beIN Sports MENA 7
+http://192.168.2.98:34687/play?id=bein-sports-mena-7
+#EXTINF:-1 tvg-id="bein-sports-mena-8" tvg-name="beIN Sports MENA 8" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg" group-title="TimStreams · Sports",beIN Sports MENA 8
+http://192.168.2.98:34687/play?id=bein-sports-mena-8
+#EXTINF:-1 tvg-id="bein-sports-mena-9" tvg-name="beIN Sports MENA 9" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg" group-title="TimStreams · Sports",beIN Sports MENA 9
+http://192.168.2.98:34687/play?id=bein-sports-mena-9
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network" tvg-logo="https://gopsusports.com/imgproxy/k91lOV2DCMvY-TlDrKf6wFdFPL2C-VUkzBYcnteT1zs/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2dvcHN1c3BvcnRzLXByb2QvMjAyMy8wNy8xMy9yT004VFFtV0t0Y09WOHlsZ1JsZXJKSGFWN0lxNzVLRmlQY3NPUmo3LndlYnA.webp" group-title="TimStreams · Sports",Big Ten Network
+http://192.168.2.98:34687/play?id=big-ten-network
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2024/08/05120702/Boomerang.jpg" group-title="TimStreams · Cartoons",Boomerang
+http://192.168.2.98:34687/play?id=boomerang
+#EXTINF:-1 tvg-id="bravo" tvg-name="Bravo" tvg-logo="https://www.bravotv.com/sites/bravo/files/2024/05/bravo-logo-2jpg.jpg" group-title="TimStreams · Entertainment",Bravo
+http://192.168.2.98:34687/play?id=bravo
+#EXTINF:-1 tvg-id="canal-extra-1" tvg-name="CANAL+ Extra 1" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/canalextra.png" group-title="TimStreams · Sports",CANAL+ Extra 1
+http://192.168.2.98:34687/play?id=canal-extra-1
+#EXTINF:-1 tvg-id="canal-extra-2" tvg-name="CANAL+ Extra 2" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/canalextra.png" group-title="TimStreams · Sports",CANAL+ Extra 2
+http://192.168.2.98:34687/play?id=canal-extra-2
+#EXTINF:-1 tvg-id="canal-sport-2-pl" tvg-name="CANAL+ Sport 2 PL" tvg-logo="https://i.postimg.cc/ZRtsQkk0/Frame-(3).png" group-title="TimStreams · Sports",CANAL+ Sport 2 PL
+http://192.168.2.98:34687/play?id=canal-sport-2-pl
+#EXTINF:-1 tvg-id="canal-sport-3-pl" tvg-name="CANAL+ Sport 3 PL" tvg-logo="https://i.postimg.cc/ZRtsQkk0/Frame-(3).png" group-title="TimStreams · Sports",CANAL+ Sport 3 PL
+http://192.168.2.98:34687/play?id=canal-sport-3-pl
+#EXTINF:-1 tvg-id="canal-sport-4-pl" tvg-name="CANAL+ Sport 4 PL" tvg-logo="https://i.postimg.cc/ZRtsQkk0/Frame-(3).png" group-title="TimStreams · Sports",CANAL+ Sport 4 PL
+http://192.168.2.98:34687/play?id=canal-sport-4-pl
+#EXTINF:-1 tvg-id="canal-sport-5-pl" tvg-name="CANAL+ Sport 5 PL" tvg-logo="https://i.postimg.cc/ZRtsQkk0/Frame-(3).png" group-title="TimStreams · Sports",CANAL+ Sport 5 PL
+http://192.168.2.98:34687/play?id=canal-sport-5-pl
+#EXTINF:-1 tvg-id="canal-sport-6-pl" tvg-name="CANAL+ Sport 6 PL" tvg-logo="https://i.postimg.cc/ZRtsQkk0/Frame-(3).png" group-title="TimStreams · Sports",CANAL+ Sport 6 PL
+http://192.168.2.98:34687/play?id=canal-sport-6-pl
+#EXTINF:-1 tvg-id="canal-sport-pl" tvg-name="CANAL+ Sport PL" tvg-logo="https://i.postimg.cc/ZRtsQkk0/Frame-(3).png" group-title="TimStreams · Sports",CANAL+ Sport PL
+http://192.168.2.98:34687/play?id=canal-sport-pl
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="TimStreams · Cartoons",Cartoon Network
+http://192.168.2.98:34687/play?id=cartoon-network
+#EXTINF:-1 tvg-id="cbeebies" tvg-name="CBeebies" tvg-logo="https://static.files.bbci.co.uk/core/website/assets/static/childrens-web/images/metadata/cbeebies-poster-1024x576.8eb27aa32e.png" group-title="TimStreams · Cartoons",CBeebies
+http://192.168.2.98:34687/play?id=cbeebies
+#EXTINF:-1 tvg-id="cbs" tvg-name="CBS" tvg-logo="https://wwwimage-tve.cbsstatic.com/base/files/seo/cbs_seo_1200x627_1.jpg" group-title="TimStreams · Entertainment",CBS
+http://192.168.2.98:34687/play?id=cbs
+#EXTINF:-1 tvg-id="cbs-sports-network" tvg-name="CBS Sports Network" tvg-logo="https://www.paramountshop.com/cdn/shop/files/cbssportsnetwork-mobile-min.png" group-title="TimStreams · Sports",CBS Sports Network
+http://192.168.2.98:34687/play?id=cbs-sports-network
+#EXTINF:-1 tvg-id="cnbc" tvg-name="CNBC" tvg-logo="https://cdn.versantmedia.com/versantmedia/styles/newsroom/s3/2025-11/cnbc%281600x900%29.png" group-title="TimStreams · News/Politics",CNBC
+http://192.168.2.98:34687/play?id=cnbc
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg" group-title="TimStreams · News/Politics",CNN
+http://192.168.2.98:34687/play?id=cnn
+#EXTINF:-1 tvg-id="comedy-central" tvg-name="Comedy Central" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/og-brand-comedy-central.jpg?format=webp" group-title="TimStreams · Entertainment",Comedy Central
+http://192.168.2.98:34687/play?id=comedy-central
+#EXTINF:-1 tvg-id="cw" tvg-name="CW" tvg-logo="https://www.wavy.com/wp-content/uploads/sites/3/2024/08/cw-logo-white-on-blue-wavy-background.jpg?w=1280" group-title="TimStreams · Entertainment",CW
+http://192.168.2.98:34687/play?id=cw
+#EXTINF:-1 tvg-id="dazn-1-germany" tvg-name="DAZN 1 Germany" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1723627450000&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quality=70" group-title="TimStreams · Sports",DAZN 1 Germany
+http://192.168.2.98:34687/play?id=dazn-1-germany
+#EXTINF:-1 tvg-id="dazn-1-italia" tvg-name="DAZN 1 Italia" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=pterrit4f2xu1pa2r6x87y5e9_image-header_pIt_1724315365000&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quality=70" group-title="TimStreams · Sports",DAZN 1 Italia
+http://192.168.2.98:34687/play?id=dazn-1-italia
+#EXTINF:-1 tvg-id="dazn-1-portugal" tvg-name="DAZN 1 Portugal" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quality=70" group-title="TimStreams · Sports",DAZN 1 Portugal
+http://192.168.2.98:34687/play?id=dazn-1-portugal
+#EXTINF:-1 tvg-id="dazn-1-spain" tvg-name="DAZN 1 Spain" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=hn9vkic8rbfi1ndrym8sw2qh7_image-header_pEs_1723035920000" group-title="TimStreams · Sports",DAZN 1 Spain
+http://192.168.2.98:34687/play?id=dazn-1-spain
+#EXTINF:-1 tvg-id="dazn-1-usa" tvg-name="DAZN 1 USA" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1owzb99m9mnzy15hjxolpukwul_image-header_pUs_1771501796000&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quality=70" group-title="TimStreams · Sports",DAZN 1 USA
+http://192.168.2.98:34687/play?id=dazn-1-usa
+#EXTINF:-1 tvg-id="dazn-2-germany" tvg-name="DAZN 2 Germany" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1ni1lpwjtnxmr1xklfoptrt2mz_image-header_pDach_1723628653000" group-title="TimStreams · Sports",DAZN 2 Germany
+http://192.168.2.98:34687/play?id=dazn-2-germany
+#EXTINF:-1 tvg-id="dazn-2-spain" tvg-name="DAZN 2 Spain" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=2ouwtae8ad7l1fxviow9bowpk_image-header_pEs_1723118632000&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quality=70" group-title="TimStreams · Sports",DAZN 2 Spain
+http://192.168.2.98:34687/play?id=dazn-2-spain
+#EXTINF:-1 tvg-id="dazn-f1" tvg-name="DAZN F1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=14ln25pmjdv031ejxsmg8dczsu_image-header_pEs_1723117975000&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quality=70" group-title="TimStreams · Sports",DAZN F1
+http://192.168.2.98:34687/play?id=dazn-f1
+#EXTINF:-1 tvg-id="dazn-laliga" tvg-name="DAZN LaLiga" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1weziux6zy5mb16pev002ax1yu_image-header_pEs_1723118324000" group-title="TimStreams · Sports",DAZN LaLiga
+http://192.168.2.98:34687/play?id=dazn-laliga
+#EXTINF:-1 tvg-id="dirtvision-now-24-7" tvg-name="Dirtvision Now 24/7" tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/10/17/1715300867054-64c720a301f24f34820b4c7143ff5bd2-1737996577673-1742219029838-1760724870716.webp" group-title="TimStreams · Sports",Dirtvision Now 24/7
+http://192.168.2.98:34687/play?id=dirtvision-now-24-7
+#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/k2rbB1jc/e35d6be84084fed1d756c39242f13163.webp" group-title="TimStreams · Entertainment",Discovery Channel
+http://192.168.2.98:34687/play?id=discovery-channel
+#EXTINF:-1 tvg-id="discovery-family" tvg-name="Discovery Family" tvg-logo="https://i.ibb.co/wFmT9Q5t/Discovery-Family-ID-Let-s-Go-Yellow.webp" group-title="TimStreams · Cartoons",Discovery Family
+http://192.168.2.98:34687/play?id=discovery-family
+#EXTINF:-1 tvg-id="discovery-turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.ibb.co/20MgSXjy/featured-Image-1767979538707.jpg" group-title="TimStreams · Entertainment",Discovery Turbo
+http://192.168.2.98:34687/play?id=discovery-turbo
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney Channel" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/9/93/Disney_Channel_Original_2014.png/revision/latest?cb=20140705213010" group-title="TimStreams · Cartoons",Disney Channel
+http://192.168.2.98:34687/play?id=disney-channel
+#EXTINF:-1 tvg-id="disney-junior" tvg-name="Disney Junior" tvg-logo="https://thewaltdisneycompany.com/app/uploads/2021/02/021221_Disney-Junior-10th-Anniversary-00.jpg" group-title="TimStreams · Cartoons",Disney Junior
+http://192.168.2.98:34687/play?id=disney-junior
+#EXTINF:-1 tvg-id="disney-xd" tvg-name="Disney XD" tvg-logo="https://www.laughingplace.com/uploads/2015/10/d128457e3b3ab8c050f306aa8e23666b9b05d3cc.jpg" group-title="TimStreams · Cartoons",Disney XD
+http://192.168.2.98:34687/play?id=disney-xd
+#EXTINF:-1 tvg-id="eleven-sports-1" tvg-name="Eleven Sports 1" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/100659.png" group-title="TimStreams · Sports",Eleven Sports 1
+http://192.168.2.98:34687/play?id=eleven-sports-1
+#EXTINF:-1 tvg-id="eleven-sports-2" tvg-name="Eleven Sports 2" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/100659.png" group-title="TimStreams · Sports",Eleven Sports 2
+http://192.168.2.98:34687/play?id=eleven-sports-2
+#EXTINF:-1 tvg-id="eleven-sports-3" tvg-name="Eleven Sports 3" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/100659.png" group-title="TimStreams · Sports",Eleven Sports 3
+http://192.168.2.98:34687/play?id=eleven-sports-3
+#EXTINF:-1 tvg-id="eleven-sports-4" tvg-name="Eleven Sports 4" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/100659.png" group-title="TimStreams · Sports",Eleven Sports 4
+http://192.168.2.98:34687/play?id=eleven-sports-4
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="TimStreams · Sports",ESPN
+http://192.168.2.98:34687/play?id=espn
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes" tvg-logo="https://i.ibb.co/Y7zHmbbz/i.png" group-title="TimStreams · Sports",ESPN Deportes
+http://192.168.2.98:34687/play?id=espn-deportes
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" tvg-logo="https://discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2.png" group-title="TimStreams · Sports",ESPN2
+http://192.168.2.98:34687/play?id=espn2
+#EXTINF:-1 tvg-id="espnews" tvg-name="ESPNEWS" tvg-logo="https://i.ibb.co/5h4LGFHq/image.png" group-title="TimStreams · Sports",ESPNEWS
+http://192.168.2.98:34687/play?id=espnews
+#EXTINF:-1 tvg-id="espnu" tvg-name="ESPNU" tvg-logo="https://i.ibb.co/Lh5jHVDm/ESPNU-logo-1-jpg.webp" group-title="TimStreams · Sports",ESPNU
+http://192.168.2.98:34687/play?id=espnu
+#EXTINF:-1 tvg-id="food-network" tvg-name="Food Network" tvg-logo="https://i.ibb.co/5WcnZbYf/food-network-jpg.jpg" group-title="TimStreams · Entertainment",Food Network
+http://192.168.2.98:34687/play?id=food-network
+#EXTINF:-1 tvg-id="fox" tvg-name="Fox" tvg-logo="https://i.ibb.co/8JdwqP4/foxusa.png" group-title="TimStreams · Entertainment",Fox
+http://192.168.2.98:34687/play?id=fox
+#EXTINF:-1 tvg-id="fox-deportes" tvg-name="Fox Deportes" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/LOGO-DEPORTES-1040x585.jpg" group-title="TimStreams · Entertainment",Fox Deportes
+http://192.168.2.98:34687/play?id=fox-deportes
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News" tvg-logo="https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15de0523-3be4-4a9a-8159-7020114e7036/b6ff623a-26d6-4fd9-8bb8-0856adbf38ce/1280x720/match/896/500/image.jpg" group-title="TimStreams · News/Politics",Fox News
+http://192.168.2.98:34687/play?id=fox-news
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png" group-title="TimStreams · Sports",Fox Sports 1
+http://192.168.2.98:34687/play?id=fox-sports-1
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="TimStreams · Sports",Fox Sports 2
+http://192.168.2.98:34687/play?id=fox-sports-2
+#EXTINF:-1 tvg-id="fox-sports-501-cricket" tvg-name="Fox Sports 501 (Cricket)" tvg-logo="https://i.ibb.co/Y4bTS1p7/image.webp" group-title="TimStreams · Sports",Fox Sports 501 (Cricket)
+http://192.168.2.98:34687/play?id=fox-sports-501-cricket
+#EXTINF:-1 tvg-id="fox-sports-502-league" tvg-name="Fox Sports 502 (League)" tvg-logo="https://i.ibb.co/tppZhDrb/image.webp" group-title="TimStreams · Sports",Fox Sports 502 (League)
+http://192.168.2.98:34687/play?id=fox-sports-502-league
+#EXTINF:-1 tvg-id="fox-sports-503" tvg-name="Fox Sports 503" tvg-logo="https://i.ibb.co/xS4MkGSL/image.webp" group-title="TimStreams · Sports",Fox Sports 503
+http://192.168.2.98:34687/play?id=fox-sports-503
+#EXTINF:-1 tvg-id="fox-sports-504-footy" tvg-name="Fox Sports 504 (Footy)" tvg-logo="https://i.ibb.co/SXvQLc0M/image.webp" group-title="TimStreams · Sports",Fox Sports 504 (Footy)
+http://192.168.2.98:34687/play?id=fox-sports-504-footy
+#EXTINF:-1 tvg-id="fox-sports-505" tvg-name="Fox Sports 505" tvg-logo="https://i.ibb.co/prKZGNLt/image.webp" group-title="TimStreams · Sports",Fox Sports 505
+http://192.168.2.98:34687/play?id=fox-sports-505
+#EXTINF:-1 tvg-id="fox-sports-506" tvg-name="Fox Sports 506" tvg-logo="https://i.ibb.co/Swks4Lmj/image.webp" group-title="TimStreams · Sports",Fox Sports 506
+http://192.168.2.98:34687/play?id=fox-sports-506
+#EXTINF:-1 tvg-id="fox-sports-507" tvg-name="Fox Sports 507" tvg-logo="https://i.ibb.co/7d6VgDVL/image.webp" group-title="TimStreams · Sports",Fox Sports 507
+http://192.168.2.98:34687/play?id=fox-sports-507
+#EXTINF:-1 tvg-id="freeform" tvg-name="Freeform" tvg-logo="https://d2z00kf51ll94q.cloudfront.net//archive/2023/large/ADC102_BCD021B_0.jpg" group-title="TimStreams · Entertainment",Freeform
+http://192.168.2.98:34687/play?id=freeform
+#EXTINF:-1 tvg-id="fx" tvg-name="FX" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/gold-fx-channel-logo-1.jpg" group-title="TimStreams · Entertainment",FX
+http://192.168.2.98:34687/play?id=fx
+#EXTINF:-1 tvg-id="fxm" tvg-name="FXM" tvg-logo="https://www.awn.com/sites/default/files/styles/original/public/image/featured/50716-buster-creates-brand-id-new-fxm-programming-block_0.jpg" group-title="TimStreams · Entertainment",FXM
+http://192.168.2.98:34687/play?id=fxm
+#EXTINF:-1 tvg-id="fxx" tvg-name="FXX" tvg-logo="https://thestreamable.com/media/pages/channels/fxx/b6fc72ce3d-1756344305/fxx-banner-1536x864-crop.png" group-title="TimStreams · Entertainment",FXX
+http://192.168.2.98:34687/play?id=fxx
+#EXTINF:-1 tvg-id="go3-sport-1" tvg-name="Go3 Sport 1" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/go3sport.png" group-title="TimStreams · Sports",Go3 Sport 1
+http://192.168.2.98:34687/play?id=go3-sport-1
+#EXTINF:-1 tvg-id="go3-sport-2" tvg-name="Go3 Sport 2" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/go3sport.png" group-title="TimStreams · Sports",Go3 Sport 2
+http://192.168.2.98:34687/play?id=go3-sport-2
+#EXTINF:-1 tvg-id="go3-sport-3" tvg-name="Go3 Sport 3" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/go3sport.png" group-title="TimStreams · Sports",Go3 Sport 3
+http://192.168.2.98:34687/play?id=go3-sport-3
+#EXTINF:-1 tvg-id="golf-channel" tvg-name="GOLF Channel" tvg-logo="https://corporate.comcast.com/media/img/1000w/2020/01/corporate_golf-channel-16x9-social.jpg" group-title="TimStreams · Sports",GOLF Channel
+http://192.168.2.98:34687/play?id=golf-channel
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://static.hbo.com/2021-11/hbo-static-1920.jpg" group-title="TimStreams · Movies/Cinema",HBO
+http://192.168.2.98:34687/play?id=hbo
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO Comedy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyenDc7wucCDm_3vYBURzz0cfYKw5tVWpm4rtCOfILlOua2dcpiTwG5JZ&amp;amp;amp;s=10" group-title="TimStreams · Movies/Cinema",HBO Comedy
+http://192.168.2.98:34687/play?id=hbo-comedy
+#EXTINF:-1 tvg-id="hbo-drama" tvg-name="HBO Drama" tvg-logo="https://i.ibb.co/Qv2Mz3ZB/https-archive-images-prod-global-a201836-reutersmedia-net-2016-10-30-LYNXMPEC9-T08-O.avif" group-title="TimStreams · Movies/Cinema",HBO Drama
+http://192.168.2.98:34687/play?id=hbo-drama
+#EXTINF:-1 tvg-id="hbo-latino" tvg-name="HBO Latino" tvg-logo="https://i.ibb.co/TMzmbVYq/maxresdefault.jpg" group-title="TimStreams · Movies/Cinema",HBO Latino
+http://192.168.2.98:34687/play?id=hbo-latino
+#EXTINF:-1 tvg-id="hbo-movies" tvg-name="HBO Movies" tvg-logo="https://i.ibb.co/Qv2Mz3ZB/https-archive-images-prod-global-a201836-reutersmedia-net-2016-10-30-LYNXMPEC9-T08-O.avif" group-title="TimStreams · Movies/Cinema",HBO Movies
+http://192.168.2.98:34687/play?id=hbo-movies
+#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://i.ibb.co/gbtDnLhS/hgtv-jpg.jpg" group-title="TimStreams · Entertainment",HGTV
+http://192.168.2.98:34687/play?id=hgtv
+#EXTINF:-1 tvg-id="hub-sports-1-singapore" tvg-name="Hub Sports 1 Singapore" tvg-logo="https://i.vimeocdn.com/video/2065871386-1e9bff68a218b46f95c503bc69cf9d566c5021dae6479880b15ba09efa83da70-d?f=webp" group-title="TimStreams · Sports",Hub Sports 1 Singapore
+http://192.168.2.98:34687/play?id=hub-sports-1-singapore
+#EXTINF:-1 tvg-id="hub-sports-2-singapore" tvg-name="Hub Sports 2 Singapore" tvg-logo="https://i.vimeocdn.com/video/2065871386-1e9bff68a218b46f95c503bc69cf9d566c5021dae6479880b15ba09efa83da70-d?f=webp" group-title="TimStreams · Sports",Hub Sports 2 Singapore
+http://192.168.2.98:34687/play?id=hub-sports-2-singapore
+#EXTINF:-1 tvg-id="hub-sports-3-singapore" tvg-name="Hub Sports 3 Singapore" tvg-logo="https://i.vimeocdn.com/video/2065871386-1e9bff68a218b46f95c503bc69cf9d566c5021dae6479880b15ba09efa83da70-d?f=webp" group-title="TimStreams · Sports",Hub Sports 3 Singapore
+http://192.168.2.98:34687/play?id=hub-sports-3-singapore
+#EXTINF:-1 tvg-id="hub-sports-4-singapore" tvg-name="Hub Sports 4 Singapore" tvg-logo="https://i.vimeocdn.com/video/2065871386-1e9bff68a218b46f95c503bc69cf9d566c5021dae6479880b15ba09efa83da70-d?f=webp" group-title="TimStreams · Sports",Hub Sports 4 Singapore
+http://192.168.2.98:34687/play?id=hub-sports-4-singapore
+#EXTINF:-1 tvg-id="hub-sports-5-singapore" tvg-name="Hub Sports 5 Singapore" tvg-logo="https://i.vimeocdn.com/video/2065871386-1e9bff68a218b46f95c503bc69cf9d566c5021dae6479880b15ba09efa83da70-d?f=webp" group-title="TimStreams · Sports",Hub Sports 5 Singapore
+http://192.168.2.98:34687/play?id=hub-sports-5-singapore
+#EXTINF:-1 tvg-id="l-quipe-fr" tvg-name="L'Équipe FR" tvg-logo="https://iili.io/o9SliIp.png" group-title="TimStreams · Sports",L'Équipe FR
+http://192.168.2.98:34687/play?id=l-quipe-fr
+#EXTINF:-1 tvg-id="hajduk-tv-hr" tvg-name="MAX Sport 1 HR" tvg-logo="https://iili.io/o9UJmyQ.png" group-title="TimStreams · Sports",MAX Sport 1 HR
+http://192.168.2.98:34687/play?id=hajduk-tv-hr
+#EXTINF:-1 tvg-id="max-sport-2-hr" tvg-name="MAX Sport 2 HR" tvg-logo="https://iili.io/o9UAGpI.png" group-title="TimStreams · Sports",MAX Sport 2 HR
+http://192.168.2.98:34687/play?id=max-sport-2-hr
+#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network" tvg-logo="https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w2208/mlb/xtkynqe5wgtzaddnsus2.jpg" group-title="TimStreams · Sports",MLB Network
+http://192.168.2.98:34687/play?id=mlb-network
+#EXTINF:-1 tvg-id="motogp-channel" tvg-name="MotoGP Channel" tvg-logo="https://sportbikesincmag.com/wp-content/uploads/2024/11/New-MotoGP-Logo-sportbikesincmag.com-4.jpg" group-title="TimStreams · Sports",MotoGP Channel
+http://192.168.2.98:34687/play?id=motogp-channel
+#EXTINF:-1 tvg-id="movistar-deportes" tvg-name="Movistar Deportes" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/movistardeportes.png" group-title="TimStreams · Sports",Movistar Deportes
+http://192.168.2.98:34687/play?id=movistar-deportes
+#EXTINF:-1 tvg-id="movistar-deportes-2" tvg-name="Movistar Deportes 2" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/movistardeportes.png" group-title="TimStreams · Sports",Movistar Deportes 2
+http://192.168.2.98:34687/play?id=movistar-deportes-2
+#EXTINF:-1 tvg-id="movistar-deportes-3" tvg-name="Movistar Deportes 3" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/movistardeportes.png" group-title="TimStreams · Sports",Movistar Deportes 3
+http://192.168.2.98:34687/play?id=movistar-deportes-3
+#EXTINF:-1 tvg-id="movistar-laliga" tvg-name="Movistar LaLiga" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/movistarlaliga.png" group-title="TimStreams · Sports",Movistar LaLiga
+http://192.168.2.98:34687/play?id=movistar-laliga
+#EXTINF:-1 tvg-id="movistar-plus" tvg-name="Movistar Plus" tvg-logo="https://imagenes.hobbyconsolas.com/uploads/imagenes/2026/05/11/6a01f2422d3b19-96205427.jpeg" group-title="TimStreams · Entertainment",Movistar Plus
+http://192.168.2.98:34687/play?id=movistar-plus
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/12/mtv-logo-1.jpg" group-title="TimStreams · Entertainment",MTV
+http://192.168.2.98:34687/play?id=mtv
+#EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV" tvg-logo="https://static.cdn.turner.com/styles/header_image_1500x500_cropped/s3/nba-tv-16x9-1.jpg?itok=6H8mrlyR" group-title="TimStreams · Sports",NBA TV
+http://192.168.2.98:34687/play?id=nba-tv
+#EXTINF:-1 tvg-id="nbc" tvg-name="NBC" tvg-logo="https://cdn.mos.cms.futurecdn.net/zP42nmS7MRj2kvBqNEs8CE.jpg" group-title="TimStreams · Entertainment",NBC
+http://192.168.2.98:34687/play?id=nbc
+#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area" tvg-logo="https://cdn.mos.cms.futurecdn.net/d7jWexxhtezRZ6ryLHyKmd.jpeg" group-title="TimStreams · Sports",NBC Sports Bay Area
+http://192.168.2.98:34687/play?id=nbc-sports-bay-area
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia" tvg-logo="https://media.nbcsportsphiladelphia.com/2023/04/Philly-Landmark.png?resize=1200%2C675&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quality=85&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;strip=all" group-title="TimStreams · Sports",NBC Sports Philadelphia
+http://192.168.2.98:34687/play?id=nbc-sports-philadelphia
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" tvg-logo="https://i.ibb.co/ZRsTndvV/tfki7njrm3y8jycbtkrx.jpg" group-title="TimStreams · Sports",NFL Network
+http://192.168.2.98:34687/play?id=nfl-network
+#EXTINF:-1 tvg-id="nhl-network" tvg-name="NHL Network" tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/lhum6z3hyaga9ahnjow0.png" group-title="TimStreams · Sports",NHL Network
+http://192.168.2.98:34687/play?id=nhl-network
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr." tvg-logo="https://i.ibb.co/xS6CMxZD/nick-jr-logo-2023-4.jpg" group-title="TimStreams · Cartoons",Nick Jr.
+http://192.168.2.98:34687/play?id=nick-jr
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/xSM8bDYh/roger-nickelodeon-graphic-design-format-webp-width-2880-8-Yj-L2u3-KSI20j-HDQ.webp" group-title="TimStreams · Cartoons",Nickelodeon
+http://192.168.2.98:34687/play?id=nickelodeon
+#EXTINF:-1 tvg-id="nicktoons" tvg-name="Nicktoons" tvg-logo="https://i.ibb.co/XfX32tyx/nicktoons-logo-2023-rebrand-2.png" group-title="TimStreams · Cartoons",Nicktoons
+http://192.168.2.98:34687/play?id=nicktoons
+#EXTINF:-1 tvg-id="nova-tv-hr" tvg-name="Nova TV HR" tvg-logo="https://iili.io/o98GRsI.png" group-title="TimStreams · Entertainment",Nova TV HR
+http://192.168.2.98:34687/play?id=nova-tv-hr
+#EXTINF:-1 tvg-id="polsat" tvg-name="Polsat" tvg-logo="https://i.ibb.co/1YTCVJ7W/image.png" group-title="TimStreams · Entertainment",Polsat
+http://192.168.2.98:34687/play?id=polsat
+#EXTINF:-1 tvg-id="polsat-sport-1" tvg-name="Polsat Sport 1" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_banner/COEd/3809-polsat-sport-1-hd.png" group-title="TimStreams · Sports",Polsat Sport 1
+http://192.168.2.98:34687/play?id=polsat-sport-1
+#EXTINF:-1 tvg-id="polsat-sport-2" tvg-name="Polsat Sport 2" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_banner/COId/3810-polsat-sport-2-hd.png" group-title="TimStreams · Sports",Polsat Sport 2
+http://192.168.2.98:34687/play?id=polsat-sport-2
+#EXTINF:-1 tvg-id="polsat-sport-3" tvg-name="Polsat Sport 3" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_banner/COMd/3811-polsat-sport-3-hd.png" group-title="TimStreams · Sports",Polsat Sport 3
+http://192.168.2.98:34687/play?id=polsat-sport-3
+#EXTINF:-1 tvg-id="polsat-sport-fight" tvg-name="Polsat Sport Fight" tvg-logo="https://staticeu.sweet.tv/images/cache/v2/channel_banner/COUd/3813-polsat-sport-fight-hd.png" group-title="TimStreams · Sports",Polsat Sport Fight
+http://192.168.2.98:34687/play?id=polsat-sport-fight
+#EXTINF:-1 tvg-id="premier-sports-1-ie" tvg-name="Premier Sports 1 IE" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/premiersports.png" group-title="TimStreams · Sports",Premier Sports 1 IE
+http://192.168.2.98:34687/play?id=premier-sports-1-ie
+#EXTINF:-1 tvg-id="premier-sports-2-ie" tvg-name="Premier Sports 2 IE" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/premiersports.png" group-title="TimStreams · Sports",Premier Sports 2 IE
+http://192.168.2.98:34687/play?id=premier-sports-2-ie
+#EXTINF:-1 tvg-id="premiere" tvg-name="Premiere" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="TimStreams · Sports",Premiere
+http://192.168.2.98:34687/play?id=premiere
+#EXTINF:-1 tvg-id="racer-network" tvg-name="RACER Network" tvg-logo="https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/bltb30b537c79808b35/680f2c517c8c98109d720e49/Racer_Network_1920x1080_Presser_V1.jpg" group-title="TimStreams · Sports",RACER Network
+http://192.168.2.98:34687/play?id=racer-network
+#EXTINF:-1 tvg-id="sec-network" tvg-name="SEC Network" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/2NRKBDE2CLIGI5XHHHHMY2BCAQ.jpg" group-title="TimStreams · Sports",SEC Network
+http://192.168.2.98:34687/play?id=sec-network
+#EXTINF:-1 tvg-id="showtime" tvg-name="Showtime" tvg-logo="https://i.ibb.co/v7vcNY4/Showtime-Logo.webp" group-title="TimStreams · Entertainment",Showtime
+http://192.168.2.98:34687/play?id=showtime
+#EXTINF:-1 tvg-id="showtime-2" tvg-name="Showtime 2" tvg-logo="https://i.ibb.co/8gCRbv0s/Showtime-2-svg.webp" group-title="TimStreams · Entertainment",Showtime 2
+http://192.168.2.98:34687/play?id=showtime-2
+#EXTINF:-1 tvg-id="showtime-extreme" tvg-name="Showtime Extreme" tvg-logo="https://i.ibb.co/1t5fNwpQ/Showtime-Closing-2013.webp" group-title="TimStreams · Entertainment",Showtime Extreme
+http://192.168.2.98:34687/play?id=showtime-extreme
+#EXTINF:-1 tvg-id="showtime-family-zone" tvg-name="Showtime Family Zone" tvg-logo="https://i.ibb.co/1t5fNwpQ/Showtime-Closing-2013.webp" group-title="TimStreams · Entertainment",Showtime Family Zone
+http://192.168.2.98:34687/play?id=showtime-family-zone
+#EXTINF:-1 tvg-id="showtime-next" tvg-name="Showtime Next" tvg-logo="https://i.ibb.co/1t5fNwpQ/Showtime-Closing-2013.webp" group-title="TimStreams · Entertainment",Showtime Next
+http://192.168.2.98:34687/play?id=showtime-next
+#EXTINF:-1 tvg-id="showtime-women" tvg-name="Showtime Women" tvg-logo="https://i.ibb.co/1t5fNwpQ/Showtime-Closing-2013.webp" group-title="TimStreams · Entertainment",Showtime Women
+http://192.168.2.98:34687/play?id=showtime-women
+#EXTINF:-1 tvg-id="sky-arts" tvg-name="Sky Arts" tvg-logo="https://www.advanced-television.com/wp-content/uploads/2020/07/SkyArts-e1596120009794.jpg" group-title="TimStreams · Entertainment",Sky Arts
+http://192.168.2.98:34687/play?id=sky-arts
+#EXTINF:-1 tvg-id="sky-atlantic" tvg-name="Sky Atlantic" tvg-logo="https://news.virginmediao2.co.uk/wp-content/uploads/2026/02/Screenshot-2026-02-23-at-08.44.25.png" group-title="TimStreams · Entertainment",Sky Atlantic
+http://192.168.2.98:34687/play?id=sky-atlantic
+#EXTINF:-1 tvg-id="sky-comedy" tvg-name="Sky Comedy" tvg-logo="https://i.imgur.com/wKLxOY3.jpeg" group-title="TimStreams · Entertainment",Sky Comedy
+http://192.168.2.98:34687/play?id=sky-comedy
+#EXTINF:-1 tvg-id="sky-crime" tvg-name="Sky Crime" tvg-logo="https://i.imgur.com/A6zkJB3.jpeg" group-title="TimStreams · Entertainment",Sky Crime
+http://192.168.2.98:34687/play?id=sky-crime
+#EXTINF:-1 tvg-id="sky-documentaries" tvg-name="Sky Documentaries" tvg-logo="https://i.imgur.com/zlR5nbe.jpeg" group-title="TimStreams · Entertainment",Sky Documentaries
+http://192.168.2.98:34687/play?id=sky-documentaries
+#EXTINF:-1 tvg-id="sky-kids" tvg-name="Sky Kids" tvg-logo="https://i.imgur.com/EPPYzm6.png" group-title="TimStreams · Cartoons",Sky Kids
+http://192.168.2.98:34687/play?id=sky-kids
+#EXTINF:-1 tvg-id="sky-nature" tvg-name="Sky Nature" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/a/ad/Sky_Nature_Generic_ID_2020.png" group-title="TimStreams · Entertainment",Sky Nature
+http://192.168.2.98:34687/play?id=sky-nature
+#EXTINF:-1 tvg-id="sky-news" tvg-name="Sky News" tvg-logo="https://videos.skynews.com/image/v1/static/6058004172001/8eed3dc3-7e5b-434c-8a86-db429eda4fc5/d8918560-71dd-450b-810c-ae8137f2f6ad/1280x720/match/image.jpg" group-title="TimStreams · News/Politics",Sky News
+http://192.168.2.98:34687/play?id=sky-news
+#EXTINF:-1 tvg-id="sky-one" tvg-name="Sky One" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2021/07/sky-one-logo.jpg" group-title="TimStreams · Entertainment",Sky One
+http://192.168.2.98:34687/play?id=sky-one
+#EXTINF:-1 tvg-id="sky-sci-fi" tvg-name="Sky Sci-Fi" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/06/14105945/Sky-SciFi-Main.jpg" group-title="TimStreams · Entertainment",Sky Sci-Fi
+http://192.168.2.98:34687/play?id=sky-sci-fi
+#EXTINF:-1 tvg-id="sky-sport-1-nz" tvg-name="Sky Sport 1 NZ" tvg-logo="https://i.ibb.co/v4NvkZst/Untitled-design.png" group-title="TimStreams · Sports",Sky Sport 1 NZ
+http://192.168.2.98:34687/play?id=sky-sport-1-nz
+#EXTINF:-1 tvg-id="sky-sport-2-nz" tvg-name="Sky Sport 2 NZ" tvg-logo="https://i.ibb.co/v4NvkZst/Untitled-design.png" group-title="TimStreams · Sports",Sky Sport 2 NZ
+http://192.168.2.98:34687/play?id=sky-sport-2-nz
+#EXTINF:-1 tvg-id="sky-sport-3-nz" tvg-name="Sky Sport 3 NZ" tvg-logo="https://i.ibb.co/v4NvkZst/Untitled-design.png" group-title="TimStreams · Sports",Sky Sport 3 NZ
+http://192.168.2.98:34687/play?id=sky-sport-3-nz
+#EXTINF:-1 tvg-id="sky-sport-4-nz" tvg-name="Sky Sport 4 NZ" tvg-logo="https://i.ibb.co/v4NvkZst/Untitled-design.png" group-title="TimStreams · Sports",Sky Sport 4 NZ
+http://192.168.2.98:34687/play?id=sky-sport-4-nz
+#EXTINF:-1 tvg-id="sky-sport-5-nz" tvg-name="Sky Sport 5 NZ" tvg-logo="https://i.ibb.co/v4NvkZst/Untitled-design.png" group-title="TimStreams · Sports",Sky Sport 5 NZ
+http://192.168.2.98:34687/play?id=sky-sport-5-nz
+#EXTINF:-1 tvg-id="sky-sport-6-nz" tvg-name="Sky Sport 6 NZ" tvg-logo="https://i.ibb.co/v4NvkZst/Untitled-design.png" group-title="TimStreams · Sports",Sky Sport 6 NZ
+http://192.168.2.98:34687/play?id=sky-sport-6-nz
+#EXTINF:-1 tvg-id="sky-sport-7-nz" tvg-name="Sky Sport 7 NZ" tvg-logo="https://i.ibb.co/v4NvkZst/Untitled-design.png" group-title="TimStreams · Sports",Sky Sport 7 NZ
+http://192.168.2.98:34687/play?id=sky-sport-7-nz
+#EXTINF:-1 tvg-id="sky-sport-8-nz" tvg-name="Sky Sport 8 NZ" tvg-logo="https://i.ibb.co/v4NvkZst/Untitled-design.png" group-title="TimStreams · Sports",Sky Sport 8 NZ
+http://192.168.2.98:34687/play?id=sky-sport-8-nz
+#EXTINF:-1 tvg-id="sky-sport-9-nz" tvg-name="Sky Sport 9 NZ" tvg-logo="https://i.ibb.co/v4NvkZst/Untitled-design.png" group-title="TimStreams · Sports",Sky Sport 9 NZ
+http://192.168.2.98:34687/play?id=sky-sport-9-nz
+#EXTINF:-1 tvg-id="sky-sport-24" tvg-name="Sky Sport 24" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/dfa89629775883.5602ff6b0aacf.jpg" group-title="TimStreams · Sports",Sky Sport 24
+http://192.168.2.98:34687/play?id=sky-sport-24
+#EXTINF:-1 tvg-id="sky-sport-arena-it" tvg-name="Sky Sport Arena IT" tvg-logo="https://api-stg.cloudstreamer.cc/?c=sky-sport-arena" group-title="TimStreams · Sports",Sky Sport Arena IT
+http://192.168.2.98:34687/play?id=sky-sport-arena-it
+#EXTINF:-1 tvg-id="sky-sport-bundesliga" tvg-name="Sky Sport Bundesliga" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2024/12/Sky-Sports-Bundesliega-featured.png" group-title="TimStreams · Sports",Sky Sport Bundesliga
+http://192.168.2.98:34687/play?id=sky-sport-bundesliga
+#EXTINF:-1 tvg-id="sky-sport-calcio-it" tvg-name="Sky Sport Calcio IT" tvg-logo="https://i.postimg.cc/RhnJsRmT/Frame-10.png" group-title="TimStreams · Sports",Sky Sport Calcio IT
+http://192.168.2.98:34687/play?id=sky-sport-calcio-it
+#EXTINF:-1 tvg-id="sky-sport-f1-italia" tvg-name="Sky Sport F1 Italia" tvg-logo="https://api-stg.cloudstreamer.cc/?c=sky-sport-f1-italia" group-title="TimStreams · Sports",Sky Sport F1 Italia
+http://192.168.2.98:34687/play?id=sky-sport-f1-italia
+#EXTINF:-1 tvg-id="sky-sport-max-it" tvg-name="Sky Sport Max IT" tvg-logo="https://api-stg.cloudstreamer.cc/?c=sky-sport-max" group-title="TimStreams · Sports",Sky Sport Max IT
+http://192.168.2.98:34687/play?id=sky-sport-max-it
+#EXTINF:-1 tvg-id="sky-sport-motogp-it" tvg-name="Sky Sport MotoGP IT" tvg-logo="https://api-stg.cloudstreamer.cc/?c=sky-sport-motogp" group-title="TimStreams · Sports",Sky Sport MotoGP IT
+http://192.168.2.98:34687/play?id=sky-sport-motogp-it
+#EXTINF:-1 tvg-id="sky-sport-select-nz" tvg-name="Sky Sport Select NZ" tvg-logo="https://i.ibb.co/v4NvkZst/Untitled-design.png" group-title="TimStreams · Sports",Sky Sport Select NZ
+http://192.168.2.98:34687/play?id=sky-sport-select-nz
+#EXTINF:-1 tvg-id="sky-sport-tennis-it" tvg-name="Sky Sport Tennis IT" tvg-logo="https://i.postimg.cc/rw53XXjJ/Frame-10-(1).png" group-title="TimStreams · Sports",Sky Sport Tennis IT
+http://192.168.2.98:34687/play?id=sky-sport-tennis-it
+#EXTINF:-1 tvg-id="sky-sport-uno" tvg-name="Sky Sport Uno" tvg-logo="https://i.imgur.com/dnoy7mK.png" group-title="TimStreams · Sports",Sky Sport Uno
+http://192.168.2.98:34687/play?id=sky-sport-uno
+#EXTINF:-1 tvg-id="sky-sports-action" tvg-name="Sky Sports Action" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/skysportsaction.png" group-title="TimStreams · Sports",Sky Sports Action
+http://192.168.2.98:34687/play?id=sky-sports-action
+#EXTINF:-1 tvg-id="sky-sports-cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://e0.365dm.com/17/07/2048x1152/skysports-sky-sports-cricket-podcast-sky-cricket-podcast_4004801.jpg" group-title="TimStreams · Sports",Sky Sports Cricket
+http://192.168.2.98:34687/play?id=sky-sports-cricket
+#EXTINF:-1 tvg-id="sky-sports-f1" tvg-name="Sky Sports F1" tvg-logo="https://e0.365dm.com/21/03/1600x900/skysports-f1-2021-graphic_5299452.png" group-title="TimStreams · Sports",Sky Sports F1
+http://192.168.2.98:34687/play?id=sky-sports-f1
+#EXTINF:-1 tvg-id="sky-sports-football" tvg-name="Sky Sports Football" tvg-logo="https://images.squarespace-cdn.com/content/v1/6380a5b12f7b6f632e16ce77/46d62da8-e650-4d2b-a5bc-48a5648edb8e/Beth_Mead.jpg" group-title="TimStreams · Sports",Sky Sports Football
+http://192.168.2.98:34687/play?id=sky-sports-football
+#EXTINF:-1 tvg-id="sky-sports-golf" tvg-name="Sky Sports Golf" tvg-logo="https://e0.365dm.com/23/05/1600x900/skysports-golf-sky-sports-golf_6158933.jpg" group-title="TimStreams · Sports",Sky Sports Golf
+http://192.168.2.98:34687/play?id=sky-sports-golf
+#EXTINF:-1 tvg-id="sky-sports-main-event" tvg-name="Sky Sports Main Event" tvg-logo="https://e0.365dm.com/17/07/1600x900/skysports-all-new-rebrand-f1-premier-league-golf-cricket_4001810.jpg" group-title="TimStreams · Sports",Sky Sports Main Event
+http://192.168.2.98:34687/play?id=sky-sports-main-event
+#EXTINF:-1 tvg-id="sky-sports-mix" tvg-name="Sky Sports Mix" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/Sky_Sports_Mix_Generic_ID_2017.webp" group-title="TimStreams · Sports",Sky Sports Mix
+http://192.168.2.98:34687/play?id=sky-sports-mix
+#EXTINF:-1 tvg-id="sky-sports-news" tvg-name="Sky Sports News" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/image.jpg" group-title="TimStreams · Sports",Sky Sports News
+http://192.168.2.98:34687/play?id=sky-sports-news
+#EXTINF:-1 tvg-id="sky-sports-premier-league" tvg-name="Sky Sports Premier League" tvg-logo="https://e0.365dm.com/25/06/2048x1152/skysports-premier-league-fixtures_6937276.jpg" group-title="TimStreams · Sports",Sky Sports Premier League
+http://192.168.2.98:34687/play?id=sky-sports-premier-league
+#EXTINF:-1 tvg-id="sky-sports-racing" tvg-name="Sky Sports Racing" tvg-logo="https://e0.365dm.com/23/07/2048x1152/skysports-racing-league-sky-sports-racing_6230990.jpg" group-title="TimStreams · Sports",Sky Sports Racing
+http://192.168.2.98:34687/play?id=sky-sports-racing
+#EXTINF:-1 tvg-id="sky-sports-tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://e0.365dm.com/24/01/2048x1152/skysports-sky-sports-tennis_6437709.jpg" group-title="TimStreams · Sports",Sky Sports Tennis
+http://192.168.2.98:34687/play?id=sky-sports-tennis
+#EXTINF:-1 tvg-id="sky-sports-plus" tvg-name="Sky Sports+" tvg-logo="https://e0.365dm.com/24/07/2048x1152/skysports-ssplus-sky-sports-plus_6644064.jpg" group-title="TimStreams · Sports",Sky Sports+
+http://192.168.2.98:34687/play?id=sky-sports-plus
+#EXTINF:-1 tvg-id="sky-uno" tvg-name="Sky Uno" tvg-logo="https://b.imgur.gg/EMkFu2s-336616838-e1fd487240eb7f937e344a3714569e0d2e25423f8178953150b879fa07366c37-d.avif" group-title="TimStreams · Entertainment",Sky Uno
+http://192.168.2.98:34687/play?id=sky-uno
+#EXTINF:-1 tvg-id="sky-witness" tvg-name="Sky Witness" tvg-logo="https://i.imgur.com/arXl5qa.jpeg" group-title="TimStreams · Entertainment",Sky Witness
+http://192.168.2.98:34687/play?id=sky-witness
+#EXTINF:-1 tvg-id="sony-sports-network" tvg-name="Sony Sports Network" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/085457534.png" group-title="TimStreams · Sports",Sony Sports Network
+http://192.168.2.98:34687/play?id=sony-sports-network
+#EXTINF:-1 tvg-id="sony-sports-network-2" tvg-name="Sony Sports Network 2" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/085457534.png" group-title="TimStreams · Sports",Sony Sports Network 2
+http://192.168.2.98:34687/play?id=sony-sports-network-2
+#EXTINF:-1 tvg-id="sony-sports-network-3" tvg-name="Sony Sports Network 3" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/085457534.png" group-title="TimStreams · Sports",Sony Sports Network 3
+http://192.168.2.98:34687/play?id=sony-sports-network-3
+#EXTINF:-1 tvg-id="sony-sports-network-4" tvg-name="Sony Sports Network 4" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/085457534.png" group-title="TimStreams · Sports",Sony Sports Network 4
+http://192.168.2.98:34687/play?id=sony-sports-network-4
+#EXTINF:-1 tvg-id="sony-sports-network-5" tvg-name="Sony Sports Network 5" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/085457534.png" group-title="TimStreams · Sports",Sony Sports Network 5
+http://192.168.2.98:34687/play?id=sony-sports-network-5
+#EXTINF:-1 tvg-id="sport-tv1" tvg-name="Sport TV1" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/sportv-pt.png" group-title="TimStreams · Sports",Sport TV1
+http://192.168.2.98:34687/play?id=sport-tv1
+#EXTINF:-1 tvg-id="sport-tv2" tvg-name="Sport TV2" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/sportv-pt.png" group-title="TimStreams · Sports",Sport TV2
+http://192.168.2.98:34687/play?id=sport-tv2
+#EXTINF:-1 tvg-id="sport-tv3" tvg-name="Sport TV3" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/sportv-pt.png" group-title="TimStreams · Sports",Sport TV3
+http://192.168.2.98:34687/play?id=sport-tv3
+#EXTINF:-1 tvg-id="sport-tv4" tvg-name="Sport TV4" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/sportv-pt.png" group-title="TimStreams · Sports",Sport TV4
+http://192.168.2.98:34687/play?id=sport-tv4
+#EXTINF:-1 tvg-id="sport-tv5" tvg-name="Sport TV5" tvg-logo="https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/sportv-pt.png" group-title="TimStreams · Sports",Sport TV5
+http://192.168.2.98:34687/play?id=sport-tv5
+#EXTINF:-1 tvg-id="sportdigital-fussball" tvg-name="SPORTDIGITAL FUSSBALL" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=712wbfqz8apl1k09rf681eqxd_image-header_pDach_1661948855000&amp;amp;amp;amp;amp;amp;amp;amp;quality=70" group-title="TimStreams · Sports",SPORTDIGITAL FUSSBALL
+http://192.168.2.98:34687/play?id=sportdigital-fussball
+#EXTINF:-1 tvg-id="starz" tvg-name="STARZ" tvg-logo="https://careers.starz.com/wp-content/uploads/2025/01/STARZ-LOGO-IMAGE.png" group-title="TimStreams · Movies/Cinema",STARZ
+http://192.168.2.98:34687/play?id=starz
+#EXTINF:-1 tvg-id="starz-cinema" tvg-name="STARZ Cinema" tvg-logo="https://careers.starz.com/wp-content/uploads/2025/01/STARZ-LOGO-IMAGE.png" group-title="TimStreams · Movies/Cinema",STARZ Cinema
+http://192.168.2.98:34687/play?id=starz-cinema
+#EXTINF:-1 tvg-id="starz-comedy" tvg-name="STARZ Comedy" tvg-logo="https://careers.starz.com/wp-content/uploads/2025/01/STARZ-LOGO-IMAGE.png" group-title="TimStreams · Movies/Cinema",STARZ Comedy
+http://192.168.2.98:34687/play?id=starz-comedy
+#EXTINF:-1 tvg-id="starz-kids-and-family" tvg-name="STARZ Kids and Family" tvg-logo="https://careers.starz.com/wp-content/uploads/2025/01/STARZ-LOGO-IMAGE.png" group-title="TimStreams · Cartoons",STARZ Kids and Family
+http://192.168.2.98:34687/play?id=starz-kids-and-family
+#EXTINF:-1 tvg-id="syfy" tvg-name="SYFY" tvg-logo="https://assets.goal.com/images/v3/blt1be56273baf0440d/syfy%20logo.jpg?auto=webp&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;format=pjpg&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;width=3840&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quality=60" group-title="TimStreams · Entertainment",SYFY
+http://192.168.2.98:34687/play?id=syfy
+#EXTINF:-1 tvg-id="tbs" tvg-name="TBS" tvg-logo="https://cdn.sanity.io/images/1pn9obcz/production/a6971fbe09c85f2deeb480fc494a39219d039135-1920x1080.jpg" group-title="TimStreams · Entertainment",TBS
+http://192.168.2.98:34687/play?id=tbs
+#EXTINF:-1 tvg-id="teenick" tvg-name="TeenNick" tvg-logo="https://i.ibb.co/3yCJDVrW/Teen-Nick-2023.webp" group-title="TimStreams · Cartoons",TeenNick
+http://192.168.2.98:34687/play?id=teenick
+#EXTINF:-1 tvg-id="telemundo" tvg-name="Telemundo" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_20/3352176/telemundo-social-default.png" group-title="TimStreams · Entertainment",Telemundo
+http://192.168.2.98:34687/play?id=telemundo
+#EXTINF:-1 tvg-id="tennis-channel" tvg-name="Tennis Channel" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2026/05/tenn2.jpg.jpeg" group-title="TimStreams · Sports",Tennis Channel
+http://192.168.2.98:34687/play?id=tennis-channel
+#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel" tvg-logo="https://i.ibb.co/bRJqL6WK/LWRBPBUMCVFA3-G5-Q4-ZH3-XJYDNY.avif" group-title="TimStreams · News/Politics",The Weather Channel
+http://192.168.2.98:34687/play?id=the-weather-channel
+#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://i.ytimg.com/vi/F-AHKcxi3pY/maxresdefault.jpg" group-title="TimStreams · Entertainment",TNT
+http://192.168.2.98:34687/play?id=tnt
+#EXTINF:-1 tvg-id="tnt-sports-1" tvg-name="TNT Sports 1" tvg-logo="https://cdn.mos.cms.futurecdn.net/y3oPitXYAwGJnyTHFYo5qB.jpeg" group-title="TimStreams · Sports",TNT Sports 1
+http://192.168.2.98:34687/play?id=tnt-sports-1
+#EXTINF:-1 tvg-id="tnt-sports-2" tvg-name="TNT Sports 2" tvg-logo="https://cdn.mos.cms.futurecdn.net/y3oPitXYAwGJnyTHFYo5qB.jpeg" group-title="TimStreams · Sports",TNT Sports 2
+http://192.168.2.98:34687/play?id=tnt-sports-2
+#EXTINF:-1 tvg-id="tnt-sports-3" tvg-name="TNT Sports 3" tvg-logo="https://cdn.mos.cms.futurecdn.net/y3oPitXYAwGJnyTHFYo5qB.jpeg" group-title="TimStreams · Sports",TNT Sports 3
+http://192.168.2.98:34687/play?id=tnt-sports-3
+#EXTINF:-1 tvg-id="tnt-sports-4" tvg-name="TNT Sports 4" tvg-logo="https://cdn.mos.cms.futurecdn.net/y3oPitXYAwGJnyTHFYo5qB.jpeg" group-title="TimStreams · Sports",TNT Sports 4
+http://192.168.2.98:34687/play?id=tnt-sports-4
+#EXTINF:-1 tvg-id="trutv" tvg-name="TruTV" tvg-logo="https://i.ibb.co/DfGcnjXY/Header-tru-TV.webp" group-title="TimStreams · Entertainment",TruTV
+http://192.168.2.98:34687/play?id=trutv
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="TimStreams · Sports",TSN1
+http://192.168.2.98:34687/play?id=tsn1
+#EXTINF:-1 tvg-id="tudn" tvg-name="TUDN" tvg-logo="https://cdn.aptoide.com/imgs/e/e/6/ee65573e3ed2c5fcafa0191860afdf51_fgraphic.png" group-title="TimStreams · Sports",TUDN
+http://192.168.2.98:34687/play?id=tudn
+#EXTINF:-1 tvg-id="tyc-sports-internacional" tvg-name="TYC Sports Internacional" tvg-logo="https://assets.goal.com/images/v3/blta396e76391fffdfa/TyC_Sports_logo.jpg" group-title="TimStreams · Sports",TYC Sports Internacional
+http://192.168.2.98:34687/play?id=tyc-sports-internacional
+#EXTINF:-1 tvg-id="ufc-fight-pass-24-7" tvg-name="UFC Fight Pass 24/7" tvg-logo="https://fightrecord.co.uk/wp-content/uploads/2020/12/ufc-fight-pass-lion-fight-muay-thai.jpg" group-title="TimStreams · Sports",UFC Fight Pass 24/7
+http://192.168.2.98:34687/play?id=ufc-fight-pass-24-7
+#EXTINF:-1 tvg-id="unimas" tvg-name="UniMas" tvg-logo="https://www.cabletv.com/app/uploads/2026/01/UniMas-Channel-Guide.webp" group-title="TimStreams · Entertainment",UniMas
+http://192.168.2.98:34687/play?id=unimas
+#EXTINF:-1 tvg-id="unite8-sports-1-zee-caf" tvg-name="Unite8 Sports 1 / ZEE CAFÉ" tvg-logo="https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg" group-title="TimStreams · Sports",Unite8 Sports 1 / ZEE CAFÉ
+http://192.168.2.98:34687/play?id=unite8-sports-1-zee-caf
+#EXTINF:-1 tvg-id="univision" tvg-name="Univision" tvg-logo="https://tvnewscheck.com/wp-content/uploads/2018/08/Univision_logo_hi.jpg" group-title="TimStreams · Entertainment",Univision
+http://192.168.2.98:34687/play?id=univision
+#EXTINF:-1 tvg-id="usa-network" tvg-name="USA Network" tvg-logo="https://variety.com/wp-content/uploads/2013/10/usa-network-logo1.jpg" group-title="TimStreams · Entertainment",USA Network
+http://192.168.2.98:34687/play?id=usa-network
+#EXTINF:-1 tvg-id="wapa-america" tvg-name="WAPA America" tvg-logo="https://m.media-amazon.com/images/I/81AEkpHaIPL._SL1920_.png" group-title="TimStreams · Entertainment",WAPA America
+http://192.168.2.98:34687/play?id=wapa-america
+#EXTINF:-1 tvg-id="wapa-deportes" tvg-name="WAPA Deportes" tvg-logo="https://i.ibb.co/pBzhsJ17/WAPA-Deportes.jpg" group-title="TimStreams · Entertainment",WAPA Deportes
+http://192.168.2.98:34687/play?id=wapa-deportes
+#EXTINF:-1 tvg-id="willow-cricket" tvg-name="Willow Cricket" tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo.jpg" group-title="TimStreams · Sports",Willow Cricket
+http://192.168.2.98:34687/play?id=willow-cricket
+#EXTINF:-1 tvg-id="willow-cricket-2" tvg-name="Willow Cricket 2" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/1920/1080/languages/WILLOW-2.jpg" group-title="TimStreams · Sports",Willow Cricket 2
+http://192.168.2.98:34687/play?id=willow-cricket-2
+#EXTINF:-1 tvg-id="ziggo-sport-1-nl" tvg-name="Ziggo Sport 1 NL" tvg-logo="https://iili.io/o9kw1G2.png" group-title="TimStreams · Sports",Ziggo Sport 1 NL
+http://192.168.2.98:34687/play?id=ziggo-sport-1-nl
 
 
 
